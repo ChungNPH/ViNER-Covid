@@ -1,0 +1,24 @@
+Ca bệnh 1349 (<ENAMEX TYPE="PERSON">bệnh nhân 1349</ENAMEX>) là <ENAMEX TYPE="SEX">nữ</ENAMEX>, <ENAMEX TYPE="AGE">28 tuổi</ENAMEX>, là học viên học tiếng Anh, có địa chỉ tại <ENAMEX TYPE="ADDRESS">quận 6, TP.HCM</ENAMEX>, có tiền sử tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân 1347</ENAMEX>. Theo lời khai của bệnh nhân, bệnh nhân đã đến những điểm cụ thể sau: 
+
+Ngày <ENAMEX TYPE="CONTACT_DATE">20-11</ENAMEX>, học tại <ENAMEX TYPE="LOCATION">Trung tâm Anh ngữ Key English</ENAMEX>, lớp <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân 1347</ENAMEX>, từ 19h45-21h15. 
+
+Ngày <ENAMEX TYPE="CONTACT_DATE">21-11</ENAMEX>, khoảng 18h-19h30, học tại <ENAMEX TYPE="LOCATION">Trung tâm Anh ngữ SAS</ENAMEX> (<ENAMEX TYPE="CONTACT_PERSON">thầy Jomel</ENAMEX>). 
+
+Ngày <ENAMEX TYPE="CONTACT_DATE">22-11</ENAMEX>, 14h-17h học tại <ENAMEX TYPE="LOCATION">Trung tâm Anh ngữ Key English</ENAMEX>, học lớp <ENAMEX TYPE="CONTACT_PERSON">thầy Hà</ENAMEX>. 
+
+Ngày <ENAMEX TYPE="CONTACT_DATE">23-11</ENAMEX>, từ 8h-8h15 đến <ENAMEX TYPE="LOCATION">Bệnh viện Chợ Rẫy khoa khám xuất cảnh</ENAMEX> gửi mẫu nước tiểu giùm chồng bệnh nhân. Từ 9h30-11h học tại <ENAMEX TYPE="LOCATION">Trung tâm Anh ngữ SAS</ENAMEX>, lớp <ENAMEX TYPE="CONTACT_PERSON">thầy Joshep</ENAMEX>. Từ 17h45-18h đến quán cà phê Highland tòa nhà Vietel (285 Cách Mạng Tháng Tám, phường 12, quận 10) để mua bánh ngồi tại đó ăn và mua nước mang đi. Từ 18h-19h30 học tại <ENAMEX TYPE="LOCATION">Trung tâm Anh ngữ Key English</ENAMEX>, lớp <ENAMEX TYPE="CONTACT_PERSON">cô Tuyết Ngân</ENAMEX>. 
+
+Ngày <ENAMEX TYPE="CONTACT_DATE">24-11</ENAMEX>, từ 18h-19h30, học tại <ENAMEX TYPE="LOCATION">Trung tâm Anh ngữ SAS</ENAMEX>(<ENAMEX TYPE="CONTACT_PERSON">thầy Jomel</ENAMEX>). 
+
+Ngày <ENAMEX TYPE="CONTACT_DATE">25-11</ENAMEX>, 8h30 ăn sáng cùng <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> ở <ENAMEX TYPE="LOCATION">chung cư đối diện sân vận động Thống Nhất</ENAMEX>, từ 9h30-11h, học Trung tâm Anh ngữ SAS, lớp <ENAMEX TYPE="CONTACT_PERSON">thầy Joshep</ENAMEX>. Từ 17h45-18h đến <ENAMEX TYPE="LOCATION">uán cà phê Highland tòa nhà Vietel (285 Cách Mạng Tháng Tám, phường 12, quận 10)</ENAMEX> để mua bánh ngồi tại đó ăn và mua nước mang đi. Từ 18h-19h30 học tại <ENAMEX TYPE="LOCATION">Trung tâm Key English</ENAMEX>, lớp <ENAMEX TYPE="CONTACT_PERSON">cô Tuyết Ngân</ENAMEX>. Từ 19h45-21h15 học lớp <ENAMEX TYPE="CONTACT_PERSON">thầy Huy</ENAMEX> (<ENAMEX TYPE="LOCATION">Trung tâm Anh ngữ Key English</ENAMEX>). 
+
+Ngày <ENAMEX TYPE="CONTACT_DATE">27-11</ENAMEX>, từ 9h30-11h học tại <ENAMEX TYPE="LOCATION">Trung tâm Anh ngữ SAS</ENAMEX>, lớp <ENAMEX TYPE="CONTACT_PERSON">thầy Joshep</ENAMEX>. Từ 12h10-14h30 đến <ENAMEX TYPE="LOCATION">quán Isushi (112 Cao Thắng, phường 4, quận 3)</ENAMEX> đi cùng <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX>. Ăn xong về lấy pahoport và hồ sơ để kiểm tra sức khỏe ở <ENAMEX TYPE="LOCATION">Bệnh viện Chợ Rẫy</ENAMEX>, ngồi chờ ở <ENAMEX TYPE="LOCATION">khu chụp MRI</ENAMEX> (15h-16h30), bệnh nhân và chồng có mang khẩu trang. Sau đó về nhà rồi đi học lớp của <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân 1347</ENAMEX> tại <ENAMEX TYPE="LOCATION">Trung tâm Anh ngữ Key English</ENAMEX> từ 19h45-21h15. 
+Chiều 18h-19h30 ngày <ENAMEX TYPE="CONTACT_DATE">28-11</ENAMEX> học tại <ENAMEX TYPE="LOCATION">Trung tâm Anh ngữ SAS</ENAMEX> (<ENAMEX TYPE="CONTACT_PERSON">thầy Roel</ENAMEX>). 
+
+Ngày <ENAMEX TYPE="CONTACT_DATE">29-11</ENAMEX>, 14h-17h học tại <ENAMEX TYPE="LOCATION">Trung tâm Anh ngữ Key English</ENAMEX>, học lớp <ENAMEX TYPE="CONTACT_PERSON">thầy Hà</ENAMEX>. 
+
+Ngày <ENAMEX TYPE="CONTACT_DATE">30-11</ENAMEX>, 9h30-11h30, đến <ENAMEX TYPE="LOCATION">quán cà phê VIVA (319B1 Lý Thường Kiệt, P15, Q11)</ENAMEX>, đi cùng <ENAMEX TYPE="CONTACT_PERSON">thầy giáo Joshep</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">12 người bạn học cùng lớp anh văn ở Trung tâm Anh ngữ SAS</ENAMEX>, ngồi ở khu vực lầu 1, thời điểm đó không có khách tại lầu 1. 
+
+Trưa 13h30 ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30-11</ENAMEX></ENAMEX>, bệnh nhân được thông báo là F1 của BN1347, được cách ly tập trung tại <ENAMEX TYPE="LOCATION">quận 6</ENAMEX> vào lúc 15h. 
+
+Lấy mẫu ngày 30-11, kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE">1-12</ENAMEX> tại Trung tâm Kiểm soát bệnh tật TP.HCM dương tính COVID-19. Hiện bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện dã chiến Củ Chi</ENAMEX>. 
