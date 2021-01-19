@@ -1,0 +1,15 @@
+Vào khoảng 18-19 giờ ngày <ENAMEX TYPE="CONTACT_DATE">4-3</ENAMEX>, bệnh nhân <ENAMEX TYPE="PERSON">N.T.TN</ENAMEX> có tiếp xúc trực tiếp với <ENAMEX TYPE="CONTACT_PERSON">hai bệnh nhân người Anh</ENAMEX> tại <ENAMEX TYPE="LOCATION">Siêu thị Điện máy Xanh</ENAMEX> đến mua sim điện thoại trong thời gian khoảng 10 phút. Sau đó bệnh nhân tiếp tục làm việc tại đây đến 22 giờ cùng ngày rồi về <ENAMEX TYPE="LOCATION">nơi cư trú</ENAMEX>. Vào các buổi sáng từ <ENAMEX TYPE="CONTACT_DATE">ngày 5-3 đến ngày 7-3</ENAMEX>, bệnh nhân đến nhà <ENAMEX TYPE="CONTACT_PERSON">bố mẹ ruột</ENAMEX> gửi <ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX> và đi làm. 
+
+Vào ngày <ENAMEX TYPE="CONTACT_DATE">5-3</ENAMEX>, bệnh nhân làm việc tại <ENAMEX TYPE="LOCATION">Siêu thị Điện máy Xanh</ENAMEX> từ 7 giờ sáng đến 12 giờ 30 phút. Lúc 13 giờ, bệnh nhân có dự cuộc họp tại <ENAMEX TYPE="LOCATION">Trung tâm Thế giới di động (325 Điện Biên Phủ, phường Hòa Khê, quận Thanh Khê)</ENAMEX> với khoảng 40 người tham gia trong đó có <ENAMEX TYPE="CONTACT_PERSON">chị H</ENAMEX>. 
+
+Sáng ngày <ENAMEX TYPE="SYMPTOMS_DATE">6-3</ENAMEX>, bệnh nhân xuất hiện triệu chứng ho khan, nghỉ tại <ENAMEX TYPE="LOCATION">nơi cư trú</ENAMEX>. Từ 15 giờ, chị N.T.T.N đi làm tại <ENAMEX TYPE="LOCATION">Siêu thị Điện máy Xanh</ENAMEX> đến 22 giờ thì trở về <ENAMEX TYPE="LOCATION">nơi cư trú</ENAMEX>. 
+
+Ngày <ENAMEX TYPE="CONTACT_DATE">7-3</ENAMEX>, bệnh nhân tiếp tục đến làm việc tại <ENAMEX TYPE="LOCATION">Siêu thị Điện máy Xanh</ENAMEX> từ 7 giờ đến 15 giờ, sau đó về nhà <ENAMEX TYPE="CONTACT_PERSON">mẹ ruột</ENAMEX> khoảng 15-20 phút và về lại <ENAMEX TYPE="LOCATION">nơi cư trú</ENAMEX>. 
+
+Lúc 18 giờ 30 phút ngày <ENAMEX TYPE="CONTACT_DATE">7-3</ENAMEX>, bệnh nhân đi <ENAMEX TYPE="LOCATION">siêu thị Danavi Mart (tại đường Lê Đình Lý)</ENAMEX> cùng với <ENAMEX TYPE="CONTACT_PERSON">em chồng là T.D.T </ENAMEX>(ở cùng nơi cư trú với bệnh nhân N). Khuya ngày 7-3, bệnh nhân xuất hiện triệu chứng mệt mỏi, sốt nhẹ. 
+
+Đến ngày <ENAMEX TYPE="CONTACT_DATE">8-3</ENAMEX>, bệnh nhân sốt cao hơn nên không đi làm và nghỉ tại <ENAMEX TYPE="LOCATION">nơi cư trú</ENAMEX>. Lúc 14 giờ cùng ngày, bệnh nhân được <ENAMEX TYPE="CONTACT_PERSON">em chồng là T.D.T</ENAMEX> chở đi khám tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> và được chẩn đoán: Viêm phế quản cấp, được cấp thuốc và điều trị ngoại trú. 
+
+Lúc 17 giờ ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">9-3</ENAMEX></ENAMEX>, bệnh nhân vào <ENAMEX TYPE="LOCATION">siêu thị Vinmart địa chỉ số 408 Hoàng Diệu</ENAMEX>. Lúc 18 giờ, bệnh nhân về đến nhà thì được Trung tâm Y tế Hải Châu đến thăm khám và khuyến cáo đến cơ sở y tế để thực hiện cách ly. Bệnh nhân tự đến <ENAMEX TYPE="LOCATION">Bệnh viện Phổi</ENAMEX> lúc 21 giờ cùng ngày và được thu dung, cách ly, điều trị. 
+
+Đến 16 giờ 30 ngày 10-3, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">Khu cách ly, Khoa Y học nhiệt đới, Bệnh viện Đà Nẵng</ENAMEX>. 

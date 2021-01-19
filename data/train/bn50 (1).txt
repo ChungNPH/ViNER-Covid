@@ -1,0 +1,8 @@
+<ENAMEX TYPE="PERSON">bệnh nhân thứ 50</ENAMEX>, <ENAMEX TYPE="PERSON">nam</ENAMEX>, <ENAMEX TYPE="AGE">50 tuổi</ENAMEX>, sống tại <ENAMEX TYPE="ADDRESS">tầng 10 tòa nhà Lancaster ở 20 phố Núi Trúc, phường Giảng Võ, quận Ba Đình</ENAMEX> từng tiếp xúc nhiều người. 
+
+Bệnh nhân đi công tác tại <ENAMEX TYPE="LOCATION">Paris, Pháp</ENAMEX> và về nước sáng <ENAMEX TYPE="CONTACT_DATE">10/3</ENAMEX> trên <ENAMEX TYPE="LOCATION">chuyến bay VN18 của Vietnam Airlines</ENAMEX>, sau đó đi xe <ENAMEX TYPE="CONTACT_PERSON">anh H</ENAMEX> về nhà riêng. 
+Chiều <ENAMEX TYPE="CONTACT_DATE">10/3</ENAMEX> và ngày <ENAMEX TYPE="CONTACT_DATE">11/3</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">cơ quan tại quận Long Biên</ENAMEX>. Tại đây, bệnh nhân có tiếp xúc trực tiếp qua ăn uống, họp với <ENAMEX TYPE="CONTACT_PERSON">anh K</ENAMEX>, trong đó có nhiều <ENAMEX TYPE="CONTACT_PERSON">lãnh đạo cơ quan</ENAMEX>. 
+
+Ngày <ENAMEX TYPE="SYMPTOMS_DATE">12/3</ENAMEX>, bệnh nhân thấy mệt, đau đầu. Trưa <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">13/3</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân tới khám tại <ENAMEX TYPE="LOCATION">BV Bệnh nhiệt đới Trung ương (cơ sở 2)</ENAMEX> bằng taxi. Kết quả xét nghiệm tại đây kết luận bệnh nhân dương tính với SARS-CoV-2. 
+
+Ngày 14/3, Viện Vệ sinh dịch tễ Trung ương tiếp tục xét nghiệm bệnh phẩm lần 2 và cho kết quả dương tính với Covid-19. 
