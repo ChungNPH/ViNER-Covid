@@ -1,5 +1,0 @@
-<ENAMEX TYPE="PERSON">bệnh nhân thứ 240</ENAMEX> là <ENAMEX TYPE="SEX">nữ</ENAMEX>, <ENAMEX TYPE="AGE">29 tuổi</ENAMEX>, có địa chỉ tại <ENAMEX TYPE="ADDRESS">huyện Lục Nam (Bắc Giang)</ENAMEX>, làm việc tại Bangkok (Thái Lan). 
-Ngày <ENAMEX TYPE="CONTACT_DATE">19.3</ENAMEX>, trước khi về Việt Nam, bệnh nhân có tham gia buổi liên hoan với <ENAMEX TYPE="CONTACT_PERSON">gia đình bệnh nhân 166</ENAMEX>. 
-Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">20.3</ENAMEX></ENAMEX>, bệnh nhân đáp <ENAMEX TYPE="LOCATION">chuyến bay VN618, ghế 28B</ENAMEX> về Hà Nội. Sau khi nhập cảnh, bệnh nhân được đưa đến <ENAMEX TYPE="LOCATION">khu cách ly tập trung tại Lữ đoàn 241 (xã Quỳnh Lưu, huyện Nho Quan, Ninh Bình)</ENAMEX>, được khám sàng lọc. 
-Đến ngày <ENAMEX TYPE="SYMPTOMS_DATE">31.3</ENAMEX>, bệnh nhân có biểu hiện sốt 38,3°C, không ho, không khó thở, được chuyển khu cách ly đặc biệt và lấy mẫu bệnh phẩm. 
-Chiều tối <ENAMEX TYPE="POSITIVE_DATE">1.4</ENAMEX>, xét nghiệm của <ENAMEX TYPE="LOCATION">Bệnh viện đa khoa tỉnh Ninh Bình</ENAMEX> cho kết quả dương tính với SARS-CoV-2 (gây dịch Covid-19). 

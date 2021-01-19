@@ -1,9 +1,0 @@
-<ENAMEX TYPE="PERSON">Bệnh nhân số 47</ENAMEX> là bệnh nhân <ENAMEX TYPE="SEX">nữ</ENAMEX>, <ENAMEX TYPE="AGE">43 tuổi</ENAMEX>, địa chỉ ở <ENAMEX TYPE="ADDRESS">Trúc Bạch, Ba Đình, Hà Nội</ENAMEX>. Bệnh nhân là giúp việc trong toà nhà của <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân số 17 (BN17)</ENAMEX>, có tiếp xúc gần. 
-
-Ngày 5/3/2020, sau khi phát hiện bệnh nhân số 17, Trung tâm kiểm soát bệnh tật Hà Nội đã rà soát và lập danh sách tiếp xúc gần, bệnh nhân này đã được điều tra dịch tễ, lấy mẫu xét nghiệm và được cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Bệnh nhiệt đới Trung ương cơ sở 2 Đông Anh</ENAMEX> vào ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">06/3/2020</ENAMEX></ENAMEX>. Hiện tại sức khoẻ của bệnh nhân ổn định. 
-Trước đó, trong chiều 13/3, Bộ Y tế cũng đã công bố thông tin về ca bệnh thứ 45 là bệnh nhân nam, trú quán tại phường 7, quận Tân Bình, Thành phố Hồ Chí Minh có tiếp xúc gần với bệnh nhân số 34. 
-
-Bệnh nhân này đã ăn tối và làm việc với <ENAMEX TYPE="CONTACT_PERSON">vợ chồng BN34</ENAMEX> tại <ENAMEX TYPE="LOCATION">Bình Thuận</ENAMEX> ngày <ENAMEX TYPE="CONTACT_DATE">03/3/2020</ENAMEX>. 
-Ngày 04/3/2020 bệnh nhân trở lại <ENAMEX TYPE="LOCATION">Thành phố Hồ Chí Minh</ENAMEX> trên xe cá nhân cùng 3 người khác. 
-Ngày <ENAMEX TYPE="ISOLATION_DATE">10/3/2020</ENAMEX>, sau khi biết thông tin BN34 mắc bệnh COVID-19, bệnh nhân đã tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. 
-Ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">12/3/2020</ENAMEX></ENAMEX>, bệnh nhân có ngạt mũi, rát họng nên đến khám và được <ENAMEX TYPE="LOCATION">cách ly tập trung tại quận Tân Bình</ENAMEX>, sau đó về <ENAMEX TYPE="LOCATION">khu điều trị tập trung tại Bệnh viện dã chiến Củ Chi</ENAMEX> bằng xe chuyên dụng cách ly nghiêm ngặt. Hiện sức khoẻ bệnh nhân ổn định. 
