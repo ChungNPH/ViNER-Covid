@@ -1,0 +1,123 @@
+1. BN 100 là <ENAMEX TYPE="SEX">nam</ENAMEX>, <ENAMEX TYPE="AGE">55</ENAMEX> tuổi, quốc tịch Việt Nam, địa chỉ ở <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">quận 8, TP. Hồ Chí Minh</ENAMEX></ENAMEX>, có tiền sử bệnh đái tháo đường và viêm khớp. 
+
+
+- trong thời gian từ ngày 4/3 đến ngày 17/3, bệnh nhân có đi lễ 5 lần/ngày tại <ENAMEX TYPE="LOCATION">Thánh đường Hồi giáo Jamiul Anwar - số 157B/9 Dương Bá Trạc, Phường 1, Quận 8, TP. Hồ Chí Minh</ENAMEX>. 
+
+- Ngày 18.3, mặc dù bệnh nhân chưa có dấu hiệu bệnh, nhưng được Trung tâm Y tế Quận 8 lấy mẫu giám sát theo nhóm đối tượng dự lễ hội từ Malaysia. Viện Pasteur TPHCM kết luận mẫu bệnh phẩm dương tính với vi rút SARS-CoV-2 vào ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">22.3</ENAMEX></ENAMEX></ENAMEX>. 
+
+Hiện bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Bệnh Nhiệt đới TP. Hồ Chí Minh</ENAMEX>. 
+
+
+3. Bệnh nhân 136 là <ENAMEX TYPE="SEX">nữ</ENAMEX>, <ENAMEX TYPE="AGE">23</ENAMEX> tuổi, ở <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">Linh Đàm, Hoàng Mai, Hà Nội</ENAMEX></ENAMEX>. Bệnh nhân học sinh từ Mỹ, nhập cảnh về <ENAMEX TYPE="LOCATION">Nội Bài</ENAMEX> ngày <ENAMEX TYPE="ISOLATION_DATE">18/3</ENAMEX> Sau khi nhập cảnh, bệnh nhân 136 về nhà tự cách ly. 
+
+Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">21/3</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có sốt được Trung tâm Y tế Hoàng Mai đến lấy mẫu làm xét nghiệm và cho kết quả Bệnh nhân dương tính với Covid-19. 
+
+Hiện tại, bệnh nhân đang được cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện bệnh nhiệt đới Trung ương cơ sở Đông Anh</ENAMEX>, tình trạng sức khoẻ ổn định. 
+
+4. Bệnh nhân 124 là <ENAMEX TYPE="SEX">nam</ENAMEX>, <ENAMEX TYPE="AGE">52</ENAMEX> tuổi, quốc tịch Brazil, trú tại <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">Quận 2, TP.HCM</ENAMEX></ENAMEX>. Bệnh nhân làm việc tại <ENAMEX TYPE="LOCATION">công ty TNHH giày Gia Định, có 2 chi nhánh tại huyện Vĩnh Cửu, Đồng Nai và Quận 2, TP.HCM</ENAMEX>. 
+
+Hàng ngày, bệnh nhân đi làm ở <ENAMEX TYPE="LOCATION">cả 2 chi nhánh công ty</ENAMEX>, ngoài ra tới <ENAMEX TYPE="LOCATION">trung tâm thương mại Vincom Quận 2</ENAMEX> và không sử dụng khẩu trang. 
+
+Ngày 14/3, bệnh nhân có đến <ENAMEX TYPE="LOCATION">quán Bar Budha</ENAMEX> (nơi đã ghi nhận 3 bệnh nhân là 91, 97 và 98 mắc Covid-19). 
+
+Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">22/3</ENAMEX></ENAMEX>, bệnh nhân được chuyển cách ly tại <ENAMEX TYPE="LOCATION">Quận 9</ENAMEX>, lấy mẫu xét nghiệm với tình trạng sức khoẻ ổn, chưa ghi nhận triệu chứng bệnh. 
+
+Viện Pasteur TP.HCM kết luận mẫu bệnh phẩm dương tính với virus SARS-CoV-2. Hiện bệnh nhân được chuyển cách ly theo dõi và điều trị <ENAMEX TYPE="LOCATION">BV Dã chiến Củ Chi</ENAMEX>. 
+
+5. Bệnh nhân 125 là <ENAMEX TYPE="SEX">nữ</ENAMEX>, <ENAMEX TYPE="AGE">22</ENAMEX> tuổi, quốc tịch Nam Phi. Bệnh nhân trú tại <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">Quận 7, TP.HCM</ENAMEX></ENAMEX>, nghề nghiệp - chuyên gia. 
+
+Sau khi nghe thông báo của ngành y tế TP.HCM về việc tìm kiếm người có liên quan đến <ENAMEX TYPE="LOCATION">quán Bar Budha, Quận 2</ENAMEX>, ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">22/3</ENAMEX></ENAMEX>, bệnh nhân tới <ENAMEX TYPE="LOCATION">Trung tâm y tế Quận 7</ENAMEX> khai báo đã từng đến quán Bar trên từ 21h30 ngày 14/3 đến 3h ngày 15/3 và sau đó được cách ly, lấy mẫu, với tình trạng sức khỏe ổn định, chưa ghi nhận triệu chứng bệnh. 
+
+Bệnh nhân ở nhà từ 15/3 đến khi được cách ly. 
+
+Viện Pasteur TP. Hồ Chí Minh xét nghiệm và kết luận mẫu bệnh phẩm dương tính với virus SARS-CoV-2. Hiện bệnh nhân đang được cách ly tại <ENAMEX TYPE="LOCATION">khu cách ly điều trị huyện Cần Giờ</ENAMEX>. 
+
+6. Bệnh nhân 126 là <ENAMEX TYPE="SEX">nam</ENAMEX>, <ENAMEX TYPE="AGE">28</ENAMEX> tuổi, quốc tịch Nam Phi, trú tại <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">Quận 7, TP.HCM</ENAMEX></ENAMEX>, là giáo viên. 
+
+Bệnh nhân là bạn với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân 125</ENAMEX> và cùng đến <ENAMEX TYPE="LOCATION">Bar Budha</ENAMEX> khoảng thời gian trên. Sau đó bệnh nhân có 2 lần tới <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân 125</ENAMEX></ENAMEX>. Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">15/3</ENAMEX></ENAMEX>, bệnh nhân khai báo với Trung tâm y tế Quận 7 và được đưa đi cách ly. 
+
+7. Bệnh nhân 127 là <ENAMEX TYPE="SEX">nam</ENAMEX>, <ENAMEX TYPE="AGE">23</ENAMEX> tuổi, quốc tịch Việt Nam, trú tại <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">Quận Tân Phú, TP. HCM</ENAMEX></ENAMEX>. 
+
+Bệnh nhân là nhân viên phục vụ bàn (theo ca 21h – 4h) tại <ENAMEX TYPE="LOCATION">quán Bar Budha, Quận 2</ENAMEX>. 
+
+Ngày <ENAMEX TYPE="SYMPTOMS_DATE">16/3</ENAMEX>, bệnh nhân khởi bệnh với triệu chứng sốt, đi khám tại phòng khám, được cho thuốc uống và hết sốt đến nay. 
+
+Ngày 17-20/3, bệnh nhân ở nhà, không đi làm và có đi một số quán ăn uống. Ngày <ENAMEX TYPE="ISOLATION_DATE">21/3</ENAMEX>, bệnh nhân tới khai báo tại trạm y tế về tình trạng tiếp xúc ở quán Bar Budha và được hướng dẫn tự cách ly tại nhà. 
+
+Ngày <ENAMEX TYPE="HOSPITALIZE_DATE">22/3</ENAMEX>, bệnh nhân được chuyển cách ly tập trung <ENAMEX TYPE="LOCATION">quận Tân Phú</ENAMEX>, lấy mẫu xét nghiệm và không ghi nhận lại triệu chứng bệnh. Tuy nhiên kết quả xét nghiệm tại Viện Pasteur TP.HCM vẫn cho thấy bệnh nhân dương tính với SARS-CoV-2. 
+
+Hiện bệnh nhân được chuyển <ENAMEX TYPE="LOCATION">Bệnh viện Dã chiến Củ Chi</ENAMEX> theo dõi và cách ly. 
+
+8. Bệnh nhân 129 là <ENAMEX TYPE="SEX">nam</ENAMEX>, <ENAMEX TYPE="AGE">20</ENAMEX> tuổi, địa chỉ ở <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">Nghĩa Tân, Hà Nội</ENAMEX></ENAMEX>. Bệnh nhân là du học sinh tại Anh, nhập cảnh về <ENAMEX TYPE="LOCATION">Nội Bài</ENAMEX> ngày 20/3 trên chuyến bay VN0054. 
+
+Sau khi nhập cảnh, bệnh nhân đã được Trung tâm Kiểm soát bệnh tật Hà Nội sàng lọc và lấy mẫu bệnh phẩm xét nghiệm ngày 22/03/2020. 
+
+Kết quả sàng lọc ban đầu là dương tính, kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">22/3</ENAMEX></ENAMEX></ENAMEX> cũng khẳng định bệnh nhân nhiễm Covid-19. 
+9. Bệnh nhân 133 là <ENAMEX TYPE="SEX">nữ</ENAMEX>, <ENAMEX TYPE="AGE">66</ENAMEX> tuổi, địa chỉ ở <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">Tân Phong, Lai Châu</ENAMEX></ENAMEX>. Trong tháng 3, bệnh nhân có đến <ENAMEX TYPE="LOCATION">BV Bạch Mai</ENAMEX> điều trị bệnh. 
+
+Ngày <ENAMEX TYPE="SYMPTOMS_DATE">22/03</ENAMEX>, bệnh nhân trở về nhà, trên đường về bệnh nhân có sốt. Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">23/03</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được trung tâm kiểm soát bệnh tật tỉnh Lai Châu lấy mẫu làm xét nghiệm, kết quả xét nghiệm cùng ngày khẳng định nhiễm Covid-19. 
+
+Hiện tại, bệnh nhân đang được cách ly tại <ENAMEX TYPE="LOCATION">BV đa khoa tỉnh Lai Châu</ENAMEX>, tình trạng sức khoẻ ổn định. 
+10. Bệnh nhân 123 là <ENAMEX TYPE="SEX">nữ</ENAMEX>, <ENAMEX TYPE="AGE">17</ENAMEX> tuổi, quốc tịch Việt Nam, trú tại <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">huyện Bình Đại, tỉnh Bến Tre</ENAMEX></ENAMEX>. Bệnh nhân sống tại <ENAMEX TYPE="LOCATION">Sarawar - Malaysia</ENAMEX> được 3 - 4 tháng nay. 
+Ngày 17/3, bệnh nhân từ <ENAMEX TYPE="LOCATION">Malaysia</ENAMEX> sang <ENAMEX TYPE="LOCATION">Bandar Seri Begawa - Brunei</ENAMEX>, lên chuyến bay của hãng hàng không Royal Brunei Airline số hiệu BI381, số ghế 27K tới <ENAMEX TYPE="LOCATION">sân bay Tân Sơn Nhất</ENAMEX> buổi trưa cùng ngày. 
+
+Bệnh nhân về <ENAMEX TYPE="LOCATION">Bến Tre</ENAMEX> trên chuyến xe lúc 15h30 chiều ngày <ENAMEX TYPE="ISOLATION_DATE">17/3</ENAMEX> của nhà xe Công Tạo và được bạn đón về nhà, tự cách ly tại nhà. 
+
+Ngày 21/3, bệnh nhân được lấy mẫu giám sát cho những người từ Malaysia về và chưa ghi nhân triệu chứng bệnh. Số người tiếp xúc khi cách ly tại nhà là 2 người và hiện chưa có dấu hiệu bệnh. 
+
+Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">22/3</ENAMEX></ENAMEX>, kết quả xét nghiệm mẫu bệnh phẩm tại Viện Pasteur TP.HCM khẳng định, bệnh nhân dương tính với SARS-CoV-2. 
+
+Hiện bệnh nhân đang được chuyển cách ly y tế tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Bình Đại, tỉnh Bến Tre</ENAMEX>. 
+11. bệnh nhân 107 là <ENAMEX TYPE="SEX">nữ</ENAMEX>, <ENAMEX TYPE="AGE">25</ENAMEX> tuổi, quốc tịch Việt Nam, nhân viên thiết kế đồ họa, là con gái và sống cùng <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân 86</ENAMEX>, địa chỉ thường trú tại <ENAMEX TYPE="ADDRESS">Thanh Xuân, Hà Nội</ENAMEX>. 
+
+Sau khi bệnh nhân 86 có kết quả xét nghiệm dương tính với SARS-CoV-2, Trung tâm Kiểm soát bệnh tật Hà Nội đã lấy mẫu bệnh nhân 107, kết quả xét nghiệm sàng lọc dương tính ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">21-3</ENAMEX></ENAMEX></ENAMEX>. 
+
+Trung tâm Kiểm soát bệnh tật Hà Nội chuyển bệnh nhân lên Bệnh viện Bệnh nhiệt đới trung ương cơ sở Đông Anh để cách ly và gửi mẫu bệnh phẩm ngày 21-3 sang Viện Vệ sinh dịch tễ trung ương. 
+
+Hiện tại, bệnh nhân đang được cách ly và điều trị tại Bệnh viện Bệnh nhiệt đới trung ương cơ sở Đông Anh, sức khỏe ổn định. 
+
+12. Bệnh nhân 108 là <ENAMEX TYPE="SEX">nam</ENAMEX>, <ENAMEX TYPE="AGE">19</ENAMEX> tuổi, quốc tịch Việt Nam, địa chỉ ở <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">Cầu Giấy, Hà Nội</ENAMEX></ENAMEX>, là du học sinh Việt Nam tại Anh về nước ngày 18-3 trên chuyến bay VN054 (số ghế 3K), sau đó được cách ly tập trung tại <ENAMEX TYPE="LOCATION">khách sạn Hòa Bình, Hoàn Kiếm</ENAMEX> (kết quả sàng lọc lúc nhập cảnh của Trung tâm Kiểm soát bệnh tật Hà Nội ngày 18-3 là âm tính). 
+
+Ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">20-3</ENAMEX></ENAMEX></ENAMEX>, anh có biểu hiện ho, sốt nhẹ được chuyển <ENAMEX TYPE="LOCATION">Bệnh viện Thanh Nhàn</ENAMEX> cách ly theo dõi. Ngày <ENAMEX TYPE="POSITIVE_DATE">21-3</ENAMEX>, Trung tâm Kiểm soát bệnh tật Hà Nội lấy mẫu lần 2 và cho kết quả dương tính, mẫu bệnh phẩm được gửi sang Viện Vệ sinh dịch tễ trung ương ngày 21-3. 
+
+Hiện tại, bệnh nhân đang được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Bệnh nhiệt đới trung ương cơ sở Đông Anh</ENAMEX>, sức khỏe ổn định. 
+13. Bệnh nhân 110 là <ENAMEX TYPE="SEX">nữ</ENAMEX>, <ENAMEX TYPE="AGE">19</ENAMEX> tuổi, quốc tịch Việt Nam, địa chỉ ở <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">Đống Đa, Hà Nội</ENAMEX></ENAMEX>. 
+Bệnh nhân là du học sinh tại Mỹ, về Việt Nam ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">19-3</ENAMEX></ENAMEX></ENAMEX> (quá cảnh tại <ENAMEX TYPE="LOCATION">Nhật Bản</ENAMEX>, sau đó từ <ENAMEX TYPE="LOCATION">Nhật Bản</ENAMEX> về <ENAMEX TYPE="LOCATION">Hà Nội</ENAMEX> trên chuyến bay JL751, số ghế 1A), tiền sử có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân dương tính bên Mỹ</ENAMEX> Khi nhập cảnh tại <ENAMEX TYPE="LOCATION">Việt Nam</ENAMEX>, cô có triệu chứng sốt nên được chuyển lên <ENAMEX TYPE="LOCATION">Bệnh viện Bệnh nhiệt đới trung ương cơ sở Đông Anh</ENAMEX> cách ly và điều trị. 
+Ngày <ENAMEX TYPE="POSITIVE_DATE">21-3</ENAMEX> <ENAMEX TYPE="LOCATION">Bệnh viện Bệnh nhiệt đới trung ương</ENAMEX> lấy mẫu xét nghiệm lần 2 cho kết quả dương tính, mẫu bệnh phẩm được gửi sang Viện Vệ sinh dịch tễ trung ương ngày 21-3. 
+
+Hiện bệnh nhân đang được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Bệnh nhiệt đới trung ương cơ sở Đông Anh</ENAMEX>, sức khỏe ổn định. 
+
+14. ca bệnh 1045 (bệnh nhân 1045) ghi nhận tại Hải Dương, là <ENAMEX TYPE="SEX">nam</ENAMEX>, <ENAMEX TYPE="AGE">72</ENAMEX> tuổi, có địa chỉ tại <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">xã Thống Nhất, huyện Gia Lộc, Hải Dương</ENAMEX></ENAMEX>. 
+Ngày <ENAMEX TYPE="SYMPTOMS_DATE">19-8</ENAMEX>, bệnh nhân bị sốt, đau đầu, mệt mỏi. 
+Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30-8</ENAMEX></ENAMEX>, bệnh nhân nhập viện, được lấy mẫu xét nghiệm và cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa tỉnh Hải Dương</ENAMEX>. 
+
+Ngày <ENAMEX TYPE="POSITIVE_DATE">1-9</ENAMEX>, Trung tâm Kiểm soát bệnh tật Hải Dương và Viện Vệ sinh dịch tễ trung ương xét nghiệm cho kết quả bệnh nhân dương tính với virus SARS-CoV-2. 
+15. Bệnh nhân 268 là <ENAMEX TYPE="SEX">nữ</ENAMEX>, <ENAMEX TYPE="AGE">16</ENAMEX> tuổi, quốc tịch Việt Nam, dân tộc Mông, trú tại <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">một thôn hẻo lánh ở gần biên giới giáp Trung Quốc của huyện Đồng Văn, tỉnh Hà Giang</ENAMEX></ENAMEX>. Gia đình bệnh nhân có 3 anh trai làm việc tự do bên kia biên giới. 
+
+Ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">7/4</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có biểu hiện sốt, ho, khó thở và được cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa huyện Đồng Văn</ENAMEX> và lấy mẫu bệnh phẩm xét nghiệm. 
+
+
+Kết quả xét nghiệm đến nay cho thấy bệnh nhân dương tính với virus SARS-CoV-2. Hiện tại, bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa huyện Đồng Văn, tỉnh Hà Giang</ENAMEX>. 
+16. Bệnh nhân 267 là <ENAMEX TYPE="SEX">nam</ENAMEX>, <ENAMEX TYPE="AGE">46</ENAMEX> tuổi, sống tại <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">xóm Hội, thôn Hạ Lôi</ENAMEX></ENAMEX>, là bố của <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân 257</ENAMEX>, chồng của <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân 258</ENAMEX>, có tiếp xúc gần với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân 243</ENAMEX> tại nhà ngày <ENAMEX TYPE="CONTACT_DATE">20/3</ENAMEX>. 
+
+Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">8/4</ENAMEX></ENAMEX> được cách ly tập trung tại <ENAMEX TYPE="LOCATION">Hà Nội</ENAMEX>. Ngày <ENAMEX TYPE="SYMPTOMS_DATE">13/4</ENAMEX> bệnh nhân khởi phát với triệu chứng sốt nhẹ, mệt mỏi, đau rát họng, đau người, được lấy mẫu bệnh phẩm. Xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE">14/4</ENAMEX> cho kết quả dương tính với SARS-CoV-2. 
+17. Bệnh nhân 266 là <ENAMEX TYPE="SEX">nữ</ENAMEX>, <ENAMEX TYPE="AGE">36</ENAMEX> tuổi, trú tại <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">Thường Tín, Hà Nội</ENAMEX></ENAMEX>. Từ ngày <ENAMEX TYPE="CONTACT_DATE">8/3 đến ngày 10/3</ENAMEX>, bệnh nhân đến chăm <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khoa Phục hồi chức năng, Bệnh viện Bạch Mai</ENAMEX>. 
+
+Ngày <ENAMEX TYPE="SYMPTOMS_DATE">12/3</ENAMEX>, bệnh nhân có biểu hiện ngứa họng. Từ ngày <ENAMEX TYPE="ISOLATION_DATE">30/3</ENAMEX>, bệnh nhân cách ly tại nhà. Ngày 12/4, bệnh nhân được lấy mẫu bệnh phẩm do có yếu tố dịch tế. 
+
+Đến ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">14/4</ENAMEX></ENAMEX>, kết quả xét nghiệm cho thấy bệnh nhân dương tính với SARS-CoV-2. 
+18. Bệnh nhân 264 là <ENAMEX TYPE="SEX">nữ</ENAMEX>, <ENAMEX TYPE="AGE">24</ENAMEX> tuổi, quốc tịch Việt Nam, trú tại <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">Hạ Lôi</ENAMEX></ENAMEX>. 
+Bệnh nhân thuộc diện sàng lọc và được lấy mẫu xét nghiệm ngày 11/4 và có kết quả khẳng định mắc Covid-19 ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">13/4</ENAMEX></ENAMEX></ENAMEX>. 
+
+19. Bệnh nhân 263 là <ENAMEX TYPE="SEX">nữ</ENAMEX>, <ENAMEX TYPE="AGE">45</ENAMEX> tuổi, trú tại <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">thôn Hạ Lôi</ENAMEX></ENAMEX>. Ngày <ENAMEX TYPE="SYMPTOMS_DATE">25/3</ENAMEX>, bệnh nhân có biểu hiện sốt rét, đau rát họng, ho khan, mệt. 
+
+Bệnh nhân thuộc diện sàng lọc và được lấy mẫu xét nghiệm ngày 11/4. Bệnh nhân được kết luận dương tính với SARS-CoV-2 vào ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">13/4</ENAMEX></ENAMEX></ENAMEX>. 
+20. Bệnh nhân 262 là <ENAMEX TYPE="SEX">nam</ENAMEX>, <ENAMEX TYPE="AGE">26</ENAMEX> tuổi, trú tại <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">xóm Chợ, thôn Hạ Lôi</ENAMEX></ENAMEX>. 
+
+Bệnh nhân là công nhân công ty SamSung, Bắc Ninh. Ngày <ENAMEX TYPE="CONTACT_DATE">27/3</ENAMEX>, bệnh nhân có tiếp xúc gần với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân 254</ENAMEX> (là bác). 
+
+Ngày <ENAMEX TYPE="SYMPTOMS_DATE">31/3</ENAMEX>, bệnh nhân có xuất hiện ho khan, sốt. Bệnh nhân được lấy mẫu bệnh phẩm ngày 11/4 và xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">12/4</ENAMEX></ENAMEX></ENAMEX> cho kết quả dương tính với virus SARS-CoV-2. 
+
+2. Bệnh nhân 250 là <ENAMEX TYPE="SEX">nữ</ENAMEX>, quốc tịch Việt Nam, <ENAMEX TYPE="AGE">50</ENAMEX> tuổi, trú tại <ENAMEX TYPE="ADDRESS"><ENAMEX TYPE="LOCATION">Hạ Lôi, Mê Linh, Hà Nội</ENAMEX></ENAMEX>. Bệnh nhân là hàng xóm và có tiếp xúc gần <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân 243</ENAMEX>. 
+
+Ngày <ENAMEX TYPE="SYMPTOMS_DATE">2/4</ENAMEX>, bệnh nhân khởi phát bệnh. Ngày 5/4, bệnh nhân được lấy mẫu bệnh phẩm. Đến ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">7/4</ENAMEX></ENAMEX></ENAMEX>, kết quả xét nghiệm cho thấy người này dương tính với SARS-CoV-2. 
