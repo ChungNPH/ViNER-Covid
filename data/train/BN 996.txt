@@ -1,20 +1,20 @@
-Tên: <ENAMEX TYPE="PERSON">BN 996</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 996</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Trung Phước 2, xã Quế Trung, huyện Nông Sơn, tỉnh Quảng Nam</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">thôn Trung Phước 2, xã Quế Trung, huyện Nông Sơn, tỉnh Quảng Nam</ENAMEX></ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> đến khám và bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Vĩnh Đức</ENAMEX>, đến khoảng 11 giờ cùng ngày, bệnh nhân được chuyển đến điều trị tại <ENAMEX TYPE="LOCATION">Khoa nội Thần kinh, Bệnh viện Đà Nẵng</ENAMEX>.
-- Ngày 26/7 và 27/7/2020, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Khoa nội Thần kinh, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian này, <ENAMEX TYPE="CONTACT_PERSON">mẹ bệnh nhân</ENAMEX> cũng được cách ly và trực tiếp chăm sóc bệnh nhân.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">thôn Trung Phước 2, xã Quế Trung, huyện Nông Sơn, tỉnh Quảng Nam</ENAMEX></ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">bố</ENAMEX> và <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> đến khám và bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Vĩnh Đức</ENAMEX>, đến khoảng 11 giờ cùng ngày, bệnh nhân được chuyển đến điều trị tại <ENAMEX TYPE="LOCATION">Khoa nội Thần kinh, Bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày 26/7 và 27/7/2020, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Khoa nội Thần kinh, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian này, <ENAMEX TYPE="CON_PERSON">mẹ bệnh nhân</ENAMEX> cũng được cách ly và trực tiếp chăm sóc bệnh nhân.
 - Ngày 28/7/2020, bệnh nhân tiếp tục được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Khoa nội Thần kinh, Bệnh viện Đà Nẵng</ENAMEX>.
 - Ngày 29/7/2020, tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 1) và có kết quả xét nghiệm (-) với vi rút SARS-CoV-2.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">30/7/2020</ENAMEX>, bệnh nhân tiếp tục được cách ly cùng với <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khoa nội Thần kinh, Bệnh viện Đà Nẵng</ENAMEX>.
-- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">31/7/2020</ENAMEX>, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia Đình Đà Nẵng</ENAMEX>, đến 19 giờ cùng ngày, bệnh nhân xuất hiện triệu chứng sốt.
+- Ngày <ENAMEX TYPE="CON_DATE">30/7/2020</ENAMEX>, bệnh nhân tiếp tục được cách ly cùng với <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khoa nội Thần kinh, Bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="SYM_DATE">31/7/2020</ENAMEX>, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia Đình Đà Nẵng</ENAMEX>, đến 19 giờ cùng ngày, bệnh nhân xuất hiện triệu chứng sốt.
 - Ngày 01/8/2020, bệnh nhân tiếp tục được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia Đình Đà Nẵng</ENAMEX>.
 - Ngày 02/8/2020, tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia Đình Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 2) và có kết quả xét nghiệm (-) với vi rút SARS-CoV-2.
 - Ngày 03/8/2020, bệnh nhân xuất hiện các triệu chứng nặng nên được chuyển đến cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Khoa nội Thần kinh, Bệnh viện Đà Nẵng</ENAMEX>. Tại đây, bệnh nhân được lấy mẫu dịch hầu họng (lần 3) và có kết quả xét nghiệm (-) với vi rút SARS-CoV-2.
 - Từ ngày 04/8 đến 11/8/2020, bệnh nhân được chuyển đến cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Ung bướu Đà Nẵng</ENAMEX>, trong thời gian này bệnh nhân vẫn còn mệt mỏi và sốt.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">12/8/2020</ENAMEX>, vì tình trạng bệnh nhân chuyển biến nặng nên <ENAMEX TYPE="CONTACT_PERSON">em trai</ENAMEX> vào chăm sóc bệnh nhân.
-- Từ ngày 13/8 đến 17/8/2020, bệnh nhân xuất hiện triệu chứng sốt cao, khó thở, đau họng. Trong khoảng thời gian này, bệnh nhân và <ENAMEX TYPE="CONTACT_PERSON">em trai</ENAMEX> tiếp tục ở tại phòng thuộc khu cách ly cùng với khoảng 15 người (là các bệnh nhân và người nhà, trong đó có các bệnh nhân chuyển đến từ Bệnh viện Đà Nẵng).
+- Ngày <ENAMEX TYPE="CON_DATE">12/8/2020</ENAMEX>, vì tình trạng bệnh nhân chuyển biến nặng nên <ENAMEX TYPE="CON_PERSON">em trai</ENAMEX> vào chăm sóc bệnh nhân.
+- Từ ngày 13/8 đến 17/8/2020, bệnh nhân xuất hiện triệu chứng sốt cao, khó thở, đau họng. Trong khoảng thời gian này, bệnh nhân và <ENAMEX TYPE="CON_PERSON">em trai</ENAMEX> tiếp tục ở tại phòng thuộc khu cách ly cùng với khoảng 15 người (là các bệnh nhân và người nhà, trong đó có các bệnh nhân chuyển đến từ Bệnh viện Đà Nẵng).
 - Ngày 18/8/2020, tại <ENAMEX TYPE="LOCATION">Bệnh viện Ung bướu Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 4), gửi đến Bệnh viện Phổi Đà Nẵng xét nghiệm. Tại đây, bệnh nhân có kết quả xét nghiệm nghi ngờ với vi rút SARS-CoV-2.
-- Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">19/8/2020</ENAMEX></ENAMEX></ENAMEX>, Bệnh viện Phổi Đà Nẵng gửi mẫu xét nghiệm của bệnh nhân đến Trung tâm Kiểm soát bệnh tật TP Đà Nẵng để xét nghiệm khẳng định và tối cùng ngày có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">19/8/2020</ENAMEX></ENAMEX></ENAMEX>, Bệnh viện Phổi Đà Nẵng gửi mẫu xét nghiệm của bệnh nhân đến Trung tâm Kiểm soát bệnh tật TP Đà Nẵng để xét nghiệm khẳng định và tối cùng ngày có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
 - Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi</ENAMEX>.
 Năm sinh: <ENAMEX TYPE="AGE">1992</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

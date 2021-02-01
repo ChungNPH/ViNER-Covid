@@ -1,16 +1,16 @@
-Tên: <ENAMEX TYPE="PERSON">BN 998</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 998</ENAMEX>
 Địa chỉ: Địa chỉ nhà trọ: <ENAMEX TYPE="ADDRESS">loc197 thị trấn Châu Ổ, huyện Bình Sơn, tỉnh Quảng Ngãi</ENAMEX>.
-- Khoảng đầu tháng <ENAMEX TYPE="CONTACT_DATE">7/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">vợ ct221</ENAMEX> đến khám (u bàn chân trái) và bệnh nhân nhập viện điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Ung bướu Đà Nẵng</ENAMEX>.
-- Khoảng ngày <ENAMEX TYPE="CONTACT_DATE">22/7</ENAMEX>, 23/7/2020 (không nhớ rõ ngày), vào buổi trưa, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> đón xe taxi của hãng Vinasun (không nhớ biển số xe) đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Ngoại chấn thương, Bệnh viện Đà Nẵng</ENAMEX>.
-- Từ ngày 24/7 đến ngày 28/7/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">Khoa Ngoại chấn thương, Bệnh viện Đà Nẵng</ENAMEX>, không đi đến nơi khác. Trong thời gian này, <ENAMEX TYPE="CONTACT_PERSON">vợ bệnh nhân</ENAMEX> là người trực tiếp chăm sóc bệnh nhân.
+- Khoảng đầu tháng <ENAMEX TYPE="CON_DATE">7/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">vợ ct221</ENAMEX> đến khám (u bàn chân trái) và bệnh nhân nhập viện điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Ung bướu Đà Nẵng</ENAMEX>.
+- Khoảng ngày <ENAMEX TYPE="CON_DATE">22/7</ENAMEX>, 23/7/2020 (không nhớ rõ ngày), vào buổi trưa, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> đón xe taxi của hãng Vinasun (không nhớ biển số xe) đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Ngoại chấn thương, Bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày 24/7 đến ngày 28/7/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">Khoa Ngoại chấn thương, Bệnh viện Đà Nẵng</ENAMEX>, không đi đến nơi khác. Trong thời gian này, <ENAMEX TYPE="CON_PERSON">vợ bệnh nhân</ENAMEX> là người trực tiếp chăm sóc bệnh nhân.
 - Ngày 29/7/2020, tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 1) và có kết quả xét nghiệm (-) với vi rút SARS-CoV-2.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">30/7</ENAMEX> đến 03/8/2020, bệnh nhân và <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">phòng thuộc Khoa Ngoại chấn thương, Bệnh viện Đà Nẵng</ENAMEX>, tiếp xúc với 07 người cùng phòng (không nhớ rõ tên).
-- Khoảng 15 giờ ngày <ENAMEX TYPE="CONTACT_DATE">04/8/2020</ENAMEX>, bệnh nhân cùng với <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> và 01 bệnh nhân khác được xe cấp cứu chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Ung bướu Đà Nẵng</ENAMEX>. Tại đây, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> được cách ly tại phòng cùng với một số người trong đó có các bệnh nhân chuyển đến từ Bệnh viện Đà Nẵng.
-- Từ ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">05/8</ENAMEX></ENAMEX> đến 14/8/2020, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">phòng thuộc khu cách ly của Bệnh viện Ung bướu Đà Nẵng.</ENAMEX>
+- Từ ngày <ENAMEX TYPE="CON_DATE">30/7</ENAMEX> đến 03/8/2020, bệnh nhân và <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">phòng thuộc Khoa Ngoại chấn thương, Bệnh viện Đà Nẵng</ENAMEX>, tiếp xúc với 07 người cùng phòng (không nhớ rõ tên).
+- Khoảng 15 giờ ngày <ENAMEX TYPE="CON_DATE">04/8/2020</ENAMEX>, bệnh nhân cùng với <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> và 01 bệnh nhân khác được xe cấp cứu chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Ung bướu Đà Nẵng</ENAMEX>. Tại đây, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> được cách ly tại phòng cùng với một số người trong đó có các bệnh nhân chuyển đến từ Bệnh viện Đà Nẵng.
+- Từ ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">05/8</ENAMEX></ENAMEX> đến 14/8/2020, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">phòng thuộc khu cách ly của Bệnh viện Ung bướu Đà Nẵng.</ENAMEX>
 - Từ ngày 15/8 đến 17/8/2020, bệnh nhân tiếp tục được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">phòng thuộc khu cách ly của Bệnh viện Ung bướu Đà Nẵng</ENAMEX>.
 - Ngày 18/8/2020, tại <ENAMEX TYPE="LOCATION">Bệnh viện Ung bướu Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 2), gửi đến Bệnh viện Phổi Đà Nẵng xét nghiệm. Tại đây, bệnh nhân có kết quả xét nghiệm nghi ngờ với vi rút SARS-CoV-2.
-- Ngày <ENAMEX TYPE="POSITIVE_DATE">19/8/2020</ENAMEX>, Bệnh viện Phổi Đà Nẵng gửi mẫu xét nghiệm của bệnh nhân đến Trung tâm Kiểm soát bệnh tật TP Đà Nẵng để xét nghiệm khẳng định và tối cùng ngày có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="POS_DATE">19/8/2020</ENAMEX>, Bệnh viện Phổi Đà Nẵng gửi mẫu xét nghiệm của bệnh nhân đến Trung tâm Kiểm soát bệnh tật TP Đà Nẵng để xét nghiệm khẳng định và tối cùng ngày có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
 - Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
-Lây cho người khác:  <ENAMEX TYPE="CONTACT_PERSON">BN1006 (vợ)</ENAMEX> <ENAMEX TYPE="CONTACT_PERSON">BN1015 (cùng phòng)</ENAMEX>.
+Lây cho người khác:  <ENAMEX TYPE="CON_PERSON">BN1006 (vợ)</ENAMEX> <ENAMEX TYPE="CON_PERSON">BN1015 (cùng phòng)</ENAMEX>.
 Năm sinh: <ENAMEX TYPE="AGE">1973</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

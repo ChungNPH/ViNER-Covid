@@ -1,22 +1,22 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 689</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>.
+- Họ và tên: <ENAMEX TYPE="NAME">BN 689</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>.
 - Sinh năm: <ENAMEX TYPE="AGE">1970</ENAMEX>.
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc213, phường Hòa Khê, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
-- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">02 con trai tại địa chỉ <ENAMEX TYPE="LOCATION">loc214, phường Hòa Khê, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX></ENAMEX>. Con trai bệnh nhân là bệnh nhân số 619.
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> và <ENAMEX TYPE="CON_PERSON">02 con trai tại địa chỉ <ENAMEX TYPE="LOCATION">loc214, phường Hòa Khê, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX></ENAMEX>. Con trai bệnh nhân là bệnh nhân số 619.
 - Bệnh nhân mở nhóm trẻ gia đình tại <ENAMEX TYPE="LOCATION">nhà loc214, phường Hòa Khê, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
-- Bệnh nhân hay đi chợ mua đồ tại <ENAMEX TYPE="LOCATION">Chợ góc ngã tư Huỳnh Ngọc Huệ và Hà Huy Tập</ENAMEX>. Ngày <ENAMEX TYPE="CONTACT_DATE">20/7/2020</ENAMEX> bệnh nhân lúc đi chợ có tiếp xúc và nói chuyện với <ENAMEX TYPE="CONTACT_PERSON">chị ct288</ENAMEX> khoảng 10 phút.
-- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">20/7/2020</ENAMEX> bệnh nhân có triệu chứng rát họng.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">21/7/2020</ENAMEX> bệnh nhân có đi khám tại <ENAMEX TYPE="LOCATION">phòng khám Tai Mũi Họng - <ENAMEX TYPE="CONTACT_PERSON">Bác sỹ ct289</ENAMEX></ENAMEX>.
-- 18h00 ngày <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX> bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">con trai (bệnh nhân số 619)</ENAMEX> đi mua thuốc tại <ENAMEX TYPE="LOCATION">nhà thuốc Huy Hoàng số 62 Trần Cao Vân, phường Tam Thuận, quận Thanh Khê, TP Đà Nẵng</ENAMEX>.
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">02/8/2020</ENAMEX></ENAMEX> sau khi có thông tin con trai (bệnh nhân 619) bị nhiễm SARS-CoV-2, bệnh nhân được chuyển đi cách ly và lấy mẫu xét nghiệm dịch hầu họng.
-- Ngày <ENAMEX TYPE="POSITIVE_DATE">04/8/2020</ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2. Ngày 05/8/2020 bệnh nhân được chuyển đi điều trị, cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.
-- Danh sách các trẻ bệnh nhân nhận chăm sóc: <ENAMEX TYPE="CONTACT_PERSON">ct290</ENAMEX> Mẹ: ct291 Cha: ct292.
-	2. Danh sách các trẻ bệnh nhân nhận chăm sóc: <ENAMEX TYPE="CONTACT_PERSON">ct293</ENAMEX>
-	3. Danh sách các trẻ bệnh nhân nhận chăm sóc: <ENAMEX TYPE="CONTACT_PERSON">ct294</ENAMEX>
-	4.Danh sách các trẻ bệnh nhân nhận chăm sóc:  <ENAMEX TYPE="CONTACT_PERSON">ct295</ENAMEX>
-	5.Danh sách các trẻ bệnh nhân nhận chăm sóc:  <ENAMEX TYPE="CONTACT_PERSON">ct296</ENAMEX>
-	6.Danh sách các trẻ bệnh nhân nhận chăm sóc:  <ENAMEX TYPE="CONTACT_PERSON">ct297</ENAMEX>
-	7. Danh sách các trẻ bệnh nhân nhận chăm sóc: <ENAMEX TYPE="CONTACT_PERSON">ct298</ENAMEX>
-	8. Danh sách các trẻ bệnh nhân nhận chăm sóc: <ENAMEX TYPE="CONTACT_PERSON">ct299</ENAMEX>
-	9. Danh sách các trẻ bệnh nhân nhận chăm sóc: <ENAMEX TYPE="CONTACT_PERSON">ct300</ENAMEX>
-	10.Danh sách các trẻ bệnh nhân nhận chăm sóc:  <ENAMEX TYPE="CONTACT_PERSON">ct301</ENAMEX>
-	11. Danh sách các trẻ bệnh nhân nhận chăm sóc: <ENAMEX TYPE="CONTACT_PERSON">ct302</ENAMEX>
+- Bệnh nhân hay đi chợ mua đồ tại <ENAMEX TYPE="LOCATION">Chợ góc ngã tư Huỳnh Ngọc Huệ và Hà Huy Tập</ENAMEX>. Ngày <ENAMEX TYPE="CON_DATE">20/7/2020</ENAMEX> bệnh nhân lúc đi chợ có tiếp xúc và nói chuyện với <ENAMEX TYPE="CON_PERSON">chị ct288</ENAMEX> khoảng 10 phút.
+- Ngày <ENAMEX TYPE="SYM_DATE">20/7/2020</ENAMEX> bệnh nhân có triệu chứng rát họng.
+- Ngày <ENAMEX TYPE="CON_DATE">21/7/2020</ENAMEX> bệnh nhân có đi khám tại <ENAMEX TYPE="LOCATION">phòng khám Tai Mũi Họng - <ENAMEX TYPE="CON_PERSON">Bác sỹ ct289</ENAMEX></ENAMEX>.
+- 18h00 ngày <ENAMEX TYPE="CON_DATE">27/7/2020</ENAMEX> bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">con trai (bệnh nhân số 619)</ENAMEX> đi mua thuốc tại <ENAMEX TYPE="LOCATION">nhà thuốc Huy Hoàng số 62 Trần Cao Vân, phường Tam Thuận, quận Thanh Khê, TP Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">02/8/2020</ENAMEX></ENAMEX> sau khi có thông tin con trai (bệnh nhân 619) bị nhiễm SARS-CoV-2, bệnh nhân được chuyển đi cách ly và lấy mẫu xét nghiệm dịch hầu họng.
+- Ngày <ENAMEX TYPE="POS_DATE">04/8/2020</ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2. Ngày 05/8/2020 bệnh nhân được chuyển đi điều trị, cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.
+- Danh sách các trẻ bệnh nhân nhận chăm sóc: <ENAMEX TYPE="CON_PERSON">ct290</ENAMEX> Mẹ: ct291 Cha: ct292.
+	2. Danh sách các trẻ bệnh nhân nhận chăm sóc: <ENAMEX TYPE="CON_PERSON">ct293</ENAMEX>
+	3. Danh sách các trẻ bệnh nhân nhận chăm sóc: <ENAMEX TYPE="CON_PERSON">ct294</ENAMEX>
+	4.Danh sách các trẻ bệnh nhân nhận chăm sóc:  <ENAMEX TYPE="CON_PERSON">ct295</ENAMEX>
+	5.Danh sách các trẻ bệnh nhân nhận chăm sóc:  <ENAMEX TYPE="CON_PERSON">ct296</ENAMEX>
+	6.Danh sách các trẻ bệnh nhân nhận chăm sóc:  <ENAMEX TYPE="CON_PERSON">ct297</ENAMEX>
+	7. Danh sách các trẻ bệnh nhân nhận chăm sóc: <ENAMEX TYPE="CON_PERSON">ct298</ENAMEX>
+	8. Danh sách các trẻ bệnh nhân nhận chăm sóc: <ENAMEX TYPE="CON_PERSON">ct299</ENAMEX>
+	9. Danh sách các trẻ bệnh nhân nhận chăm sóc: <ENAMEX TYPE="CON_PERSON">ct300</ENAMEX>
+	10.Danh sách các trẻ bệnh nhân nhận chăm sóc:  <ENAMEX TYPE="CON_PERSON">ct301</ENAMEX>
+	11. Danh sách các trẻ bệnh nhân nhận chăm sóc: <ENAMEX TYPE="CON_PERSON">ct302</ENAMEX>

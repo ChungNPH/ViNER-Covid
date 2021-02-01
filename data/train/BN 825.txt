@@ -1,13 +1,13 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 825</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>.
+- Họ và tên: <ENAMEX TYPE="NAME">BN 825</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>.
 - Sinh năm: <ENAMEX TYPE="AGE">1960</ENAMEX>.
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc432, phường Hòa Xuân, quận Cẩm Lệ, thành phố Đà Nẵng</ENAMEX>.
-- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">vợ (ct1497)</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con trai (ct1498)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc432, phường Hòa Xuân, quận Cẩm Lệ, thành phố Đà Nẵng</ENAMEX>.
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CON_PERSON">vợ (ct1497)</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con trai (ct1498)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc432, phường Hòa Xuân, quận Cẩm Lệ, thành phố Đà Nẵng</ENAMEX>.
 - Buổi sáng ngày 09/7/2020 bệnh nhân có đi khám tại <ENAMEX TYPE="LOCATION">khoa Nội tim mạch, bệnh viện C Đà Nẵng</ENAMEX>.
 - Từ 10/7/2020 đến 27/7/2020 bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đâu.
-- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">27/7/2020</ENAMEX> bệnh nhân có triệu chứng sốt nhẹ, mệt mỏi, ho nhưng chỉ mua thuốc về uống, không đi khám tại cơ sở y tế.
-- <ENAMEX TYPE="CONTACT_DATE">Tối ngày 28/7/2020</ENAMEX> <ENAMEX TYPE="CONTACT_PERSON">con gái bệnh nhân (ct1499, phường Hòa Xuân, quận Cẩm Lệ, thành phố Đà Nẵng)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con rể ct1500</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">02 cháu ngoại</ENAMEX> đến nhà bệnh nhân chơi.
+- Ngày <ENAMEX TYPE="SYM_DATE">27/7/2020</ENAMEX> bệnh nhân có triệu chứng sốt nhẹ, mệt mỏi, ho nhưng chỉ mua thuốc về uống, không đi khám tại cơ sở y tế.
+- <ENAMEX TYPE="CON_DATE">Tối ngày 28/7/2020</ENAMEX> <ENAMEX TYPE="CON_PERSON">con gái bệnh nhân (ct1499, phường Hòa Xuân, quận Cẩm Lệ, thành phố Đà Nẵng)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con rể ct1500</ENAMEX> và <ENAMEX TYPE="CON_PERSON">02 cháu ngoại</ENAMEX> đến nhà bệnh nhân chơi.
 - Từ 29/7/2020 đến 05/8/2020 bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đâu.
-- <ENAMEX TYPE="CONTACT_DATE">8h00 ngày 06/8/2020</ENAMEX> bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">con trai ct1501</ENAMEX> đến khám tại <ENAMEX TYPE="LOCATION">phòng khám <ENAMEX TYPE="CONTACT_PERSON">bác sỹ ct1502</ENAMEX>, đường Trường Chinh, phường An Khê, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
+- <ENAMEX TYPE="CON_DATE">8h00 ngày 06/8/2020</ENAMEX> bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">con trai ct1501</ENAMEX> đến khám tại <ENAMEX TYPE="LOCATION">phòng khám <ENAMEX TYPE="CON_PERSON">bác sỹ ct1502</ENAMEX>, đường Trường Chinh, phường An Khê, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
 -  Ngày 07/8/2020 bệnh nhân đến <ENAMEX TYPE="LOCATION">trạm y tế Hòa Thọ Đông</ENAMEX> khai báo y tế và được lấy mẫu xét nghiệm dịch hầu họng.
-- Ngày 07/8/2020 Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">09/8/2020</ENAMEX></ENAMEX></ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2.
+- Ngày 07/8/2020 Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">09/8/2020</ENAMEX></ENAMEX></ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2.
 - Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

@@ -1,15 +1,15 @@
-Tên: <ENAMEX TYPE="PERSON">BN 1008</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 1008</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">loc166, xã Hòa Tiến, huyện Hòa Vang,TP Đà Nẵng</ENAMEX>
-- Bệnh nhân ở cùng với <ENAMEX TYPE="CONTACT_PERSON"><ENAMEX TYPE="LOCATION">gia đình tại loc166, xã Hòa Tiến</ENAMEX></ENAMEX>.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">05/8</ENAMEX> đến 10/8/2020, khoảng 05 giờ 30 hằng ngày, bệnh nhân đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">con trai ct122</ENAMEX></ENAMEX> để lấy bã đậu mang về nhà cho gà ăn,  bệnh nhân đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">cháu nội ct123</ENAMEX></ENAMEX> để tưới rau, sau đó trở về nhà.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">11/8/2020</ENAMEX>, bệnh nhân đến mua bột cám heo tại <ENAMEX TYPE="LOCATION">cửa hàng <ENAMEX TYPE="CONTACT_PERSON">cô ct124</ENAMEX> (trên đường cao tốc mới)</ENAMEX>, tại đây bệnh nhân tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">cô ct125</ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">12/8/2020</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">anh ct126</ENAMEX> đến nhà để sửa tivi và có tiếp xúc với bệnh nhân.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">13/8</ENAMEX> đến 15/8/2020, bệnh nhân tiếp tục đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">con trai ct122</ENAMEX></ENAMEX> để lấy bã đậu sau đó trở về nhà.
-- Ngày <ENAMEX TYPE="CONTACT_PERSON">15/8/2020</ENAMEX>, bệnh nhân hái rau ở trước nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">chị ct128</ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">16/8/2020</ENAMEX>, bệnh nhân đến xay xát gạo tại <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">bà ct129</ENAMEX></ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">17/8/2020</ENAMEX>, bệnh nhân ở nhà và chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">18/8/2020</ENAMEX></ENAMEX>, bệnh nhân số 988 có kết quả xét nghiệm (+) với vi rút SARS-CoV-2 nên bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">trường Tiểu học Hòa Phước, huyện Hòa Vang</ENAMEX>. 
-- Ngày 19/8/2020, tại khu cách ly, bệnh nhân được lấy mẫu dịch hầu họng và ngày <ENAMEX TYPE="POSITIVE_DATE">20/8/2020</ENAMEX> có kết quả xét nghiệm (+) với  vi rút SARS-CoV-2.
+- Bệnh nhân ở cùng với <ENAMEX TYPE="CON_PERSON"><ENAMEX TYPE="LOCATION">gia đình tại loc166, xã Hòa Tiến</ENAMEX></ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">05/8</ENAMEX> đến 10/8/2020, khoảng 05 giờ 30 hằng ngày, bệnh nhân đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CON_PERSON">con trai ct122</ENAMEX></ENAMEX> để lấy bã đậu mang về nhà cho gà ăn,  bệnh nhân đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CON_PERSON">cháu nội ct123</ENAMEX></ENAMEX> để tưới rau, sau đó trở về nhà.
+- Ngày <ENAMEX TYPE="CON_DATE">11/8/2020</ENAMEX>, bệnh nhân đến mua bột cám heo tại <ENAMEX TYPE="LOCATION">cửa hàng <ENAMEX TYPE="CON_PERSON">cô ct124</ENAMEX> (trên đường cao tốc mới)</ENAMEX>, tại đây bệnh nhân tiếp xúc với <ENAMEX TYPE="CON_PERSON">cô ct125</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">12/8/2020</ENAMEX>, <ENAMEX TYPE="CON_PERSON">anh ct126</ENAMEX> đến nhà để sửa tivi và có tiếp xúc với bệnh nhân.
+- Ngày <ENAMEX TYPE="CON_DATE">13/8</ENAMEX> đến 15/8/2020, bệnh nhân tiếp tục đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CON_PERSON">con trai ct122</ENAMEX></ENAMEX> để lấy bã đậu sau đó trở về nhà.
+- Ngày <ENAMEX TYPE="CON_PERSON">15/8/2020</ENAMEX>, bệnh nhân hái rau ở trước nhà và tiếp xúc với <ENAMEX TYPE="CON_PERSON">chị ct128</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">16/8/2020</ENAMEX>, bệnh nhân đến xay xát gạo tại <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CON_PERSON">bà ct129</ENAMEX></ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">17/8/2020</ENAMEX>, bệnh nhân ở nhà và chỉ tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">18/8/2020</ENAMEX></ENAMEX>, bệnh nhân số 988 có kết quả xét nghiệm (+) với vi rút SARS-CoV-2 nên bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">trường Tiểu học Hòa Phước, huyện Hòa Vang</ENAMEX>. 
+- Ngày 19/8/2020, tại khu cách ly, bệnh nhân được lấy mẫu dịch hầu họng và ngày <ENAMEX TYPE="POS_DATE">20/8/2020</ENAMEX> có kết quả xét nghiệm (+) với  vi rút SARS-CoV-2.
 - Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>.
 Năm sinh: <ENAMEX TYPE="AGE">1945</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

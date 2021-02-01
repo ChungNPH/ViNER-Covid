@@ -1,8 +1,8 @@
-Tên: <ENAMEX TYPE="PERSON">BN 1040</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 1040</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn Thạch Bồ, Hòa Phong, Hòa Vang, Đà Nẵng</ENAMEX>
 Thông tin dịch tễ: Ngày 23/7/2020 -13/8/2020, bệnh nhân được điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân có tiền sử hội chứng Guillain barre, đái đường typ 2, suy kiệt, yếu tứ chi, phụ thuộc máy thở.
-- 12h30 ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">13/8/2020</ENAMEX></ENAMEX></ENAMEX></ENAMEX> Bệnh nhân được chuyển viện  cùng phòng với 2 <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân ct533</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">ct534</ENAMEX> Cùng ngày bệnh nhân được chụp Xquang phổi kết quả mờ không đều lan tỏa hai phổi.
+- 12h30 ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">13/8/2020</ENAMEX></ENAMEX></ENAMEX></ENAMEX> Bệnh nhân được chuyển viện  cùng phòng với 2 <ENAMEX TYPE="CON_PERSON">bệnh nhân ct533</ENAMEX> và <ENAMEX TYPE="CON_PERSON">ct534</ENAMEX> Cùng ngày bệnh nhân được chụp Xquang phổi kết quả mờ không đều lan tỏa hai phổi.
 Ngày 14/8/2020, bệnh nhân lấy mẫu xét nghiệm SARS-CoV-2 tại <ENAMEX TYPE="LOCATION">Bệnh viện 199</ENAMEX> cho kết quả xét nghiệm âm tính.
-- Ngày 27/8/2020, Bệnh nhân được lấy mẫu xét nghiệm. Cùng ngày bệnh nhân diễn tiến rất nặng và bệnh viện cho xuất viện theo yêu cầu của người nhà vào lúc 22h00, bệnh nhân được đưa về đến nhà tại <ENAMEX TYPE="LOCATION">tổ 4, thôn Thạch Bồ, xã Hòa Phong</ENAMEX>. Đến 23h55 cùng ngày bệnh nhân tử vong. Ngày <ENAMEX TYPE="POSITIVE_DATE">28/8/2020</ENAMEX>, có kết quả xét nghiệm dương tính với SARS-CoV-2 của bệnh nhân.
+- Ngày 27/8/2020, Bệnh nhân được lấy mẫu xét nghiệm. Cùng ngày bệnh nhân diễn tiến rất nặng và bệnh viện cho xuất viện theo yêu cầu của người nhà vào lúc 22h00, bệnh nhân được đưa về đến nhà tại <ENAMEX TYPE="LOCATION">tổ 4, thôn Thạch Bồ, xã Hòa Phong</ENAMEX>. Đến 23h55 cùng ngày bệnh nhân tử vong. Ngày <ENAMEX TYPE="POS_DATE">28/8/2020</ENAMEX>, có kết quả xét nghiệm dương tính với SARS-CoV-2 của bệnh nhân.
 Năm sinh: <ENAMEX TYPE="AGE">1965</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

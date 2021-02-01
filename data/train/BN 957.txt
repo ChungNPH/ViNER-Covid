@@ -1,11 +1,11 @@
-Tên: <ENAMEX TYPE="PERSON">BN 957</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 957</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">Khu Chung cư đường Hồ Tùng Mậu, phường Hòa Minh, quận Liên Chiểu, TP Đà Nẵng</ENAMEX>
- - Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình con trai tại <ENAMEX TYPE="LOCATION">Khu Chung cư đường Hồ Tùng Mậu, phường Hòa Minh</ENAMEX></ENAMEX>.
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">26/6</ENAMEX> đến ngày 14/7/2020, bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX> người nhà thuê <ENAMEX TYPE="CONTACT_PERSON">chị S</ENAMEX> là người trực tiếp chăm sóc bệnh nhân. <ENAMEX TYPE="CONTACT_PERSON">Con trai ct462</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con dâu ct463</ENAMEX> vẫn đến Bệnh viện chăm sóc bệnh nhân (lần cuối cùng tiếp xúc với bệnh nhân là ngày <ENAMEX TYPE="CONTACT_DATE">14/7/2020</ENAMEX>). 
- - Từ ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">15/7</ENAMEX></ENAMEX> đến ngày 11/8/2020, bệnh nhân tiếp tục được điều trị, cách ly tại <ENAMEX TYPE="LOCATION">Khoa Nội thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian này chị ct464 vẫn là người thường xuyên chăm sóc, ngoài ra không có ai khác đến thăm bệnh nhân. 
+ - Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình con trai tại <ENAMEX TYPE="LOCATION">Khu Chung cư đường Hồ Tùng Mậu, phường Hòa Minh</ENAMEX></ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">26/6</ENAMEX> đến ngày 14/7/2020, bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX> người nhà thuê <ENAMEX TYPE="CON_PERSON">chị S</ENAMEX> là người trực tiếp chăm sóc bệnh nhân. <ENAMEX TYPE="CON_PERSON">Con trai ct462</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con dâu ct463</ENAMEX> vẫn đến Bệnh viện chăm sóc bệnh nhân (lần cuối cùng tiếp xúc với bệnh nhân là ngày <ENAMEX TYPE="CON_DATE">14/7/2020</ENAMEX>). 
+ - Từ ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">15/7</ENAMEX></ENAMEX> đến ngày 11/8/2020, bệnh nhân tiếp tục được điều trị, cách ly tại <ENAMEX TYPE="LOCATION">Khoa Nội thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian này chị ct464 vẫn là người thường xuyên chăm sóc, ngoài ra không có ai khác đến thăm bệnh nhân. 
  - Khoảng thời gian từ ngày 27/7 đến ngày 29/7/2020 (không nhớ rõ ngày), tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 1) và có kết quả (-) với vi rút SARS-CoV-2.
  - Từ ngày 12 đến ngày 14/8/2020, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">phòng bệnh thuộc khu cách ly của Bệnh viện Đà Nẵng</ENAMEX>.
- - Ngày <ENAMEX TYPE="POSITIVE_DATE">15/8/2020</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 2) và có kết quả (+) với vi rút SARS-CoV-2.
+ - Ngày <ENAMEX TYPE="POS_DATE">15/8/2020</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 2) và có kết quả (+) với vi rút SARS-CoV-2.
 Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>
 Năm sinh: <ENAMEX TYPE="AGE">1953</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

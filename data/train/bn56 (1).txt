@@ -1,9 +1,9 @@
-<ENAMEX TYPE="PERSON">Bệnh nhân số 56</ENAMEX> là <ENAMEX TYPE="SEX">nam</ENAMEX> giới, <ENAMEX TYPE="AGE">30 tuổi</ENAMEX>, mang quốc tịch Anh. Ngày 9/3, bệnh nhân từ <ENAMEX TYPE="LOCATION">Anh</ENAMEX> đến <ENAMEX TYPE="LOCATION">Nội Bài</ENAMEX> vào khoảng 5h30 sáng. 
+<ENAMEX TYPE="NAME">Bệnh nhân số 56</ENAMEX> là <ENAMEX TYPE="GENDER">nam</ENAMEX> giới, <ENAMEX TYPE="AGE">30 tuổi</ENAMEX>, mang quốc tịch Anh. Ngày 9/3, bệnh nhân từ <ENAMEX TYPE="LOCATION">Anh</ENAMEX> đến <ENAMEX TYPE="LOCATION">Nội Bài</ENAMEX> vào khoảng 5h30 sáng. 
 
-- Sau khi nhập cảnh vào Hà Nội, bệnh nhân gặp thêm <ENAMEX TYPE="CONTACT_PERSON">2 người bạn</ENAMEX> nữa để đi du lịch cùng nhau, cả hai đều nữ quốc tịch Anh, một người 28 tuổi và một người 24 tuổi. 
+- Sau khi nhập cảnh vào Hà Nội, bệnh nhân gặp thêm <ENAMEX TYPE="CON_PERSON">2 người bạn</ENAMEX> nữa để đi du lịch cùng nhau, cả hai đều nữ quốc tịch Anh, một người 28 tuổi và một người 24 tuổi. 
 
-- Từ <ENAMEX TYPE="CONTACT_DATE">10/3-13/3</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">những người bạn</ENAMEX> đi du lịch tại Sapa trong đó có lưu trú ở <ENAMEX TYPE="LOCATION">khách sạn Mountain River Homestay Sapa (địa chỉ ở Tả Van, Sapa)</ENAMEX>. 
+- Từ <ENAMEX TYPE="CON_DATE">10/3-13/3</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">những người bạn</ENAMEX> đi du lịch tại Sapa trong đó có lưu trú ở <ENAMEX TYPE="LOCATION">khách sạn Mountain River Homestay Sapa (địa chỉ ở Tả Van, Sapa)</ENAMEX>. 
 
 - Sau khi đi du lịch Sapa, bệnh nhân quay trở lại Hà Nội và lưu trú tại <ENAMEX TYPE="LOCATION">Khách sạn Oriental Suiter</ENAMEX> từ ngày 13/3 đến nay. 
 
-Lúc 20h ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">14/3</ENAMEX></ENAMEX></ENAMEX>, kết quả xét nghiệm sàng lọc của Trung tâm kiểm soát bênh tật Hà Nội cho thấy bệnh nhân dương tính với COVID-19 và mẫu bệnh phẩm được gửi sang Viện Vệ sinh Dịch tễ Trung ương để xét nghiệm khẳng định và cho kết quả dương tính. 
+Lúc 20h ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">14/3</ENAMEX></ENAMEX></ENAMEX>, kết quả xét nghiệm sàng lọc của Trung tâm kiểm soát bênh tật Hà Nội cho thấy bệnh nhân dương tính với COVID-19 và mẫu bệnh phẩm được gửi sang Viện Vệ sinh Dịch tễ Trung ương để xét nghiệm khẳng định và cho kết quả dương tính. 

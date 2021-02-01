@@ -1,9 +1,9 @@
-Tên: <ENAMEX TYPE="PERSON">BN 767</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 767</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn 5, xã Quế Xuân 1, huyện Quế Sơn, tỉnh Quảng Nam</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">thôn 5, xã Quế Xuân 1, huyện Quế Sơn, tỉnh Quảng Nam</ENAMEX>.
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">17/7/2020 đến nay</ENAMEX>, những người trong gia đình tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">con N.C</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con N.H</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con dâu B.T.L.T</ENAMEX>.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">thôn 5, xã Quế Xuân 1, huyện Quế Sơn, tỉnh Quảng Nam</ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">17/7/2020 đến nay</ENAMEX>, những người trong gia đình tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CON_PERSON">con N.C</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con N.H</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con dâu B.T.L.T</ENAMEX>.
  - Từ ngày 17/7 đến 27/7/2020, bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Tim mạch, Bệnh viện Đà Nẵng</ENAMEX>. Trong suốt thời gian này, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">Bệnh viện</ENAMEX>, không đi đến nơi khác.
  - Chiều ngày 27/7/2020, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">Bệnh viện Đa Khoa Gia đình Đà Nẵng</ENAMEX> điều trị. Trong suốt thời gian này, bệnh nhân cũng chỉ ở trong <ENAMEX TYPE="LOCATION">Bệnh viện</ENAMEX>, không đi đến nơi khác.
- Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">07/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2. Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
+ Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">07/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2. Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
 Năm sinh: <ENAMEX TYPE="AGE">1949</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

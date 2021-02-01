@@ -1,11 +1,11 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 817</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 817</ENAMEX>	Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1977</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc357, phường An Khê, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX> 
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">con gái (ct1098)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc357, phường An Khê, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">con gái (ct1098)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc357, phường An Khê, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>.
 - Từ ngày 20/7 đến 23/7/2020, bệnh nhân đi làm tại <ENAMEX TYPE="LOCATION">khoa Nội tổng hợp, bệnh viện Đà Nẵng</ENAMEX> rồi về nhà, thỉnh thoảng vào các buổi chiều, bệnh nhân có đến <ENAMEX TYPE="LOCATION">chợ phía sau tượng Mẹ Nhu (không rõ tên chợ)</ENAMEX>.
 - Ngày 24/7/2020, bệnh nhân đi trực tại <ENAMEX TYPE="LOCATION">khoa Nội tổng hợp, bệnh viện Đà Nẵng</ENAMEX> đến sáng 25/7/2020 thì về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
 - Chiều ngày 26/7/2020, bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">bệnh viện</ENAMEX> cùng với các nhân viên của Bệnh viện Đà Nẵng và được lấy mẫu xét nghiệm với vi rút SARS-CoV-2 (kết quả âm tính).
 - Ngày 27/7 đến 04/8/2020, bệnh nhân tiếp tục làm việc tại <ENAMEX TYPE="LOCATION">khoa Nội tổng hợp, bệnh viện Đà Nẵng</ENAMEX>.
-- Chiều ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">05/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">khách sạn Vian số 124 Phạm Văn Đồng, quận Sơn Trà</ENAMEX>, ở cùng với <ENAMEX TYPE="CONTACT_PERSON">đồng nghiệp (ct1099)</ENAMEX> tại <ENAMEX TYPE="LOCATION">phòng 805</ENAMEX>.
-- Ngày 08/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">09/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Chiều ngày <ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">05/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">khách sạn Vian số 124 Phạm Văn Đồng, quận Sơn Trà</ENAMEX>, ở cùng với <ENAMEX TYPE="CON_PERSON">đồng nghiệp (ct1099)</ENAMEX> tại <ENAMEX TYPE="LOCATION">phòng 805</ENAMEX>.
+- Ngày 08/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">09/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
 - Khoảng 10 giờ 30 ngày 09/8/2020, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">bệnh viện Phổi Đà Nẵng</ENAMEX>.

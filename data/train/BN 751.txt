@@ -1,16 +1,16 @@
-1. Họ và tên: <ENAMEX TYPE="PERSON">BN 751</ENAMEX> (BN 751)	      	Tuổi: <ENAMEX TYPE="AGE">45</ENAMEX>
+1. Họ và tên: <ENAMEX TYPE="NAME">BN 751</ENAMEX> (BN 751)	      	Tuổi: <ENAMEX TYPE="AGE">45</ENAMEX>
 Địa chỉ nhà: <ENAMEX TYPE="ADDRESS">loc367, A3 Chung cư VICOLEN, phường Lại Hiên Đông, Sơn Trà, TP Đà Nẵng</ENAMEX>.
 - Sáng ngày 20/7/2020 bệnh nhân có biểu hiện đau rát họng, đi <ENAMEX TYPE="LOCATION">khám Amidan</ENAMEX> và lấy thuốc.
 - Lúc 21 giờ 30 ngày 20/7/2020 bệnh nhân đi máy bay từ <ENAMEX TYPE="LOCATION">Cam Ranh</ENAMEX> – <ENAMEX TYPE="LOCATION">Nội Bài</ENAMEX> (không nhớ chuyến bay).
-- Tối ngày <ENAMEX TYPE="CONTACT_DATE">24/7/2020</ENAMEX>, gặp <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX> (đang sống tại Quân Sơn Trà, Đà Nẵng mới ra Hà Nội ngày 23/7/2020) và <ENAMEX TYPE="CONTACT_PERSON">gia đình người cháu tại <ENAMEX TYPE="LOCATION">Hà Nội</ENAMEX></ENAMEX>, đi ăn tại <ENAMEX TYPE="LOCATION">nhà hàng Tao quán, Hà Cẩu, Hà Đông</ENAMEX>.
-- Sáng ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>, cả <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> (3 người) đi tàu hỏa xuống <ENAMEX TYPE="LOCATION">Hải Phòng</ENAMEX> chuyến 9 giờ 20 phút, <ENAMEX TYPE="LOCATION">toa 11(không nhớ số hiệu, không nhớ số ghế)</ENAMEX>. Nghỉ tại <ENAMEX TYPE="LOCATION">khách sạn số 146, đường Mạc Quyết, Dương Kinh, Hải Phòng</ENAMEX>.
-- Sáng ngày <ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX>, cả <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> đi <ENAMEX TYPE="LOCATION">Cát Bà</ENAMEX> bằng xe riêng và chiều quay về <ENAMEX TYPE="LOCATION">khách sạn</ENAMEX>.
+- Tối ngày <ENAMEX TYPE="CON_DATE">24/7/2020</ENAMEX>, gặp <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con</ENAMEX> (đang sống tại Quân Sơn Trà, Đà Nẵng mới ra Hà Nội ngày 23/7/2020) và <ENAMEX TYPE="CON_PERSON">gia đình người cháu tại <ENAMEX TYPE="LOCATION">Hà Nội</ENAMEX></ENAMEX>, đi ăn tại <ENAMEX TYPE="LOCATION">nhà hàng Tao quán, Hà Cẩu, Hà Đông</ENAMEX>.
+- Sáng ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX>, cả <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> (3 người) đi tàu hỏa xuống <ENAMEX TYPE="LOCATION">Hải Phòng</ENAMEX> chuyến 9 giờ 20 phút, <ENAMEX TYPE="LOCATION">toa 11(không nhớ số hiệu, không nhớ số ghế)</ENAMEX>. Nghỉ tại <ENAMEX TYPE="LOCATION">khách sạn số 146, đường Mạc Quyết, Dương Kinh, Hải Phòng</ENAMEX>.
+- Sáng ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>, cả <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> đi <ENAMEX TYPE="LOCATION">Cát Bà</ENAMEX> bằng xe riêng và chiều quay về <ENAMEX TYPE="LOCATION">khách sạn</ENAMEX>.
 - Ngày 27/7/2020, Bệnh nhân bay về <ENAMEX TYPE="LOCATION">Cam Ranh</ENAMEX>.
 - Từ ngày 27/7/2020 đến 30/7/2020 cách ly tại <ENAMEX TYPE="LOCATION">cơ quan</ENAMEX>.
 - Ngày 30/7/2020, bay từ <ENAMEX TYPE="LOCATION">Cam Ranh</ENAMEX> ra <ENAMEX TYPE="LOCATION">Hà Nội</ENAMEX> (không nhớ chuyến bay).
-- Tối ngày <ENAMEX TYPE="SYMPTOMS_DATE">1/8/2020</ENAMEX>, xuất hiện sốt, có sử dụng thuốc hạ sốt và thuốc kháng sinh.
+- Tối ngày <ENAMEX TYPE="SYM_DATE">1/8/2020</ENAMEX>, xuất hiện sốt, có sử dụng thuốc hạ sốt và thuốc kháng sinh.
 - Trưa ngày 5/8/2020: bệnh nhân đi xe ô tô dịch vụ từ <ENAMEX TYPE="LOCATION">Hà Nội</ENAMEX> về <ENAMEX TYPE="LOCATION">Hải Dương</ENAMEX>, trên xe có 3 khách và lái xe. Đến 12 giờ 20 phút cùng ngày, bệnh nhân thấy sốt đã vào thẳng <ENAMEX TYPE="LOCATION">khoa cấp cứu, Bệnh viện đa khoa tỉnh Hải Dương</ENAMEX>, trong quá trình di chuyển và khám tại bệnh viện thường xuyên đeo khẩu trang.
 - Ngay sau khi vào <ENAMEX TYPE="LOCATION">BVĐK tỉnh Hải Dương</ENAMEX>, bệnh nhân được khám.
 - Bệnh nhân được chuyển vào điều trị tại <ENAMEX TYPE="LOCATION">khoa Truyền nhiễm, Bệnh viện Đa khoa tỉnh</ENAMEX>.
-- Sáng ngày <ENAMEX TYPE="POSITIVE_DATE">6/8/2020</ENAMEX>, Trung tâm Kiểm soát bệnh tật đã lấy mẫu xét nghiệm sàng lọc SAR-COV-2. Kết quả xét nghiệm lần 1 lúc 16 giờ00 bệnh nhân dương tính với SAR-COV-2. Kết quả lần 2 lúc 19 giờ 30 phút, bệnh nhân dương tính với SAR-COV-2.
-- Đến 21 giờ ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">6/8/2020</ENAMEX></ENAMEX>, hội chẩn bệnh viện, quyết định chuyển bệnh nhân lên <ENAMEX TYPE="LOCATION">Bệnh viện Bệnh nhiệt đới Trung ương</ENAMEX> điều trị.
+- Sáng ngày <ENAMEX TYPE="POS_DATE">6/8/2020</ENAMEX>, Trung tâm Kiểm soát bệnh tật đã lấy mẫu xét nghiệm sàng lọc SAR-COV-2. Kết quả xét nghiệm lần 1 lúc 16 giờ00 bệnh nhân dương tính với SAR-COV-2. Kết quả lần 2 lúc 19 giờ 30 phút, bệnh nhân dương tính với SAR-COV-2.
+- Đến 21 giờ ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">6/8/2020</ENAMEX></ENAMEX>, hội chẩn bệnh viện, quyết định chuyển bệnh nhân lên <ENAMEX TYPE="LOCATION">Bệnh viện Bệnh nhiệt đới Trung ương</ENAMEX> điều trị.

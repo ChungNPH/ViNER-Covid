@@ -1,8 +1,8 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 704</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 704</ENAMEX>	Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1969</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc201, phường Phước Mỹ, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại địa chỉ <ENAMEX TYPE="LOCATION">loc201, phường Phước Mỹ, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX></ENAMEX>.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">16/7/2020</ENAMEX> đến 20/7/2020 bệnh nhân chỉ ở nhà tại địa chỉ <ENAMEX TYPE="LOCATION">loc201, phường Phước Mỹ, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX> và đi <ENAMEX TYPE="LOCATION">chợ Phước Mỹ, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>, chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>, không đến nơi khác.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình tại địa chỉ <ENAMEX TYPE="LOCATION">loc201, phường Phước Mỹ, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX></ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">16/7/2020</ENAMEX> đến 20/7/2020 bệnh nhân chỉ ở nhà tại địa chỉ <ENAMEX TYPE="LOCATION">loc201, phường Phước Mỹ, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX> và đi <ENAMEX TYPE="LOCATION">chợ Phước Mỹ, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>, chỉ tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, không đến nơi khác.
 - Từ ngày 20/7 đến 25/7/2020, bệnh nhân chăm sóc người nhà tại <ENAMEX TYPE="LOCATION">khoa Thận - nội tiết, bệnh viện Đà Nẵng</ENAMEX>, sau đó về nhà, không đến nơi khác.
-- Ngày <ENAMEX TYPE="ISOLATION_DATE">25/7/2020</ENAMEX>, bệnh viện Đà Nẵng phong toả nên bệnh nhân tự cách ly ở nhà.
-- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">04/8/2020</ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="ISO_DATE">25/7/2020</ENAMEX>, bệnh viện Đà Nẵng phong toả nên bệnh nhân tự cách ly ở nhà.
+- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE">04/8/2020</ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

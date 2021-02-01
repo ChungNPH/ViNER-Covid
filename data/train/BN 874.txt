@@ -1,11 +1,11 @@
-Tên: <ENAMEX TYPE="PERSON">BN 874</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 874</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">loc191, phường Hải Châu 2, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc191, phường Hải Châu 2</ENAMEX></ENAMEX>.
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">26/7</ENAMEX> đến 30/7/2020, bệnh nhân đến chăm sóc <ENAMEX TYPE="CONTACT_PERSON">con dâu</ENAMEX> tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Hải Châu</ENAMEX> (nằm phòng riêng, không tiếp xúc với người khác).
- - Ngày 3<ENAMEX TYPE="CONTACT_DATE">1/7/2020</ENAMEX>, bệnh nhân chỉ ở nhà, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc191, phường Hải Châu 2</ENAMEX></ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">26/7</ENAMEX> đến 30/7/2020, bệnh nhân đến chăm sóc <ENAMEX TYPE="CON_PERSON">con dâu</ENAMEX> tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Hải Châu</ENAMEX> (nằm phòng riêng, không tiếp xúc với người khác).
+ - Ngày 3<ENAMEX TYPE="CON_DATE">1/7/2020</ENAMEX>, bệnh nhân chỉ ở nhà, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
  - Khoảng 6 giờ ngày 01/8/2020, bệnh nhân đến <ENAMEX TYPE="LOCATION">chợ Cồn, quận Hải Châu</ENAMEX> mua thức ăn sau đó trở về nhà.
  - Khoảng 6 giờ hằng ngày từ 02/8 đến 04/8/2020, bệnh nhân đến <ENAMEX TYPE="LOCATION">chợ Cồn, quận Hải Châu</ENAMEX> và <ENAMEX TYPE="LOCATION">chợ Cây Me, quận Hải Châu</ENAMEX> (không nhớ rõ thời gian), sau đó trở về nhà.
  - Ngày 05/8/2020, bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">đường Thanh Sơn, quận Hải Châu, Đà Nẵng</ENAMEX>.
- - Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">10/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 2) và ngày 11/8/2020 có kết quả (+) với vi rút SARS-CoV-2. Hiện tại, bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
+ - Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">10/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 2) và ngày 11/8/2020 có kết quả (+) với vi rút SARS-CoV-2. Hiện tại, bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
 Năm sinh: <ENAMEX TYPE="AGE">1964</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

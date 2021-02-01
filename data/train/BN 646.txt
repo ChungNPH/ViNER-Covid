@@ -1,11 +1,11 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 646</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 646</ENAMEX>	Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1990</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc178, phường Thuận Phước, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại địa chỉ <ENAMEX TYPE="LOCATION">loc178, phường Thuận Phước, quận Hải Châu, Tp. Đà Nẵng</ENAMEX></ENAMEX>.
-- Những người trong gia đình có tiếp xúc với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">bố (ct163</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">mẹ (ct164</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">vợ (ct165</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con (ct166</ENAMEX>.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">23/7/2020</ENAMEX> đến 25/7/2020, bệnh nhân về nhà tại địa chỉ <ENAMEX TYPE="LOCATION">loc178, phường Thuận Phước, quận Hải Châu, Tp. Đà Nẵng</ENAMEX> và chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
-- Sáng ngày <ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX>, bệnh nhân ở nhà và chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
-- Chiều ngày <ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX>, bệnh nhân tiếp tục làm việc tại <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX> Buổi tối cùng ngày, bệnh nhân đến <ENAMEX TYPE="LOCATION">khách sạn Golden Sea, quận Sơn Trà, Tp. Đà Nẵng (phòng 1012)</ENAMEX> gặp <ENAMEX TYPE="CONTACT_PERSON">2 đồng nghiệp là ct167 và ct168</ENAMEX>.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình tại địa chỉ <ENAMEX TYPE="LOCATION">loc178, phường Thuận Phước, quận Hải Châu, Tp. Đà Nẵng</ENAMEX></ENAMEX>.
+- Những người trong gia đình có tiếp xúc với bệnh nhân: <ENAMEX TYPE="CON_PERSON">bố (ct163</ENAMEX>, <ENAMEX TYPE="CON_PERSON">mẹ (ct164</ENAMEX>, <ENAMEX TYPE="CON_PERSON">vợ (ct165</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con (ct166</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">23/7/2020</ENAMEX> đến 25/7/2020, bệnh nhân về nhà tại địa chỉ <ENAMEX TYPE="LOCATION">loc178, phường Thuận Phước, quận Hải Châu, Tp. Đà Nẵng</ENAMEX> và chỉ tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Sáng ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>, bệnh nhân ở nhà và chỉ tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Chiều ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>, bệnh nhân tiếp tục làm việc tại <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX> Buổi tối cùng ngày, bệnh nhân đến <ENAMEX TYPE="LOCATION">khách sạn Golden Sea, quận Sơn Trà, Tp. Đà Nẵng (phòng 1012)</ENAMEX> gặp <ENAMEX TYPE="CON_PERSON">2 đồng nghiệp là ct167 và ct168</ENAMEX>.
 - Từ ngày 27/7/2020 đến 01/8/2020 bệnh nhân chỉ làm việc và ở trong <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>, không đến nơi nào khác.
-- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">03/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">03/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
 - Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

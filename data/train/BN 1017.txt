@@ -1,27 +1,27 @@
-Tên: <ENAMEX TYPE="PERSON">BN 1017</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 1017</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Hồ Huân Nghiệp,Mỹ An, Ngũ Hành Sơn, Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng với <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">đường Hồ Huân Nghiệp, phường Mỹ An, quận Ngũ Hành Sơn, TP Đà Nẵng</ENAMEX></ENAMEX>.
-- Từ ngày <ENAMEX TYPE="CONTACT_PERSON">10/8</ENAMEX> đến 21/8/2020, hằng ngày, bệnh nhân: Ở nhà giữ <ENAMEX TYPE="CONTACT_PERSON">02 cháu nội là ct365 và ct365</ENAMEX> (gia đình con trai cư trú tại đường Lê Văn Hiến, phường Khuê Mỹ, quận Ngũ Hành Sơn).
-- Ngày <ENAMEX TYPE="CONTACT_DATE">10/8/2020</ENAMEX>, bệnh nhân đến gặp tổ trưởng tổ dân phố  tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bà ct367 (bán tạp hóa)</ENAMEX> để trả tiền góp, sau đó trở về nhà, không đi đến nơi khác. 
-- Ngày <ENAMEX TYPE="CONTACT_DATE">11/8</ENAMEX> đến 13/8/2020, bệnh nhân đến trả tiền góp cho <ENAMEX TYPE="CONTACT_PERSON">bà ct367</ENAMEX> tại <ENAMEX TYPE="LOCATION">chợ Hà Thân</ENAMEX>, sau đó trở về nhà.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">14/8</ENAMEX>, 15/8 và 16/8/2020, bệnh nhân đến trả tiền góp cho <ENAMEX TYPE="CONTACT_PERSON">bà ct367</ENAMEX> tại chợ Hà Thân, sau đó trở về nhà.
-- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">17/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng sốt nhẹ, ho nên tự đi mua thuốc về uống (theo lời khai của con gái bệnh nhân, nhưng không rõ địa chỉ).
-- Ngày <ENAMEX TYPE="CONTACT_DATE">18/8/2020</ENAMEX>, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+- Bệnh nhân sống cùng với <ENAMEX TYPE="CON_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">đường Hồ Huân Nghiệp, phường Mỹ An, quận Ngũ Hành Sơn, TP Đà Nẵng</ENAMEX></ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_PERSON">10/8</ENAMEX> đến 21/8/2020, hằng ngày, bệnh nhân: Ở nhà giữ <ENAMEX TYPE="CON_PERSON">02 cháu nội là ct365 và ct365</ENAMEX> (gia đình con trai cư trú tại đường Lê Văn Hiến, phường Khuê Mỹ, quận Ngũ Hành Sơn).
+- Ngày <ENAMEX TYPE="CON_DATE">10/8/2020</ENAMEX>, bệnh nhân đến gặp tổ trưởng tổ dân phố  tiếp xúc với <ENAMEX TYPE="CON_PERSON">bà ct367 (bán tạp hóa)</ENAMEX> để trả tiền góp, sau đó trở về nhà, không đi đến nơi khác. 
+- Ngày <ENAMEX TYPE="CON_DATE">11/8</ENAMEX> đến 13/8/2020, bệnh nhân đến trả tiền góp cho <ENAMEX TYPE="CON_PERSON">bà ct367</ENAMEX> tại <ENAMEX TYPE="LOCATION">chợ Hà Thân</ENAMEX>, sau đó trở về nhà.
+- Ngày <ENAMEX TYPE="CON_DATE">14/8</ENAMEX>, 15/8 và 16/8/2020, bệnh nhân đến trả tiền góp cho <ENAMEX TYPE="CON_PERSON">bà ct367</ENAMEX> tại chợ Hà Thân, sau đó trở về nhà.
+- Ngày <ENAMEX TYPE="SYM_DATE">17/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng sốt nhẹ, ho nên tự đi mua thuốc về uống (theo lời khai của con gái bệnh nhân, nhưng không rõ địa chỉ).
+- Ngày <ENAMEX TYPE="CON_DATE">18/8/2020</ENAMEX>, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
 - Khoảng 08 giờ 00 ngày 19/8/2020, bệnh nhân tự đi xe máy đến <ENAMEX TYPE="LOCATION">chợ Bắc Mỹ An, quận Ngũ Hành Sơn</ENAMEX>. Tại đây, bệnh nhân gửi xe tại <ENAMEX TYPE="LOCATION">nhà giữ xe tư nhân (chỗ giao giữa đường Nguyễn Bá Lân và Mỹ Đa Đông 2)</ENAMEX>, tiếp xúc với 01 người giữ xe, mua thức ăn, cá ngừ và rau (không nhớ rõ người bán).
-- Ngày <ENAMEX TYPE="CONTACT_DATE">20/8/2020</ENAMEX>, sau 03 ngày dùng thuốc, bệnh nhân đến mua thuốc tại <ENAMEX TYPE="LOCATION">hiệu thuốc <ENAMEX TYPE="CONTACT_PERSON">cô ct370 trên đường Triệu Việt Vương</ENAMEX>, gần chợ Hà Thân</ENAMEX>. Sau đó bệnh nhân đến trả tiền góp cho <ENAMEX TYPE="CONTACT_PERSON">bà ct367</ENAMEX> tại <ENAMEX TYPE="LOCATION">chợ Hà Thân</ENAMEX> và trở về nhà.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">21/8/2020</ENAMEX>, bệnh nhân chỉ ở nhà giữ <ENAMEX TYPE="CONTACT_PERSON">02 cháu nội là ct365, ct365</ENAMEX> và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">22/8/2020</ENAMEX>, 02 cháu nội được bố, mẹ giữ ở nhà tại đường Lê Văn Hiến, phường Khuê Mỹ, quận Ngũ Hành Sơn nên bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">23/8/2020</ENAMEX>: bệnh nhân đến trả tiền góp cho <ENAMEX TYPE="CONTACT_PERSON">bà ct367</ENAMEX>; mua nắp nhựa tại <ENAMEX TYPE="LOCATION">quầy <ENAMEX TYPE="CONTACT_PERSON">cô C</ENAMEX></ENAMEX>; mua trà tại <ENAMEX TYPE="LOCATION">quầy <ENAMEX TYPE="CONTACT_PERSON">cô ct375</ENAMEX></ENAMEX>; mua rau, hành tại <ENAMEX TYPE="LOCATION">quầy <ENAMEX TYPE="CONTACT_PERSON">cô H</ENAMEX></ENAMEX>
- Ngày <ENAMEX TYPE="CONTACT_DATE">23/8/2020</ENAMEX>: bệnh nhân mua cá tại <ENAMEX TYPE="LOCATION">quầy <ENAMEX TYPE="CONTACT_PERSON">cô ct376</ENAMEX></ENAMEX>; mua cá tại <ENAMEX TYPE="LOCATION">quầy <ENAMEX TYPE="CONTACT_PERSON">chị ct377</ENAMEX></ENAMEX>. Sau đó, tại <ENAMEX TYPE="LOCATION">chợ Hà Thân</ENAMEX>, bệnh nhân được Trung tâm Y tế quận quận Sơn Trà lấy mẫu dịch hầu họng (lần 1) và có kết quả xét nghiệm nghi ngờ với vi rút SARS-CoV-2.
-+ Khoảng 19 giờ Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">23/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được Trung tâm Y tế quận Ngũ Hành Sơn đến lấy mẫu dịch hầu họng (lần 2) và đến tối cùng ngày, có kết quả xét nghiệm khẳng định (+) với vi rút SARS- CoV-2. 
+- Ngày <ENAMEX TYPE="CON_DATE">20/8/2020</ENAMEX>, sau 03 ngày dùng thuốc, bệnh nhân đến mua thuốc tại <ENAMEX TYPE="LOCATION">hiệu thuốc <ENAMEX TYPE="CON_PERSON">cô ct370 trên đường Triệu Việt Vương</ENAMEX>, gần chợ Hà Thân</ENAMEX>. Sau đó bệnh nhân đến trả tiền góp cho <ENAMEX TYPE="CON_PERSON">bà ct367</ENAMEX> tại <ENAMEX TYPE="LOCATION">chợ Hà Thân</ENAMEX> và trở về nhà.
+- Ngày <ENAMEX TYPE="CON_DATE">21/8/2020</ENAMEX>, bệnh nhân chỉ ở nhà giữ <ENAMEX TYPE="CON_PERSON">02 cháu nội là ct365, ct365</ENAMEX> và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">22/8/2020</ENAMEX>, 02 cháu nội được bố, mẹ giữ ở nhà tại đường Lê Văn Hiến, phường Khuê Mỹ, quận Ngũ Hành Sơn nên bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">23/8/2020</ENAMEX>: bệnh nhân đến trả tiền góp cho <ENAMEX TYPE="CON_PERSON">bà ct367</ENAMEX>; mua nắp nhựa tại <ENAMEX TYPE="LOCATION">quầy <ENAMEX TYPE="CON_PERSON">cô C</ENAMEX></ENAMEX>; mua trà tại <ENAMEX TYPE="LOCATION">quầy <ENAMEX TYPE="CON_PERSON">cô ct375</ENAMEX></ENAMEX>; mua rau, hành tại <ENAMEX TYPE="LOCATION">quầy <ENAMEX TYPE="CON_PERSON">cô H</ENAMEX></ENAMEX>
+ Ngày <ENAMEX TYPE="CON_DATE">23/8/2020</ENAMEX>: bệnh nhân mua cá tại <ENAMEX TYPE="LOCATION">quầy <ENAMEX TYPE="CON_PERSON">cô ct376</ENAMEX></ENAMEX>; mua cá tại <ENAMEX TYPE="LOCATION">quầy <ENAMEX TYPE="CON_PERSON">chị ct377</ENAMEX></ENAMEX>. Sau đó, tại <ENAMEX TYPE="LOCATION">chợ Hà Thân</ENAMEX>, bệnh nhân được Trung tâm Y tế quận quận Sơn Trà lấy mẫu dịch hầu họng (lần 1) và có kết quả xét nghiệm nghi ngờ với vi rút SARS-CoV-2.
++ Khoảng 19 giờ Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">23/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được Trung tâm Y tế quận Ngũ Hành Sơn đến lấy mẫu dịch hầu họng (lần 2) và đến tối cùng ngày, có kết quả xét nghiệm khẳng định (+) với vi rút SARS- CoV-2. 
 - Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
-- Danh sách các tiểu thương tại chợ Bắc Mỹ An tiếp xúc với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">Bà ct378</ENAMEX>.
-- Danh sách các tiểu thương tại chợ Bắc Mỹ An tiếp xúc với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">Bà ct379</ENAMEX>.
-- Danh sách các tiểu thương tại chợ Bắc Mỹ An tiếp xúc với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">Bà ct380</ENAMEX>.
-- Danh sách các tiểu thương tại chợ Bắc Mỹ An tiếp xúc với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">Ông ct381</ENAMEX>.
-- Danh sách các tiểu thương tại chợ Bắc Mỹ An tiếp xúc với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">Bà ct382</ENAMEX>.
-- Danh sách các tiểu thương tại chợ Bắc Mỹ An tiếp xúc với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">Bà ct383</ENAMEX>.
-- Danh sách các tiểu thương tại chợ Bắc Mỹ An tiếp xúc với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">Bà ct384</ENAMEX>.
-Lây cho người khác: <ENAMEX TYPE="CONTACT_PERSON">BN1025</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">BN1026</ENAMEX>,  <ENAMEX TYPE="CONTACT_PERSON">BN1027</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">BN1028</ENAMEX>,  <ENAMEX TYPE="CONTACT_PERSON">BN1029</ENAMEX> (người nhà).
+- Danh sách các tiểu thương tại chợ Bắc Mỹ An tiếp xúc với bệnh nhân: <ENAMEX TYPE="CON_PERSON">Bà ct378</ENAMEX>.
+- Danh sách các tiểu thương tại chợ Bắc Mỹ An tiếp xúc với bệnh nhân: <ENAMEX TYPE="CON_PERSON">Bà ct379</ENAMEX>.
+- Danh sách các tiểu thương tại chợ Bắc Mỹ An tiếp xúc với bệnh nhân: <ENAMEX TYPE="CON_PERSON">Bà ct380</ENAMEX>.
+- Danh sách các tiểu thương tại chợ Bắc Mỹ An tiếp xúc với bệnh nhân: <ENAMEX TYPE="CON_PERSON">Ông ct381</ENAMEX>.
+- Danh sách các tiểu thương tại chợ Bắc Mỹ An tiếp xúc với bệnh nhân: <ENAMEX TYPE="CON_PERSON">Bà ct382</ENAMEX>.
+- Danh sách các tiểu thương tại chợ Bắc Mỹ An tiếp xúc với bệnh nhân: <ENAMEX TYPE="CON_PERSON">Bà ct383</ENAMEX>.
+- Danh sách các tiểu thương tại chợ Bắc Mỹ An tiếp xúc với bệnh nhân: <ENAMEX TYPE="CON_PERSON">Bà ct384</ENAMEX>.
+Lây cho người khác: <ENAMEX TYPE="CON_PERSON">BN1025</ENAMEX>, <ENAMEX TYPE="CON_PERSON">BN1026</ENAMEX>,  <ENAMEX TYPE="CON_PERSON">BN1027</ENAMEX>, <ENAMEX TYPE="CON_PERSON">BN1028</ENAMEX>,  <ENAMEX TYPE="CON_PERSON">BN1029</ENAMEX> (người nhà).
 Năm sinh: <ENAMEX TYPE="AGE">1952</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

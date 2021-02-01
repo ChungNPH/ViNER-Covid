@@ -1,13 +1,13 @@
-Tên: <ENAMEX TYPE="PERSON">BN 872</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 872</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">tổ 7, thôn Yến Nê 2, xã Hoà Tiến, huyện Hoà Vang, TP Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">vợ ct848</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con gái ct849</ENAMEX></ENAMEX>.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">vợ ct848</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con gái ct849</ENAMEX></ENAMEX>.
  - Ngày 23/7/2020, mẹ bệnh nhân là ct850 cùng con gái ct851 đến khám và bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thần kinh, Bệnh viện Đà Nẵng</ENAMEX>, đến tối cùng ngày con dâu (là bệnh nhân số 823) đến chăm sóc mẹ bệnh nhân.
  - Ngày 25/7/2020, mẹ bệnh nhân được ra viện và trở về nhà tại <ENAMEX TYPE="LOCATION">tổ 7, thôn Yến Nê 2, xã Hoà Tiến, huyện Hoà Vang</ENAMEX>.
- - Tối ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>, gia đình bệnh nhân đến nhà thăm mẹ (tại đây có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân 823</ENAMEX>) rồi trở về nhà.
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">26/7</ENAMEX> đến 31/7/2020, bệnh nhân chỉ ở nhà, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
- - Ngày <ENAMEX TYPE="CONTACT_DATE">01/8/2020</ENAMEX>, bệnh nhân đến nhà thăm <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> rồi trở về nhà.
- - Ngày <ENAMEX TYPE="SYMPTOMS_DATE">07/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng mệt mỏi tay chân, sốt, đau đầu nên chỉ ở nhà và được con gái mua thuốc tại nhà thuốc cô ct852 về nhà uống.
- - <ENAMEX TYPE="CONTACT_PERSON">Con gái ct853</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con gái ct854</ENAMEX> thỉnh thoảng đến nhà chơi và tiếp xúc với bệnh nhân (không nhớ rõ thời gian).
- - Chiều ngày 09/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng xét nghiệm với vi rút SARS-CoV-2. Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">11/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2. Hiện tại, bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>.
+ - Tối ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX>, gia đình bệnh nhân đến nhà thăm mẹ (tại đây có tiếp xúc với <ENAMEX TYPE="CON_PERSON">bệnh nhân 823</ENAMEX>) rồi trở về nhà.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">26/7</ENAMEX> đến 31/7/2020, bệnh nhân chỉ ở nhà, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
+ - Ngày <ENAMEX TYPE="CON_DATE">01/8/2020</ENAMEX>, bệnh nhân đến nhà thăm <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> rồi trở về nhà.
+ - Ngày <ENAMEX TYPE="SYM_DATE">07/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng mệt mỏi tay chân, sốt, đau đầu nên chỉ ở nhà và được con gái mua thuốc tại nhà thuốc cô ct852 về nhà uống.
+ - <ENAMEX TYPE="CON_PERSON">Con gái ct853</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con gái ct854</ENAMEX> thỉnh thoảng đến nhà chơi và tiếp xúc với bệnh nhân (không nhớ rõ thời gian).
+ - Chiều ngày 09/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng xét nghiệm với vi rút SARS-CoV-2. Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">11/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2. Hiện tại, bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>.
 Năm sinh: <ENAMEX TYPE="AGE">1964</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

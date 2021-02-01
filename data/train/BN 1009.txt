@@ -1,10 +1,10 @@
-Tên: <ENAMEX TYPE="PERSON">BN 1009</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 1009</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">loc256, phường Nại Hiên Đông, quận Sơn Trà, TP Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">mẹ vợ</ENAMEX> (bệnh nhân số 797 được Bộ Y tế công bố ngày 08/8/2020), <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> (bệnh nhân số 781 được Bộ Y tế công bố ngày 07/8/2020), và <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> (bệnh nhân số 780 được Bộ Y tế công bố ngày 07/8/2020) tại <ENAMEX TYPE="LOCATION">loc256</ENAMEX>.
- - Sáng ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">05/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân cùng những người trong gia đình được đưa đến cách ly tập trung tại <ENAMEX TYPE="LOCATION">Trường Cao đẳng Lương thực - Thực phẩm ở quận Sơn Trà</ENAMEX>  Tại đây, bệnh nhân ở cùng phòng với <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> (bệnh nhân 780) và <ENAMEX TYPE="CONTACT_PERSON">em trai ct577</ENAMEX>.
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">07/8</ENAMEX> đến 16/8/2020, bệnh nhân cùng với <ENAMEX TYPE="CONTACT_PERSON">em trai</ENAMEX> tiếp tục ở tại <ENAMEX TYPE="LOCATION">phòng cách ly thuộc Trường Cao đẳng Lương thực - Thực phẩm</ENAMEX>.
- - Ngày <ENAMEX TYPE="CONTACT_DATE">17/8</ENAMEX>, 18/8 và 19/8/2020, bệnh nhân ở cùng phòng với <ENAMEX TYPE="CONTACT_PERSON">em trai</ENAMEX> tại <ENAMEX TYPE="LOCATION">khu cách ly thuộc Trường Cao đẳng Lương thực - Thực phẩm</ENAMEX>.
- - Ngày <ENAMEX TYPE="POSITIVE_DATE">20/8/2020</ENAMEX>, tại khu cách ly, bệnh nhân được lấy mẫu dịch hầu họng (lần 2) và đến tối cùng ngày có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">mẹ vợ</ENAMEX> (bệnh nhân số 797 được Bộ Y tế công bố ngày 08/8/2020), <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> (bệnh nhân số 781 được Bộ Y tế công bố ngày 07/8/2020), và <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX> (bệnh nhân số 780 được Bộ Y tế công bố ngày 07/8/2020) tại <ENAMEX TYPE="LOCATION">loc256</ENAMEX>.
+ - Sáng ngày <ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">05/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân cùng những người trong gia đình được đưa đến cách ly tập trung tại <ENAMEX TYPE="LOCATION">Trường Cao đẳng Lương thực - Thực phẩm ở quận Sơn Trà</ENAMEX>  Tại đây, bệnh nhân ở cùng phòng với <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX> (bệnh nhân 780) và <ENAMEX TYPE="CON_PERSON">em trai ct577</ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">07/8</ENAMEX> đến 16/8/2020, bệnh nhân cùng với <ENAMEX TYPE="CON_PERSON">em trai</ENAMEX> tiếp tục ở tại <ENAMEX TYPE="LOCATION">phòng cách ly thuộc Trường Cao đẳng Lương thực - Thực phẩm</ENAMEX>.
+ - Ngày <ENAMEX TYPE="CON_DATE">17/8</ENAMEX>, 18/8 và 19/8/2020, bệnh nhân ở cùng phòng với <ENAMEX TYPE="CON_PERSON">em trai</ENAMEX> tại <ENAMEX TYPE="LOCATION">khu cách ly thuộc Trường Cao đẳng Lương thực - Thực phẩm</ENAMEX>.
+ - Ngày <ENAMEX TYPE="POS_DATE">20/8/2020</ENAMEX>, tại khu cách ly, bệnh nhân được lấy mẫu dịch hầu họng (lần 2) và đến tối cùng ngày có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
  - Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>.
 Năm sinh: <ENAMEX TYPE="AGE">1973</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

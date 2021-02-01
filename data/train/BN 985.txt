@@ -1,12 +1,12 @@
-Tên: <ENAMEX TYPE="PERSON">BN 985</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 985</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS"> <ENAMEX TYPE="LOCATION">loc277, phường Thạch Thang, quận Hải Châu, TP Đà Nẵng</ENAMEX></ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">vợ ct716</ENAMEX></ENAMEX>.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">vợ ct716</ENAMEX></ENAMEX>.
 - Từ ngày 29/6 đến 20/7/2020, bệnh nhân (tự đi xe máy) đến khám và điều trị ngoại trú tại <ENAMEX TYPE="LOCATION">Khoa Y học cổ truyền, Bệnh viện Đà Nẵng</ENAMEX>.
 - Ngày 22/7/2020, bệnh nhân đến xét nghiệm tại <ENAMEX TYPE="LOCATION">phòng khám Nội 2, Bệnh viện Đà Nẵng</ENAMEX>. Sau đó, bệnh nhân trở về nhà, không đi đến nơi khác.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">15/8/2020</ENAMEX>, bệnh nhân chở <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> đi <ENAMEX TYPE="LOCATION">chợ Đống Đa, quận Hải Châu</ENAMEX>, chỉ đứng đợi phía ngoài, không vào chợ và không tiếp xúc với người khác.
+- Ngày <ENAMEX TYPE="CON_DATE">15/8/2020</ENAMEX>, bệnh nhân chở <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> đi <ENAMEX TYPE="LOCATION">chợ Đống Đa, quận Hải Châu</ENAMEX>, chỉ đứng đợi phía ngoài, không vào chợ và không tiếp xúc với người khác.
 - Ngày 16/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng theo kế hoạch xét nghiệm cho bệnh nhân đến khám, chữa bệnh tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> xuất viện từ 15/7/2020 đến 26/7/2020. 
-- Ngày <ENAMEX TYPE="CONTACT_DATE">17/8/2020</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">vợ chồng con gái ct717 và ct718</ENAMEX>, đến nhà và tiếp xúc với bệnh nhân.
-- Tối ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">17/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="CON_DATE">17/8/2020</ENAMEX>, <ENAMEX TYPE="CON_PERSON">vợ chồng con gái ct717 và ct718</ENAMEX>, đến nhà và tiếp xúc với bệnh nhân.
+- Tối ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">17/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
 - Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
 Năm sinh: <ENAMEX TYPE="AGE">1955</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

@@ -1,9 +1,9 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 685</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 685</ENAMEX>	Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">2019</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc221, phường An Hải Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>
-- Bệnh nhân là con của bệnh nhân <ENAMEX TYPE="CONTACT_PERSON">ct348</ENAMEX> (503).
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">14/7</ENAMEX> đến 28/7/2020: bệnh nhân chỉ ở nhà tại <ENAMEX TYPE="LOCATION">loc221, phường An Hải Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>, không đến nơi khác.
-- Những người trong gia đình tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">mẹ (ct348) là bệnh nhân số 503</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">cô (ct350</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">bà (ct351</ENAMEX>.
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30/7/2020</ENAMEX></ENAMEX>, bệnh nhân cùng bà và cô cũng được đi cách ly tại <ENAMEX TYPE="LOCATION">Học viện Chính trị, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.
-- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">04/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Bệnh nhân là con của bệnh nhân <ENAMEX TYPE="CON_PERSON">ct348</ENAMEX> (503).
+- Từ ngày <ENAMEX TYPE="CON_DATE">14/7</ENAMEX> đến 28/7/2020: bệnh nhân chỉ ở nhà tại <ENAMEX TYPE="LOCATION">loc221, phường An Hải Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, không đến nơi khác.
+- Những người trong gia đình tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CON_PERSON">mẹ (ct348) là bệnh nhân số 503</ENAMEX>, <ENAMEX TYPE="CON_PERSON">cô (ct350</ENAMEX> và <ENAMEX TYPE="CON_PERSON">bà (ct351</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">30/7/2020</ENAMEX></ENAMEX>, bệnh nhân cùng bà và cô cũng được đi cách ly tại <ENAMEX TYPE="LOCATION">Học viện Chính trị, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.
+- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">04/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
 - Hiện tại bệnh nhân đang được đi cách ly tại <ENAMEX TYPE="LOCATION">Học viện chính trị, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.

@@ -1,12 +1,12 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 650</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 650</ENAMEX>	Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1982</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc181, thị trấn Nam Phước, huyện Duy Xuyên, tỉnh Quảng Nam</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc181, thị trấn Nam Phước, huyện Duy Xuyên, tỉnh Quảng Nam</ENAMEX></ENAMEX>. 
-- Những người trong gia đình có tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">vợ (ct180</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">anh trai (ct181</ENAMEX>.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc181, thị trấn Nam Phước, huyện Duy Xuyên, tỉnh Quảng Nam</ENAMEX></ENAMEX>. 
+- Những người trong gia đình có tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CON_PERSON">vợ (ct180</ENAMEX> và <ENAMEX TYPE="CON_PERSON">anh trai (ct181</ENAMEX>.
 - Sáng ngày 11/7/2020, bệnh nhân đi một mình từ <ENAMEX TYPE="LOCATION">Quảng Nam</ENAMEX> ra <ENAMEX TYPE="LOCATION">Đà Nẵng</ENAMEX> bằng xe khách Quảng Đà (không nhớ biển số xe) đến nhập viện tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> để chuẩn bị phẫu thuật.
 - Trưa ngày 14/7/2020, sau khi phẫu thuật xong, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khoa Thận - nội tiết, bệnh viện Đà Nẵng</ENAMEX>.
 - Tối ngày 24/7/2020, bệnh nhân ăn tối tại <ENAMEX TYPE="LOCATION">quán cơm đối diện khoa cấp cứu, bệnh viện Đà Nẵng ở đường Quang Trung, phường Thạch Thang, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>.
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">25/7/2020</ENAMEX></ENAMEX> bệnh nhân đươc đưa ly cách ly, điều trị cùng với các bệnh nhân của bệnh viện Đà Nẵng.
-- Từ khi nhập viện điều trị tại bệnh viện Đà Nẵng đến lúc bệnh nhân được đưa đi cách ly, bệnh nhân có tiếp xúc gần với: <ENAMEX TYPE="CONTACT_PERSON">vợ (ct180</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">anh trai (ct181</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">1 người nhà bệnh nhân khác (ct184)</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">1 bệnh nhân nằm cùng phòng (ct185)</ENAMEX>.
-- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">03/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">25/7/2020</ENAMEX></ENAMEX> bệnh nhân đươc đưa ly cách ly, điều trị cùng với các bệnh nhân của bệnh viện Đà Nẵng.
+- Từ khi nhập viện điều trị tại bệnh viện Đà Nẵng đến lúc bệnh nhân được đưa đi cách ly, bệnh nhân có tiếp xúc gần với: <ENAMEX TYPE="CON_PERSON">vợ (ct180</ENAMEX>, <ENAMEX TYPE="CON_PERSON">anh trai (ct181</ENAMEX>, <ENAMEX TYPE="CON_PERSON">1 người nhà bệnh nhân khác (ct184)</ENAMEX> và <ENAMEX TYPE="CON_PERSON">1 bệnh nhân nằm cùng phòng (ct185)</ENAMEX>.
+- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">03/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
 - Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

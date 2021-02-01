@@ -1,6 +1,6 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 468</ENAMEX> Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>. 
+- Họ và tên: <ENAMEX TYPE="NAME">BN 468</ENAMEX> Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>. 
 - Sinh năm: <ENAMEX TYPE="AGE">1978</ENAMEX>.
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn La Hà- xã Nghĩa Thương- Huyện Tư Nghĩa- Quảng Ngãi</ENAMEX>
-	- Bệnh nhân đang chăm sóc <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> là bệnh nhân đang điều trị tại <ENAMEX TYPE="LOCATION">phòng 603, Khoa Thận-nội tiết, Bệnh viện Đà Nẵng</ENAMEX> từ ngày 14/7/2020.
+	- Bệnh nhân đang chăm sóc <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> là bệnh nhân đang điều trị tại <ENAMEX TYPE="LOCATION">phòng 603, Khoa Thận-nội tiết, Bệnh viện Đà Nẵng</ENAMEX> từ ngày 14/7/2020.
 - Từ ngày 14/7/2020 đến ngày 30/7/2020, bệnh nhân ở trong <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, thỉnh thoảng có đi mua cơm tại <ENAMEX TYPE="LOCATION">căn tin bệnh viện</ENAMEX>. Ngoài ra, bệnh nhân không đi đâu ra khỏi bệnh viện.
-- Lúc 02 giờ sáng ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">31/7/2020</ENAMEX></ENAMEX>, Bệnh nhân được chuyển viện đến cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện 199- Bộ Công An</ENAMEX>.
+- Lúc 02 giờ sáng ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX>, Bệnh nhân được chuyển viện đến cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện 199- Bộ Công An</ENAMEX>.

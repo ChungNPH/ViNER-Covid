@@ -1,10 +1,10 @@
-Tên: <ENAMEX TYPE="PERSON">BN 759</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 759</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn Phong Ngũ, xã Điện Thắng, huyện Điện Bàn, tỉnh Quảng Nam </ENAMEX>
 - Bệnh nhân sống cùng chồng tại <ENAMEX TYPE="LOCATION">thôn Phong Ngũ, xã Điện Thắng, huyện Điện Bàn, tỉnh Quảng Nam</ENAMEX>.
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">15/7/2020 đến nay</ENAMEX> những người tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">con trai H.Đ.T</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con gái H.T.B.P</ENAMEX> thường trú tại Nguyễn Chánh, quận Liên Chiểu, và <ENAMEX TYPE="CONTACT_PERSON">con gái là H.T.K.Y</ENAMEX>.
- - Ngày <ENAMEX TYPE="CONTACT_DATE">15/7/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="CONTACT_PERSON">con trai H.Đ.T</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con gái H.T.B.P</ENAMEX> đưa đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thận- Nội tiết, Bệnh viện Đà Nẵng</ENAMEX> và được điều trị cho đến nay. Trong suốt quá trình điều trị, bệnh nhân chỉ ở trong Bệnh viện, không đi đến nơi khác.
- - Ngày <ENAMEX TYPE="CONTACT_DATE">16/7/2020</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con gái H.T.K.Y</ENAMEX> đến thăm và chăm sóc cho bệnh nhân.
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">17/7 đến 24/7/2020</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con trai H.Đ.T</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con gái H.T.B.P</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">H.T.K.Y </ENAMEX>đến thăm và chăm sóc cho bệnh nhân.
- - Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">25/7/2020</ENAMEX></ENAMEX>, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện</ENAMEX> cho đến nay. Ngày 06/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">07/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">15/7/2020 đến nay</ENAMEX> những người tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CON_PERSON">con trai H.Đ.T</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con gái H.T.B.P</ENAMEX> thường trú tại Nguyễn Chánh, quận Liên Chiểu, và <ENAMEX TYPE="CON_PERSON">con gái là H.T.K.Y</ENAMEX>.
+ - Ngày <ENAMEX TYPE="CON_DATE">15/7/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="CON_PERSON">con trai H.Đ.T</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con gái H.T.B.P</ENAMEX> đưa đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thận- Nội tiết, Bệnh viện Đà Nẵng</ENAMEX> và được điều trị cho đến nay. Trong suốt quá trình điều trị, bệnh nhân chỉ ở trong Bệnh viện, không đi đến nơi khác.
+ - Ngày <ENAMEX TYPE="CON_DATE">16/7/2020</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con gái H.T.K.Y</ENAMEX> đến thăm và chăm sóc cho bệnh nhân.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">17/7 đến 24/7/2020</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con trai H.Đ.T</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con gái H.T.B.P</ENAMEX> và <ENAMEX TYPE="CON_PERSON">H.T.K.Y </ENAMEX>đến thăm và chăm sóc cho bệnh nhân.
+ - Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">25/7/2020</ENAMEX></ENAMEX>, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện</ENAMEX> cho đến nay. Ngày 06/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">07/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
 Năm sinh: <ENAMEX TYPE="AGE">1956</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

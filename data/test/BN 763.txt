@@ -1,9 +1,9 @@
-Tên: <ENAMEX TYPE="PERSON">BN 763</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 763</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">loc118, phường An Hải Đông, quận Sơn Trà, TP Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc118, phường An Hải Đông, quận Sơn Trà, TP Đà Nẵng</ENAMEX> gồm: <ENAMEX TYPE="CONTACT_PERSON">vợ N.T.Đ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">2 con</ENAMEX>. Bệnh nhân hằng ngày ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đâu hay tiếp xúc với ai ngoài gia đình.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc118, phường An Hải Đông, quận Sơn Trà, TP Đà Nẵng</ENAMEX> gồm: <ENAMEX TYPE="CON_PERSON">vợ N.T.Đ</ENAMEX> và <ENAMEX TYPE="CON_PERSON">2 con</ENAMEX>. Bệnh nhân hằng ngày ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đâu hay tiếp xúc với ai ngoài gia đình.
  - Khoảng thời gian trước ngày 26/7/2020, cứ 01 tuần khoảng 02 lần bệnh nhân đến <ENAMEX TYPE="LOCATION">Khoa Thận nhân tạo, Bệnh viện Đà Nẵng</ENAMEX> để chạy thận nhân tạo (BN điều trị ngoại trú). Bệnh nhân đi một mình bằng phương tiện xe máy. Sau khi chạy thận, bệnh nhân đi xe máy về nhà, không đi đâu, chỉ có tiếp xúc với những người trong gia đình.
- - Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">26/7/2020</ENAMEX></ENAMEX>, bệnh nhân được xe của Bệnh viện Đà Nẵng đến chở lên <ENAMEX TYPE="LOCATION">Bệnh viện</ENAMEX> để chạy thận nhân tạo và sau đó bệnh nhân được cách ly tại đây. Trong ngày, bệnh nhân không tiếp xúc với ai trong gia đình.
+ - Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">26/7/2020</ENAMEX></ENAMEX>, bệnh nhân được xe của Bệnh viện Đà Nẵng đến chở lên <ENAMEX TYPE="LOCATION">Bệnh viện</ENAMEX> để chạy thận nhân tạo và sau đó bệnh nhân được cách ly tại đây. Trong ngày, bệnh nhân không tiếp xúc với ai trong gia đình.
  - Từ ngày 27/7 đến 05/8/2020, Bệnh nhân được chuyển cách ly tại <ENAMEX TYPE="LOCATION">Khách sạn Luna Diamond Đà Nẵng (Địa chỉ: 242-244 Hồ Nghinh, Phước Mỹ, Sơn Trà, Đà Nẵng)</ENAMEX>.
- - Ngày <ENAMEX TYPE="POSITIVE_DATE">07/8/2020</ENAMEX>, bệnh nhân được thông báo kết quả (+) với vi rút SARS-CoV-2. Hiện tại bệnh nhân được chuyển cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX> .
+ - Ngày <ENAMEX TYPE="POS_DATE">07/8/2020</ENAMEX>, bệnh nhân được thông báo kết quả (+) với vi rút SARS-CoV-2. Hiện tại bệnh nhân được chuyển cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX> .
 Năm sinh: <ENAMEX TYPE="AGE">1974</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

@@ -1,11 +1,11 @@
-Bệnh nhân 1347 là <ENAMEX TYPE="PERSON">L.M.S.</ENAMEX>, <ENAMEX TYPE="AGE">32 tuổi</ENAMEX>, quốc tịch Việt Nam, trú tại <ENAMEX TYPE="ADDRESS">Bình Tiên, phường 3, quận 6</ENAMEX>. Bệnh nhân là giáo viên tại hai Trung tâm Anh ngữ ở quận Tân Bình và quận 10. 
+Bệnh nhân 1347 là <ENAMEX TYPE="NAME">L.M.S.</ENAMEX>, <ENAMEX TYPE="AGE">32 tuổi</ENAMEX>, quốc tịch Việt Nam, trú tại <ENAMEX TYPE="ADDRESS">Bình Tiên, phường 3, quận 6</ENAMEX>. Bệnh nhân là giáo viên tại hai Trung tâm Anh ngữ ở quận Tân Bình và quận 10. 
 
-BN1347 từng đến ở cùng <ENAMEX TYPE="CONTACT_PERSON">BN1342</ENAMEX> tại quận Tân Bình trong thời gian bệnh nhân này cách ly tại phòng trọ. 
+BN1347 từng đến ở cùng <ENAMEX TYPE="CON_PERSON">BN1342</ENAMEX> tại quận Tân Bình trong thời gian bệnh nhân này cách ly tại phòng trọ. 
 
-Ngày <ENAMEX TYPE="CONTACT_DATE">16 - 25-11</ENAMEX>, bệnh nhân đi dạy ở <ENAMEX TYPE="LOCATION">Trung tâm Anh ngữ Key English</ENAMEX> của quận 10 và quận Tân Bình, nghỉ trưa tại phòng trọ cùng <ENAMEX TYPE="CONTACT_PERSON">BN1342</ENAMEX>, sau đó về <ENAMEX TYPE="LOCATION">nhà riêng (ở quận 6)</ENAMEX>. 
+Ngày <ENAMEX TYPE="CON_DATE">16 - 25-11</ENAMEX>, bệnh nhân đi dạy ở <ENAMEX TYPE="LOCATION">Trung tâm Anh ngữ Key English</ENAMEX> của quận 10 và quận Tân Bình, nghỉ trưa tại phòng trọ cùng <ENAMEX TYPE="CON_PERSON">BN1342</ENAMEX>, sau đó về <ENAMEX TYPE="LOCATION">nhà riêng (ở quận 6)</ENAMEX>. 
 
-Từ 20 đến 21 giờ ngày <ENAMEX TYPE="CONTACT_DATE">22-11</ENAMEX>, bệnh nhân cùng một người <ENAMEX TYPE="CONTACT_PERSON">bạn</ENAMEX> uống cà phê ở <ENAMEX TYPE="LOCATION">Highlands Vạn Hạnh Mall</ENAMEX>. 
+Từ 20 đến 21 giờ ngày <ENAMEX TYPE="CON_DATE">22-11</ENAMEX>, bệnh nhân cùng một người <ENAMEX TYPE="CON_PERSON">bạn</ENAMEX> uống cà phê ở <ENAMEX TYPE="LOCATION">Highlands Vạn Hạnh Mall</ENAMEX>. 
 
 Từ 26 đến 28-11, người này đi dạy và về nhà riêng, không tiếp xúc với BN1342. 
 
-Tối <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28-11</ENAMEX></ENAMEX></ENAMEX>, BN1347 được chuyển cách ly tập trung tại quận 6 do là người tiếp xúc gần của BN1342 và lấy mẫu xét nghiệm. Hai ngày sau, anh có kết quả dương tính với SARS-CoV-2 và chuyển đến <ENAMEX TYPE="LOCATION">Bệnh viện Dã chiến Củ Chi (TP Hồ Chí Minh)</ENAMEX> điều trị. 
+Tối <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28-11</ENAMEX></ENAMEX></ENAMEX>, BN1347 được chuyển cách ly tập trung tại quận 6 do là người tiếp xúc gần của BN1342 và lấy mẫu xét nghiệm. Hai ngày sau, anh có kết quả dương tính với SARS-CoV-2 và chuyển đến <ENAMEX TYPE="LOCATION">Bệnh viện Dã chiến Củ Chi (TP Hồ Chí Minh)</ENAMEX> điều trị. 

@@ -1,9 +1,9 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 827</ENAMEX>		Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 827</ENAMEX>		Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1966</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">xóm 4, thôn An Bình, xã Nghĩa Kỳ, huyện Tư Nghĩa, tỉnh Quảng Ngãi</ENAMEX>
-- <ENAMEX TYPE="CONTACT_DATE">Ngày 16/7/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">con trai (ct1047)</ENAMEX> đến khám và bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX>.
-- <ENAMEX TYPE="CONTACT_DATE">Từ ngày 17/7 đến 19/7/2020</ENAMEX>, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">con trai (ct1048)</ENAMEX> đến chăm sóc bệnh nhân.
-- <ENAMEX TYPE="CONTACT_DATE">Từ ngày 20/7 đến 02/8/2020</ENAMEX>, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">con trai (ct1049)</ENAMEX> đến chăm sóc bệnh nhân.
-- Từ ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">03/8</ENAMEX></ENAMEX> đến 06/8/2020, bệnh nhân tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX>.
+- <ENAMEX TYPE="CON_DATE">Ngày 16/7/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">con trai (ct1047)</ENAMEX> đến khám và bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX>.
+- <ENAMEX TYPE="CON_DATE">Từ ngày 17/7 đến 19/7/2020</ENAMEX>, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">con trai (ct1048)</ENAMEX> đến chăm sóc bệnh nhân.
+- <ENAMEX TYPE="CON_DATE">Từ ngày 20/7 đến 02/8/2020</ENAMEX>, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">con trai (ct1049)</ENAMEX> đến chăm sóc bệnh nhân.
+- Từ ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">03/8</ENAMEX></ENAMEX> đến 06/8/2020, bệnh nhân tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX>.
 - Ngày 07/8/2020, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khoa Y học nhiệt đới, bệnh viện Đà Nẵng</ENAMEX>.
-- Ngày 09/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">09/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Ngày 09/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">09/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

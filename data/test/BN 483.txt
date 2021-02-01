@@ -1,5 +1,5 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 483</ENAMEX> (ca số  ). Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 483</ENAMEX> (ca số  ). Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1983</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc74, phường Nam Dương, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>
 	- Hiện tại bệnh nhân đang điều trị tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>. Bệnh nhân không hợp tác, không khai báo địa chỉ khi nhập viện.
-- Ngày 28/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2.
+- Ngày 28/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2.

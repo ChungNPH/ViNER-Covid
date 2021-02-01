@@ -1,9 +1,9 @@
-Tên: <ENAMEX TYPE="PERSON">BN 492</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 492</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">Quế Xuân 1, Quế Sơn,tỉnh Quảng Nam.</ENAMEX>
 - Ngày 17/7 đến 30/7/2020: Ngày 13/7/2020 nhập viện tại <ENAMEX TYPE="LOCATION">khoa Phục hồi chức năng, Bệnh viện Đà Nẵng</ENAMEX> và trong thời gian này: 
-+ Ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>: có <ENAMEX TYPE="CONTACT_PERSON">anh trai L.V.T</ENAMEX> đến thăm; 
-+ Ngày <ENAMEX TYPE="ISOLATION_DATE">29/7/2020</ENAMEX>: Bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">khu quân sự Hòa Cầm – Đà Nẵng</ENAMEX> và được lấy mẫu xét nghiệm dịch hầu họng xét nghiệm vi rút SARS-CoV-2.
- - Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">30/7/2020</ENAMEX></ENAMEX> bệnh nhân được thông báo kết quả (+) với vi rút SARS-CoV-2.
++ Ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX>: có <ENAMEX TYPE="CON_PERSON">anh trai L.V.T</ENAMEX> đến thăm; 
++ Ngày <ENAMEX TYPE="ISO_DATE">29/7/2020</ENAMEX>: Bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">khu quân sự Hòa Cầm – Đà Nẵng</ENAMEX> và được lấy mẫu xét nghiệm dịch hầu họng xét nghiệm vi rút SARS-CoV-2.
+ - Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE">30/7/2020</ENAMEX></ENAMEX> bệnh nhân được thông báo kết quả (+) với vi rút SARS-CoV-2.
  - Ngày 31/7/2020, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly và điều trị tại Bệnh viện Hòa Vang</ENAMEX>.
 Năm sinh: <ENAMEX TYPE="AGE">1993</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

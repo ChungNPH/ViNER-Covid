@@ -1,8 +1,8 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 453</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>. 
+- Họ và tên: <ENAMEX TYPE="NAME">BN 453</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>. 
 - Sinh năm: <ENAMEX TYPE="AGE">1964</ENAMEX>.
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc72, phường Mỹ An, quận Ngũ Hành Sơn, thành phố Đà Nẵng</ENAMEX>.
-	- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">01 con gái</ENAMEX> tại địa chỉ loc72, phường Mỹ An, quận Ngũ Hành Sơn, thành phố Đà Nẵng. 
-- Ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">27/7/2020</ENAMEX></ENAMEX>: 
+	- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> và <ENAMEX TYPE="CON_PERSON">01 con gái</ENAMEX> tại địa chỉ loc72, phường Mỹ An, quận Ngũ Hành Sơn, thành phố Đà Nẵng. 
+- Ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="HOS_DATE">27/7/2020</ENAMEX></ENAMEX>: 
 + Sau khi chạy thận xong, bệnh nhân sốt cao được chuyển vào cấp cứu, sau đó chuyển <ENAMEX TYPE="LOCATION">khoa Y học nhiệt đới, Bệnh viện Đà Nẵng</ENAMEX>
 + Tại <ENAMEX TYPE="LOCATION">khoa Y học nhiệt đới</ENAMEX>, ghi nhận bệnh nhân được điều trị tại <ENAMEX TYPE="LOCATION">khoa Nội Thận - Nội tiết</ENAMEX> trong khoảng 3 tuần và đã ra viện được 5 ngày nay.
-1. Ngày 27/7/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng đã phối hợp với Bệnh viện  Đà Nẵng tiến hành giám sát và lấy mẫu xét nghiệm. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">29/7/2020</ENAMEX></ENAMEX></ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.
+1. Ngày 27/7/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng đã phối hợp với Bệnh viện  Đà Nẵng tiến hành giám sát và lấy mẫu xét nghiệm. Kết quả xét nghiệm ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">29/7/2020</ENAMEX></ENAMEX></ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

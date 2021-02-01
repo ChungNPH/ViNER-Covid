@@ -1,10 +1,10 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 423</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>. 
+- Họ và tên: <ENAMEX TYPE="NAME">BN 423</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>. 
 - Sinh năm: <ENAMEX TYPE="AGE">1979</ENAMEX>.
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Dương Sơn, xã Hòa Châu, huyện Hòa Vang, TP. Đà Nẵng</ENAMEX>.
-	- Bệnh nhân là Điều dưỡng tại <ENAMEX TYPE="LOCATION">khoa Hồi sức tích cực - Chống độc</ENAMEX>, bệnh viện Đà Nẵng, hiện đang ở nhà với <ENAMEX TYPE="CONTACT_PERSON">ba và mẹ</ENAMEX> tại địa chỉ: thôn Dương Sơn, xã Hòa Châu, huyện Hòa Vang, TP. Đà Nẵng.
+	- Bệnh nhân là Điều dưỡng tại <ENAMEX TYPE="LOCATION">khoa Hồi sức tích cực - Chống độc</ENAMEX>, bệnh viện Đà Nẵng, hiện đang ở nhà với <ENAMEX TYPE="CON_PERSON">ba và mẹ</ENAMEX> tại địa chỉ: thôn Dương Sơn, xã Hòa Châu, huyện Hòa Vang, TP. Đà Nẵng.
 - Buổi sáng vào các ngày 20 đến 25/7/2020, bệnh nhân ăn sáng tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và <ENAMEX TYPE="LOCATION">quá Bún trên vỉa hè ở đối diện địa chỉ 152 Lê Duẩn, phường Thạch Thang, quận Hải Châu, thành phố Đà Nẵng, (chợ đêm Lê Duẩn)</ENAMEX>; ăn trưa và ăn tối tại nhà và tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>.
-	- Ngày <ENAMEX TYPE="CONTACT_DATE">24/7/2020</ENAMEX> có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">ca bệnh số 416</ENAMEX> trong khoảng thời gian 3 phút.
-- Ngày <ENAMEX TYPE="POSITIVE_DATE">26/7/2020</ENAMEX> bệnh nhân được xét nghiệm dịch hầu họng làm xét nghiệm và cho kết quả  (+) với vi rút SARS-CoV-2.
-	- Sáng ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX></ENAMEX> bệnh nhân được đưa vào <ENAMEX TYPE="LOCATION">khu cách ly tại ngay tại khoa Hồi sức tích cực - Chống độc, bệnh viện Đà Nẵng</ENAMEX>.
+	- Ngày <ENAMEX TYPE="CON_DATE">24/7/2020</ENAMEX> có tiếp xúc với <ENAMEX TYPE="CON_PERSON">ca bệnh số 416</ENAMEX> trong khoảng thời gian 3 phút.
+- Ngày <ENAMEX TYPE="POS_DATE">26/7/2020</ENAMEX> bệnh nhân được xét nghiệm dịch hầu họng làm xét nghiệm và cho kết quả  (+) với vi rút SARS-CoV-2.
+	- Sáng ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">27/7/2020</ENAMEX></ENAMEX> bệnh nhân được đưa vào <ENAMEX TYPE="LOCATION">khu cách ly tại ngay tại khoa Hồi sức tích cực - Chống độc, bệnh viện Đà Nẵng</ENAMEX>.
 - Ngoài ra, trong vòng 14 ngày qua, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và đi làm tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>.
-1. Ngày 26/7/2020, Bệnh viện Đà Nẵng đã thực hiện lấy mẫu gửi đến Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE">27/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.
+1. Ngày 26/7/2020, Bệnh viện Đà Nẵng đã thực hiện lấy mẫu gửi đến Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng. Kết quả xét nghiệm ngày <ENAMEX TYPE="POS_DATE">27/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

@@ -1,18 +1,18 @@
-Tên: <ENAMEX TYPE="PERSON">BN 956</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 956</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">tổ 85 phường An Hải Bắc, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">tổ 85 phường An Hải Bắc, quận Sơn Trà, TP Đà Nẵng</ENAMEX></ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">22/7/2020</ENAMEX>, bệnh nhân đến gặp bạn (khoảng 12-13 người) tại <ENAMEX TYPE="LOCATION">nhà hàng Phước Thái trên đường Hồ Nghinh, quận Sơn Trà</ENAMEX> (tại đây có <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân số 680 và 736</ENAMEX>).
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">tổ 85 phường An Hải Bắc, quận Sơn Trà, TP Đà Nẵng</ENAMEX></ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">22/7/2020</ENAMEX>, bệnh nhân đến gặp bạn (khoảng 12-13 người) tại <ENAMEX TYPE="LOCATION">nhà hàng Phước Thái trên đường Hồ Nghinh, quận Sơn Trà</ENAMEX> (tại đây có <ENAMEX TYPE="CON_PERSON">bệnh nhân số 680 và 736</ENAMEX>).
 - Ngày 23/7/2020, bệnh nhân đến <ENAMEX TYPE="LOCATION">chợ Mân Thái</ENAMEX> bằng xe máy cá nhân sau đó trở về nhà.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">24/7</ENAMEX> đến ngày 26/7/2020, bệnh nhân ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX>, bệnh nhân gặp và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">chị ct363, là đồng nghiệp của chồng</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">anh ct364 (hàng xóm)</ENAMEX> ở ngoài đường.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">28/7/2020</ENAMEX> đến ngày 01/8/2020, khoảng thời gian này bệnh nhân chủ yếu ở nhà, thỉnh thoảng có mua hàng tạp hóa tại <ENAMEX TYPE="CONTACT_PERSON"><ENAMEX TYPE="LOCATION">quán cô H</ENAMEX></ENAMEX> gần nhà và tiếp xúc với những người ở xung quanh nơi cư trú (không nhớ rõ thời điểm cụ thể).
+- Từ ngày <ENAMEX TYPE="CON_DATE">24/7</ENAMEX> đến ngày 26/7/2020, bệnh nhân ở nhà và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">27/7/2020</ENAMEX>, bệnh nhân gặp và tiếp xúc với <ENAMEX TYPE="CON_PERSON">chị ct363, là đồng nghiệp của chồng</ENAMEX> và <ENAMEX TYPE="CON_PERSON">anh ct364 (hàng xóm)</ENAMEX> ở ngoài đường.
+- Từ ngày <ENAMEX TYPE="CON_DATE">28/7/2020</ENAMEX> đến ngày 01/8/2020, khoảng thời gian này bệnh nhân chủ yếu ở nhà, thỉnh thoảng có mua hàng tạp hóa tại <ENAMEX TYPE="CON_PERSON"><ENAMEX TYPE="LOCATION">quán cô H</ENAMEX></ENAMEX> gần nhà và tiếp xúc với những người ở xung quanh nơi cư trú (không nhớ rõ thời điểm cụ thể).
 - Ngày 02/8/2020, gia đình bệnh nhân đến <ENAMEX TYPE="LOCATION">nhà mẹ tại đường Nguyễn Xuân Khoát, quận Sơn Trà</ENAMEX> ở và trông nhà (mẹ bệnh nhân đi TP Hồ Chí Minh).
-- Từ ngày 03 đến ngày <ENAMEX TYPE="CONTACT_DATE">05/8/2020</ENAMEX>, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">nhà mẹ</ENAMEX> và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
-- Sáng ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">06/8/2020</ENAMEX></ENAMEX>, Khi bệnh nhân số 680 và 736 có kết quả xét nghiệm (+) với vi rút SARS-CoV-2, đến khoảng 16 giờ cùng ngày, bệnh nhân được đưa đến cách ly tại <ENAMEX TYPE="LOCATION">Học viện Chính trị Khu vực III ở 232 Nguyễn Công Trứ, quận Sơn Trà</ENAMEX>.
+- Từ ngày 03 đến ngày <ENAMEX TYPE="CON_DATE">05/8/2020</ENAMEX>, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">nhà mẹ</ENAMEX> và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Sáng ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">06/8/2020</ENAMEX></ENAMEX>, Khi bệnh nhân số 680 và 736 có kết quả xét nghiệm (+) với vi rút SARS-CoV-2, đến khoảng 16 giờ cùng ngày, bệnh nhân được đưa đến cách ly tại <ENAMEX TYPE="LOCATION">Học viện Chính trị Khu vực III ở 232 Nguyễn Công Trứ, quận Sơn Trà</ENAMEX>.
 - Từ ngày 08 đến ngày 10/8/2020, bệnh nhân tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">Học viện Chính trị Khu vực III</ENAMEX>.
 - Ngày 11/8/2020, tại khu cách ly, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 2), đến sáng ngày 12/8/2020, có kết quả xét nghiệm nghi ngờ với vi rút SARS-CoV-2 và đến 12 giờ cùng ngày, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
 - Ngày 14/8/2020, bệnh nhân tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
-- Ngày <ENAMEX TYPE="POSITIVE_DATE">15/8/2020</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 4) và có kết quả (+) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="POS_DATE">15/8/2020</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 4) và có kết quả (+) với vi rút SARS-CoV-2.
  Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>
 Năm sinh: <ENAMEX TYPE="AGE">1980</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

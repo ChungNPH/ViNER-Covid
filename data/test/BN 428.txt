@@ -1,10 +1,10 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 428</ENAMEX>          Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>.
+- Họ và tên: <ENAMEX TYPE="NAME">BN 428</ENAMEX>          Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>.
 - Sinh năm: <ENAMEX TYPE="AGE">1950</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">phường Minh An, thành phố Hội An, tỉnh Quảng Nam</ENAMEX>.
-	Bệnh nhân khai là chung sống với cùng <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> Bùi Dũng tại Phường Minh An, thành phố Hội An, tỉnh Quảng Nam. Tiền sử suy thận mạn, tăng huyết áp, suy tim.
-Ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">09/7/2020</ENAMEX></ENAMEX> bệnh nhân thấy tức ngực, mệt vào nhập viện tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>. 
-	Từ ngày <ENAMEX TYPE="CONTACT_DATE">09/7/2020</ENAMEX> đến nay bệnh nhân được điều trị tại <ENAMEX TYPE="LOCATION">khoa Nội – Tiết Niệu, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian Bệnh nhân không được ai đến thăm, chỉ được người nhà chăm sóc là <ENAMEX TYPE="CONTACT_PERSON">Bùi Dũng</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct60</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">ct61</ENAMEX>.
-	Ngày <ENAMEX TYPE="POSITIVE_DATE">26/7/2020</ENAMEX> bệnh nhân được xét nghiệm dịch hầu họng cho thấy (+) với vi rút SARS-CoV-2.
-	Ngày <ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX> bệnh nhân được đưa vào <ENAMEX TYPE="LOCATION">khu vực cách ly tại khoa Nội – Tiết Niệu, Bệnh viện Đà Nẵng</ENAMEX>. 
-- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">09/07/2020</ENAMEX>, bệnh nhân khởi bệnh với triệu chứng bệnh nhân thấy tức ngực, mệt vào nhập viện tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>. Tiền sử bệnh thận mạn, tăng huyết áp, suy tim.
-1. Ngày 26/7/2020, Bệnh viện Đà Nẵng đã thực hiện lấy mẫu gửi đến Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE">27/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.
+	Bệnh nhân khai là chung sống với cùng <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX> Bùi Dũng tại Phường Minh An, thành phố Hội An, tỉnh Quảng Nam. Tiền sử suy thận mạn, tăng huyết áp, suy tim.
+Ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="HOS_DATE">09/7/2020</ENAMEX></ENAMEX> bệnh nhân thấy tức ngực, mệt vào nhập viện tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>. 
+	Từ ngày <ENAMEX TYPE="CON_DATE">09/7/2020</ENAMEX> đến nay bệnh nhân được điều trị tại <ENAMEX TYPE="LOCATION">khoa Nội – Tiết Niệu, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian Bệnh nhân không được ai đến thăm, chỉ được người nhà chăm sóc là <ENAMEX TYPE="CON_PERSON">Bùi Dũng</ENAMEX>, <ENAMEX TYPE="CON_PERSON">ct60</ENAMEX> và <ENAMEX TYPE="CON_PERSON">ct61</ENAMEX>.
+	Ngày <ENAMEX TYPE="POS_DATE">26/7/2020</ENAMEX> bệnh nhân được xét nghiệm dịch hầu họng cho thấy (+) với vi rút SARS-CoV-2.
+	Ngày <ENAMEX TYPE="ISO_DATE">27/7/2020</ENAMEX> bệnh nhân được đưa vào <ENAMEX TYPE="LOCATION">khu vực cách ly tại khoa Nội – Tiết Niệu, Bệnh viện Đà Nẵng</ENAMEX>. 
+- Ngày <ENAMEX TYPE="SYM_DATE">09/07/2020</ENAMEX>, bệnh nhân khởi bệnh với triệu chứng bệnh nhân thấy tức ngực, mệt vào nhập viện tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>. Tiền sử bệnh thận mạn, tăng huyết áp, suy tim.
+1. Ngày 26/7/2020, Bệnh viện Đà Nẵng đã thực hiện lấy mẫu gửi đến Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng. Kết quả xét nghiệm ngày <ENAMEX TYPE="POS_DATE">27/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

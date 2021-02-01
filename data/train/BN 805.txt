@@ -1,9 +1,9 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 805</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 805</ENAMEX>	Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1980</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc397, quận Liên Chiểu, Tp. Đà Nẵng</ENAMEX> 
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">chồng (ct1258)</ENAMEX> tại <ENAMEX TYPE="LOCATION">phòng trọ loc397, quận Liên Chiểu, Tp. Đà Nẵng</ENAMEX>.
-- <ENAMEX TYPE="CONTACT_DATE">Khoảng 20 giờ ngày 22/7/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX> thăm <ENAMEX TYPE="CONTACT_PERSON">anh trai ct1259</ENAMEX>, đến 20 giờ 30, bệnh nhân trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">chồng (ct1258)</ENAMEX> tại <ENAMEX TYPE="LOCATION">phòng trọ loc397, quận Liên Chiểu, Tp. Đà Nẵng</ENAMEX>.
+- <ENAMEX TYPE="CON_DATE">Khoảng 20 giờ ngày 22/7/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX> thăm <ENAMEX TYPE="CON_PERSON">anh trai ct1259</ENAMEX>, đến 20 giờ 30, bệnh nhân trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
 - Từ ngày 23/7 đến 03/8/2020, bệnh nhân đi làm ở <ENAMEX TYPE="LOCATION">công ty TNHH Matrix Việt Nam tại đường số 3 Khu công nghiệp Hoà Khánh, phường Hoà Khánh Bắc, quận Liên Chiểu, Tp. Đà Nẵng</ENAMEX>, tại đây bệnh nhân tiếp xúc với khoảng 20 người sau đó Bệnh nhân trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
-- <ENAMEX TYPE="CONTACT_DATE">Ngày 02/8/2020</ENAMEX>, có <ENAMEX TYPE="CONTACT_PERSON">chị ct1260</ENAMEX> cùng dãy trọ đến <ENAMEX TYPE="LOCATION">phòng trọ</ENAMEX> bệnh nhân chơi.
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">04/8/2020</ENAMEX></ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Liên Chiểu</ENAMEX> khai báo y tế, sau đó bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Khu ký túc xá trường Đại học Sư phạm ở 459 Tôn Đức Thắng, quận Liên Chiểu, Tp. Đà Nẵng</ENAMEX>.
-- Ngày 06/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">08/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- <ENAMEX TYPE="CON_DATE">Ngày 02/8/2020</ENAMEX>, có <ENAMEX TYPE="CON_PERSON">chị ct1260</ENAMEX> cùng dãy trọ đến <ENAMEX TYPE="LOCATION">phòng trọ</ENAMEX> bệnh nhân chơi.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">04/8/2020</ENAMEX></ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Liên Chiểu</ENAMEX> khai báo y tế, sau đó bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Khu ký túc xá trường Đại học Sư phạm ở 459 Tôn Đức Thắng, quận Liên Chiểu, Tp. Đà Nẵng</ENAMEX>.
+- Ngày 06/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">08/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

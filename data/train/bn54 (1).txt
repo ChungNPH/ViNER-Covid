@@ -1,11 +1,11 @@
-<ENAMEX TYPE="PERSON">Bệnh nhân số 54</ENAMEX> là <ENAMEX TYPE="SEX">nam</ENAMEX> giới, sinh năm <ENAMEX TYPE="AGE">1987</ENAMEX>, phát hiện dương tính với COVID-19 tại TP.HCM, nhưng trước đó đã di chuyển nhiều nơi. 
+<ENAMEX TYPE="NAME">Bệnh nhân số 54</ENAMEX> là <ENAMEX TYPE="GENDER">nam</ENAMEX> giới, sinh năm <ENAMEX TYPE="AGE">1987</ENAMEX>, phát hiện dương tính với COVID-19 tại TP.HCM, nhưng trước đó đã di chuyển nhiều nơi. 
 
-- Ngày <ENAMEX TYPE="CONTACT_DATE">8/3</ENAMEX>, bệnh nhân này cùng <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> đáp <ENAMEX TYPE="LOCATION">chuyến bay TK162</ENAMEX> từ <ENAMEX TYPE="LOCATION">Tây Ban Nha</ENAMEX> tới <ENAMEX TYPE="LOCATION">TP.HCM</ENAMEX>. 
+- Ngày <ENAMEX TYPE="CON_DATE">8/3</ENAMEX>, bệnh nhân này cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> đáp <ENAMEX TYPE="LOCATION">chuyến bay TK162</ENAMEX> từ <ENAMEX TYPE="LOCATION">Tây Ban Nha</ENAMEX> tới <ENAMEX TYPE="LOCATION">TP.HCM</ENAMEX>. 
 
-- Ngày <ENAMEX TYPE="CONTACT_DATE">09/3</ENAMEX>, bệnh nhân đi <ENAMEX TYPE="LOCATION">Phú Quốc</ENAMEX> cùng <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> trên <ENAMEX TYPE="LOCATION">chuyến bay QH 1521</ENAMEX> và lưu trú tại <ENAMEX TYPE="LOCATION">khách sạn La Nube Residence</ENAMEX> từ 09-13/3.
+- Ngày <ENAMEX TYPE="CON_DATE">09/3</ENAMEX>, bệnh nhân đi <ENAMEX TYPE="LOCATION">Phú Quốc</ENAMEX> cùng <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX> trên <ENAMEX TYPE="LOCATION">chuyến bay QH 1521</ENAMEX> và lưu trú tại <ENAMEX TYPE="LOCATION">khách sạn La Nube Residence</ENAMEX> từ 09-13/3.
 
-- Ngày <ENAMEX TYPE="CONTACT_DATE">13/3</ENAMEX>, bệnh nhân về lại <ENAMEX TYPE="LOCATION">TP.HCM</ENAMEX> trên <ENAMEX TYPE="LOCATION">chuyến bay QH 1524</ENAMEX> cùng <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> và ở tại <ENAMEX TYPE="LOCATION">các khách sạn thuộc quận 1 và 4</ENAMEX>. 
+- Ngày <ENAMEX TYPE="CON_DATE">13/3</ENAMEX>, bệnh nhân về lại <ENAMEX TYPE="LOCATION">TP.HCM</ENAMEX> trên <ENAMEX TYPE="LOCATION">chuyến bay QH 1524</ENAMEX> cùng <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX> và ở tại <ENAMEX TYPE="LOCATION">các khách sạn thuộc quận 1 và 4</ENAMEX>. 
 
-- Khoảng 16 giờ ngày <ENAMEX TYPE="SYMPTOMS_DATE">14/3</ENAMEX>, bệnh nhân có biểu hiện sốt, tự đi khám tại <ENAMEX TYPE="LOCATION">Bệnh viện Bệnh Nhiệt đới TP.HCM</ENAMEX>.
-được lấy mẫu xét nghiệm, cho kết quả dương tính ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">14/3</ENAMEX></ENAMEX></ENAMEX>. Sau đó, mẫu bệnh phẩm tiếp tục được gửi đến Viện Pasteur TP.HCM, xét nghiệm bằng kỹ thuật RT-PCR cho kết quả xét nghiệm dương tính với COVID-19 ngày 15/3. Hiện bệnh nhân 54 đang được điều trị cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Bệnh Nhiệt đới TP.HCM</ENAMEX>. 
+- Khoảng 16 giờ ngày <ENAMEX TYPE="SYM_DATE">14/3</ENAMEX>, bệnh nhân có biểu hiện sốt, tự đi khám tại <ENAMEX TYPE="LOCATION">Bệnh viện Bệnh Nhiệt đới TP.HCM</ENAMEX>.
+được lấy mẫu xét nghiệm, cho kết quả dương tính ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">14/3</ENAMEX></ENAMEX></ENAMEX>. Sau đó, mẫu bệnh phẩm tiếp tục được gửi đến Viện Pasteur TP.HCM, xét nghiệm bằng kỹ thuật RT-PCR cho kết quả xét nghiệm dương tính với COVID-19 ngày 15/3. Hiện bệnh nhân 54 đang được điều trị cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Bệnh Nhiệt đới TP.HCM</ENAMEX>. 
 

@@ -1,10 +1,10 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 803</ENAMEX>		Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 803</ENAMEX>		Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">2007</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc417, phường Hoà Cường Nam, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">mẹ (ct1335, bệnh nhân số 724)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">bố (ct1336, bệnh nhân số 801)</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">em trai (ct1337)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc417, phường Hoà Cường Nam, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>.
-- <ENAMEX TYPE="CONTACT_DATE">Ngày 25/7 và 26/7/2020</ENAMEX>, bệnh nhân học thêm Anh Văn tại <ENAMEX TYPE="LOCATION">nhà loc417, phường Hoà Cường Nam, quận Hải Châu, Tp. Đà Nẵng</ENAMEX> và có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">cô giáo (ct1338).</ENAMEX>
-- <ENAMEX TYPE="CONTACT_DATE">Ngày 21/7, 23/7 và 25/7/2020</ENAMEX>, bệnh nhân học thêm Toán, Lý tại <ENAMEX TYPE="LOCATION">lớp <ENAMEX TYPE="CONTACT_PERSON">cô giáo ct1339</ENAMEX> tại 421/23 Hoàng Diệu, quận Hải Châu</ENAMEX> (lớp học khoảng 15 đến 20 học sinh).
-- <ENAMEX TYPE="CONTACT_DATE">Ngày 25/7/2020</ENAMEX>, bệnh nhân đi ăn trưa cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">nhà hàng Quê Hương ở xã Hoà Sơn, huyện Hoà Vang, Tp. Đà Nẵng</ENAMEX>.
-- Từ ngày <ENAMEX TYPE="ISOLATION_DATE">26/7</ENAMEX> đến 04/8/2020, bệnh nhân tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE">05/8/2020</ENAMEX>, bệnh nhân được đưa đi cách tại <ENAMEX TYPE="LOCATION">trường tiểu học Lê Đình Chinh đường 2/9, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>.
-- Ngày 07/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">08/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">mẹ (ct1335, bệnh nhân số 724)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">bố (ct1336, bệnh nhân số 801)</ENAMEX> và <ENAMEX TYPE="CON_PERSON">em trai (ct1337)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc417, phường Hoà Cường Nam, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>.
+- <ENAMEX TYPE="CON_DATE">Ngày 25/7 và 26/7/2020</ENAMEX>, bệnh nhân học thêm Anh Văn tại <ENAMEX TYPE="LOCATION">nhà loc417, phường Hoà Cường Nam, quận Hải Châu, Tp. Đà Nẵng</ENAMEX> và có tiếp xúc với <ENAMEX TYPE="CON_PERSON">cô giáo (ct1338).</ENAMEX>
+- <ENAMEX TYPE="CON_DATE">Ngày 21/7, 23/7 và 25/7/2020</ENAMEX>, bệnh nhân học thêm Toán, Lý tại <ENAMEX TYPE="LOCATION">lớp <ENAMEX TYPE="CON_PERSON">cô giáo ct1339</ENAMEX> tại 421/23 Hoàng Diệu, quận Hải Châu</ENAMEX> (lớp học khoảng 15 đến 20 học sinh).
+- <ENAMEX TYPE="CON_DATE">Ngày 25/7/2020</ENAMEX>, bệnh nhân đi ăn trưa cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">nhà hàng Quê Hương ở xã Hoà Sơn, huyện Hoà Vang, Tp. Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="ISO_DATE">26/7</ENAMEX> đến 04/8/2020, bệnh nhân tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOS_DATE">05/8/2020</ENAMEX>, bệnh nhân được đưa đi cách tại <ENAMEX TYPE="LOCATION">trường tiểu học Lê Đình Chinh đường 2/9, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>.
+- Ngày 07/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">08/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

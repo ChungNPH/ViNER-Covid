@@ -1,9 +1,9 @@
-Tên: <ENAMEX TYPE="PERSON">BN 739</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 739</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Phong Thử, xã Điện thọ, Điện Bàn, tỉnh Quảng Nam </ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">thôn Phong Thử, xã Điện thọ, huyện Điện Bàn, tỉnh Quảng Nam</ENAMEX>.
- - Ngày <ENAMEX TYPE="CONTACT_DATE">05/7/2020</ENAMEX>, bệnh nhân đưa <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">khoa Ngoại thần kinh, Bệnh viện Đà Nẵng</ENAMEX>.
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">05/7 đến 05/8/2020</ENAMEX>, bệnh nhân thường xuyên đến chăm sóc <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa Ngoại thần kinh, Bệnh viện Đà Nẵng</ENAMEX> và trong thời gian này, bệnh nhân chỉ ở trong bệnh viện, không đi đến nơi khác.
- - Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">05/8/2020</ENAMEX></ENAMEX>, bệnh nhân được chuyển cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
- - Ngày 05/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">05/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">thôn Phong Thử, xã Điện thọ, huyện Điện Bàn, tỉnh Quảng Nam</ENAMEX>.
+ - Ngày <ENAMEX TYPE="CON_DATE">05/7/2020</ENAMEX>, bệnh nhân đưa <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">khoa Ngoại thần kinh, Bệnh viện Đà Nẵng</ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">05/7 đến 05/8/2020</ENAMEX>, bệnh nhân thường xuyên đến chăm sóc <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa Ngoại thần kinh, Bệnh viện Đà Nẵng</ENAMEX> và trong thời gian này, bệnh nhân chỉ ở trong bệnh viện, không đi đến nơi khác.
+ - Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">05/8/2020</ENAMEX></ENAMEX>, bệnh nhân được chuyển cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
+ - Ngày 05/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">05/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
 Năm sinh: <ENAMEX TYPE="AGE">1967</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

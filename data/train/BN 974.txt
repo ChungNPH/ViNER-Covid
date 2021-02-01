@@ -1,14 +1,14 @@
-Tên: <ENAMEX TYPE="PERSON">BN 974</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 974</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Phú Hòa 2, xã Hòa Nhơn, huyện Hòa Vang, Tp. Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">bố ct159</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">mẹ ct160</ENAMEX> (là bệnh nhân điều trị tại <ENAMEX TYPE="LOCATION">Khoa Ngoại tổng hợp, Bệnh viện Đà Nẵng</ENAMEX> từ ngày <ENAMEX TYPE="CONTACT_DATE">21/7 đến 26/7/2020</ENAMEX>) và <ENAMEX TYPE="CONTACT_PERSON">em gái ct161ENAMEX></ENAMEX>.
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">20/7</ENAMEX> đến 24/7/2020 (không nhớ rõ ngày), bệnh nhân đến tham dự đám giỗ tại <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">anh ct162</ENAMEX></ENAMEX> (không nhớ rõ địa chỉ). 
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">bố ct159</ENAMEX>, <ENAMEX TYPE="CON_PERSON">mẹ ct160</ENAMEX> (là bệnh nhân điều trị tại <ENAMEX TYPE="LOCATION">Khoa Ngoại tổng hợp, Bệnh viện Đà Nẵng</ENAMEX> từ ngày <ENAMEX TYPE="CON_DATE">21/7 đến 26/7/2020</ENAMEX>) và <ENAMEX TYPE="CON_PERSON">em gái ct161ENAMEX></ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">20/7</ENAMEX> đến 24/7/2020 (không nhớ rõ ngày), bệnh nhân đến tham dự đám giỗ tại <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CON_PERSON">anh ct162</ENAMEX></ENAMEX> (không nhớ rõ địa chỉ). 
  - Ngày 26/7/2020, bệnh nhân tham dự đám cưới tại <ENAMEX TYPE="LOCATION">nhà hàng Lan Anh, xã Hòa Phong, huyện Hòa Vang</ENAMEX>.
  - Bệnh nhân đến <ENAMEX TYPE="LOCATION">quán cà phê võng</ENAMEX> và <ENAMEX TYPE="LOCATION">quán bánh mỳ Hai Dũng tại thôn Phú Hòa 2, xã Hòa Nhơn, huyện Hòa Vang</ENAMEX>.
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">27/7</ENAMEX> đến 10/8/2020, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">27/7</ENAMEX> đến 10/8/2020, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
  - Ngày 11/8/2020, tại <ENAMEX TYPE="LOCATION">thôn Thái Lai, xã Hòa Nhơn, huyện Hòa Vang</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 1) và có kết quả (-) với vi rút SARS-CoV-2.
- - Ngày <ENAMEX TYPE="CONTACT_DATE">12/8/2020</ENAMEX>, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
- - Ngày <ENAMEX TYPE="CONTACT_DATE">13/8</ENAMEX>, 14/8 và 15/8/2020, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
- - Ngày 16/8/2020 tại <ENAMEX TYPE="LOCATION">thôn Thái Lai, xã Hòa Nhơn, huyện Hòa Vang</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 2) và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">17/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+ - Ngày <ENAMEX TYPE="CON_DATE">12/8/2020</ENAMEX>, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+ - Ngày <ENAMEX TYPE="CON_DATE">13/8</ENAMEX>, 14/8 và 15/8/2020, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+ - Ngày 16/8/2020 tại <ENAMEX TYPE="LOCATION">thôn Thái Lai, xã Hòa Nhơn, huyện Hòa Vang</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 2) và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">17/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
  Hiện tại, bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>
 Năm sinh: <ENAMEX TYPE="AGE">1987</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

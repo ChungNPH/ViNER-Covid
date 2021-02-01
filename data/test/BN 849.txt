@@ -1,16 +1,16 @@
-Tên: <ENAMEX TYPE="PERSON">BN 849</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 849</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS"> Chung cư B1, đường Dương Vân Nga, phường Nại Hiên Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>
  - Bệnh nhân làm nghề thợ may, từ khi giãn cách xã hội tại Đà Nẵng đến nay đã hoãn công việc và chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> nội trợ.
- - Bệnh nhân sống cùng với <ENAMEX TYPE="CONTACT_PERSON">chồng là Đ.V.T</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">2 con</ENAMEX> tại <ENAMEX TYPE="LOCATION">Chung cư B1, đường Dương Vân Nga</ENAMEX>.
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX>, bệnh nhân và <ENAMEX TYPE="CONTACT_PERSON">2 con</ENAMEX> chuyển đến ở với <ENAMEX TYPE="CONTACT_PERSON">mẹ là T.T. T</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">em gái N.T. T.C</ENAMEX> cùng chung cư.
- - Ngày <ENAMEX TYPE="CONTACT_DATE">28/7/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân 686 (xác định mắc COVID-19 ngày 03/8/2020)</ENAMEX>.
- - Ngày <ENAMEX TYPE="CONTACT_DATE">1/8/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION"><ENAMEX TYPE="CONTACT_PERSON">nhà chị K</ENAMEX> ở khu An Hòa (gần chung cư chung cư B1, đường Dương Vân Nga, không nhớ rõ địa chỉ)</ENAMEX>.
- - Bệnh nhân giúp việc nhà bệnh nhân 686, có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">cháu của bệnh nhân 686</ENAMEX>.
- - Hằng ngày bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ Nại Hiên Đông, quận Sơn Trà</ENAMEX>, thường hay mua thịt ở <ENAMEX TYPE="LOCATION">sạp <ENAMEX TYPE="CONTACT_PERSON">bà Ư</ENAMEX>, mua rau củ ở ven đường (không nhớ rõ tên)</ENAMEX>.
- - Ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">5/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly tập trung</ENAMEX> (cùng phòng với <ENAMEX TYPE="CONTACT_PERSON">chị L</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">chị H</ENAMEX>). Bệnh nhân không ho, không sốt, không khó thở, đau họng; được lấy mẫu lần 1 xét nghiệm dịch hầu họng và có kết quả (-) với vi rút SARS-CoV-2.
- - Ngày <ENAMEX TYPE="SYMPTOMS_DATE">08/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng sốt.
- - Ngày 9/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng lần 2 và ngày <ENAMEX TYPE="POSITIVE_DATE">10/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+ - Bệnh nhân sống cùng với <ENAMEX TYPE="CON_PERSON">chồng là Đ.V.T</ENAMEX> và <ENAMEX TYPE="CON_PERSON">2 con</ENAMEX> tại <ENAMEX TYPE="LOCATION">Chung cư B1, đường Dương Vân Nga</ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">27/7/2020</ENAMEX>, bệnh nhân và <ENAMEX TYPE="CON_PERSON">2 con</ENAMEX> chuyển đến ở với <ENAMEX TYPE="CON_PERSON">mẹ là T.T. T</ENAMEX> và <ENAMEX TYPE="CON_PERSON">em gái N.T. T.C</ENAMEX> cùng chung cư.
+ - Ngày <ENAMEX TYPE="CON_DATE">28/7/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và tiếp xúc với <ENAMEX TYPE="CON_PERSON">bệnh nhân 686 (xác định mắc COVID-19 ngày 03/8/2020)</ENAMEX>.
+ - Ngày <ENAMEX TYPE="CON_DATE">1/8/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION"><ENAMEX TYPE="CON_PERSON">nhà chị K</ENAMEX> ở khu An Hòa (gần chung cư chung cư B1, đường Dương Vân Nga, không nhớ rõ địa chỉ)</ENAMEX>.
+ - Bệnh nhân giúp việc nhà bệnh nhân 686, có tiếp xúc với <ENAMEX TYPE="CON_PERSON">cháu của bệnh nhân 686</ENAMEX>.
+ - Hằng ngày bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ Nại Hiên Đông, quận Sơn Trà</ENAMEX>, thường hay mua thịt ở <ENAMEX TYPE="LOCATION">sạp <ENAMEX TYPE="CON_PERSON">bà Ư</ENAMEX>, mua rau củ ở ven đường (không nhớ rõ tên)</ENAMEX>.
+ - Ngày <ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">5/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly tập trung</ENAMEX> (cùng phòng với <ENAMEX TYPE="CON_PERSON">chị L</ENAMEX>, <ENAMEX TYPE="CON_PERSON">chị H</ENAMEX>). Bệnh nhân không ho, không sốt, không khó thở, đau họng; được lấy mẫu lần 1 xét nghiệm dịch hầu họng và có kết quả (-) với vi rút SARS-CoV-2.
+ - Ngày <ENAMEX TYPE="SYM_DATE">08/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng sốt.
+ - Ngày 9/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng lần 2 và ngày <ENAMEX TYPE="POS_DATE">10/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
  - Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện dã chiến Hòa Vang</ENAMEX>.
-Nguồn lây: <ENAMEX TYPE="CONTACT_PERSON">BN686</ENAMEX> (người tiếp xúc)
+Nguồn lây: <ENAMEX TYPE="CON_PERSON">BN686</ENAMEX> (người tiếp xúc)
 Năm sinh: <ENAMEX TYPE="AGE">1981</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

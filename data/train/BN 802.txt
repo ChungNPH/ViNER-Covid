@@ -1,10 +1,10 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 802</ENAMEX>		Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 802</ENAMEX>		Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1957</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">Chung cư A3 Vũng Thùng, phường Nại Hiên Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>
 - Bệnh nhân sống 1 mình tại <ENAMEX TYPE="LOCATION">Chung cư A3 Vũng Thùng, phường Nại Hiên Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.
-- <ENAMEX TYPE="CONTACT_DATE">Từ ngày 22/7 đến 24/7/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">bệnh viện Đa khoa Gia đình Đà Nẵng</ENAMEX> để chăm sóc <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân số 497</ENAMEX>.
+- <ENAMEX TYPE="CON_DATE">Từ ngày 22/7 đến 24/7/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">bệnh viện Đa khoa Gia đình Đà Nẵng</ENAMEX> để chăm sóc <ENAMEX TYPE="CON_PERSON">bệnh nhân số 497</ENAMEX>.
 - Thỉnh thoảng khi ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, bệnh nhân xuống <ENAMEX TYPE="LOCATION">sảnh chung cư A3 Vũng Thùng</ENAMEX> (cạnh khu xe ô tô) để tập thể dục (không nhớ rõ ngày).
-- Tối ngày <ENAMEX TYPE="SYMPTOMS_DATE">04/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng mệt mỏi.
-- <ENAMEX TYPE="CONTACT_DATE">Ngày 05/8/2020</ENAMEX>, bệnh nhân (cùng <ENAMEX TYPE="CONTACT_PERSON">cô bạn tên ct1521</ENAMEX>) đến khám tại <ENAMEX TYPE="LOCATION">bệnh viện Đa khoa Gia đình Đà Nẵng</ENAMEX>, tại đây bệnh nhân được lấy mẫu dịch hầu họng để xét nghiệm với vi rút SARS-CoV-2. Sau đó bệnh nhân trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
+- Tối ngày <ENAMEX TYPE="SYM_DATE">04/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng mệt mỏi.
+- <ENAMEX TYPE="CON_DATE">Ngày 05/8/2020</ENAMEX>, bệnh nhân (cùng <ENAMEX TYPE="CON_PERSON">cô bạn tên ct1521</ENAMEX>) đến khám tại <ENAMEX TYPE="LOCATION">bệnh viện Đa khoa Gia đình Đà Nẵng</ENAMEX>, tại đây bệnh nhân được lấy mẫu dịch hầu họng để xét nghiệm với vi rút SARS-CoV-2. Sau đó bệnh nhân trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
 - Vào các buổi chiều từ ngày 30/7 đến 05/8/2020, bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ Nại Hiên Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX> sau đó trở về nhà, không tiếp xúc với ai, không đi đến nơi khác.
-- Ngày 05/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">08/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Ngày 05/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">08/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

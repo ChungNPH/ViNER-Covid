@@ -1,5 +1,5 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 484</ENAMEX>  (ca số …… ). Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 484</ENAMEX>  (ca số …… ). Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1961</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc104, P. Châu Hiệp, Thị trấn Nam Phước, huyện Duy Xuyên, tỉnh Quảng Nam</ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">13/7 đến 31/7/2020</ENAMEX>, bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">khoa Nội thận – Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian này bệnh nhân không đi đâu, chỉ tiếp xúc với người nhà nuôi là <ENAMEX TYPE="CONTACT_PERSON">anh ct63</ENAMEX>. 
-- Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> bệnh nhân được thông báo kết quả (+) với vi rút SARS-CoV-2 sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly và điều trị tại Bệnh viện Đà Nẵng</ENAMEX> đến nay.
+- Ngày <ENAMEX TYPE="CON_DATE">13/7 đến 31/7/2020</ENAMEX>, bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">khoa Nội thận – Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian này bệnh nhân không đi đâu, chỉ tiếp xúc với người nhà nuôi là <ENAMEX TYPE="CON_PERSON">anh ct63</ENAMEX>. 
+- Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> bệnh nhân được thông báo kết quả (+) với vi rút SARS-CoV-2 sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly và điều trị tại Bệnh viện Đà Nẵng</ENAMEX> đến nay.

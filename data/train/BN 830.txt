@@ -1,7 +1,7 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 830</ENAMEX>		Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 830</ENAMEX>		Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">2005</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc380, phường Hoà Xuân, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX> 
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">bố (ct1217)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">mẹ (ct1218)</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">chú (ct1219)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc380, phường Hoà Xuân, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="ISOLATION_DATE">21/7</ENAMEX> đến 03/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
-- Chiều ngày <ENAMEX TYPE="HOSPITALIZE_DATE">04/8/2020</ENAMEX>, cả gia đình bệnh nhân đến <ENAMEX TYPE="LOCATION">trạm y tế phường Hoà Xuân, quận Cẩm Lệ</ENAMEX> khai báo y tế, khoảng 19 giờ cùng ngày, cả gia đình bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">khu nhà ở công nhân thuộc khu công nghiệp Hoà Cầm, phường Hoà Thọ Tây, quận Cẩm Lệ</ENAMEX>.
-- Ngày 06/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">09/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">bố (ct1217)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">mẹ (ct1218)</ENAMEX> và <ENAMEX TYPE="CON_PERSON">chú (ct1219)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc380, phường Hoà Xuân, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="ISO_DATE">21/7</ENAMEX> đến 03/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Chiều ngày <ENAMEX TYPE="HOS_DATE">04/8/2020</ENAMEX>, cả gia đình bệnh nhân đến <ENAMEX TYPE="LOCATION">trạm y tế phường Hoà Xuân, quận Cẩm Lệ</ENAMEX> khai báo y tế, khoảng 19 giờ cùng ngày, cả gia đình bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">khu nhà ở công nhân thuộc khu công nghiệp Hoà Cầm, phường Hoà Thọ Tây, quận Cẩm Lệ</ENAMEX>.
+- Ngày 06/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">09/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

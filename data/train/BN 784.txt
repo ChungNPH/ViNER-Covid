@@ -1,11 +1,11 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 784</ENAMEX>		Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 784</ENAMEX>		Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1970</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc351, tổ 77, phường Thọ Quang, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>
 - Bệnh nhân sống cùng với vợ và 2 con tại <ENAMEX TYPE="LOCATION">loc351, tổ 77, phường Thọ Quang, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.
 - Bệnh nhân có tiền sử tai biến mạch máu não từ năm 2011, di chứng yếu hai chân đi lại khó khăn, giao tiếp khó; suy thận mạn từ 23/3/2019 đang chạy thận nhân tạo tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> (02 lần/tuần).
 - Ngày 08/6/2020, bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>.
 - Ngày 21/7/2020, bệnh nhân được xuất viện về nhà tại <ENAMEX TYPE="LOCATION">loc351, tổ 77, phường Thọ Quang, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.
-- <ENAMEX TYPE="CONTACT_DATE">Từ ngày 21/7 đến 23/7/2020</ENAMEX>, bệnh nhân ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> cùng <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">hai con</ENAMEX>, không tiếp xúc với bất cứ ai ngoài <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
-- Ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">23/7/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân xuất hiện triệu chứng mệt nhiều nên đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>, chỉ có một mình <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> chăm sóc, không có ai thăm và cũng không tiếp xúc vơi ai kể cả hai con cho đến nay
-- Ngày 07/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="ISOLATION_DATE">07/8/2020</ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- <ENAMEX TYPE="CON_DATE">Từ ngày 21/7 đến 23/7/2020</ENAMEX>, bệnh nhân ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CON_PERSON">hai con</ENAMEX>, không tiếp xúc với bất cứ ai ngoài <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="HOS_DATE">23/7/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân xuất hiện triệu chứng mệt nhiều nên đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>, chỉ có một mình <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> chăm sóc, không có ai thăm và cũng không tiếp xúc vơi ai kể cả hai con cho đến nay
+- Ngày 07/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="ISO_DATE">07/8/2020</ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
 - Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">bệnh viện dã chiến Hòa Vang</ENAMEX>.

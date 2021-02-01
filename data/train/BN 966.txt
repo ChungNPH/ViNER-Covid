@@ -1,12 +1,12 @@
-Tên: <ENAMEX TYPE="PERSON">BN 966</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 966</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS"> <ENAMEX TYPE="LOCATION">loc206, phường Tân Chính, quận Thanh Khê, TP Đà Nẵng</ENAMEX> </ENAMEX>
-- Bệnh nhân đang sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc206, phường Tân Chính</ENAMEX></ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">25 - 27/7/2020</ENAMEX>, khoảng từ 05 giờ 00 đến 06 giờ 00, bệnh nhân và chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">28/7/2020</ENAMEX>, bệnh nhân tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân số 843</ENAMEX> (được Bộ Y tế công bố ngày 10/8/2020) tại <ENAMEX TYPE="LOCATION">chợ siêu thị Đà Nẵng, quận Thanh Khê</ENAMEX> (có mang khẩu trang) sau đó trở về nhà.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">29/7</ENAMEX> - 11/8/2020, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
-- Thỉnh thoảng bệnh nhân đến thắp hương tại <ENAMEX TYPE="LOCATION">nhà mẹ ở loc208, quận Hải Châu</ENAMEX> (không nhớ thời gian cụ thể), gặp <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">12/8</ENAMEX>, 13/8 và 14/8/2020, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
-- Ngày 16/8/2020, bệnh nhân tiếp tục được lấy mẫu xét nghiệm dịch hầu họng để khẳng định và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">17/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Bệnh nhân đang sống cùng <ENAMEX TYPE="CON_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc206, phường Tân Chính</ENAMEX></ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">25 - 27/7/2020</ENAMEX>, khoảng từ 05 giờ 00 đến 06 giờ 00, bệnh nhân và chỉ tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">28/7/2020</ENAMEX>, bệnh nhân tiếp xúc với <ENAMEX TYPE="CON_PERSON">bệnh nhân số 843</ENAMEX> (được Bộ Y tế công bố ngày 10/8/2020) tại <ENAMEX TYPE="LOCATION">chợ siêu thị Đà Nẵng, quận Thanh Khê</ENAMEX> (có mang khẩu trang) sau đó trở về nhà.
+- Từ ngày <ENAMEX TYPE="CON_DATE">29/7</ENAMEX> - 11/8/2020, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Thỉnh thoảng bệnh nhân đến thắp hương tại <ENAMEX TYPE="LOCATION">nhà mẹ ở loc208, quận Hải Châu</ENAMEX> (không nhớ thời gian cụ thể), gặp <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">12/8</ENAMEX>, 13/8 và 14/8/2020, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày 16/8/2020, bệnh nhân tiếp tục được lấy mẫu xét nghiệm dịch hầu họng để khẳng định và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">17/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
 - Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện dã chiến Hòa Vang</ENAMEX>.
 Năm sinh: <ENAMEX TYPE="AGE">1964</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

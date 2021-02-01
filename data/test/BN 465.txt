@@ -1,12 +1,12 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 465</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>.
+- Họ và tên: <ENAMEX TYPE="NAME">BN 465</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>.
 - Sinh năm: <ENAMEX TYPE="AGE">1991</ENAMEX>.
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc142, phường Khuê Trung, quận Cẩm Lệ, thành phố Đà Nẵng</ENAMEX>.
-- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">cha mẹ chồng</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">em gái chồng</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">01 con gái</ENAMEX> tại địa chỉ loc143, phường Khuê Trung, quận Cẩm Lệ, thành phố Đà Nẵng.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">13/7/2020 đến ngày 25/7/2020</ENAMEX>:
-+Bệnh nhân chở <ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX> đi học tại <ENAMEX TYPE="LOCATION">trường mầm non Bình Hòa số 63 Đỗ Thúc Tịnh, phường Khuê Trung, quận Cẩm Lệ, TP Đà Nẵng</ENAMEX> từ 1-2 lần (Còn lại chồng bệnh nhân chở con đi học). Bệnh nhân thường đưa con đến cổng trường, sau đó có cô chủ nhiệm lớp ra đón con bệnh nhân đưa vào lớp. Bệnh nhân khi đưa con đi học đều mang khẩu trang.
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CON_PERSON">cha mẹ chồng</ENAMEX>, <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX>, <ENAMEX TYPE="CON_PERSON">em gái chồng</ENAMEX> và <ENAMEX TYPE="CON_PERSON">01 con gái</ENAMEX> tại địa chỉ loc143, phường Khuê Trung, quận Cẩm Lệ, thành phố Đà Nẵng.
+- Từ ngày <ENAMEX TYPE="CON_DATE">13/7/2020 đến ngày 25/7/2020</ENAMEX>:
++Bệnh nhân chở <ENAMEX TYPE="CON_PERSON">con</ENAMEX> đi học tại <ENAMEX TYPE="LOCATION">trường mầm non Bình Hòa số 63 Đỗ Thúc Tịnh, phường Khuê Trung, quận Cẩm Lệ, TP Đà Nẵng</ENAMEX> từ 1-2 lần (Còn lại chồng bệnh nhân chở con đi học). Bệnh nhân thường đưa con đến cổng trường, sau đó có cô chủ nhiệm lớp ra đón con bệnh nhân đưa vào lớp. Bệnh nhân khi đưa con đi học đều mang khẩu trang.
 +Bệnh nhân có đến mua cháo tại <ENAMEX TYPE="LOCATION">quán cháo dinh dưỡng For You trên đường Lương Nhữ Hộc, phường Khuê Trung, quận Cẩm Lệ, TP Đà Nẵng</ENAMEX> từ 1-2 lần
-- Ngày <ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX>:
-+ Từ 8h đến 8h30 bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX> đi ăn sáng tại <ENAMEX TYPE="LOCATION">quán phở Hà Nội trên đường Phan Đăng Lưu, phường Hòa Cường Bắc, quận Hải châu, TP Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>:
++ Từ 8h đến 8h30 bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con</ENAMEX> đi ăn sáng tại <ENAMEX TYPE="LOCATION">quán phở Hà Nội trên đường Phan Đăng Lưu, phường Hòa Cường Bắc, quận Hải châu, TP Đà Nẵng</ENAMEX>.
 + Từ 8h30 đến 9h30 bệnh nhân đi <ENAMEX TYPE="LOCATION">siêu thị Lotte Mart Đà Nẵng, phường Hòa Cường Bắc, quận Hải châu, TP Đà Nẵng</ENAMEX>.
-- Chiều ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">26/7/2020</ENAMEX></ENAMEX> bệnh nhân cách ly tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>.
-- Ngày 28/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POSITIVE_DATE"> 30/7/2020</ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, trưa ngày 30/7/2020 bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của Trung tâm y tế huyện Hòa Vang</ENAMEX>.
+- Chiều ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">26/7/2020</ENAMEX></ENAMEX> bệnh nhân cách ly tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày 28/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POS_DATE"> 30/7/2020</ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, trưa ngày 30/7/2020 bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của Trung tâm y tế huyện Hòa Vang</ENAMEX>.

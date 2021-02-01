@@ -1,8 +1,8 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 701</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 701</ENAMEX>	Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1948</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc193, thôn Cẩm Toại Đông, xã Hòa Phong, huyện Hòa Vang, Tp. Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc193, thôn Cẩm Toại Đông, xã Hòa Phong, huyện Hòa Vang, Tp. Đà Nẵng</ENAMEX></ENAMEX>.
-- Những người tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">ct198</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct199</ENAMEX>là bệnh nhân đã có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2, <ENAMEX TYPE="CONTACT_PERSON">ct200</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct201</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">ct202</ENAMEX>.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc193, thôn Cẩm Toại Đông, xã Hòa Phong, huyện Hòa Vang, Tp. Đà Nẵng</ENAMEX></ENAMEX>.
+- Những người tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CON_PERSON">ct198</ENAMEX>, <ENAMEX TYPE="CON_PERSON">ct199</ENAMEX>là bệnh nhân đã có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2, <ENAMEX TYPE="CON_PERSON">ct200</ENAMEX>, <ENAMEX TYPE="CON_PERSON">ct201</ENAMEX> và <ENAMEX TYPE="CON_PERSON">ct202</ENAMEX>.
 - Bệnh nhân được điều trị và chạy thận nhân tạo hơn 2 tháng nay tại <ENAMEX TYPE="LOCATION">phòng 606, khoa Thận - tiết niệu, bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian này, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">khoa Thận - tiết niệu</ENAMEX>, không đi ra ngoài, không về nhà.
-- Ngày 03/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">04/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Ngày 03/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">04/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
 - Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">bệnh viện Dã chiến huyện Hòa Vang</ENAMEX>.

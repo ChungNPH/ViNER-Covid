@@ -1,7 +1,7 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">Ca nghi ngờ 9</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>.
+- Họ và tên: <ENAMEX TYPE="NAME">Ca nghi ngờ 9</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>.
 - Năm sinh: <ENAMEX TYPE="AGE">1951</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc16, Phường Minh An, TP Hội An, Quảng Nam</ENAMEX>.
-TH này sống cùng <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX>. Hằng ngày, bệnh nhân chủ yếu ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đâu, buổi sáng có đi ăn sáng ở <ENAMEX TYPE="LOCATION">các quán ăn gần nhà (thường đi ăn sáng quán mỳ đối diện nhà chủ quán tên T)</ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">18/07/2020</ENAMEX>: Đi xe máy cùng <ENAMEX TYPE="CONTACT_PERSON">con gái</ENAMEX> ra thăm <ENAMEX TYPE="CONTACT_PERSON">BN428</ENAMEX> rồi về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> lại trong cũng ngày. 
+TH này sống cùng <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX>. Hằng ngày, bệnh nhân chủ yếu ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đâu, buổi sáng có đi ăn sáng ở <ENAMEX TYPE="LOCATION">các quán ăn gần nhà (thường đi ăn sáng quán mỳ đối diện nhà chủ quán tên T)</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">18/07/2020</ENAMEX>: Đi xe máy cùng <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX> ra thăm <ENAMEX TYPE="CON_PERSON">BN428</ENAMEX> rồi về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> lại trong cũng ngày. 
 Từ ngày 19-27/07/2020: đau chân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> ,ăn sáng ở <ENAMEX TYPE="LOCATION">các quán ăn gần nhà</ENAMEX> và không đi đâu có con gái mang thức ăn đến hằng ngày;
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7/2020</ENAMEX></ENAMEX>: cách ly y tế tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa thành phố Hội An</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/7/2020</ENAMEX></ENAMEX>: cách ly y tế tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa thành phố Hội An</ENAMEX>.

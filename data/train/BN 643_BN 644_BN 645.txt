@@ -1,26 +1,26 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 643</ENAMEX> (BN643)                 Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 643</ENAMEX> (BN643)                 Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
 - Năm sinh: <ENAMEX TYPE="AGE">1956</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn Tiên Phú Tây – Tiên Mỹ - Tiên Phước – Quảng Nam</ENAMEX>;
 -  Ngày 20 – 24/7: Nằm viện <ENAMEX TYPE="LOCATION">khoa Nội - Thần kinh Huyết học - Phòng 706, Bệnh viện Đa khoa Đà Nẵng</ENAMEX>; Căn bệnh: Đa u tủy xương;
-- Ngày <ENAMEX TYPE="CONTACT_DATE">24/7/2020</ENAMEX>: <ENAMEX TYPE="CONTACT_PERSON">cháu ngoại ct422</ENAMEX> chở bệnh nhân về <ENAMEX TYPE="LOCATION">khu chung cư Bộ Quốc phòng (Khu CT2 - phòng: loc236 – Cẩm Lệ - Đà Nẵng)</ENAMEX>. Trong thời gian từ ngày <ENAMEX TYPE="CONTACT_DATE">24/7</ENAMEX> – 27/7, <ENAMEX TYPE="CONTACT_PERSON">cô phòng đối diện chung cư</ENAMEX> có qua chơi không nhớ bao nhiêu lần;
-Ngày <ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX>: có <ENAMEX TYPE="CONTACT_PERSON">2 vợ chồng ct423</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">cô ct424 (cư trú Tam Kỳ không nhớ rõ địa chỉ,)</ENAMEX>, đến thăm, không mang khẩu trang;
-- Ngày <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX>: <ENAMEX TYPE="CONTACT_PERSON">con trai ct425</ENAMEX> chở bệnh nhân về <ENAMEX TYPE="LOCATION">Tam Kỳ</ENAMEX> bằng ô tô riêng, trên xe có <ENAMEX TYPE="CONTACT_PERSON">cháu ct422</ENAMEX> đi cùng.
-Ngày <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX>: đến đường tránh cao tốc, <ENAMEX TYPE="CONTACT_PERSON">con gái ct427</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con rễ ct428</ENAMEX> chở về nhà (địa chỉ: <ENAMEX TYPE="LOCATION">Thôn Tiên Phú Tây – Tiên Mỹ - Tiên Phước</ENAMEX>) bằng xe máy.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">27/7</ENAMEX> đến ngày 31/7: ở nhà cùng <ENAMEX TYPE="CONTACT_PERSON">chồng là ông ct429</ENAMEX>, không đi đâu; ngày <ENAMEX TYPE="CONTACT_DATE">30/7</ENAMEX> <ENAMEX TYPE="CONTACT_PERSON">gia đình con rể ct430</ENAMEX> có đến thăm.
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">31/7</ENAMEX></ENAMEX>: Được đưa vào <ENAMEX TYPE="LOCATION">khu cách ly tập trung trường THCS Lý Tự Trọng</ENAMEX>, ngày lấy mẫu xét nghiệm lần 1: 02/8/2020 ;
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 644</ENAMEX> (BN644)	                   Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Ngày <ENAMEX TYPE="CON_DATE">24/7/2020</ENAMEX>: <ENAMEX TYPE="CON_PERSON">cháu ngoại ct422</ENAMEX> chở bệnh nhân về <ENAMEX TYPE="LOCATION">khu chung cư Bộ Quốc phòng (Khu CT2 - phòng: loc236 – Cẩm Lệ - Đà Nẵng)</ENAMEX>. Trong thời gian từ ngày <ENAMEX TYPE="CON_DATE">24/7</ENAMEX> – 27/7, <ENAMEX TYPE="CON_PERSON">cô phòng đối diện chung cư</ENAMEX> có qua chơi không nhớ bao nhiêu lần;
+Ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>: có <ENAMEX TYPE="CON_PERSON">2 vợ chồng ct423</ENAMEX>, <ENAMEX TYPE="CON_PERSON">cô ct424 (cư trú Tam Kỳ không nhớ rõ địa chỉ,)</ENAMEX>, đến thăm, không mang khẩu trang;
+- Ngày <ENAMEX TYPE="CON_DATE">27/7/2020</ENAMEX>: <ENAMEX TYPE="CON_PERSON">con trai ct425</ENAMEX> chở bệnh nhân về <ENAMEX TYPE="LOCATION">Tam Kỳ</ENAMEX> bằng ô tô riêng, trên xe có <ENAMEX TYPE="CON_PERSON">cháu ct422</ENAMEX> đi cùng.
+Ngày <ENAMEX TYPE="CON_DATE">27/7/2020</ENAMEX>: đến đường tránh cao tốc, <ENAMEX TYPE="CON_PERSON">con gái ct427</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con rễ ct428</ENAMEX> chở về nhà (địa chỉ: <ENAMEX TYPE="LOCATION">Thôn Tiên Phú Tây – Tiên Mỹ - Tiên Phước</ENAMEX>) bằng xe máy.
+- Từ ngày <ENAMEX TYPE="CON_DATE">27/7</ENAMEX> đến ngày 31/7: ở nhà cùng <ENAMEX TYPE="CON_PERSON">chồng là ông ct429</ENAMEX>, không đi đâu; ngày <ENAMEX TYPE="CON_DATE">30/7</ENAMEX> <ENAMEX TYPE="CON_PERSON">gia đình con rể ct430</ENAMEX> có đến thăm.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7</ENAMEX></ENAMEX>: Được đưa vào <ENAMEX TYPE="LOCATION">khu cách ly tập trung trường THCS Lý Tự Trọng</ENAMEX>, ngày lấy mẫu xét nghiệm lần 1: 02/8/2020 ;
+- Họ và tên: <ENAMEX TYPE="NAME">BN 644</ENAMEX> (BN644)	                   Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
 - Năm sinh: <ENAMEX TYPE="AGE">1985</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Giáo Ái, xã Điện Hồng,Thị xã Điện Bàn, Quảng Nam</ENAMEX>.
-		Theo thông tin bệnh nhân khai: Là anh ruột <ENAMEX TYPE="CONTACT_PERSON">BN555</ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">24/7</ENAMEX> – 26/7/2020:  <ENAMEX TYPE="CONTACT_PERSON">em ruột ct431 là BN555</ENAMEX> (công bố dương tính tại Đà Nẵng) có về nhà chơi tại thôn Giáo Ái – Điện Hồng – 
-- Sáng <ENAMEX TYPE="CONTACT_DATE">25/7</ENAMEX> – 26/7/2020: bệnh nhân uống cà phê sáng tại quán gần nhà (quán này có bán thêm tạp hóa) trước khi đi làm tại Đà Nẵng Chiều về lại nhà, có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">người trong nhà và bạn bè trong xóm</ENAMEX>;
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">27/7</ENAMEX> - 31/7/2020:  sáng uống cà phê gần nhà rồi đi <ENAMEX TYPE="LOCATION">Đà Nẵng</ENAMEX> làm việc, buổi tối về có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">hàng xóm và bạn bè gần nhà</ENAMEX>;
-- Đến ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">01/8/2020</ENAMEX></ENAMEX>, bệnh nhân được cách ly tập trung (khi BN555 công bố dương tính). Những người hàng xóm có tiếp xúc với BN555 đều đã được cách ly tập trung. 
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 645</ENAMEX> (BN645)                   Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+		Theo thông tin bệnh nhân khai: Là anh ruột <ENAMEX TYPE="CON_PERSON">BN555</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">24/7</ENAMEX> – 26/7/2020:  <ENAMEX TYPE="CON_PERSON">em ruột ct431 là BN555</ENAMEX> (công bố dương tính tại Đà Nẵng) có về nhà chơi tại thôn Giáo Ái – Điện Hồng – 
+- Sáng <ENAMEX TYPE="CON_DATE">25/7</ENAMEX> – 26/7/2020: bệnh nhân uống cà phê sáng tại quán gần nhà (quán này có bán thêm tạp hóa) trước khi đi làm tại Đà Nẵng Chiều về lại nhà, có tiếp xúc với <ENAMEX TYPE="CON_PERSON">người trong nhà và bạn bè trong xóm</ENAMEX>;
+- Từ ngày <ENAMEX TYPE="CON_DATE">27/7</ENAMEX> - 31/7/2020:  sáng uống cà phê gần nhà rồi đi <ENAMEX TYPE="LOCATION">Đà Nẵng</ENAMEX> làm việc, buổi tối về có tiếp xúc với <ENAMEX TYPE="CON_PERSON">hàng xóm và bạn bè gần nhà</ENAMEX>;
+- Đến ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">01/8/2020</ENAMEX></ENAMEX>, bệnh nhân được cách ly tập trung (khi BN555 công bố dương tính). Những người hàng xóm có tiếp xúc với BN555 đều đã được cách ly tập trung. 
+- Họ và tên: <ENAMEX TYPE="NAME">BN 645</ENAMEX> (BN645)                   Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
 - Năm sinh: <ENAMEX TYPE="AGE">1954</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Giáo Ái, xã Điện Hồng, Thị xã Điện Bàn, tỉnh Quảng Nam</ENAMEX>.
- Theo thông tin bệnh nhân khai: Bệnh nhân là mẹ của <ENAMEX TYPE="CONTACT_PERSON">BN555</ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">24/7</ENAMEX> – 26/7/2020:  <ENAMEX TYPE="CONTACT_PERSON">con ruột bà ct432 là BN555</ENAMEX> (công bố dương tính tại Đà Nẵng) có về nhà chơi tại thôn Giáo Ái – Điện Hồng – 
-Bệnh nhân chủ yếu ở nhà để giữ <ENAMEX TYPE="CONTACT_PERSON">cháu</ENAMEX>. Buổi sáng hay đi mua thức ăn tại <ENAMEX TYPE="LOCATION">chỗ sạp bán hàng (địa chỉ: trước hợp tác xã 1, xã Điện Hồng, Điện Bàn)</ENAMEX>;
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">26/07/2020</ENAMEX> -30/07/2020:  bệnh nhân chủ yếu đi mua thức ăn rồi về nhà, chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">người trong gia đình và hàng xóm</ENAMEX>. Những người trong nhà và hàng xóm có tiếp xúc với con bệnh nhân là <ENAMEX TYPE="CONTACT_PERSON">BN555</ENAMEX> đã được đi cách ly tập trung;
-- Đến ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">01/8/2020</ENAMEX></ENAMEX>, bệnh nhân được cách ly tập trung (khi BN555 công bố dương tính).
+ Theo thông tin bệnh nhân khai: Bệnh nhân là mẹ của <ENAMEX TYPE="CON_PERSON">BN555</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">24/7</ENAMEX> – 26/7/2020:  <ENAMEX TYPE="CON_PERSON">con ruột bà ct432 là BN555</ENAMEX> (công bố dương tính tại Đà Nẵng) có về nhà chơi tại thôn Giáo Ái – Điện Hồng – 
+Bệnh nhân chủ yếu ở nhà để giữ <ENAMEX TYPE="CON_PERSON">cháu</ENAMEX>. Buổi sáng hay đi mua thức ăn tại <ENAMEX TYPE="LOCATION">chỗ sạp bán hàng (địa chỉ: trước hợp tác xã 1, xã Điện Hồng, Điện Bàn)</ENAMEX>;
+- Từ ngày <ENAMEX TYPE="CON_DATE">26/07/2020</ENAMEX> -30/07/2020:  bệnh nhân chủ yếu đi mua thức ăn rồi về nhà, chỉ tiếp xúc với <ENAMEX TYPE="CON_PERSON">người trong gia đình và hàng xóm</ENAMEX>. Những người trong nhà và hàng xóm có tiếp xúc với con bệnh nhân là <ENAMEX TYPE="CON_PERSON">BN555</ENAMEX> đã được đi cách ly tập trung;
+- Đến ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">01/8/2020</ENAMEX></ENAMEX>, bệnh nhân được cách ly tập trung (khi BN555 công bố dương tính).

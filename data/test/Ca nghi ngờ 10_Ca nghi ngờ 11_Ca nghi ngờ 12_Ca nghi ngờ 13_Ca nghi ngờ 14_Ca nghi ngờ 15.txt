@@ -1,59 +1,59 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 460</ENAMEX> . Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>. 
+- Họ và tên: <ENAMEX TYPE="NAME">BN 460</ENAMEX> . Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>. 
 - Sinh năm: <ENAMEX TYPE="AGE">1971</ENAMEX>.
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn Đức Hòa, xã Đại Nghĩa, huyện Đại Lộc, tỉnh Quảng Nam</ENAMEX>
-	- Ngày <ENAMEX TYPE="CONTACT_DATE">18/6 - 20/7/2020</ENAMEX>: chăm <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khoa Hồi sức tích cực - Bệnh viện Đà Nẵng</ENAMEX>;
-- Ngày <ENAMEX TYPE="CONTACT_DATE">21/7/2020</ENAMEX>: đưa <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> về tại <ENAMEX TYPE="LOCATION">BVĐK KVMNPBQN</ENAMEX> chăm sóc tiếp; Trong quá trình chăm sóc chồng thường xuyên về nhà ăn tối, tắm rửa rồi đi lại; 
-- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">23/7/2020</ENAMEX>: đau đầu mệt, đau họng có mua thuốc Decolgen uống không khỏi;
-- Ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>: vào quán <ENAMEX TYPE="CONTACT_PERSON">Bà C</ENAMEX> mua thưc phẩm dầu nước mắm, Ngoài ra không đi đâu hết, chỉ chăm sóc <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa</ENAMEX>
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7/2020</ENAMEX></ENAMEX>: cách ly y tế tại <ENAMEX TYPE="LOCATION">BV Đa khoa miền núi phía Bắc</ENAMEX> .
-    • Họ tên: <ENAMEX TYPE="PERSON">BN 461</ENAMEX>	
-    • Tuổi: <ENAMEX TYPE="AGE">46</ENAMEX>                    	- Giới tính: <ENAMEX TYPE="SEX">nữ</ENAMEX>
+	- Ngày <ENAMEX TYPE="CON_DATE">18/6 - 20/7/2020</ENAMEX>: chăm <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khoa Hồi sức tích cực - Bệnh viện Đà Nẵng</ENAMEX>;
+- Ngày <ENAMEX TYPE="CON_DATE">21/7/2020</ENAMEX>: đưa <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> về tại <ENAMEX TYPE="LOCATION">BVĐK KVMNPBQN</ENAMEX> chăm sóc tiếp; Trong quá trình chăm sóc chồng thường xuyên về nhà ăn tối, tắm rửa rồi đi lại; 
+- Ngày <ENAMEX TYPE="SYM_DATE">23/7/2020</ENAMEX>: đau đầu mệt, đau họng có mua thuốc Decolgen uống không khỏi;
+- Ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX>: vào quán <ENAMEX TYPE="CON_PERSON">Bà C</ENAMEX> mua thưc phẩm dầu nước mắm, Ngoài ra không đi đâu hết, chỉ chăm sóc <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa</ENAMEX>
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/7/2020</ENAMEX></ENAMEX>: cách ly y tế tại <ENAMEX TYPE="LOCATION">BV Đa khoa miền núi phía Bắc</ENAMEX> .
+    • Họ tên: <ENAMEX TYPE="NAME">BN 461</ENAMEX>	
+    • Tuổi: <ENAMEX TYPE="AGE">46</ENAMEX>                    	- Giới tính: <ENAMEX TYPE="GENDER">nữ</ENAMEX>
     • Nơi lưu trú tại Quảng Nam: <ENAMEX TYPE="ADDRESS">Chùa Bảo Thắng - phường Sơn Phong - TP Hội An</ENAMEX>.
-    • Ngày <ENAMEX TYPE="CONTACT_DATE">13/7/2020</ENAMEX>: đến <ENAMEX TYPE="LOCATION">khoa Hồi sức tích cực chống độc - Bệnh viện</ENAMEX> 
-Đà Nẵng để chăm <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> bị ốm;
+    • Ngày <ENAMEX TYPE="CON_DATE">13/7/2020</ENAMEX>: đến <ENAMEX TYPE="LOCATION">khoa Hồi sức tích cực chống độc - Bệnh viện</ENAMEX> 
+Đà Nẵng để chăm <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> bị ốm;
     • Ngày 15/7/2020, mẹ mất nên về làm đám tang <ENAMEX TYPE="LOCATION">nhà ở gần chợ Lại Nghi - Điện Bàn</ENAMEX>, di chuyển bằng xe của bệnh viện;
     • Ngày 22/7/2020: tự đi xe xuống <ENAMEX TYPE="LOCATION">chùa Bảo Thắng</ENAMEX> sau đó về lại nhà. Sau đó bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ Lai Nghi</ENAMEX> mua hàng, trong suốt quá trình đi chợ đều có đeo khẩu trang;
     • Ngày 23/7/2020: về lại <ENAMEX TYPE="LOCATION">chùa Bảo Thắng</ENAMEX>;
-    • Ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX></ENAMEX>: nhờ <ENAMEX TYPE="CONTACT_PERSON">người quen</ENAMEX> chở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, sau đó có dấu hiệu mệt mỏi;
-    • Ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX></ENAMEX></ENAMEX>, nhờ <ENAMEX TYPE="CONTACT_PERSON">người em</ENAMEX> đưa đến <ENAMEX TYPE="LOCATION">bệnh viện đa khoa Hội An</ENAMEX> khám và được cách ly tại bệnh viện.
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE">27/7/2020</ENAMEX>: nhập viện với triệu chứng sốt nhẹ, ho, 
-- Họ và tên: <ENAMEX TYPE="PERSON">Ca nghi ngờ 12</ENAMEX>         Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+    • Ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX></ENAMEX>: nhờ <ENAMEX TYPE="CON_PERSON">người quen</ENAMEX> chở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, sau đó có dấu hiệu mệt mỏi;
+    • Ngày <ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">27/7/2020</ENAMEX></ENAMEX></ENAMEX>, nhờ <ENAMEX TYPE="CON_PERSON">người em</ENAMEX> đưa đến <ENAMEX TYPE="LOCATION">bệnh viện đa khoa Hội An</ENAMEX> khám và được cách ly tại bệnh viện.
+- Ngày <ENAMEX TYPE="HOS_DATE">27/7/2020</ENAMEX>: nhập viện với triệu chứng sốt nhẹ, ho, 
+- Họ và tên: <ENAMEX TYPE="NAME">Ca nghi ngờ 12</ENAMEX>         Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
 - Năm sinh: <ENAMEX TYPE="AGE">1980</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc34 - An Hội – Minh An – Hội An</ENAMEX>
-Thông tin dịch tễ: TH này sống với cùng <ENAMEX TYPE="CONTACT_PERSON">vợ là B.T.C</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">2 con là B.Đ.Q.T và B.Đ.B.T</ENAMEX> tại phường Minh An, thành phố Hội An, tỉnh Quảng Nam. 
-- Ngày <ENAMEX TYPE="CONTACT_DATE">23/7/2020</ENAMEX>: Chăm <ENAMEX TYPE="CONTACT_PERSON">bố vợ là BN428</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa Nội - Tiết Niệu, Bệnh viện Đà Nẵng</ENAMEX>. 
-- Ngày <ENAMEX TYPE="CONTACT_DATE">24/7/2020</ENAMEX>: 
-Chăm <ENAMEX TYPE="CONTACT_PERSON">bố vợ</ENAMEX> từ bệnh viện đi xe máy về thẳng <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, ăn cơm cùng gia đình có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">cô ruột</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">2 con</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">cháu P.P.A</ENAMEX>.
-Chiều đến <ENAMEX TYPE="LOCATION">nhà bạn tại loc35 - Nguyễn Phúc Tần, Cẩm Phô, Tp Hội An</ENAMEX> tiếp xúc với bạn là <ENAMEX TYPE="CONTACT_PERSON">P.V.T</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">vợ bạn là chị H</ENAMEX>. 
-- Ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>, Sáng cùng <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> đến <ENAMEX TYPE="LOCATION">quán Cà phê Lộc Viên trong Kiệt Trần Phú</ENAMEX>, không tiếp xúc với người nào khác, 8h30-10h30 có đến uống <ENAMEX TYPE="LOCATION">Cà phê tại 56 Nguyễn Phúc Tần</ENAMEX> cùng <ENAMEX TYPE="CONTACT_PERSON">bạn T.</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">bạn P.V.T</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">3 người khác</ENAMEX>, Sau đó về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> ăn cơm cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX>, Tối bán hàng cùng <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> tại <ENAMEX TYPE="LOCATION">chợ đêm Nguyễn Hoàng</ENAMEX> đến 9h30 thì về nhà.
-    • Ngày <ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX>: Đi câu tại <ENAMEX TYPE="LOCATION">cầu sắt Cẩm Kim</ENAMEX> có nói chuyện cùng bạn là <ENAMEX TYPE="CONTACT_PERSON">anh P.V.T</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">anh P.N</ENAMEX>.
-    • Ngày <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX>: Ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX>, không tiếp xúc với người nào khác
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7/2020</ENAMEX></ENAMEX>: Được đưa vào <ENAMEX TYPE="LOCATION">Khu cách ly Bệnh viên Đa khoa Hội An</ENAMEX>
-Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7/2020</ENAMEX></ENAMEX>: Được đưa vào <ENAMEX TYPE="LOCATION">Khu cách ly Bệnh viên Đa khoa Hội An</ENAMEX> .
-- Họ và tên: <ENAMEX TYPE="PERSON">Ca nghi ngờ 7</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>.
+Thông tin dịch tễ: TH này sống với cùng <ENAMEX TYPE="CON_PERSON">vợ là B.T.C</ENAMEX>, <ENAMEX TYPE="CON_PERSON">2 con là B.Đ.Q.T và B.Đ.B.T</ENAMEX> tại phường Minh An, thành phố Hội An, tỉnh Quảng Nam. 
+- Ngày <ENAMEX TYPE="CON_DATE">23/7/2020</ENAMEX>: Chăm <ENAMEX TYPE="CON_PERSON">bố vợ là BN428</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa Nội - Tiết Niệu, Bệnh viện Đà Nẵng</ENAMEX>. 
+- Ngày <ENAMEX TYPE="CON_DATE">24/7/2020</ENAMEX>: 
+Chăm <ENAMEX TYPE="CON_PERSON">bố vợ</ENAMEX> từ bệnh viện đi xe máy về thẳng <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, ăn cơm cùng gia đình có tiếp xúc với <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX>, <ENAMEX TYPE="CON_PERSON">cô ruột</ENAMEX>, <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX>, <ENAMEX TYPE="CON_PERSON">2 con</ENAMEX> và <ENAMEX TYPE="CON_PERSON">cháu P.P.A</ENAMEX>.
+Chiều đến <ENAMEX TYPE="LOCATION">nhà bạn tại loc35 - Nguyễn Phúc Tần, Cẩm Phô, Tp Hội An</ENAMEX> tiếp xúc với bạn là <ENAMEX TYPE="CON_PERSON">P.V.T</ENAMEX> và <ENAMEX TYPE="CON_PERSON">vợ bạn là chị H</ENAMEX>. 
+- Ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX>, Sáng cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> đến <ENAMEX TYPE="LOCATION">quán Cà phê Lộc Viên trong Kiệt Trần Phú</ENAMEX>, không tiếp xúc với người nào khác, 8h30-10h30 có đến uống <ENAMEX TYPE="LOCATION">Cà phê tại 56 Nguyễn Phúc Tần</ENAMEX> cùng <ENAMEX TYPE="CON_PERSON">bạn T.</ENAMEX>, <ENAMEX TYPE="CON_PERSON">bạn P.V.T</ENAMEX> và <ENAMEX TYPE="CON_PERSON">3 người khác</ENAMEX>, Sau đó về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> ăn cơm cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX>, Tối bán hàng cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> tại <ENAMEX TYPE="LOCATION">chợ đêm Nguyễn Hoàng</ENAMEX> đến 9h30 thì về nhà.
+    • Ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>: Đi câu tại <ENAMEX TYPE="LOCATION">cầu sắt Cẩm Kim</ENAMEX> có nói chuyện cùng bạn là <ENAMEX TYPE="CON_PERSON">anh P.V.T</ENAMEX> và <ENAMEX TYPE="CON_PERSON">anh P.N</ENAMEX>.
+    • Ngày <ENAMEX TYPE="CON_DATE">27/7/2020</ENAMEX>: Ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX>, không tiếp xúc với người nào khác
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/7/2020</ENAMEX></ENAMEX>: Được đưa vào <ENAMEX TYPE="LOCATION">Khu cách ly Bệnh viên Đa khoa Hội An</ENAMEX>
+Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/7/2020</ENAMEX></ENAMEX>: Được đưa vào <ENAMEX TYPE="LOCATION">Khu cách ly Bệnh viên Đa khoa Hội An</ENAMEX> .
+- Họ và tên: <ENAMEX TYPE="NAME">Ca nghi ngờ 7</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>.
 - Năm sinh: <ENAMEX TYPE="AGE">1967</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc36 – Phường Minh An – thành phố Hội An - tỉnh Quảng Nam</ENAMEX>.
-TH này sống cùng <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX>, làm nghề lái thuyền dịch vụ, ít tiếp xúc với hàng xóm xung quanh.
-- Trưa ngày <ENAMEX TYPE="CONTACT_DATE">24/7/2020</ENAMEX>: 
-Ra nuôi <ENAMEX TYPE="CONTACT_PERSON">bố là ông BN428</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa Nội – Tiết niệu bệnh viện Đa khoa Đà Nẵng</ENAMEX>;
-- Trưa ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>: trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tại loc36 - Phường Minh An - thành phố Hội An - tỉnh Quảng Nam, tại đây có tiếp xúc với 2 người cùng nhà là <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con trai út</ENAMEX>;
-- Chiều ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>: bán <ENAMEX TYPE="LOCATION">nước mía cho <ENAMEX TYPE="CONTACT_PERSON">chị Tâm</ENAMEX> gần nhà</ENAMEX> (quầy nước mía của vợ bán, bệnh nhân chỉ phụ bán cho 1 người và sau hôm đó quầy tạm nghỉ bán do nghe thông tin có dịch);
-- Ngày <ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX>, Sang thăm <ENAMEX TYPE="LOCATION">nhà con trai lớn tại Cẩm Kim – Hội An</ENAMEX>, tại đây có tiếp xúc với 3 người: <ENAMEX TYPE="CONTACT_PERSON">con trai lớn</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con dâu</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">cháu (2 tháng tuổi)</ENAMEX>;
-Từ ngày <ENAMEX TYPE="CONTACT_DATE">25/7 đến ngày 28/7</ENAMEX>, không lái thuyền, chủ yếu ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, đi thăm <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> và có đi uống <ENAMEX TYPE="LOCATION">cafe tại quán Bi (chủ quán tên Bi)</ENAMEX>, khi đi uống cafe chỉ ngồi một mình không tiếp xúc ai (chỉ có chủ quán mang cafe ra).
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7/2020</ENAMEX></ENAMEX>: cách ly y tế tại <ENAMEX TYPE="LOCATION">khu cách ly tập trung thành phố Hội An</ENAMEX>, được lấy mẫu xét nghiệm;
-- Họ và tên: <ENAMEX TYPE="PERSON">Ca nghi ngờ 8</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+TH này sống cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX>, làm nghề lái thuyền dịch vụ, ít tiếp xúc với hàng xóm xung quanh.
+- Trưa ngày <ENAMEX TYPE="CON_DATE">24/7/2020</ENAMEX>: 
+Ra nuôi <ENAMEX TYPE="CON_PERSON">bố là ông BN428</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa Nội – Tiết niệu bệnh viện Đa khoa Đà Nẵng</ENAMEX>;
+- Trưa ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX>: trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tại loc36 - Phường Minh An - thành phố Hội An - tỉnh Quảng Nam, tại đây có tiếp xúc với 2 người cùng nhà là <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con trai út</ENAMEX>;
+- Chiều ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX>: bán <ENAMEX TYPE="LOCATION">nước mía cho <ENAMEX TYPE="CON_PERSON">chị Tâm</ENAMEX> gần nhà</ENAMEX> (quầy nước mía của vợ bán, bệnh nhân chỉ phụ bán cho 1 người và sau hôm đó quầy tạm nghỉ bán do nghe thông tin có dịch);
+- Ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>, Sang thăm <ENAMEX TYPE="LOCATION">nhà con trai lớn tại Cẩm Kim – Hội An</ENAMEX>, tại đây có tiếp xúc với 3 người: <ENAMEX TYPE="CON_PERSON">con trai lớn</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con dâu</ENAMEX> và <ENAMEX TYPE="CON_PERSON">cháu (2 tháng tuổi)</ENAMEX>;
+Từ ngày <ENAMEX TYPE="CON_DATE">25/7 đến ngày 28/7</ENAMEX>, không lái thuyền, chủ yếu ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, đi thăm <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX> và có đi uống <ENAMEX TYPE="LOCATION">cafe tại quán Bi (chủ quán tên Bi)</ENAMEX>, khi đi uống cafe chỉ ngồi một mình không tiếp xúc ai (chỉ có chủ quán mang cafe ra).
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/7/2020</ENAMEX></ENAMEX>: cách ly y tế tại <ENAMEX TYPE="LOCATION">khu cách ly tập trung thành phố Hội An</ENAMEX>, được lấy mẫu xét nghiệm;
+- Họ và tên: <ENAMEX TYPE="NAME">Ca nghi ngờ 8</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
 - Năm sinh: <ENAMEX TYPE="AGE">1975</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc38 – Thanh Nam – Cẩm Nam – thành phố Hội An - tỉnh Quảng Nam</ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">21/7/2020</ENAMEX>: chăm <ENAMEX TYPE="CONTACT_PERSON">ba BN428</ENAMEX> tại <ENAMEX TYPE="LOCATION">BVĐK ĐN, Khoa Nội thận - Nội tiết - P116</ENAMEX>;
+- Ngày <ENAMEX TYPE="CON_DATE">21/7/2020</ENAMEX>: chăm <ENAMEX TYPE="CON_PERSON">ba BN428</ENAMEX> tại <ENAMEX TYPE="LOCATION">BVĐK ĐN, Khoa Nội thận - Nội tiết - P116</ENAMEX>;
 - Sáng ngày 22/7/20 về lại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>;
-- Ngày <ENAMEX TYPE="CONTACT_DATE">23/07/20</ENAMEX>: 
-+ Uống <ENAMEX TYPE="LOCATION">cà phê Cường ở Thanh Nam,Cẩm Nam</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">09 người</ENAMEX>;
+- Ngày <ENAMEX TYPE="CON_DATE">23/07/20</ENAMEX>: 
++ Uống <ENAMEX TYPE="LOCATION">cà phê Cường ở Thanh Nam,Cẩm Nam</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">09 người</ENAMEX>;
 + Đi <ENAMEX TYPE="LOCATION">chợ Thanh Hà</ENAMEX> bán cá;
-- Từ thời gian ở bệnh viện về có lên <ENAMEX TYPE="LOCATION">nhà Mẹ</ENAMEX> tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">a trai</ENAMEX>.
-Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7/2020</ENAMEX></ENAMEX>: Được đưa vào <ENAMEX TYPE="LOCATION">Khu cách ly Bệnh viên Đa khoa Hội An</ENAMEX> .
-- Họ và tên: <ENAMEX TYPE="PERSON">Ca nghi ngờ 9</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>.
+- Từ thời gian ở bệnh viện về có lên <ENAMEX TYPE="LOCATION">nhà Mẹ</ENAMEX> tiếp xúc với <ENAMEX TYPE="CON_PERSON">a trai</ENAMEX>.
+Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/7/2020</ENAMEX></ENAMEX>: Được đưa vào <ENAMEX TYPE="LOCATION">Khu cách ly Bệnh viên Đa khoa Hội An</ENAMEX> .
+- Họ và tên: <ENAMEX TYPE="NAME">Ca nghi ngờ 9</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>.
 - Năm sinh: <ENAMEX TYPE="AGE">1951</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc39, Phường Minh An, TP Hội An, Quảng Nam</ENAMEX>.
-TH này sống cùng <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX>. Hằng ngày, bệnh nhân chủ yếu ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đâu, buổi sáng có đi ăn sáng ở <ENAMEX TYPE="LOCATION">các quán ăn gần nhà (thường đi ăn sáng quán mỳ đối diện nhà)</ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">18/07/2020</ENAMEX>: Đi xe máy cùng <ENAMEX TYPE="CONTACT_PERSON">con gái</ENAMEX> ra thăm <ENAMEX TYPE="CONTACT_PERSON">BN 428</ENAMEX> rồi về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> lại trong cũng ngày. 
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7/2020</ENAMEX></ENAMEX>: cách ly y tế tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Hội An</ENAMEX>.
+TH này sống cùng <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX>. Hằng ngày, bệnh nhân chủ yếu ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đâu, buổi sáng có đi ăn sáng ở <ENAMEX TYPE="LOCATION">các quán ăn gần nhà (thường đi ăn sáng quán mỳ đối diện nhà)</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">18/07/2020</ENAMEX>: Đi xe máy cùng <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX> ra thăm <ENAMEX TYPE="CON_PERSON">BN 428</ENAMEX> rồi về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> lại trong cũng ngày. 
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/7/2020</ENAMEX></ENAMEX>: cách ly y tế tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Hội An</ENAMEX>.

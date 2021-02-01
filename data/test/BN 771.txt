@@ -1,13 +1,13 @@
-Tên: <ENAMEX TYPE="PERSON">BN 771</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 771</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">loc120, phường Phước Mỹ, quận Sơn Trà, TP Đà Nẵng </ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc120, phường Phước Mỹ, quận Sơn Trà, TP Đà Nẵng</ENAMEX>.
- - Những người trong gia đình tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">bố P.M.T</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">mẹ L.N.T.O (Bệnh nhân số 770)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">em P.T.M.X</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">bà Đ.T.T</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ông P.A</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">bác P.M.T</ENAMEX>.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc120, phường Phước Mỹ, quận Sơn Trà, TP Đà Nẵng</ENAMEX>.
+ - Những người trong gia đình tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CON_PERSON">bố P.M.T</ENAMEX>, <ENAMEX TYPE="CON_PERSON">mẹ L.N.T.O (Bệnh nhân số 770)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">em P.T.M.X</ENAMEX>, <ENAMEX TYPE="CON_PERSON">bà Đ.T.T</ENAMEX>, <ENAMEX TYPE="CON_PERSON">ông P.A</ENAMEX> và <ENAMEX TYPE="CON_PERSON">bác P.M.T</ENAMEX>.
  - Từ ngày 01/8 đến 03/8/2020, bệnh nhân tự cách ly ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
- - Khoảng 08 giờ 00 ngày <ENAMEX TYPE="CONTACT_DATE">04/8/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">mẹ (Bệnh nhân số 770)</ENAMEX> đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">cô (Bệnh nhân số 755)</ENAMEX>, tại loc120, phường Phước Mỹ, quận Sơn Trà, TP Đà Nẵng</ENAMEX> và mua mỳ <ENAMEX TYPE="LOCATION">góc ngã tư đường Châu Thị Vĩnh Tế, quận Ngũ Hành Sơn</ENAMEX>, sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
+ - Khoảng 08 giờ 00 ngày <ENAMEX TYPE="CON_DATE">04/8/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">mẹ (Bệnh nhân số 770)</ENAMEX> đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CON_PERSON">cô (Bệnh nhân số 755)</ENAMEX>, tại loc120, phường Phước Mỹ, quận Sơn Trà, TP Đà Nẵng</ENAMEX> và mua mỳ <ENAMEX TYPE="LOCATION">góc ngã tư đường Châu Thị Vĩnh Tế, quận Ngũ Hành Sơn</ENAMEX>, sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
  - Ngày 05/08/2020, bệnh nhân tự cách ly ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
- - Ngày 06/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">07/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2. Hiện tại, bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
-Nguồn lây: <ENAMEX TYPE="CONTACT_PERSON">BN770 (mẹ)</ENAMEX>, 
-<ENAMEX TYPE="CONTACT_PERSON">BN755 (bà)</ENAMEX>
-Lây cho người khác: <ENAMEX TYPE="CONTACT_PERSON">BN770 (mẹ)</ENAMEX>
+ - Ngày 06/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">07/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2. Hiện tại, bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
+Nguồn lây: <ENAMEX TYPE="CON_PERSON">BN770 (mẹ)</ENAMEX>, 
+<ENAMEX TYPE="CON_PERSON">BN755 (bà)</ENAMEX>
+Lây cho người khác: <ENAMEX TYPE="CON_PERSON">BN770 (mẹ)</ENAMEX>
 Năm sinh: <ENAMEX TYPE="AGE">2002</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

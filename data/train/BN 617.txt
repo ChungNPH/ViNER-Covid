@@ -1,7 +1,7 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 617</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 617</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1989</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc330, phường Hoà Cường Nam, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>
-- Người nhà tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">vợ (ct958</ENAMEX> là giáo viên trường mầm non Hoàng Mai , <ENAMEX TYPE="CONTACT_PERSON">bố vợ</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">mẹ vợ</ENAMEX>, và <ENAMEX TYPE="CONTACT_PERSON">2 con</ENAMEX>.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">21/7/2020</ENAMEX> đến 26/7/2020 bệnh nhân làm việc tại <ENAMEX TYPE="LOCATION">khoa Huyết học truyền máu, bệnh viện Đà Nẵng</ENAMEX> sau đó về nhà, chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">người nhà</ENAMEX> và không đi đến nơi khác.
-- Tối ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">26/7/2020</ENAMEX></ENAMEX> bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">khoa Huyết học - truyền máu, bệnh viện Đà Nẵng</ENAMEX>.
-- Ngày 30/7/2020 Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">01/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Người nhà tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CON_PERSON">vợ (ct958</ENAMEX> là giáo viên trường mầm non Hoàng Mai , <ENAMEX TYPE="CON_PERSON">bố vợ</ENAMEX>, <ENAMEX TYPE="CON_PERSON">mẹ vợ</ENAMEX>, và <ENAMEX TYPE="CON_PERSON">2 con</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">21/7/2020</ENAMEX> đến 26/7/2020 bệnh nhân làm việc tại <ENAMEX TYPE="LOCATION">khoa Huyết học truyền máu, bệnh viện Đà Nẵng</ENAMEX> sau đó về nhà, chỉ tiếp xúc với <ENAMEX TYPE="CON_PERSON">người nhà</ENAMEX> và không đi đến nơi khác.
+- Tối ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">26/7/2020</ENAMEX></ENAMEX> bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">khoa Huyết học - truyền máu, bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày 30/7/2020 Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">01/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

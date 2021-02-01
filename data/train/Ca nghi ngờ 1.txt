@@ -1,14 +1,14 @@
- Bệnh nhân: <ENAMEX TYPE="PERSON">Ca nghi ngờ 1</ENAMEX>		sinh năm  <ENAMEX TYPE="AGE">2014</ENAMEX> (6 tuổi)
+ Bệnh nhân: <ENAMEX TYPE="NAME">Ca nghi ngờ 1</ENAMEX>		sinh năm  <ENAMEX TYPE="AGE">2014</ENAMEX> (6 tuổi)
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc394 - Trung Liệt - Đống Đa - Hà Nội</ENAMEX>
 - Vào cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện trường Đại học kỹ thuật y tế Hải Dương</ENAMEX> lúc 21h ngày 06/8/2020
-- <ENAMEX TYPE="CONTACT_DATE">Trưa ngày 05/8/2020</ENAMEX> Ca nghi ngờ 1 và <ENAMEX TYPE="CONTACT_PERSON">mẹ là ct1246</ENAMEX> đi xe ghép của nhà xe Đức Hiếu từ <ENAMEX TYPE="LOCATION">Hà Nội</ENAMEX> về <ENAMEX TYPE="LOCATION">loc395 - Khu 12 - Ngọc Châu</ENAMEX>. 
-- Trên xe cháu ngồi cùng hàng ghế sau với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân 751</ENAMEX>, trên xe có <ENAMEX TYPE="CONTACT_PERSON">4 người</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">1 lái xe</ENAMEX>.
-- Sau khi về nhà tại <ENAMEX TYPE="LOCATION">loc395, phường Ngọc Châu, TP Hải Dương</ENAMEX> Ca nghi ngờ 1 ở lại <ENAMEX TYPE="LOCATION">nhà</ENAMEX> cùng <ENAMEX TYPE="CONTACT_PERSON">bà nội là ct1247</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">mẹ  cháu là ct1246</ENAMEX> quay trở về Hà Nội lúc 13h30 đi ra quán uống café với bạn (ct1249 đã được cách ly), sau đó đi xe ghép 100.000đ lên Hà Nội (Thái Hà - Trung Liệt - Đống Đa - Hà Nội và được điều tra và cách lý tai Hà Nội), lái xe các đối tượng liên quan đã được cách ly.
-- <ENAMEX TYPE="CONTACT_DATE">Từ chiều 5/8/2020 đến ngày 06/8/2020</ENAMEX> bệnh nhân ở tại <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">bà nội</ENAMEX></ENAMEX> không đi đâu;
-- Đến 21 giờ tối ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">06/08/2020</ENAMEX></ENAMEX>  Ca nghi ngờ 1 cùng bà nội là ct1247 được đưa đi cách ly tập trung tại <ENAMEX TYPE="LOCATION">BV trường ĐH kỹ thuật y tế Hải Dương</ENAMEX>, các thành viên trong gia đình được cách ly theo dõi tại nhà.
-- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">9/8/2020</ENAMEX> Ca nghi ngờ 1 có biểu hiện sốt, đã chuyển sang <ENAMEX TYPE="LOCATION">Bệnh viện Nhiệt đới Hải Dương</ENAMEX> cùng bà để được cách ly và điều trị. 
-- Chiều ngày <ENAMEX TYPE="POSITIVE_DATE">9/8/2020</ENAMEX>, Trung tâm Kiểm soát bệnh tật đã lấy mẫu xét nghiệm SAR-COV-2. 
-<ENAMEX TYPE="CONTACT_PERSON">ct1251 Bà nội</ENAMEX>
-<ENAMEX TYPE="CONTACT_PERSON">ct1252 Ông nội</ENAMEX>
-<ENAMEX TYPE="CONTACT_PERSON">ct1253 Anh trai</ENAMEX>
-<ENAMEX TYPE="CONTACT_PERSON">ct1254 Chú ruột</ENAMEX>
+- <ENAMEX TYPE="CON_DATE">Trưa ngày 05/8/2020</ENAMEX> Ca nghi ngờ 1 và <ENAMEX TYPE="CON_PERSON">mẹ là ct1246</ENAMEX> đi xe ghép của nhà xe Đức Hiếu từ <ENAMEX TYPE="LOCATION">Hà Nội</ENAMEX> về <ENAMEX TYPE="LOCATION">loc395 - Khu 12 - Ngọc Châu</ENAMEX>. 
+- Trên xe cháu ngồi cùng hàng ghế sau với <ENAMEX TYPE="CON_PERSON">bệnh nhân 751</ENAMEX>, trên xe có <ENAMEX TYPE="CON_PERSON">4 người</ENAMEX> và <ENAMEX TYPE="CON_PERSON">1 lái xe</ENAMEX>.
+- Sau khi về nhà tại <ENAMEX TYPE="LOCATION">loc395, phường Ngọc Châu, TP Hải Dương</ENAMEX> Ca nghi ngờ 1 ở lại <ENAMEX TYPE="LOCATION">nhà</ENAMEX> cùng <ENAMEX TYPE="CON_PERSON">bà nội là ct1247</ENAMEX>, <ENAMEX TYPE="CON_PERSON">mẹ  cháu là ct1246</ENAMEX> quay trở về Hà Nội lúc 13h30 đi ra quán uống café với bạn (ct1249 đã được cách ly), sau đó đi xe ghép 100.000đ lên Hà Nội (Thái Hà - Trung Liệt - Đống Đa - Hà Nội và được điều tra và cách lý tai Hà Nội), lái xe các đối tượng liên quan đã được cách ly.
+- <ENAMEX TYPE="CON_DATE">Từ chiều 5/8/2020 đến ngày 06/8/2020</ENAMEX> bệnh nhân ở tại <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CON_PERSON">bà nội</ENAMEX></ENAMEX> không đi đâu;
+- Đến 21 giờ tối ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">06/08/2020</ENAMEX></ENAMEX>  Ca nghi ngờ 1 cùng bà nội là ct1247 được đưa đi cách ly tập trung tại <ENAMEX TYPE="LOCATION">BV trường ĐH kỹ thuật y tế Hải Dương</ENAMEX>, các thành viên trong gia đình được cách ly theo dõi tại nhà.
+- Ngày <ENAMEX TYPE="SYM_DATE">9/8/2020</ENAMEX> Ca nghi ngờ 1 có biểu hiện sốt, đã chuyển sang <ENAMEX TYPE="LOCATION">Bệnh viện Nhiệt đới Hải Dương</ENAMEX> cùng bà để được cách ly và điều trị. 
+- Chiều ngày <ENAMEX TYPE="POS_DATE">9/8/2020</ENAMEX>, Trung tâm Kiểm soát bệnh tật đã lấy mẫu xét nghiệm SAR-COV-2. 
+<ENAMEX TYPE="CON_PERSON">ct1251 Bà nội</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">ct1252 Ông nội</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">ct1253 Anh trai</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">ct1254 Chú ruột</ENAMEX>

@@ -1,15 +1,15 @@
-    • Họ tên: <ENAMEX TYPE="PERSON">BN 461</ENAMEX>	
-    • Tuổi: <ENAMEX TYPE="AGE">46</ENAMEX>                    	- Giới tính: <ENAMEX TYPE="SEX">nữ</ENAMEX>
+    • Họ tên: <ENAMEX TYPE="NAME">BN 461</ENAMEX>	
+    • Tuổi: <ENAMEX TYPE="AGE">46</ENAMEX>                    	- Giới tính: <ENAMEX TYPE="GENDER">nữ</ENAMEX>
     • Nơi lưu trú tại Quảng Nam: <ENAMEX TYPE="ADDRESS">Chùa Bảo Thắng - phường Sơn Phong - TP Hội An</ENAMEX>.
-    • Ngày <ENAMEX TYPE="CONTACT_DATE">13/7/2020</ENAMEX>: 
-+ Đến <ENAMEX TYPE="LOCATION">khoa Hồi sức tích cực chống độc - Bệnh viện Đà Nẵng</ENAMEX> để chăm <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> bị ốm;
-+ Tối về ngủ tại <ENAMEX TYPE="LOCATION"><ENAMEX TYPE="CONTACT_PERSON">nhà bà con</ENAMEX> ở Đường Phan Khang, Phường Hoà An, quận Cẩm Lệ, Tp Đà Nẵng</ENAMEX>; 
-    • Ngày <ENAMEX TYPE="CONTACT_DATE">14/7/2020</ENAMEX>: tiếp tục đến <ENAMEX TYPE="LOCATION">BV</ENAMEX> để chăm <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX>;
+    • Ngày <ENAMEX TYPE="CON_DATE">13/7/2020</ENAMEX>: 
++ Đến <ENAMEX TYPE="LOCATION">khoa Hồi sức tích cực chống độc - Bệnh viện Đà Nẵng</ENAMEX> để chăm <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> bị ốm;
++ Tối về ngủ tại <ENAMEX TYPE="LOCATION"><ENAMEX TYPE="CON_PERSON">nhà bà con</ENAMEX> ở Đường Phan Khang, Phường Hoà An, quận Cẩm Lệ, Tp Đà Nẵng</ENAMEX>; 
+    • Ngày <ENAMEX TYPE="CON_DATE">14/7/2020</ENAMEX>: tiếp tục đến <ENAMEX TYPE="LOCATION">BV</ENAMEX> để chăm <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX>;
     • Ngày 15/7/2020: mẹ mất nên về làm đám tang tại <ENAMEX TYPE="LOCATION">loc61 – phường Điện Nam Đông – Điện Bàn</ENAMEX>, di chuyển bằng xe của bệnh viện;
     • Từ ngày 15/7 đến 22/7: ở nhà làm đám tang cho mẹ, có qua <ENAMEX TYPE="LOCATION">chợ Lai Nghi - Điện Nam Đông - Điện Bàn</ENAMEX> để mua đồ;
     • Ngày 22/7/2020: tự đi xe xuống <ENAMEX TYPE="LOCATION">chùa Bảo Thắng</ENAMEX> sau đó về lại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. Sau đó bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ Lai Nghi</ENAMEX> mua hàng, trong suốt quá trình đi chợ đều có đeo khẩu trang;
     • Ngày 23/7/2020: về lại <ENAMEX TYPE="LOCATION">chùa Bảo Thắng</ENAMEX>;
     • Từ ngày 23/7 đến 26/7: sinh hoạt ở <ENAMEX TYPE="LOCATION">chùa Bảo Thắng</ENAMEX>;
-    • Ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX></ENAMEX>: nhờ <ENAMEX TYPE="CONTACT_PERSON">người quen</ENAMEX> chở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, sau đó có dấu hiệu mệt mỏi;
-    • Ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX></ENAMEX></ENAMEX>: nhờ <ENAMEX TYPE="CONTACT_PERSON">người em</ENAMEX> đưa đến <ENAMEX TYPE="LOCATION">bệnh viện đa khoa Hội An</ENAMEX> khám và được cách ly tại bệnh viện.
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE">27/7/2020</ENAMEX>: nhập viện với triệu chứng sốt nhẹ, ho. Được người nhà đưa đến <ENAMEX TYPE="LOCATION">Bệnh viện đa khoa thành phố Hội An</ENAMEX>
+    • Ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX></ENAMEX>: nhờ <ENAMEX TYPE="CON_PERSON">người quen</ENAMEX> chở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, sau đó có dấu hiệu mệt mỏi;
+    • Ngày <ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">27/7/2020</ENAMEX></ENAMEX></ENAMEX>: nhờ <ENAMEX TYPE="CON_PERSON">người em</ENAMEX> đưa đến <ENAMEX TYPE="LOCATION">bệnh viện đa khoa Hội An</ENAMEX> khám và được cách ly tại bệnh viện.
+- Ngày <ENAMEX TYPE="HOS_DATE">27/7/2020</ENAMEX>: nhập viện với triệu chứng sốt nhẹ, ho. Được người nhà đưa đến <ENAMEX TYPE="LOCATION">Bệnh viện đa khoa thành phố Hội An</ENAMEX>

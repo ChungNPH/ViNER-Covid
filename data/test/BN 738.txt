@@ -1,12 +1,12 @@
-Tên: <ENAMEX TYPE="PERSON">BN 738</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 738</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">Chung cư A2 đường Nguyễn ĐăngTuyển, quận Sơn Trà, TP Đà Nẵng </ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">Chung cư A2 đường Nguyễn Đăng Tuyển, quận Sơn Trà, TP Đà Nẵng</ENAMEX>.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">Chung cư A2 đường Nguyễn Đăng Tuyển, quận Sơn Trà, TP Đà Nẵng</ENAMEX>.
  - Bệnh nhân thường xuyên đến khám và chạy thận tại <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX> từ tháng 01/2020 đến nay. Lịch chạy thận của bệnh nhân là vào thứ 3 và thứ 6 hàng tuần.
  - Từ ngày 15/7 đến 27/7/2020, bệnh nhân tiếp tục đến <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> để chạy thận (thứ 3, thứ 6 hàng tuần), sau đó trở về <ENAMEX TYPE="LOCATION">nhà tại Chung cư A2 đường Nguyễn Đăng Tuyển, quận Sơn Trà, TP Đà Nẵng</ENAMEX>, không đi đến nơi khác.
- - Từ ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7</ENAMEX></ENAMEX> đến 04/8/2020, bệnh nhân được chuyển vào <ENAMEX TYPE="LOCATION">khu cách ly tập trung</ENAMEX>. Trong khoảng thời gian này, bệnh nhân được xe cấp cứu chở đến <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> để chạy thận vào thứ 3, thứ 6 hàng tuần, sau đó trở về <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>.
- - Ngày <ENAMEX TYPE="SYMPTOMS_DATE">04/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng mệt mỏi nên được xe cấp cứu chở đến <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> để nhập viện.
- - Ngày 04/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">05/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+ - Từ ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/7</ENAMEX></ENAMEX> đến 04/8/2020, bệnh nhân được chuyển vào <ENAMEX TYPE="LOCATION">khu cách ly tập trung</ENAMEX>. Trong khoảng thời gian này, bệnh nhân được xe cấp cứu chở đến <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> để chạy thận vào thứ 3, thứ 6 hàng tuần, sau đó trở về <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>.
+ - Ngày <ENAMEX TYPE="SYM_DATE">04/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng mệt mỏi nên được xe cấp cứu chở đến <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> để nhập viện.
+ - Ngày 04/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">05/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
  - Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
-Lây cho người khác: <ENAMEX TYPE="CONTACT_PERSON">BN814 (con)</ENAMEX>
+Lây cho người khác: <ENAMEX TYPE="CON_PERSON">BN814 (con)</ENAMEX>
 Năm sinh: <ENAMEX TYPE="AGE">1971</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

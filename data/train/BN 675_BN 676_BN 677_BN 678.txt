@@ -1,9 +1,9 @@
-    1. Bệnh nhân <ENAMEX TYPE="PERSON">BN 675</ENAMEX>, năm sinh: <ENAMEX TYPE="AGE">1979</ENAMEX> ( 41 tuổi) , Mã số: BN675
-2.Bệnh nhân <ENAMEX TYPE="PERSON">BN 676</ENAMEX>, năm sinh:  <ENAMEX TYPE="AGE">2007</ENAMEX> ( 13 tuổi), Mã số: BN676
-3.Bệnh nhân <ENAMEX TYPE="PERSON">BN 677</ENAMEX>, năm sinh: <ENAMEX TYPE="AGE">2010</ENAMEX> ( 10 tuổi) , Mã số: BN677
-4.Bệnh nhân <ENAMEX TYPE="PERSON">BN 678</ENAMEX>, năm sinh: <ENAMEX TYPE="AGE">1982</ENAMEX>  (38 tuổi), Mã số: BN678
+    1. Bệnh nhân <ENAMEX TYPE="NAME">BN 675</ENAMEX>, năm sinh: <ENAMEX TYPE="AGE">1979</ENAMEX> ( 41 tuổi) , Mã số: BN675
+2.Bệnh nhân <ENAMEX TYPE="NAME">BN 676</ENAMEX>, năm sinh:  <ENAMEX TYPE="AGE">2007</ENAMEX> ( 13 tuổi), Mã số: BN676
+3.Bệnh nhân <ENAMEX TYPE="NAME">BN 677</ENAMEX>, năm sinh: <ENAMEX TYPE="AGE">2010</ENAMEX> ( 10 tuổi) , Mã số: BN677
+4.Bệnh nhân <ENAMEX TYPE="NAME">BN 678</ENAMEX>, năm sinh: <ENAMEX TYPE="AGE">1982</ENAMEX>  (38 tuổi), Mã số: BN678
 Địa chỉ: <ENAMEX TYPE="ADDRESS">Khu 7 thị trấn Đình Lập, Huyện Đình Lập, Tỉnh Lạng Sơn</ENAMEX>
-1) Ngày <ENAMEX TYPE="CONTACT_DATE">21/7/2020</ENAMEX>: bệnh nhân Hoàng Thị Hằng  cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình (chồng và 02 con)</ENAMEX> từ <ENAMEX TYPE="LOCATION">Đình Lập</ENAMEX> đi xe gia đình xuống <ENAMEX TYPE="LOCATION">sân bay nội bài</ENAMEX> và bay từ <ENAMEX TYPE="LOCATION">Nội Bài</ENAMEX> vào <ENAMEX TYPE="LOCATION">Đà Nẵng</ENAMEX>, đến nơi xe công ty du lịch đón về nghỉ tại <ENAMEX TYPE="LOCATION">khách sạn Tây Bắc số 04, Hà Bổng - Đà Nẵng</ENAMEX>, ăn trưa ăn tại <ENAMEX TYPE="LOCATION">nhà hàng Trần, đường Nguyễn Văn Linh</ENAMEX>.
+1) Ngày <ENAMEX TYPE="CON_DATE">21/7/2020</ENAMEX>: bệnh nhân Hoàng Thị Hằng  cùng <ENAMEX TYPE="CON_PERSON">gia đình (chồng và 02 con)</ENAMEX> từ <ENAMEX TYPE="LOCATION">Đình Lập</ENAMEX> đi xe gia đình xuống <ENAMEX TYPE="LOCATION">sân bay nội bài</ENAMEX> và bay từ <ENAMEX TYPE="LOCATION">Nội Bài</ENAMEX> vào <ENAMEX TYPE="LOCATION">Đà Nẵng</ENAMEX>, đến nơi xe công ty du lịch đón về nghỉ tại <ENAMEX TYPE="LOCATION">khách sạn Tây Bắc số 04, Hà Bổng - Đà Nẵng</ENAMEX>, ăn trưa ăn tại <ENAMEX TYPE="LOCATION">nhà hàng Trần, đường Nguyễn Văn Linh</ENAMEX>.
 - Chiều đi <ENAMEX TYPE="LOCATION">bán đảo Sơn trà</ENAMEX>, Viếng <ENAMEX TYPE="LOCATION">linh ứng Tự</ENAMEX>.
 - Tối: ăn ở <ENAMEX TYPE="LOCATION">nhà hàng Cội nguồn Đảo Xanh</ENAMEX>
 2) Ngày 22/7/2020: Đi <ENAMEX TYPE="LOCATION">Bà Nà Hill</ENAMEX>
@@ -12,11 +12,11 @@
 - Ăn trưa ở <ENAMEX TYPE="LOCATION">nhà hàng Sơn Dương 2, đường Xô Viết, Nghệ tĩnh</ENAMEX>.
 - Tối ăn ở <ENAMEX TYPE="LOCATION">Nhà hàng Golden Light, ở Hội An</ENAMEX>
  4) Ngày 24/7/2020. 11 giờ 00 đi ăn cơm ở <ENAMEX TYPE="LOCATION">Trúc Lâm Viên, đường Trần Quý Cáp</ENAMEX>, ăn xong đi <ENAMEX TYPE="LOCATION">Ngũ Hành Sơn</ENAMEX> chơi 17 giờ 00 về <ENAMEX TYPE="LOCATION">quán bún chả cá Ông Tạ, Nguyễn Trí Thanh</ENAMEX>, ăn xong ra <ENAMEX TYPE="LOCATION">sân bay Đà Nẵng</ENAMEX> bay về <ENAMEX TYPE="LOCATION">sân bay Nội Bài</ENAMEX> trên chuyến bay số hiệu VN 7198. Khởi hành từ <ENAMEX TYPE="LOCATION">Đà Nẵng</ENAMEX> hồi 10h00 đến <ENAMEX TYPE="LOCATION">Sân bay Nội Bài</ENAMEX> lúc 11 giờ 30, lái xe Gia đình về đến <ENAMEX TYPE="LOCATION">Đình Lập</ENAMEX> lúc 04 giờ 00 ngày 25/7/2020, <ENAMEX TYPE="LOCATION">nhà riêng tại khu 7 thị trấn Đình Lập</ENAMEX> nghỉ ngơi.
-5) Ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX> gia đình ở nhà đến 17 giờ 00, bà ct475 ra <ENAMEX TYPE="LOCATION">quán  cà phê tại khu 5</ENAMEX> và có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">chị ct476</ENAMEX>. 18 giờ 00 về nhà ngủ không đi đâu Ông ct477 16 giờ 00 (Chồng chị ct478) đi ăn cưới <ENAMEX TYPE="CONTACT_PERSON"><ENAMEX TYPE="LOCATION">nhà ông ct479 tại nhà hàng Hùng Hưng khu 6 Thị trấn Đình Lập</ENAMEX></ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX> Bà ct475 cùng các con ở nhà và có tiếp xúc gần với <ENAMEX TYPE="CONTACT_PERSON">anh ct481</ENAMEX>.
-Ông ct477 di chuyển lên <ENAMEX TYPE="CONTACT_PERSON"><ENAMEX TYPE="LOCATION">nhà ông ct483</ENAMEX></ENAMEX>. 17 giờ 00 về nhà nghỉ ngơi không đi đâu.
-- Từ chiều <ENAMEX TYPE="ISOLATION_DATE">27/8</ENAMEX>-01/8/2020 cách ly tại nhà.
-- 21giờ 30, <ENAMEX TYPE="SYMPTOMS_DATE">ngày 01/8/2020</ENAMEX>: bệnh nhân xuất hiện sốt 38 độ.
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE">04/8/2020</ENAMEX>: 9 giờ 00 đưa bệnh nhân và gia đình vào cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Huyện Đình Lập</ENAMEX>. 
-Đến 11h00 ngày <ENAMEX TYPE="POSITIVE_DATE">05/8/2020</ENAMEX> Viện vệ sinh Dịch tễ Trung ương thông báo  cả 04 ca Trong gia đình bà Hằng đều dương tính với Covid- 19.
+5) Ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX> gia đình ở nhà đến 17 giờ 00, bà ct475 ra <ENAMEX TYPE="LOCATION">quán  cà phê tại khu 5</ENAMEX> và có tiếp xúc với <ENAMEX TYPE="CON_PERSON">chị ct476</ENAMEX>. 18 giờ 00 về nhà ngủ không đi đâu Ông ct477 16 giờ 00 (Chồng chị ct478) đi ăn cưới <ENAMEX TYPE="CON_PERSON"><ENAMEX TYPE="LOCATION">nhà ông ct479 tại nhà hàng Hùng Hưng khu 6 Thị trấn Đình Lập</ENAMEX></ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">27/7/2020</ENAMEX> Bà ct475 cùng các con ở nhà và có tiếp xúc gần với <ENAMEX TYPE="CON_PERSON">anh ct481</ENAMEX>.
+Ông ct477 di chuyển lên <ENAMEX TYPE="CON_PERSON"><ENAMEX TYPE="LOCATION">nhà ông ct483</ENAMEX></ENAMEX>. 17 giờ 00 về nhà nghỉ ngơi không đi đâu.
+- Từ chiều <ENAMEX TYPE="ISO_DATE">27/8</ENAMEX>-01/8/2020 cách ly tại nhà.
+- 21giờ 30, <ENAMEX TYPE="SYM_DATE">ngày 01/8/2020</ENAMEX>: bệnh nhân xuất hiện sốt 38 độ.
+- Ngày <ENAMEX TYPE="HOS_DATE">04/8/2020</ENAMEX>: 9 giờ 00 đưa bệnh nhân và gia đình vào cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Huyện Đình Lập</ENAMEX>. 
+Đến 11h00 ngày <ENAMEX TYPE="POS_DATE">05/8/2020</ENAMEX> Viện vệ sinh Dịch tễ Trung ương thông báo  cả 04 ca Trong gia đình bà Hằng đều dương tính với Covid- 19.
 Trung tâm Kiểm soát bệnh tật đã Liên hệ với Bệnh viện Nhiệt đới Quốc gia để chuyển 04 bệnh nhân về cơ sở 2 của bệnh viện điều trị, 14h30 Tổ công tác Bệnh viện Đa khoa tỉnh Lạng Sơn đưa 04 bệnh nhân về <ENAMEX TYPE="LOCATION">cơ sở 2 Bệnh viện Nhiệt đới Trung ương</ENAMEX> điều trị.

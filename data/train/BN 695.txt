@@ -1,10 +1,10 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 695</ENAMEX>		Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 695</ENAMEX>		Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1978</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc226, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại địa chỉ <ENAMEX TYPE="LOCATION">loc226, quận Hải Châu, Tp. Đà Nẵng</ENAMEX></ENAMEX>. 
-- Trong thời gian từ ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX> đến nay những người tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">con gái (ct411</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">chồng (ct412)</ENAMEX>.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">16/7</ENAMEX> đến 25/7/2020, bệnh nhân chỉ ở nhà tại địa chỉ <ENAMEX TYPE="LOCATION">loc226, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>, bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">khoa Thận - nội tiết, bệnh viện Đà Nẵng</ENAMEX>, có <ENAMEX TYPE="CONTACT_PERSON">con gái (ct413)</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">chồng (ct414)</ENAMEX> đến chăm sóc.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình tại địa chỉ <ENAMEX TYPE="LOCATION">loc226, quận Hải Châu, Tp. Đà Nẵng</ENAMEX></ENAMEX>. 
+- Trong thời gian từ ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX> đến nay những người tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CON_PERSON">con gái (ct411</ENAMEX>, <ENAMEX TYPE="CON_PERSON">chồng (ct412)</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">16/7</ENAMEX> đến 25/7/2020, bệnh nhân chỉ ở nhà tại địa chỉ <ENAMEX TYPE="LOCATION">loc226, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
+- Ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX>, bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">khoa Thận - nội tiết, bệnh viện Đà Nẵng</ENAMEX>, có <ENAMEX TYPE="CON_PERSON">con gái (ct413)</ENAMEX> và <ENAMEX TYPE="CON_PERSON">chồng (ct414)</ENAMEX> đến chăm sóc.
 - Từ ngày 25/7/2020 đến 03/8/2020, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>, không đi đến nơi khác.
-- Ngày 03/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">04/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Ngày 03/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">04/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
 - Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

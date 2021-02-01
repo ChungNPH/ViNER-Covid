@@ -1,8 +1,8 @@
-Tên: <ENAMEX TYPE="PERSON">BN 766</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 766</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">Đường Lê Văn Hiến, phường Hòa Hải, quận Ngũ Hành Sơn, TP Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">Lê Văn Hiến, phường Hòa Hải, quận Ngũ Hành Sơn, TP Đà Nẵng</ENAMEX>.
- - Những người trong gia đình tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">con trai Q</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con gái L</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con trai H</ENAMEX>, và <ENAMEX TYPE="CONTACT_PERSON">con dâu L</ENAMEX>.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">Lê Văn Hiến, phường Hòa Hải, quận Ngũ Hành Sơn, TP Đà Nẵng</ENAMEX>.
+ - Những người trong gia đình tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CON_PERSON">con trai Q</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con gái L</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con trai H</ENAMEX>, và <ENAMEX TYPE="CON_PERSON">con dâu L</ENAMEX>.
  - Bệnh nhân thường xuyên điều trị và chạy thận tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> trong mấy năm trở lại đây. Lịch chạy thận của bệnh nhân là 03 lần/tuần (thứ 3, thứ 5, thứ 7). Trong suốt thời gian này, bệnh nhân chỉ đến <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> rồi về <ENAMEX TYPE="LOCATION">nhà tại địa chỉ Lê Văn Hiến, phường Hòa Hải, quận Ngũ Hành Sơn, TP Đà Nẵng</ENAMEX>, không đi đến nơi khác.
- - Từ ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/7</ENAMEX></ENAMEX> đến 04/8/2020, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">khu cách ly tập trung</ENAMEX>. Trong suốt thời gian này, bệnh nhân được xe cấp cứu chuyển đến Bệnh viện Đà Nẵng để chạy thận và về lại khách sạn, không đi đến nơi khác. Ngày 06/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">07/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+ - Từ ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">27/7</ENAMEX></ENAMEX> đến 04/8/2020, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">khu cách ly tập trung</ENAMEX>. Trong suốt thời gian này, bệnh nhân được xe cấp cứu chuyển đến Bệnh viện Đà Nẵng để chạy thận và về lại khách sạn, không đi đến nơi khác. Ngày 06/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">07/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
 Năm sinh: <ENAMEX TYPE="AGE">1955</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

@@ -1,17 +1,17 @@
-a. Họ và tên bệnh nhân:  <ENAMEX TYPE="PERSON">BN 750</ENAMEX> (L)
+a. Họ và tên bệnh nhân:  <ENAMEX TYPE="NAME">BN 750</ENAMEX> (L)
 b. Năm sinh:     <ENAMEX TYPE="AGE">6/12/1992</ENAMEX>              Tuổi (năm): 28
-c. Giới: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+c. Giới: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
 - Anh L sinh sống tại <ENAMEX TYPE="LOCATION"><ENAMEX TYPE="ADDRESS">Khu phố 9, Đông Lễ, TP.Đông Hà, Quảng Trị</ENAMEX></ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">18/7/2020</ENAMEX>, sáng đi <ENAMEX TYPE="LOCATION">Huế</ENAMEX> anh L tiếp xúc với  <ENAMEX TYPE="CONTACT_PERSON">bạn là trường hợp nghi ngờ mắc Covid-19 (ct1223, kết quả xét nghiệm ngày 1/8/2020: âm tính)</ENAMEX> lịch trình như sau:
-Trưa ngày <ENAMEX TYPE="CONTACT_DATE">18/7/2020</ENAMEX>, anh L đến đón <ENAMEX TYPE="CONTACT_PERSON">bạn</ENAMEX> tại <ENAMEX TYPE="LOCATION">Nha Khoa Pháp-Việt, đường Hai Bà Trưng, TP.Huế</ENAMEX>.
-Sau đó, anh L cùng <ENAMEX TYPE="CONTACT_PERSON">bạn</ENAMEX> ăn tại <ENAMEX TYPE="LOCATION">quán Liễu, đường Hai Bà Trưng, TP.Huế</ENAMEX>.
-Chiều cùng ngày, anh L chở <ENAMEX TYPE="CONTACT_PERSON">bạn</ENAMEX> ra <ENAMEX TYPE="LOCATION">nhà tại Đơn Duệ, Vĩnh Hòa, Vĩnh Linh</ENAMEX> sau đó quay trở lại <ENAMEX TYPE="LOCATION">nhà tại Đông Hà</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">18/7/2020</ENAMEX>, sáng đi <ENAMEX TYPE="LOCATION">Huế</ENAMEX> anh L tiếp xúc với  <ENAMEX TYPE="CON_PERSON">bạn là trường hợp nghi ngờ mắc Covid-19 (ct1223, kết quả xét nghiệm ngày 1/8/2020: âm tính)</ENAMEX> lịch trình như sau:
+Trưa ngày <ENAMEX TYPE="CON_DATE">18/7/2020</ENAMEX>, anh L đến đón <ENAMEX TYPE="CON_PERSON">bạn</ENAMEX> tại <ENAMEX TYPE="LOCATION">Nha Khoa Pháp-Việt, đường Hai Bà Trưng, TP.Huế</ENAMEX>.
+Sau đó, anh L cùng <ENAMEX TYPE="CON_PERSON">bạn</ENAMEX> ăn tại <ENAMEX TYPE="LOCATION">quán Liễu, đường Hai Bà Trưng, TP.Huế</ENAMEX>.
+Chiều cùng ngày, anh L chở <ENAMEX TYPE="CON_PERSON">bạn</ENAMEX> ra <ENAMEX TYPE="LOCATION">nhà tại Đơn Duệ, Vĩnh Hòa, Vĩnh Linh</ENAMEX> sau đó quay trở lại <ENAMEX TYPE="LOCATION">nhà tại Đông Hà</ENAMEX>.
 - Từ ngày 19/7/2020 đến 1/8/2020, anh L <ENAMEX TYPE="LOCATION">đi làm</ENAMEX> bình thường và chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đâu xa.
-Đối tượng Long xuất hiện sốt nhẹ, đau họng, mỏi người ngày <ENAMEX TYPE="SYMPTOMS_DATE">25/7/2020</ENAMEX> sau đó các triệu chứng mất đi từ ngày 26/7/2020.
-- Ngày 2/8/2020, sau khi biết tin tiếp xúc gần với trường hợp nghi ngờ, anh L tới <ENAMEX TYPE="LOCATION">TTYT</ENAMEX> khai báo và được cách ly tại <ENAMEX TYPE="LOCATION">TTYT thành phố Đông Hà</ENAMEX> từ ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">2/8/2020</ENAMEX></ENAMEX>.
+Đối tượng Long xuất hiện sốt nhẹ, đau họng, mỏi người ngày <ENAMEX TYPE="SYM_DATE">25/7/2020</ENAMEX> sau đó các triệu chứng mất đi từ ngày 26/7/2020.
+- Ngày 2/8/2020, sau khi biết tin tiếp xúc gần với trường hợp nghi ngờ, anh L tới <ENAMEX TYPE="LOCATION">TTYT</ENAMEX> khai báo và được cách ly tại <ENAMEX TYPE="LOCATION">TTYT thành phố Đông Hà</ENAMEX> từ ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">2/8/2020</ENAMEX></ENAMEX>.
 - Ngày 2/8/2020, anh L được <ENAMEX TYPE="LOCATION">TTYT TP Đông Hà</ENAMEX> lấy mẫu xét nghiệm SARS-CoV-2 gửi Trung tâm Kiểm soát bệnh tật tỉnh Quảng Trị.
-<ENAMEX TYPE="CONTACT_PERSON">ct1224</ENAMEX>
-<ENAMEX TYPE="CONTACT_PERSON">ct1225</ENAMEX> 
-<ENAMEX TYPE="CONTACT_PERSON">ct1226</ENAMEX> 
-<ENAMEX TYPE="CONTACT_PERSON">ct1227</ENAMEX> 
-<ENAMEX TYPE="CONTACT_PERSON">ct1228</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">ct1224</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">ct1225</ENAMEX> 
+<ENAMEX TYPE="CON_PERSON">ct1226</ENAMEX> 
+<ENAMEX TYPE="CON_PERSON">ct1227</ENAMEX> 
+<ENAMEX TYPE="CON_PERSON">ct1228</ENAMEX>

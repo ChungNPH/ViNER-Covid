@@ -1,9 +1,9 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 666</ENAMEX>  . Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 666</ENAMEX>  . Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1927</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc291 (Tổ 01, P. Thạc Gián, Q. Thanh Khê, Tp. Đà Nẵng, TP. Đà Nẵng</ENAMEX>.
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc291 (Tổ 01, P. Thạc Gián, Q. Thanh Khê, Tp. Đà Nẵng</ENAMEX>, TP. Đà Nẵng gồm: ct781 và ct782</ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">23/7</ENAMEX> đến 29/7/2020, Bệnh nhân nhập viện điều trị tại <ENAMEX TYPE="LOCATION">khoa Lão, Bệnh viện Đà Nẵng</ENAMEX> (Một số bệnh kèm như: Người nhà chăm sóc là <ENAMEX TYPE="CONTACT_PERSON">anh ct783</ENAMEX>. Trong thời gian này ngày 23-24/7/2020 anh ct784 về nhà tắm rửa, lấy quần áo và có tiếp xúc với người nhà còn lại ở bệnh viện chăm bố.
-- Trong thời gian bệnh nhân nằm viện: ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX> bệnh nhân có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">con gái là chị ct785</ENAMEX> đến thăm trong đêm rồi ra về.
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">29/7/2020</ENAMEX></ENAMEX>(10h00’), Bệnh nhân được đưa đi cách ly cùng gia đình tại <ENAMEX TYPE="LOCATION">Trung tâm cách ly thuộc Trường Quân sự Quân khu V</ENAMEX>. Tại khu cách ly, Bệnh nhân ở cùng người nhà và 23 người cách ly tại <ENAMEX TYPE="LOCATION">Trung đội 19, Đại đội 4</ENAMEX>.
-- Ngày <ENAMEX TYPE="POSITIVE_DATE">03/8/2020</ENAMEX>, Bệnh nhân được thông báo kết quả (+) với vi rút SARS-CoV-2. 
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc291 (Tổ 01, P. Thạc Gián, Q. Thanh Khê, Tp. Đà Nẵng</ENAMEX>, TP. Đà Nẵng gồm: ct781 và ct782</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">23/7</ENAMEX> đến 29/7/2020, Bệnh nhân nhập viện điều trị tại <ENAMEX TYPE="LOCATION">khoa Lão, Bệnh viện Đà Nẵng</ENAMEX> (Một số bệnh kèm như: Người nhà chăm sóc là <ENAMEX TYPE="CON_PERSON">anh ct783</ENAMEX>. Trong thời gian này ngày 23-24/7/2020 anh ct784 về nhà tắm rửa, lấy quần áo và có tiếp xúc với người nhà còn lại ở bệnh viện chăm bố.
+- Trong thời gian bệnh nhân nằm viện: ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX> bệnh nhân có tiếp xúc với <ENAMEX TYPE="CON_PERSON">con gái là chị ct785</ENAMEX> đến thăm trong đêm rồi ra về.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">29/7/2020</ENAMEX></ENAMEX>(10h00’), Bệnh nhân được đưa đi cách ly cùng gia đình tại <ENAMEX TYPE="LOCATION">Trung tâm cách ly thuộc Trường Quân sự Quân khu V</ENAMEX>. Tại khu cách ly, Bệnh nhân ở cùng người nhà và 23 người cách ly tại <ENAMEX TYPE="LOCATION">Trung đội 19, Đại đội 4</ENAMEX>.
+- Ngày <ENAMEX TYPE="POS_DATE">03/8/2020</ENAMEX>, Bệnh nhân được thông báo kết quả (+) với vi rút SARS-CoV-2. 
 - Ngày 04/8/2020, Bệnh nhân được chuyển đi cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.

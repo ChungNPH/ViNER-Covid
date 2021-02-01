@@ -1,11 +1,11 @@
-Tên: <ENAMEX TYPE="PERSON">BN 986</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 986</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS"> <ENAMEX TYPE="LOCATION">đường Châu Thượng Văn, phường Hòa Cường Bắc, quận Hải Châu, TP Đà Nẵng</ENAMEX></ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">đường Châu Thượng Văn, phường Hòa Cường Bắc</ENAMEX></ENAMEX>.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX>, bệnh nhân đến chăm sóc <ENAMEX TYPE="CONTACT_PERSON">mẹ ct535</ENAMEX> là bệnh nhân điều trị tại <ENAMEX TYPE="LOCATION">Khoa Nội tổng hợp, Bệnh viện Đà Nẵng</ENAMEX>. 
-- Ngày <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX>, tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 1) và có kết quả (-) với vi rút SARS-CoV-2 bệnh nhân được cách ly và chăm sóc <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> .
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">28/7</ENAMEX> đến 03/8/2020, Bệnh viện Đà Nẵng được phong tỏa, bệnh nhân tiếp tục được cách ly và chăm sóc <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khoa Nội tổng hợp, Bệnh viện Đà Nẵng</ENAMEX>.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">04/8</ENAMEX> đến 13/8/2020, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">khu Ký túc xá trường Đại học Công nghệ</ENAMEX> bệnh nhân ở cùng phòng với 03 người là <ENAMEX TYPE="CONTACT_PERSON">mẹ ct535</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">chị ct537</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">chị ct538</ENAMEX>. 
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">đường Châu Thượng Văn, phường Hòa Cường Bắc</ENAMEX></ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>, bệnh nhân đến chăm sóc <ENAMEX TYPE="CON_PERSON">mẹ ct535</ENAMEX> là bệnh nhân điều trị tại <ENAMEX TYPE="LOCATION">Khoa Nội tổng hợp, Bệnh viện Đà Nẵng</ENAMEX>. 
+- Ngày <ENAMEX TYPE="CON_DATE">27/7/2020</ENAMEX>, tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 1) và có kết quả (-) với vi rút SARS-CoV-2 bệnh nhân được cách ly và chăm sóc <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> .
+- Từ ngày <ENAMEX TYPE="CON_DATE">28/7</ENAMEX> đến 03/8/2020, Bệnh viện Đà Nẵng được phong tỏa, bệnh nhân tiếp tục được cách ly và chăm sóc <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khoa Nội tổng hợp, Bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">04/8</ENAMEX> đến 13/8/2020, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">khu Ký túc xá trường Đại học Công nghệ</ENAMEX> bệnh nhân ở cùng phòng với 03 người là <ENAMEX TYPE="CON_PERSON">mẹ ct535</ENAMEX>, <ENAMEX TYPE="CON_PERSON">chị ct537</ENAMEX> và <ENAMEX TYPE="CON_PERSON">chị ct538</ENAMEX>. 
 - Ngày 14/8, 15/8 và 16/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">phòng thuộc khu cách ly của Ký túc xá trường Đại học Công nghệ Thông tin và Truyền thông Việt Hàn</ENAMEX>
-- Sáng ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">18/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2 Sau đó, bệnh nhân được chuyển cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>.
+- Sáng ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">18/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2 Sau đó, bệnh nhân được chuyển cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>.
 Năm sinh: <ENAMEX TYPE="AGE">1966</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

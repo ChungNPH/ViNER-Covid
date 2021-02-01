@@ -1,12 +1,12 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 713</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 713</ENAMEX>	Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1982</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">tổ 6, thôn Hội Phước, xã Hoà Phú, huyện Hoà Vang, Tp. Đà Nẵng</ENAMEX>
 - Bệnh nhân sống cùng bố, mẹ, vợ và 2 con tại <ENAMEX TYPE="LOCATION">tổ 6, thôn Hội Phước, xã Hoà Phú, huyện Hoà Vang, Tp. Đà Nẵng</ENAMEX>.
 - Từ ngày 15/7 đến 25/7/2020, bệnh nhân có tiếp xúc với nhiều người trong <ENAMEX TYPE="LOCATION">xã Hoà Phú</ENAMEX> (bệnh nhân không nhớ rõ ai).
-- Ngày 26/7 đến 28/7/2020, bệnh nhân lên rẫy ở bản Đỏ thuộc <ENAMEX TYPE="LOCATION">xã Hoà Phú, huyện Hoà Vang, Tp. Đà Nẵng</ENAMEX>. Trong đó, ngày <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX>, bệnh nhân có đi cùng anh <ENAMEX TYPE="CONTACT_PERSON">ct1531</ENAMEX>.
-- Chiều ngày <ENAMEX TYPE="SYMPTOMS_DATE">29/7/2020</ENAMEX>, sau khi bệnh nhân lên rẫy về bệnh nhân xuất hiện triệu chứng sốt, nổi hạch ở mang tai.
+- Ngày 26/7 đến 28/7/2020, bệnh nhân lên rẫy ở bản Đỏ thuộc <ENAMEX TYPE="LOCATION">xã Hoà Phú, huyện Hoà Vang, Tp. Đà Nẵng</ENAMEX>. Trong đó, ngày <ENAMEX TYPE="CON_DATE">27/7/2020</ENAMEX>, bệnh nhân có đi cùng anh <ENAMEX TYPE="CON_PERSON">ct1531</ENAMEX>.
+- Chiều ngày <ENAMEX TYPE="SYM_DATE">29/7/2020</ENAMEX>, sau khi bệnh nhân lên rẫy về bệnh nhân xuất hiện triệu chứng sốt, nổi hạch ở mang tai.
 - Ngày 30/7/2020, bệnh nhân vẫn còn sốt nên ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
 - Ngày 31/7/2020, bệnh nhân hết sốt và vào buổi chiều cùng ngày bệnh nhân đến <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Tâm Trí, Đà Nẵng</ENAMEX> để làm xét nghiệm nhưng bệnh viện không tiếp nhận sau đó bệnh nhân đến <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Cẩm Lệ</ENAMEX> nhưng đã hết giờ làm việc nên bệnh nhân về <ENAMEX TYPE="LOCATION">nhà tại tổ 6, thôn Hội Phước, xã Hoà Phú, huyện Hoà Vang, Tp. Đà Nẵng</ENAMEX>.
 - Sáng ngày 01/8/2020, bệnh nhân đến <ENAMEX TYPE="LOCATION">Trung tâm y tế Cẩm Lệ</ENAMEX> lấy mẫu dịch hầu họng để làm xét nghiệm với vi rút SARS-CoV-2, sau đó bệnh nhân đến <ENAMEX TYPE="LOCATION">Bệnh viện đa khoa Gia đình Đà Nẵng</ENAMEX> để khám, tại đây bệnh nhân được lấy mẫu xét nghiệm và được chẩn đoán sốt siêu vi, sưng hạch cổ, viêm xoang nặng nên được cấp thuốc và điều trị ngoại trú.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">02/8 đến ngày 04/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với người trong <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX>.
-- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">04/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="CON_DATE">02/8 đến ngày 04/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với người trong <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX>.
+- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">04/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

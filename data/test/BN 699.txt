@@ -1,9 +1,9 @@
-Tên: <ENAMEX TYPE="PERSON">BN 699</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 699</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">loc28, phường An Khê, quận Thanh Khê, TP Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">vợ P.T. T</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc28, phường An Khê, quận Thanh Khê</ENAMEX>.
- - Cách đây 2 tháng, Bệnh nhân có nằm viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian nằm viện người nhà bệnh nhân không có ai tới thăm nuôi hay chăm sóc bệnh nhân mà chỉ thuê người (<ENAMEX TYPE="CONTACT_PERSON">điều dưỡng</ENAMEX>) chăm sóc (không biết tên).
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">26/7 đến 28/7/2020</ENAMEX>, bệnh nhân có về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và chỉ có <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> là người trực tiếp chăm sóc cho bệnh nhân.
- - Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">29/7</ENAMEX></ENAMEX> - 04/8/2020, bệnh nhân vào nhập viện lại tại <ENAMEX TYPE="LOCATION">Khoa Nội thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX> được cách ly và điều trị bệnh tại đây. Trong thời gian này Bệnh nhân chỉ ở một mình, không có ai đến thăm hay chăm sóc. Ngày <ENAMEX TYPE="POSITIVE_DATE">04/8/2020</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng xét nghiệm vi rút SARS-CoV-2 và có kết quả (+) với vi rút SARS-CoV-2. Hiện tại bệnh nhân đang được cách ly điều trị tai <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>
-Lây cho người khác: <ENAMEX TYPE="CONTACT_PERSON">BN924 (người chăm sóc)</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">vợ P.T. T</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc28, phường An Khê, quận Thanh Khê</ENAMEX>.
+ - Cách đây 2 tháng, Bệnh nhân có nằm viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian nằm viện người nhà bệnh nhân không có ai tới thăm nuôi hay chăm sóc bệnh nhân mà chỉ thuê người (<ENAMEX TYPE="CON_PERSON">điều dưỡng</ENAMEX>) chăm sóc (không biết tên).
+ - Từ ngày <ENAMEX TYPE="CON_DATE">26/7 đến 28/7/2020</ENAMEX>, bệnh nhân có về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và chỉ có <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> là người trực tiếp chăm sóc cho bệnh nhân.
+ - Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">29/7</ENAMEX></ENAMEX> - 04/8/2020, bệnh nhân vào nhập viện lại tại <ENAMEX TYPE="LOCATION">Khoa Nội thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX> được cách ly và điều trị bệnh tại đây. Trong thời gian này Bệnh nhân chỉ ở một mình, không có ai đến thăm hay chăm sóc. Ngày <ENAMEX TYPE="POS_DATE">04/8/2020</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng xét nghiệm vi rút SARS-CoV-2 và có kết quả (+) với vi rút SARS-CoV-2. Hiện tại bệnh nhân đang được cách ly điều trị tai <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>
+Lây cho người khác: <ENAMEX TYPE="CON_PERSON">BN924 (người chăm sóc)</ENAMEX>
 Năm sinh: <ENAMEX TYPE="AGE">1945</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

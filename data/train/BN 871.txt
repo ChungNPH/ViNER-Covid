@@ -1,9 +1,9 @@
-Tên: <ENAMEX TYPE="PERSON">BN 871</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 871</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Phù Đổng, phường Hòa Xuân, quận Cẩm Lệ, TP Đà Nẵng</ENAMEX>
-- Bệnh nhân đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> (là bệnh nhân số 825) và <ENAMEX TYPE="CONTACT_PERSON">con trai ct130</ENAMEX></ENAMEX>.
+- Bệnh nhân đang sống cùng với <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> (là bệnh nhân số 825) và <ENAMEX TYPE="CON_PERSON">con trai ct130</ENAMEX></ENAMEX>.
  - Từ ngày 28/7 đến 09/8/2020, bệnh nhân chỉ ở nhà và đi <ENAMEX TYPE="LOCATION">chợ Miếu Bông, xã Hòa Phước, huyện Hòa Vang</ENAMEX> (1 lần/tuần), mua thịt bò (không nhớ tên tiệm), không đi đến nơi khác.
- - Tối ngày <ENAMEX TYPE="CONTACT_DATE">28/7/2020</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con gái ct131</ENAMEX> cùng <ENAMEX TYPE="CONTACT_PERSON">con rể ct132</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">02 cháu ngoại</ENAMEX> đến nhà bệnh nhân chơi.
- - Ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">09/8/2020</ENAMEX></ENAMEX></ENAMEX>, sau khi chồng bệnh nhân (Bệnh nhân số 825) có kết quả xét nghiệm (+) với vi rút SARS-CoV-2, bệnh nhân và con trai được chuyển đến khu cách ly tập trung bệnh nhân ở cùng phòng với <ENAMEX TYPE="CONTACT_PERSON">con trai ct133</ENAMEX>.
- - Ngày <ENAMEX TYPE="POSITIVE_DATE">11/8/2020</ENAMEX>, bệnh nhân có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2 và được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi</ENAMEX>
+ - Tối ngày <ENAMEX TYPE="CON_DATE">28/7/2020</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con gái ct131</ENAMEX> cùng <ENAMEX TYPE="CON_PERSON">con rể ct132</ENAMEX> và <ENAMEX TYPE="CON_PERSON">02 cháu ngoại</ENAMEX> đến nhà bệnh nhân chơi.
+ - Ngày <ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">09/8/2020</ENAMEX></ENAMEX></ENAMEX>, sau khi chồng bệnh nhân (Bệnh nhân số 825) có kết quả xét nghiệm (+) với vi rút SARS-CoV-2, bệnh nhân và con trai được chuyển đến khu cách ly tập trung bệnh nhân ở cùng phòng với <ENAMEX TYPE="CON_PERSON">con trai ct133</ENAMEX>.
+ - Ngày <ENAMEX TYPE="POS_DATE">11/8/2020</ENAMEX>, bệnh nhân có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2 và được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi</ENAMEX>
 Năm sinh: <ENAMEX TYPE="AGE">1961</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

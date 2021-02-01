@@ -1,14 +1,14 @@
-Tên: <ENAMEX TYPE="PERSON">BN 742</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 742</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Tăng Bạt Hổ, phường Hải Châu 2, quận Hải Châu, Đà Nẵng</ENAMEX>
- - Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">đường Tăng Bạt Hổ</ENAMEX>.
- - Khoảng <ENAMEX TYPE="CONTACT_DATE">đầu tháng 7/2020</ENAMEX> (không nhớ rõ ngày), bệnh nhân đến khám tại <ENAMEX TYPE="LOCATION">phòng khám <ENAMEX TYPE="CONTACT_PERSON">bác sĩ L</ENAMEX> (hiện đang công tác tại Bệnh viện Đà Nẵng) - đường Chi Lăng, quận Hải Châu, TP Đà Nẵng</ENAMEX> (không nhớ địa chỉ), sau đó lấy thuốc và về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">01/8 đến 04/8/2020</ENAMEX>, bệnh nhân chỉ cách ly ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
- - Sáng ngày <ENAMEX TYPE="CONTACT_DATE">05/8/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> đưa đến khám tại <ENAMEX TYPE="LOCATION">khoa Cấp cứu, bệnh viện Đa khoa Quốc tế Vinmec Đà Nẵng</ENAMEX> bằng xe ô tô của gia đình. Tại đây bệnh nhân được lấy dịch hầu họng xét nghiệm với vi rút SARS-CoV-2.
- - Ngày 05/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">06/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+ - Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">đường Tăng Bạt Hổ</ENAMEX>.
+ - Khoảng <ENAMEX TYPE="CON_DATE">đầu tháng 7/2020</ENAMEX> (không nhớ rõ ngày), bệnh nhân đến khám tại <ENAMEX TYPE="LOCATION">phòng khám <ENAMEX TYPE="CON_PERSON">bác sĩ L</ENAMEX> (hiện đang công tác tại Bệnh viện Đà Nẵng) - đường Chi Lăng, quận Hải Châu, TP Đà Nẵng</ENAMEX> (không nhớ địa chỉ), sau đó lấy thuốc và về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">01/8 đến 04/8/2020</ENAMEX>, bệnh nhân chỉ cách ly ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, chỉ tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
+ - Sáng ngày <ENAMEX TYPE="CON_DATE">05/8/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX> đưa đến khám tại <ENAMEX TYPE="LOCATION">khoa Cấp cứu, bệnh viện Đa khoa Quốc tế Vinmec Đà Nẵng</ENAMEX> bằng xe ô tô của gia đình. Tại đây bệnh nhân được lấy dịch hầu họng xét nghiệm với vi rút SARS-CoV-2.
+ - Ngày 05/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">06/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
  - Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Quốc tế Vinmec Đà Nẵng</ENAMEX>.
-Lây cho người khác: <ENAMEX TYPE="CONTACT_PERSON">BN724 (Con)</ENAMEX>
-<ENAMEX TYPE="CONTACT_PERSON">BN804 (vợ)</ENAMEX>
-<ENAMEX TYPE="CONTACT_PERSON">BN803 (cháu)</ENAMEX>
-<ENAMEX TYPE="CONTACT_PERSON">BN994 (con dâu)</ENAMEX>
+Lây cho người khác: <ENAMEX TYPE="CON_PERSON">BN724 (Con)</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN804 (vợ)</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN803 (cháu)</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN994 (con dâu)</ENAMEX>
 Năm sinh: <ENAMEX TYPE="AGE">1951</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

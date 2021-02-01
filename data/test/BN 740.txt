@@ -1,9 +1,9 @@
-Tên: <ENAMEX TYPE="PERSON">BN 740</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 740</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Trường Chinh, phường AnKhê, quận Thanh Khê, TP Đà Nẵng </ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">đường Trường Chinh, phường An Khê, quận Thanh Khê, TP Đà Nẵng</ENAMEX>.
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">19/7 đến 24/7/2020</ENAMEX>, bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">khoa Huyết học, Bệnh viện Đà Nẵng</ENAMEX>. Trong quá trình điều trị, bệnh nhân thường xuyên tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">chồng là L.V.T</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">bác sĩ điều trị (không nhớ tên)</ENAMEX>. Ngoài ra, bệnh nhân có đến mua thức ăn ở <ENAMEX TYPE="LOCATION">đường Hải Phòng, quận Hải Châu, TP Đà Nẵng</ENAMEX> (không nhớ địa chỉ).
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">25/7 đến 28/7/2020</ENAMEX>, bệnh nhân xuất viện và về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tự cách ly, chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX> và không đi đến nơi khác.
- - Ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">29/7/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân xuất hiện triệu chứng ho, sốt nên đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">bệnh viện Ung Bướu Đà Nẵng</ENAMEX>, được cách ly và điều trị tại đây.
- - Ngày 05/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">05/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">đường Trường Chinh, phường An Khê, quận Thanh Khê, TP Đà Nẵng</ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">19/7 đến 24/7/2020</ENAMEX>, bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">khoa Huyết học, Bệnh viện Đà Nẵng</ENAMEX>. Trong quá trình điều trị, bệnh nhân thường xuyên tiếp xúc với <ENAMEX TYPE="CON_PERSON">chồng là L.V.T</ENAMEX> và <ENAMEX TYPE="CON_PERSON">bác sĩ điều trị (không nhớ tên)</ENAMEX>. Ngoài ra, bệnh nhân có đến mua thức ăn ở <ENAMEX TYPE="LOCATION">đường Hải Phòng, quận Hải Châu, TP Đà Nẵng</ENAMEX> (không nhớ địa chỉ).
+ - Từ ngày <ENAMEX TYPE="CON_DATE">25/7 đến 28/7/2020</ENAMEX>, bệnh nhân xuất viện và về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tự cách ly, chỉ tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX> và không đi đến nơi khác.
+ - Ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">29/7/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân xuất hiện triệu chứng ho, sốt nên đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">bệnh viện Ung Bướu Đà Nẵng</ENAMEX>, được cách ly và điều trị tại đây.
+ - Ngày 05/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">05/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
 Năm sinh: <ENAMEX TYPE="AGE">1962</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

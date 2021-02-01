@@ -1,12 +1,12 @@
-Tên: <ENAMEX TYPE="PERSON">BN 1017</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 1017</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn 9, xã Quế Phú, huyện Quế Sơn, tỉnh Quảng Nam</ENAMEX>
-- Ngày <ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX>, bệnh nhân đến chăm sóc <ENAMEX TYPE="CONTACT_PERSON">bố ct711</ENAMEX> (82 tuổi), là bệnh nhân điều trị tại <ENAMEX TYPE="LOCATION">Khoa Nội Thận - Nội tiết niệu, Bệnh viện Đà Nẵng</ENAMEX>.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">26/7</ENAMEX> đến 02/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">Khoa Nội Thận - Nội tiết niệu</ENAMEX> chăm sóc <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX>, không đi đến nơi khác. Trong thời gian này (không nhớ rõ ngày), tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 1) và có kết quả xét nghiệm (-) với vi rút SARS-CoV-2.
-- Tối ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">02/8/2020</ENAMEX></ENAMEX> bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Sư đoàn 375, quận Cẩm Lệ</ENAMEX>. Tại đây bệnh nhân ở cùng phòng với 05 người. 
+- Ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>, bệnh nhân đến chăm sóc <ENAMEX TYPE="CON_PERSON">bố ct711</ENAMEX> (82 tuổi), là bệnh nhân điều trị tại <ENAMEX TYPE="LOCATION">Khoa Nội Thận - Nội tiết niệu, Bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">26/7</ENAMEX> đến 02/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">Khoa Nội Thận - Nội tiết niệu</ENAMEX> chăm sóc <ENAMEX TYPE="CON_PERSON">bố</ENAMEX>, không đi đến nơi khác. Trong thời gian này (không nhớ rõ ngày), tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 1) và có kết quả xét nghiệm (-) với vi rút SARS-CoV-2.
+- Tối ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">02/8/2020</ENAMEX></ENAMEX> bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Sư đoàn 375, quận Cẩm Lệ</ENAMEX>. Tại đây bệnh nhân ở cùng phòng với 05 người. 
 - Từ ngày 03/8 đến 12/8/2020, bệnh nhân tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">Sư đoàn 375, quận Cẩm Lệ</ENAMEX>.
 - Ngày 14/8/2020, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">phòng thuộc khu cách ly tại Sư đoàn 375, quận Cẩm Lệ</ENAMEX>.
 - Từ ngày 15/8 đến 17/8/2020, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">phòng thuộc khu cách ly tại Sư đoàn 375, quận Cẩm Lệ</ENAMEX>.
-- Ngày <ENAMEX TYPE="POSITIVE_DATE">19/8/2020</ENAMEX>, tại khu cách ly, bệnh nhân được lấy mẫu dịch hầu họng (lần 4) và ngày 20/8/2020 có kết quả xét nghiệm khẳng định (+) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="POS_DATE">19/8/2020</ENAMEX>, tại khu cách ly, bệnh nhân được lấy mẫu dịch hầu họng (lần 4) và ngày 20/8/2020 có kết quả xét nghiệm khẳng định (+) với vi rút SARS-CoV-2.
 - Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>.
 Năm sinh: <ENAMEX TYPE="AGE">1965</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

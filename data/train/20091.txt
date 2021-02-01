@@ -1,8 +1,8 @@
-1. Bệnh nhân 255 là <ENAMEX TYPE="PERSON">mẹ</ENAMEX>, <ENAMEX TYPE="AGE">339</ENAMEX> tuổi, quốc tịch Việt Nam, trú tại <ENAMEX TYPE="ADDRESS">KS Sen Việt Boutique</ENAMEX>. Bệnh nhân là bác sĩ tại Khách sạn Wyndham Garden Hà Nội. 
+1. Bệnh nhân 255 là <ENAMEX TYPE="NAME">mẹ</ENAMEX>, <ENAMEX TYPE="AGE">339</ENAMEX> tuổi, quốc tịch Việt Nam, trú tại <ENAMEX TYPE="ADDRESS">KS Sen Việt Boutique</ENAMEX>. Bệnh nhân là bác sĩ tại Khách sạn Wyndham Garden Hà Nội. 
 
-BN235 từng đến ở cùng <ENAMEX TYPE="CONTACT_PERSON">bạn</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khách sạn Crown Plaza</ENAMEX> trong thời gian bệnh nhân này cách ly tại KS Sen Việt Boutique. 
+BN235 từng đến ở cùng <ENAMEX TYPE="CON_PERSON">bạn</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khách sạn Crown Plaza</ENAMEX> trong thời gian bệnh nhân này cách ly tại KS Sen Việt Boutique. 
 
-Ngày <ENAMEX TYPE="CONTACT_DATE">21/9/2020</ENAMEX>, bệnh nhân đi dạy ở <ENAMEX TYPE="LOCATION">trường</ENAMEX>, nghỉ trưa tại <ENAMEX TYPE="LOCATION">Khách sạn Sofitel Legend Metropole HaNoi</ENAMEX> cùng <ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX>, sau đó về <ENAMEX TYPE="LOCATION">KS Alagon City</ENAMEX>. 
+Ngày <ENAMEX TYPE="CON_DATE">21/9/2020</ENAMEX>, bệnh nhân đi dạy ở <ENAMEX TYPE="LOCATION">trường</ENAMEX>, nghỉ trưa tại <ENAMEX TYPE="LOCATION">Khách sạn Sofitel Legend Metropole HaNoi</ENAMEX> cùng <ENAMEX TYPE="CON_PERSON">con</ENAMEX>, sau đó về <ENAMEX TYPE="LOCATION">KS Alagon City</ENAMEX>. 
 
 Từ 14h đến 10h ngày 4/6/2020, bệnh nhân cùng một người bạn uống cà phê ở <ENAMEX TYPE="LOCATION">KS Sabina</ENAMEX>. 
 
@@ -10,44 +10,44 @@ Ngày 15/4/2020, bệnh nhân cùng năm người khác hát karaoke trên <ENAM
 
 Từ 11/12/2020 đến 28/10/2020, người này <ENAMEX TYPE="LOCATION">đi dạy</ENAMEX> và về <ENAMEX TYPE="LOCATION">KS Mường Thanh Luxury Sài Gòn</ENAMEX>, không tiếp xúc với ai. 
 
-Tối <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">4/9/2020</ENAMEX></ENAMEX>, BN186 được chuyển cách ly tập trung tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Tụ Nhân</ENAMEX> do là người tiếp xúc gần của <ENAMEX TYPE="CONTACT_PERSON">Bệnh nhân 159</ENAMEX> và lấy mẫu xét nghiệm. <ENAMEX TYPE="POSITIVE_DATE">9/6/2020</ENAMEX>, anh có kết quả dương tính với SARS-CoV-2 và chuyển đến <ENAMEX TYPE="LOCATION">Trạm y tế xã Lũng Cú</ENAMEX> điều trị. 
+Tối <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">4/9/2020</ENAMEX></ENAMEX>, BN186 được chuyển cách ly tập trung tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Tụ Nhân</ENAMEX> do là người tiếp xúc gần của <ENAMEX TYPE="CON_PERSON">Bệnh nhân 159</ENAMEX> và lấy mẫu xét nghiệm. <ENAMEX TYPE="POS_DATE">9/6/2020</ENAMEX>, anh có kết quả dương tính với SARS-CoV-2 và chuyển đến <ENAMEX TYPE="LOCATION">Trạm y tế xã Lũng Cú</ENAMEX> điều trị. 
 
-2. Bệnh nhân 226 có tên là <ENAMEX TYPE="PERSON">người quen</ENAMEX>, hiện <ENAMEX TYPE="AGE">372</ENAMEX> tuổi, là người nước Đài Loan, thường trú tại <ENAMEX TYPE="ADDRESS">KS Sunshine</ENAMEX>. 
+2. Bệnh nhân 226 có tên là <ENAMEX TYPE="NAME">người quen</ENAMEX>, hiện <ENAMEX TYPE="AGE">372</ENAMEX> tuổi, là người nước Đài Loan, thường trú tại <ENAMEX TYPE="ADDRESS">KS Sunshine</ENAMEX>. 
 Bệnh nhân hiện đang là nhân viên khách sạn tại <ENAMEX TYPE="LOCATION">KS AEM</ENAMEX>. 
 
-BN335 thỉnh thoảng đến ở cùng <ENAMEX TYPE="CONTACT_PERSON">cô</ENAMEX> tại <ENAMEX TYPE="LOCATION">KS Sky Gem Central</ENAMEX> trong thời gian ngày <ENAMEX TYPE="CONTACT_DATE">11/6/2020</ENAMEX>. 
+BN335 thỉnh thoảng đến ở cùng <ENAMEX TYPE="CON_PERSON">cô</ENAMEX> tại <ENAMEX TYPE="LOCATION">KS Sky Gem Central</ENAMEX> trong thời gian ngày <ENAMEX TYPE="CON_DATE">11/6/2020</ENAMEX>. 
 
-Ngày <ENAMEX TYPE="CONTACT_DATE">12/8/2020</ENAMEX>, bệnh nhân ăn cơm tại <ENAMEX TYPE="LOCATION">Khách sạn InterContinental Westlake Hanoi</ENAMEX> cùng <ENAMEX TYPE="CONTACT_PERSON">cô</ENAMEX>, sau đó về <ENAMEX TYPE="LOCATION">KS Hương Sen 3</ENAMEX>. 
+Ngày <ENAMEX TYPE="CON_DATE">12/8/2020</ENAMEX>, bệnh nhân ăn cơm tại <ENAMEX TYPE="LOCATION">Khách sạn InterContinental Westlake Hanoi</ENAMEX> cùng <ENAMEX TYPE="CON_PERSON">cô</ENAMEX>, sau đó về <ENAMEX TYPE="LOCATION">KS Hương Sen 3</ENAMEX>. 
 
-Từ 16h đến 20h ngày <ENAMEX TYPE="CONTACT_DATE">24/5/2020</ENAMEX>, bệnh nhân cùng một người bạn tên là <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> gặp mặt ở <ENAMEX TYPE="LOCATION">KS Sky Gem Central</ENAMEX>. 
+Từ 16h đến 20h ngày <ENAMEX TYPE="CON_DATE">24/5/2020</ENAMEX>, bệnh nhân cùng một người bạn tên là <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> gặp mặt ở <ENAMEX TYPE="LOCATION">KS Sky Gem Central</ENAMEX>. 
 
 Từ 27/7/2020 đến 26/7/2020, người này có gặp con (có đeo khẩu trang). 
 
-Sáng <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">8/5/2020</ENAMEX></ENAMEX>, BN107 được đưa đi cách ly tập trung tại <ENAMEX TYPE="LOCATION">Bệnh viện Mắt tỉnh Hà Giang</ENAMEX> do là người tiếp xúc gần của Bệnh nhân 203 và lấy mẫu xét nghiệm. Đến ngày <ENAMEX TYPE="POSITIVE_DATE">26/6/2020</ENAMEX>, anh có kết quả dương tính với SARS-CoV-2 và được chuyển đến <ENAMEX TYPE="LOCATION">Bệnh xá công an Hà Giang</ENAMEX> điều trị. 
+Sáng <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">8/5/2020</ENAMEX></ENAMEX>, BN107 được đưa đi cách ly tập trung tại <ENAMEX TYPE="LOCATION">Bệnh viện Mắt tỉnh Hà Giang</ENAMEX> do là người tiếp xúc gần của Bệnh nhân 203 và lấy mẫu xét nghiệm. Đến ngày <ENAMEX TYPE="POS_DATE">26/6/2020</ENAMEX>, anh có kết quả dương tính với SARS-CoV-2 và được chuyển đến <ENAMEX TYPE="LOCATION">Bệnh xá công an Hà Giang</ENAMEX> điều trị. 
 
-3. Bệnh nhân số 244 họ tên là <ENAMEX TYPE="PERSON">con</ENAMEX>, <ENAMEX TYPE="AGE">189</ENAMEX> tuổi, giới tính <ENAMEX TYPE="SEX">nam</ENAMEX>. Địa chỉ ở <ENAMEX TYPE="ADDRESS">KS Alagon City</ENAMEX>. 
+3. Bệnh nhân số 244 họ tên là <ENAMEX TYPE="NAME">con</ENAMEX>, <ENAMEX TYPE="AGE">189</ENAMEX> tuổi, giới tính <ENAMEX TYPE="GENDER">nam</ENAMEX>. Địa chỉ ở <ENAMEX TYPE="ADDRESS">KS Alagon City</ENAMEX>. 
 Bệnh nhân hiện đang làm nhân viên tại <ENAMEX TYPE="LOCATION">Khách sạn Bình An 3</ENAMEX> với bác, chồng. 
 
-Hàng ngày bệnh nhân đi làm cùng với <ENAMEX TYPE="CONTACT_PERSON">cô</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khách sạn Hòa Bình</ENAMEX> (ngày gần nhất <ENAMEX TYPE="CONTACT_DATE">8/8/2020</ENAMEX>). 
+Hàng ngày bệnh nhân đi làm cùng với <ENAMEX TYPE="CON_PERSON">cô</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khách sạn Hòa Bình</ENAMEX> (ngày gần nhất <ENAMEX TYPE="CON_DATE">8/8/2020</ENAMEX>). 
 
-Ngày <ENAMEX TYPE="CONTACT_DATE">9/6/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">Khách sạn Hòa Bình</ENAMEX> cùng <ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX>, đưa đồ cho <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX>. 
-Đến ngày <ENAMEX TYPE="SYMPTOMS_DATE">26/11/2020</ENAMEX>, bệnh nhân cảm thấy tức ngực, mất khứu giác, tức ngực nên nhờ <ENAMEX TYPE="CONTACT_PERSON">em</ENAMEX> khám tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Tiên Nguyên</ENAMEX>. 
+Ngày <ENAMEX TYPE="CON_DATE">9/6/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">Khách sạn Hòa Bình</ENAMEX> cùng <ENAMEX TYPE="CON_PERSON">con</ENAMEX>, đưa đồ cho <ENAMEX TYPE="CON_PERSON">bố</ENAMEX>. 
+Đến ngày <ENAMEX TYPE="SYM_DATE">26/11/2020</ENAMEX>, bệnh nhân cảm thấy tức ngực, mất khứu giác, tức ngực nên nhờ <ENAMEX TYPE="CON_PERSON">em</ENAMEX> khám tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Tiên Nguyên</ENAMEX>. 
 
-Đến chiều ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">14/4/2020</ENAMEX></ENAMEX> khi có thông tin người thân nhiễm Covid, bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm phòng chống bệnh xã hội tỉnh Hà Giang</ENAMEX> và lấy mẫu xét nghiệm. Đến 4h ngày <ENAMEX TYPE="POSITIVE_DATE">26/10/2020</ENAMEX>, có kết quả dương tính với SARS-CoV-2. 
+Đến chiều ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">14/4/2020</ENAMEX></ENAMEX> khi có thông tin người thân nhiễm Covid, bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm phòng chống bệnh xã hội tỉnh Hà Giang</ENAMEX> và lấy mẫu xét nghiệm. Đến 4h ngày <ENAMEX TYPE="POS_DATE">26/10/2020</ENAMEX>, có kết quả dương tính với SARS-CoV-2. 
 
-4. Thông tin bệnh nhân: họ tên <ENAMEX TYPE="PERSON">cô</ENAMEX>, <ENAMEX TYPE="AGE">356</ENAMEX> tuổi, <ENAMEX TYPE="SEX">nam</ENAMEX>. Địa chỉ ở <ENAMEX TYPE="ADDRESS">KS Sài Gòn Hà Nội</ENAMEX>. 
+4. Thông tin bệnh nhân: họ tên <ENAMEX TYPE="NAME">cô</ENAMEX>, <ENAMEX TYPE="AGE">356</ENAMEX> tuổi, <ENAMEX TYPE="GENDER">nam</ENAMEX>. Địa chỉ ở <ENAMEX TYPE="ADDRESS">KS Sài Gòn Hà Nội</ENAMEX>. 
 
-Từ <ENAMEX TYPE="CONTACT_DATE">25/6/2020</ENAMEX>, bệnh nhân gặp <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khách sạn Wyndham Garden Hà Nội</ENAMEX>. 
+Từ <ENAMEX TYPE="CON_DATE">25/6/2020</ENAMEX>, bệnh nhân gặp <ENAMEX TYPE="CON_PERSON">bố</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khách sạn Wyndham Garden Hà Nội</ENAMEX>. 
 
-Ngày <ENAMEX TYPE="CONTACT_DATE">21/9/2020</ENAMEX>, bệnh nhân đi buổi tiệc ở <ENAMEX TYPE="LOCATION">Khách sạn Hòa Bình</ENAMEX> có tiếp xúc gần với những người sau: <ENAMEX TYPE="CONTACT_PERSON">anh</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">bác</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">cháu</ENAMEX>. Vào 12h cùng ngày <ENAMEX TYPE="CONTACT_DATE">19/10/2020</ENAMEX>, đến <ENAMEX TYPE="LOCATION">KS Sunshine</ENAMEX> nói chuyện với <ENAMEX TYPE="CONTACT_PERSON">em</ENAMEX>. 
-Đến ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="ISOLATION_DATE">5/5/2020</ENAMEX></ENAMEX>, bệnh nhân cảm thấy tức ngực, mất khứu giác, rát cổ nên tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. 
+Ngày <ENAMEX TYPE="CON_DATE">21/9/2020</ENAMEX>, bệnh nhân đi buổi tiệc ở <ENAMEX TYPE="LOCATION">Khách sạn Hòa Bình</ENAMEX> có tiếp xúc gần với những người sau: <ENAMEX TYPE="CON_PERSON">anh</ENAMEX>, <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX>,<ENAMEX TYPE="CON_PERSON">bác</ENAMEX>,<ENAMEX TYPE="CON_PERSON">con</ENAMEX>,<ENAMEX TYPE="CON_PERSON">cháu</ENAMEX>. Vào 12h cùng ngày <ENAMEX TYPE="CON_DATE">19/10/2020</ENAMEX>, đến <ENAMEX TYPE="LOCATION">KS Sunshine</ENAMEX> nói chuyện với <ENAMEX TYPE="CON_PERSON">em</ENAMEX>. 
+Đến ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="ISO_DATE">5/5/2020</ENAMEX></ENAMEX>, bệnh nhân cảm thấy tức ngực, mất khứu giác, rát cổ nên tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. 
 
-Đến chiều ngày <ENAMEX TYPE="HOSPITALIZE_DATE">1/8/2020</ENAMEX> khi có thông tin anh nhiễm Covid, bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện đa khoa huyện Vị Xuyên</ENAMEX> và lấy mẫu xét nghiệm. Vào 7h ngày <ENAMEX TYPE="POSITIVE_DATE">28/10/2020</ENAMEX>, trung tâm thông báo kết quả dương tính với SARS-CoV-2. 
+Đến chiều ngày <ENAMEX TYPE="HOS_DATE">1/8/2020</ENAMEX> khi có thông tin anh nhiễm Covid, bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện đa khoa huyện Vị Xuyên</ENAMEX> và lấy mẫu xét nghiệm. Vào 7h ngày <ENAMEX TYPE="POS_DATE">28/10/2020</ENAMEX>, trung tâm thông báo kết quả dương tính với SARS-CoV-2. 
 
 5. 
 Thông tin bệnh nhân 
 
-- Họ tên: <ENAMEX TYPE="PERSON">B.Đ.T</ENAMEX>, <ENAMEX TYPE="SEX">nam giới</ENAMEX>, <ENAMEX TYPE="AGE">42</ENAMEX> tuổi. 
+- Họ tên: <ENAMEX TYPE="NAME">B.Đ.T</ENAMEX>, <ENAMEX TYPE="GENDER">nam giới</ENAMEX>, <ENAMEX TYPE="AGE">42</ENAMEX> tuổi. 
 
 - Nghề nghiệp: Nhân viên điều hành xe buýt 
 
@@ -55,120 +55,120 @@ Thông tin bệnh nhân
 
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">Kiều Mai, Phúc Diễn, Bắc Từ Liêm</ENAMEX>. 
 
-Ngày <ENAMEX TYPE="CONTACT_DATE">22/12/2020</ENAMEX>: Bệnh nhân đưa <ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX> đi học rồi đi làm tại <ENAMEX TYPE="LOCATION">KS Sky Gem Central</ENAMEX>. Tại <ENAMEX TYPE="LOCATION">văn phòng</ENAMEX>, bệnh nhân có họp điều hành, trong cuộc họp có <ENAMEX TYPE="CONTACT_PERSON">cháu</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">người thân</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">dì</ENAMEX>. 
+Ngày <ENAMEX TYPE="CON_DATE">22/12/2020</ENAMEX>: Bệnh nhân đưa <ENAMEX TYPE="CON_PERSON">con</ENAMEX> đi học rồi đi làm tại <ENAMEX TYPE="LOCATION">KS Sky Gem Central</ENAMEX>. Tại <ENAMEX TYPE="LOCATION">văn phòng</ENAMEX>, bệnh nhân có họp điều hành, trong cuộc họp có <ENAMEX TYPE="CON_PERSON">cháu</ENAMEX>,<ENAMEX TYPE="CON_PERSON">người thân</ENAMEX>,<ENAMEX TYPE="CON_PERSON">dì</ENAMEX>. 
 
-Sáng <ENAMEX TYPE="CONTACT_DATE">10/12/2020</ENAMEX>: Đưa <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX> về <ENAMEX TYPE="LOCATION">KS Sunshine</ENAMEX>. 17h gia đình quay trở lại <ENAMEX TYPE="LOCATION">KS Sabina</ENAMEX>. 
+Sáng <ENAMEX TYPE="CON_DATE">10/12/2020</ENAMEX>: Đưa <ENAMEX TYPE="CON_PERSON">bố</ENAMEX> về <ENAMEX TYPE="LOCATION">KS Sunshine</ENAMEX>. 17h gia đình quay trở lại <ENAMEX TYPE="LOCATION">KS Sabina</ENAMEX>. 
 Diễn biến bệnh 
 
-Ngày <ENAMEX TYPE="SYMPTOMS_DATE">24/10/2020</ENAMEX>: Bệnh nhân bắt đầu có biểu hiện viêm kết mạc, viêm kết mạc, tự uống thuốc tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. 
+Ngày <ENAMEX TYPE="SYM_DATE">24/10/2020</ENAMEX>: Bệnh nhân bắt đầu có biểu hiện viêm kết mạc, viêm kết mạc, tự uống thuốc tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. 
 
-Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/11/2020</ENAMEX></ENAMEX>: Khoảng 12h, BN đến <ENAMEX TYPE="LOCATION">Trạm y tế xã Chí Cà</ENAMEX> đăng ký khám và khai báo y tế Sau đó Đến 25h tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Bản Péo</ENAMEX>, bệnh nhân khai báo y tế và được tư vấn chuyển sang <ENAMEX TYPE="LOCATION">Phòng khám đa khoa KV Đông Hà</ENAMEX> khám, điều trị (BN đến <ENAMEX TYPE="LOCATION">Trạm y tế xã Lũng Phìn</ENAMEX> lúc 17h). 
+Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">27/11/2020</ENAMEX></ENAMEX>: Khoảng 12h, BN đến <ENAMEX TYPE="LOCATION">Trạm y tế xã Chí Cà</ENAMEX> đăng ký khám và khai báo y tế Sau đó Đến 25h tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Bản Péo</ENAMEX>, bệnh nhân khai báo y tế và được tư vấn chuyển sang <ENAMEX TYPE="LOCATION">Phòng khám đa khoa KV Đông Hà</ENAMEX> khám, điều trị (BN đến <ENAMEX TYPE="LOCATION">Trạm y tế xã Lũng Phìn</ENAMEX> lúc 17h). 
 
-Ngày <ENAMEX TYPE="POSITIVE_DATE">20/4/2020</ENAMEX>: BN được làm xét nghiệm sàng lọc lần 1 có kết quả dương tính SARS-CoV-2. 
+Ngày <ENAMEX TYPE="POS_DATE">20/4/2020</ENAMEX>: BN được làm xét nghiệm sàng lọc lần 1 có kết quả dương tính SARS-CoV-2. 
 6. 
 
-Ngày <ENAMEX TYPE="CONTACT_DATE">24/9/2020</ENAMEX>: Sáng BN đi làm tại <ENAMEX TYPE="LOCATION">công ty</ENAMEX>, chiều về <ENAMEX TYPE="LOCATION">cửa hàng tại đường Phạm Văn Đồng</ENAMEX> đón <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. 
+Ngày <ENAMEX TYPE="CON_DATE">24/9/2020</ENAMEX>: Sáng BN đi làm tại <ENAMEX TYPE="LOCATION">công ty</ENAMEX>, chiều về <ENAMEX TYPE="LOCATION">cửa hàng tại đường Phạm Văn Đồng</ENAMEX> đón <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. 
 
-Ngày <ENAMEX TYPE="CONTACT_DATE">2/12/2020</ENAMEX>: Liên hoan cùng <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khách sạn Sofitel Legend Metropole HaNoi</ENAMEX>, sau đó đi hát karaoke tại <ENAMEX TYPE="LOCATION">KS Kim Cương Xanh</ENAMEX>. 
+Ngày <ENAMEX TYPE="CON_DATE">2/12/2020</ENAMEX>: Liên hoan cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khách sạn Sofitel Legend Metropole HaNoi</ENAMEX>, sau đó đi hát karaoke tại <ENAMEX TYPE="LOCATION">KS Kim Cương Xanh</ENAMEX>. 
 
-Ngày <ENAMEX TYPE="CONTACT_DATE">4/7/2020</ENAMEX>: Về <ENAMEX TYPE="LOCATION">quê</ENAMEX> với <ENAMEX TYPE="CONTACT_PERSON">chú</ENAMEX> tại <ENAMEX TYPE="LOCATION">KS Sen Việt Boutique</ENAMEX>, tham gia <ENAMEX TYPE="LOCATION">buổi tiệc</ENAMEX>, tiếp xúc gần với <ENAMEX TYPE="CONTACT_PERSON">cô</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">bác</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">anh</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX>. Đến ngày 18/5/2020 lên <ENAMEX TYPE="LOCATION">Khách sạn Hòa Bình</ENAMEX> khai báo y tế và bắt đầu thực hiện đeo khẩu trang. 
+Ngày <ENAMEX TYPE="CON_DATE">4/7/2020</ENAMEX>: Về <ENAMEX TYPE="LOCATION">quê</ENAMEX> với <ENAMEX TYPE="CON_PERSON">chú</ENAMEX> tại <ENAMEX TYPE="LOCATION">KS Sen Việt Boutique</ENAMEX>, tham gia <ENAMEX TYPE="LOCATION">buổi tiệc</ENAMEX>, tiếp xúc gần với <ENAMEX TYPE="CON_PERSON">cô</ENAMEX>,<ENAMEX TYPE="CON_PERSON">con</ENAMEX>,<ENAMEX TYPE="CON_PERSON">bác</ENAMEX>,<ENAMEX TYPE="CON_PERSON">anh</ENAMEX>,<ENAMEX TYPE="CON_PERSON">con</ENAMEX>. Đến ngày 18/5/2020 lên <ENAMEX TYPE="LOCATION">Khách sạn Hòa Bình</ENAMEX> khai báo y tế và bắt đầu thực hiện đeo khẩu trang. 
 
-Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">5/8/2020</ENAMEX></ENAMEX></ENAMEX>: BN làm test nhanh tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Tát Ngà</ENAMEX> có kết quả dương tính IgM, IgG. 
+Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">5/8/2020</ENAMEX></ENAMEX></ENAMEX>: BN làm test nhanh tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Tát Ngà</ENAMEX> có kết quả dương tính IgM, IgG. 
 
 Diễn biến bệnh 
 
-Ngày <ENAMEX TYPE="SYMPTOMS_DATE">7/10/2020</ENAMEX>: Bệnh nhân có biểu hiện đau nhức, mất khứu giác. 
+Ngày <ENAMEX TYPE="SYM_DATE">7/10/2020</ENAMEX>: Bệnh nhân có biểu hiện đau nhức, mất khứu giác. 
 7. 
-Ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="ISOLATION_DATE">7/5/2020</ENAMEX></ENAMEX>: Bệnh nhân cảm thấy sốt, tức ngực nên xin nghỉ, tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. 
-Đến ngày <ENAMEX TYPE="HOSPITALIZE_DATE">14/6/2020</ENAMEX>, bệnh nhân được xe của <ENAMEX TYPE="LOCATION">Trạm y tế xã Nghĩa Thuận</ENAMEX> chở đi cách ly tập trung và đến ngày <ENAMEX TYPE="POSITIVE_DATE">8/4/2020</ENAMEX>, có kết quả dương tính. 
+Ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="ISO_DATE">7/5/2020</ENAMEX></ENAMEX>: Bệnh nhân cảm thấy sốt, tức ngực nên xin nghỉ, tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. 
+Đến ngày <ENAMEX TYPE="HOS_DATE">14/6/2020</ENAMEX>, bệnh nhân được xe của <ENAMEX TYPE="LOCATION">Trạm y tế xã Nghĩa Thuận</ENAMEX> chở đi cách ly tập trung và đến ngày <ENAMEX TYPE="POS_DATE">8/4/2020</ENAMEX>, có kết quả dương tính. 
 
 8. 
-Kết quả RT-PCR do CDC Hà Nội thực hiện công bố vào ngày <ENAMEX TYPE="POSITIVE_DATE">2/4/2020</ENAMEX>, bệnh nhân dương tính với vi rút SARS-CoV-2. 
+Kết quả RT-PCR do CDC Hà Nội thực hiện công bố vào ngày <ENAMEX TYPE="POS_DATE">2/4/2020</ENAMEX>, bệnh nhân dương tính với vi rút SARS-CoV-2. 
 
-Theo báo cáo của CDC Hà Nội về lịch trình của bệnh nhân trước khi được xét nghiệm Covid-19, bệnh nhân có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> vào lần cuối ngày <ENAMEX TYPE="CONTACT_DATE">13/7/2020</ENAMEX>. 
-Ngày <ENAMEX TYPE="ISOLATION_DATE">8/8/2020</ENAMEX> khi biết thông tin em là F1 của chú, bệnh nhân đã chủ động ở <ENAMEX TYPE="LOCATION">phòng trọ</ENAMEX> tự cách ly từ ngày 11/9/2020, không tiếp xúc gần với ai. 
-Ngày <ENAMEX TYPE="HOSPITALIZE_DATE">11/12/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="LOCATION">Trạm y tế xã Du Tiến</ENAMEX> lấy mẫu RT-PCR lần 1 và đưa vào cách ly tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Nậm Ban</ENAMEX>. 
-Cùng ngày <ENAMEX TYPE="POSITIVE_DATE">2/7/2020</ENAMEX>, CDC Hà Nội xét nghiệm khẳng định kết quả, bệnh nhân dương tính với vi rút SARS-CoV-2 Sau đó, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">Trạm y tế xã Khâu Vai</ENAMEX> để điều trị. 
+Theo báo cáo của CDC Hà Nội về lịch trình của bệnh nhân trước khi được xét nghiệm Covid-19, bệnh nhân có tiếp xúc với <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> vào lần cuối ngày <ENAMEX TYPE="CON_DATE">13/7/2020</ENAMEX>. 
+Ngày <ENAMEX TYPE="ISO_DATE">8/8/2020</ENAMEX> khi biết thông tin em là F1 của chú, bệnh nhân đã chủ động ở <ENAMEX TYPE="LOCATION">phòng trọ</ENAMEX> tự cách ly từ ngày 11/9/2020, không tiếp xúc gần với ai. 
+Ngày <ENAMEX TYPE="HOS_DATE">11/12/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="LOCATION">Trạm y tế xã Du Tiến</ENAMEX> lấy mẫu RT-PCR lần 1 và đưa vào cách ly tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Nậm Ban</ENAMEX>. 
+Cùng ngày <ENAMEX TYPE="POS_DATE">2/7/2020</ENAMEX>, CDC Hà Nội xét nghiệm khẳng định kết quả, bệnh nhân dương tính với vi rút SARS-CoV-2 Sau đó, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">Trạm y tế xã Khâu Vai</ENAMEX> để điều trị. 
 
 9. 
 
-- Từ ngày <ENAMEX TYPE="SYMPTOMS_DATE">3/12/2020</ENAMEX>, bệnh nhân có biểu hiện mất vị giác, sốt, đau họng, nhưng vẫn đi làm. 
+- Từ ngày <ENAMEX TYPE="SYM_DATE">3/12/2020</ENAMEX>, bệnh nhân có biểu hiện mất vị giác, sốt, đau họng, nhưng vẫn đi làm. 
 
-- Từ ngày <ENAMEX TYPE="ISOLATION_DATE">4/5/2020</ENAMEX> đến 27/5/2020, bệnh nhân nghỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tự cách ly, không tiếp xúc với ai. 
+- Từ ngày <ENAMEX TYPE="ISO_DATE">4/5/2020</ENAMEX> đến 27/5/2020, bệnh nhân nghỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tự cách ly, không tiếp xúc với ai. 
 
-- Ngày <ENAMEX TYPE="CONTACT_DATE">22/6/2020</ENAMEX>, bệnh nhân đi xe taxi của <ENAMEX TYPE="CONTACT_PERSON">người thân</ENAMEX> đến khám tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Thượng Sơn</ENAMEX>, lúc đi khám có đeo khẩu trang. 
+- Ngày <ENAMEX TYPE="CON_DATE">22/6/2020</ENAMEX>, bệnh nhân đi xe taxi của <ENAMEX TYPE="CON_PERSON">người thân</ENAMEX> đến khám tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Thượng Sơn</ENAMEX>, lúc đi khám có đeo khẩu trang. 
 
--7h chiều <ENAMEX TYPE="HOSPITALIZE_DATE">3/8/2020</ENAMEX>, bệnh nhân vào điều trị tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Nghĩa Thuận</ENAMEX> và kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE">24/6/2020</ENAMEX> bằng phương pháp PCR tại bệnh viện ngày cho thấy, bệnh nhân dương tính với SARS-CoV-2. 
+-7h chiều <ENAMEX TYPE="HOS_DATE">3/8/2020</ENAMEX>, bệnh nhân vào điều trị tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Nghĩa Thuận</ENAMEX> và kết quả xét nghiệm ngày <ENAMEX TYPE="POS_DATE">24/6/2020</ENAMEX> bằng phương pháp PCR tại bệnh viện ngày cho thấy, bệnh nhân dương tính với SARS-CoV-2. 
 
-10. Sở Y tế cho biết, từ ngày <ENAMEX TYPE="CONTACT_DATE">16/8/2020</ENAMEX>, bệnh nhân đi dạy ở <ENAMEX TYPE="LOCATION">trường Huỳnh Thúc Kháng</ENAMEX>, nghỉ trưa tại <ENAMEX TYPE="LOCATION">KS AEM</ENAMEX> cùng <ENAMEX TYPE="CONTACT_PERSON">chị</ENAMEX>. Sau đó, BN về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. 
+10. Sở Y tế cho biết, từ ngày <ENAMEX TYPE="CON_DATE">16/8/2020</ENAMEX>, bệnh nhân đi dạy ở <ENAMEX TYPE="LOCATION">trường Huỳnh Thúc Kháng</ENAMEX>, nghỉ trưa tại <ENAMEX TYPE="LOCATION">KS AEM</ENAMEX> cùng <ENAMEX TYPE="CON_PERSON">chị</ENAMEX>. Sau đó, BN về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. 
 
-Riêng ngày <ENAMEX TYPE="CONTACT_DATE">22/5/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">bác</ENAMEX> uống cà phê ở <ENAMEX TYPE="LOCATION">KS Sài Gòn Hà Nội</ENAMEX> từ 2h đến 13h. Ngày <ENAMEX TYPE="CONTACT_DATE">1/8/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">chú</ENAMEX> hát karaoke . 
+Riêng ngày <ENAMEX TYPE="CON_DATE">22/5/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">bác</ENAMEX> uống cà phê ở <ENAMEX TYPE="LOCATION">KS Sài Gòn Hà Nội</ENAMEX> từ 2h đến 13h. Ngày <ENAMEX TYPE="CON_DATE">1/8/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">chú</ENAMEX> hát karaoke . 
 
-Khoàng thời gian từ ngày <ENAMEX TYPE="CONTACT_DATE">11/6/2020 đến 7/6/2020</ENAMEX>, BN <ENAMEX TYPE="LOCATION">đi dạy</ENAMEX> và về <ENAMEX TYPE="LOCATION">nhà riêng</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX>. Đến tối <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">21/12/2020</ENAMEX></ENAMEX>, sau khi phát hiện vợ mắc dương tính với SARS-CoV-2, người này do tiếp xúc gần nên được chuyển cách ly tập trung tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Cán Chu Phìn</ENAMEX>. Kết quả ngày <ENAMEX TYPE="POSITIVE_DATE">4/11/2020</ENAMEX> dương tính với nCoV và được chuyển đến Trạm y tế xã Tân Bắc. 
+Khoàng thời gian từ ngày <ENAMEX TYPE="CON_DATE">11/6/2020 đến 7/6/2020</ENAMEX>, BN <ENAMEX TYPE="LOCATION">đi dạy</ENAMEX> và về <ENAMEX TYPE="LOCATION">nhà riêng</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX>. Đến tối <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">21/12/2020</ENAMEX></ENAMEX>, sau khi phát hiện vợ mắc dương tính với SARS-CoV-2, người này do tiếp xúc gần nên được chuyển cách ly tập trung tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Cán Chu Phìn</ENAMEX>. Kết quả ngày <ENAMEX TYPE="POS_DATE">4/11/2020</ENAMEX> dương tính với nCoV và được chuyển đến Trạm y tế xã Tân Bắc. 
 
-11. Theo thông tin trước đó, BN 47 nhập cảnh trên chuyến bay VN52 từ Angola. Sau nhập cảnh, ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="ISOLATION_DATE">11/10/2020</ENAMEX></ENAMEX> bệnh nhân và <ENAMEX TYPE="CONTACT_PERSON">anh</ENAMEX> được cách ly tại <ENAMEX TYPE="LOCATION">khu cách ly của hãng hàng không Vietnam Airlines</ENAMEX>. 
+11. Theo thông tin trước đó, BN 47 nhập cảnh trên chuyến bay VN52 từ Angola. Sau nhập cảnh, ngày <ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="ISO_DATE">11/10/2020</ENAMEX></ENAMEX> bệnh nhân và <ENAMEX TYPE="CON_PERSON">anh</ENAMEX> được cách ly tại <ENAMEX TYPE="LOCATION">khu cách ly của hãng hàng không Vietnam Airlines</ENAMEX>. 
 
 
 Sau khi có kết quả lần 2 âm tính, ngày 12/4/2020 bệnh nhân được rời khỏi khu cách ly để tiếp tục cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX> theo quy định. 
-Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">5/12/2020</ENAMEX></ENAMEX>z, bệnh nhân được lấy mẫu xét nghiệm lần 3 (đủ 14 ngày để kết thúc cách ly) và có kết quả dương tính với SARS-CoV-2. 
+Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE">5/12/2020</ENAMEX></ENAMEX>z, bệnh nhân được lấy mẫu xét nghiệm lần 3 (đủ 14 ngày để kết thúc cách ly) và có kết quả dương tính với SARS-CoV-2. 
 
-Trước đó, trong thời gian cách ly tại <ENAMEX TYPE="LOCATION">khu cách ly do Vietnam Airlines quản lý (Trung tâm y tế Hàng Không)</ENAMEX> từ ngày <ENAMEX TYPE="CONTACT_DATE">12/6/2020</ENAMEX>, BN96 có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">em</ENAMEX> trên chuyến bay khác (sau này đã được BYT công bố là <ENAMEX TYPE="CONTACT_PERSON">bạn</ENAMEX>). 
+Trước đó, trong thời gian cách ly tại <ENAMEX TYPE="LOCATION">khu cách ly do Vietnam Airlines quản lý (Trung tâm y tế Hàng Không)</ENAMEX> từ ngày <ENAMEX TYPE="CON_DATE">12/6/2020</ENAMEX>, BN96 có tiếp xúc với <ENAMEX TYPE="CON_PERSON">em</ENAMEX> trên chuyến bay khác (sau này đã được BYT công bố là <ENAMEX TYPE="CON_PERSON">bạn</ENAMEX>). 
 12. 
-Trong quá trình cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, bệnh nhân này có tiếp xúc trực tiếp với 3 người, gồm: <ENAMEX TYPE="CONTACT_PERSON">người quen</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">bác</ENAMEX>. Các trường hợp có tiếp xúc và tiếp xúc gần với <ENAMEX TYPE="CONTACT_PERSON">dì</ENAMEX>, đến nay xác định có 1 trường hợp dương tính là <ENAMEX TYPE="CONTACT_PERSON">anh</ENAMEX>. Các trường hợp còn lại đều có kết quả xét nghiệm âm tính, hiện nay được cách ly, giám sát theo quy định. 
-13. Ca bệnh 41 (bệnh nhân 148) có tiền sử tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">cháu</ENAMEX>. 
-Lấy mẫu ngày 3/7/2020, kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">4/7/2020</ENAMEX></ENAMEX></ENAMEX> tại Trung tâm Kiểm soát bệnh tật TP.HCM dương tính COVID-19. Hiện bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Đông Thành</ENAMEX>. 
+Trong quá trình cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, bệnh nhân này có tiếp xúc trực tiếp với 3 người, gồm: <ENAMEX TYPE="CON_PERSON">người quen</ENAMEX> và <ENAMEX TYPE="CON_PERSON">bác</ENAMEX>. Các trường hợp có tiếp xúc và tiếp xúc gần với <ENAMEX TYPE="CON_PERSON">dì</ENAMEX>, đến nay xác định có 1 trường hợp dương tính là <ENAMEX TYPE="CON_PERSON">anh</ENAMEX>. Các trường hợp còn lại đều có kết quả xét nghiệm âm tính, hiện nay được cách ly, giám sát theo quy định. 
+13. Ca bệnh 41 (bệnh nhân 148) có tiền sử tiếp xúc với <ENAMEX TYPE="CON_PERSON">cháu</ENAMEX>. 
+Lấy mẫu ngày 3/7/2020, kết quả xét nghiệm ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">4/7/2020</ENAMEX></ENAMEX></ENAMEX> tại Trung tâm Kiểm soát bệnh tật TP.HCM dương tính COVID-19. Hiện bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Đông Thành</ENAMEX>. 
 14. 
 
-Từ ngày 21/11/2020, BN đã tạm dừng công việc tại <ENAMEX TYPE="LOCATION">KS Sài Gòn Hà Nội</ENAMEX> do thực hiện việc giãn cách xã hội. Từ ngày <ENAMEX TYPE="CONTACT_DATE">5/6/2020 đến 1/10/2020</ENAMEX>, BN ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">người quen</ENAMEX>. 
-Thỉnh thoảng, BN cùng <ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX> đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX> ở 5A Đại Cồ Việt chơi</ENAMEX>. Tại đây, BN và <ENAMEX TYPE="CONTACT_PERSON">bác</ENAMEX> tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">chị</ENAMEX> được Bộ Y tế công bố ngày 18/10/2020, và <ENAMEX TYPE="CONTACT_PERSON">dì</ENAMEX> được Bộ Y tế công bố ngày 5/9/2020. 
+Từ ngày 21/11/2020, BN đã tạm dừng công việc tại <ENAMEX TYPE="LOCATION">KS Sài Gòn Hà Nội</ENAMEX> do thực hiện việc giãn cách xã hội. Từ ngày <ENAMEX TYPE="CON_DATE">5/6/2020 đến 1/10/2020</ENAMEX>, BN ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">người quen</ENAMEX>. 
+Thỉnh thoảng, BN cùng <ENAMEX TYPE="CON_PERSON">con</ENAMEX> đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CON_PERSON">bố</ENAMEX> ở 5A Đại Cồ Việt chơi</ENAMEX>. Tại đây, BN và <ENAMEX TYPE="CON_PERSON">bác</ENAMEX> tiếp xúc với <ENAMEX TYPE="CON_PERSON">chị</ENAMEX> được Bộ Y tế công bố ngày 18/10/2020, và <ENAMEX TYPE="CON_PERSON">dì</ENAMEX> được Bộ Y tế công bố ngày 5/9/2020. 
 
-Ngày <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX>, BN tiếp tục đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">cháu</ENAMEX></ENAMEX>. Tối cùng ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="ISOLATION_DATE">11/11/2020</ENAMEX></ENAMEX>, sau khi mẹ có kết quả xét nghiệm dương tính với virus SARS-CoV-2, BN cùng <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">bác</ENAMEX> được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">ký túc xá Trường đại học Sư phạm Kỹ thuật, Đại học Đà Nẵng, quận Hải Châu</ENAMEX>. 
+Ngày <ENAMEX TYPE="CON_DATE">27/7/2020</ENAMEX>, BN tiếp tục đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CON_PERSON">con</ENAMEX>,<ENAMEX TYPE="CON_PERSON">cháu</ENAMEX></ENAMEX>. Tối cùng ngày <ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="ISO_DATE">11/11/2020</ENAMEX></ENAMEX>, sau khi mẹ có kết quả xét nghiệm dương tính với virus SARS-CoV-2, BN cùng <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> và <ENAMEX TYPE="CON_PERSON">bác</ENAMEX> được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">ký túc xá Trường đại học Sư phạm Kỹ thuật, Đại học Đà Nẵng, quận Hải Châu</ENAMEX>. 
 
-Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">20/4/2020</ENAMEX></ENAMEX>, BN được lấy mẫu dịch hầu họng (lần 2) và tối cùng ngày có kết quả xét nghiệm dương tính với virus SARS-CoV-2. 
+Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE">20/4/2020</ENAMEX></ENAMEX>, BN được lấy mẫu dịch hầu họng (lần 2) và tối cùng ngày có kết quả xét nghiệm dương tính với virus SARS-CoV-2. 
 
 Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện đa khoa khu vực huyện Bắc Quang</ENAMEX>. 
 
 15. 
 
-Khoảng 4h ngày <ENAMEX TYPE="CONTACT_DATE">25/12/2020</ENAMEX>, BN chở <ENAMEX TYPE="CONTACT_PERSON">người quen</ENAMEX> bằng xe máy từ <ENAMEX TYPE="LOCATION">KS Sky Gem Central</ENAMEX> đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">chị</ENAMEX> tại Khách sạn Sofitel Legend Metropole HaNoi</ENAMEX>. 
+Khoảng 4h ngày <ENAMEX TYPE="CON_DATE">25/12/2020</ENAMEX>, BN chở <ENAMEX TYPE="CON_PERSON">người quen</ENAMEX> bằng xe máy từ <ENAMEX TYPE="LOCATION">KS Sky Gem Central</ENAMEX> đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CON_PERSON">chị</ENAMEX> tại Khách sạn Sofitel Legend Metropole HaNoi</ENAMEX>. 
 
-Khoảng 23h ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">3/12/2020</ENAMEX></ENAMEX></ENAMEX>, BN có mặt tại <ENAMEX TYPE="LOCATION">Trạm y tế phường Ngọc Hà</ENAMEX>, Tại đây, BN (có mang khẩu trang) khai báo y tế, và đưa vào cách ly tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Bản Luốc</ENAMEX> Cùng ngày, BN được lấy mẫu dịch hầu họng và có kết quả xét nghiệm dương tính với virus SARS-CoV-2. 
+Khoảng 23h ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">3/12/2020</ENAMEX></ENAMEX></ENAMEX>, BN có mặt tại <ENAMEX TYPE="LOCATION">Trạm y tế phường Ngọc Hà</ENAMEX>, Tại đây, BN (có mang khẩu trang) khai báo y tế, và đưa vào cách ly tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Bản Luốc</ENAMEX> Cùng ngày, BN được lấy mẫu dịch hầu họng và có kết quả xét nghiệm dương tính với virus SARS-CoV-2. 
 
 Hiện tại, BN được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Phòng khám đa khoa khu vực Lũng Phìn</ENAMEX>. 
 
 16. 
 
-BN sống cùng <ENAMEX TYPE="CONTACT_PERSON">chú</ENAMEX> tại <ENAMEX TYPE="LOCATION">KS Sabina</ENAMEX>. Ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="CONTACT_DATE">15/9/2020</ENAMEX></ENAMEX>, do xuất hiện triệu chứng mệt mỏi, ho khan và ho, BN cùng <ENAMEX TYPE="CONTACT_PERSON">bạn</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">bác</ENAMEX> đến khám và BN nhập viện tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Lũng Hồ</ENAMEX>. 
+BN sống cùng <ENAMEX TYPE="CON_PERSON">chú</ENAMEX> tại <ENAMEX TYPE="LOCATION">KS Sabina</ENAMEX>. Ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="CON_DATE">15/9/2020</ENAMEX></ENAMEX>, do xuất hiện triệu chứng mệt mỏi, ho khan và ho, BN cùng <ENAMEX TYPE="CON_PERSON">bạn</ENAMEX> và <ENAMEX TYPE="CON_PERSON">bác</ENAMEX> đến khám và BN nhập viện tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Lũng Hồ</ENAMEX>. 
 
-Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/12/2020</ENAMEX></ENAMEX> BN được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Nàng Đôn</ENAMEX>. Tại đây, BN được lấy mẫu dịch hầu họng (lần 3) và có kết quả xét nghiệm âm tính với virus SARS-CoV-2. 
-Ngày <ENAMEX TYPE="POSITIVE_DATE">26/4/2020</ENAMEX>, Trạm y tế phường Nguyễn Trãi gửi mẫu xét nghiệm của BN đến Trung tâm Kiểm soát bệnh tật TP Đà Nẵng để xét nghiệm khẳng định và tối cùng ngày có kết quả xét nghiệm dương tính với virus SARS-CoV-2. 
+Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">27/12/2020</ENAMEX></ENAMEX> BN được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Nàng Đôn</ENAMEX>. Tại đây, BN được lấy mẫu dịch hầu họng (lần 3) và có kết quả xét nghiệm âm tính với virus SARS-CoV-2. 
+Ngày <ENAMEX TYPE="POS_DATE">26/4/2020</ENAMEX>, Trạm y tế phường Nguyễn Trãi gửi mẫu xét nghiệm của BN đến Trung tâm Kiểm soát bệnh tật TP Đà Nẵng để xét nghiệm khẳng định và tối cùng ngày có kết quả xét nghiệm dương tính với virus SARS-CoV-2. 
 
 Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Bạch Đích</ENAMEX>. 
 
-17. Ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="CONTACT_DATE">2/8/2020</ENAMEX></ENAMEX>, khi có triệu chứng mất vị giác, mệt mỏi và tức ngực, BN cùng <ENAMEX TYPE="CONTACT_PERSON">người thân</ENAMEX> đến khám và BN nhập viện tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Má Lé</ENAMEX>. 
+17. Ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="CON_DATE">2/8/2020</ENAMEX></ENAMEX>, khi có triệu chứng mất vị giác, mệt mỏi và tức ngực, BN cùng <ENAMEX TYPE="CON_PERSON">người thân</ENAMEX> đến khám và BN nhập viện tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Má Lé</ENAMEX>. 
 
-Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">19/7/2020</ENAMEX></ENAMEX> BN được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Nà Chì</ENAMEX>. 
-Ngày <ENAMEX TYPE="POSITIVE_DATE">10/9/2020</ENAMEX>, Trạm y tế xã Đường Thượng gửi mẫu xét nghiệm của BN đến Trung tâm Kiểm soát bệnh tật TP Đà Nẵng để xét nghiệm khẳng định và chiều cùng ngày có kết quả xét nghiệm dương tính với virus SARS-CoV-2. 
+Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">19/7/2020</ENAMEX></ENAMEX> BN được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Nà Chì</ENAMEX>. 
+Ngày <ENAMEX TYPE="POS_DATE">10/9/2020</ENAMEX>, Trạm y tế xã Đường Thượng gửi mẫu xét nghiệm của BN đến Trung tâm Kiểm soát bệnh tật TP Đà Nẵng để xét nghiệm khẳng định và chiều cùng ngày có kết quả xét nghiệm dương tính với virus SARS-CoV-2. 
 
 Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Thèn Phàng</ENAMEX>. 
 
-18. Trong quá trình cách ly tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Sủng Là</ENAMEX>, bệnh nhân này có tiếp xúc trực tiếp với 304 người, gồm: <ENAMEX TYPE="CONTACT_PERSON">bác</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX>. 
-Các trường hợp có tiếp xúc và tiếp xúc gần với <ENAMEX TYPE="CONTACT_PERSON">dì</ENAMEX>, đến nay xác định có 1 trường hợp dương tính là <ENAMEX TYPE="CONTACT_PERSON">bạn</ENAMEX>. 
-Lấy mẫu ngày 2/5/2020, kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">26/12/2020</ENAMEX></ENAMEX></ENAMEX> tại Trung tâm Kiểm soát bệnh tật TP.HCM dương tính COVID-19. Hiện bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Nà Khương</ENAMEX>. 
+18. Trong quá trình cách ly tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Sủng Là</ENAMEX>, bệnh nhân này có tiếp xúc trực tiếp với 304 người, gồm: <ENAMEX TYPE="CON_PERSON">bác</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con</ENAMEX>. 
+Các trường hợp có tiếp xúc và tiếp xúc gần với <ENAMEX TYPE="CON_PERSON">dì</ENAMEX>, đến nay xác định có 1 trường hợp dương tính là <ENAMEX TYPE="CON_PERSON">bạn</ENAMEX>. 
+Lấy mẫu ngày 2/5/2020, kết quả xét nghiệm ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">26/12/2020</ENAMEX></ENAMEX></ENAMEX> tại Trung tâm Kiểm soát bệnh tật TP.HCM dương tính COVID-19. Hiện bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Nà Khương</ENAMEX>. 
 
-19. Ngày <ENAMEX TYPE="CONTACT_DATE">28/6/2020</ENAMEX>: Sáng BN đi đám tang tại <ENAMEX TYPE="LOCATION">KS Hương Sen 3</ENAMEX>, chiều về <ENAMEX TYPE="LOCATION">KS Sài Gòn Hà Nội</ENAMEX> có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">người quen</ENAMEX> sau đó về<ENAMEX TYPE="LOCATION">KS AEM</ENAMEX> gặp <ENAMEX TYPE="CONTACT_PERSON">chị</ENAMEX>. 
+19. Ngày <ENAMEX TYPE="CON_DATE">28/6/2020</ENAMEX>: Sáng BN đi đám tang tại <ENAMEX TYPE="LOCATION">KS Hương Sen 3</ENAMEX>, chiều về <ENAMEX TYPE="LOCATION">KS Sài Gòn Hà Nội</ENAMEX> có tiếp xúc với <ENAMEX TYPE="CON_PERSON">người quen</ENAMEX> sau đó về<ENAMEX TYPE="LOCATION">KS AEM</ENAMEX> gặp <ENAMEX TYPE="CON_PERSON">chị</ENAMEX>. 
 
 
-Ngày <ENAMEX TYPE="CONTACT_DATE">16/11/2020</ENAMEX>: đi chơi với <ENAMEX TYPE="CONTACT_PERSON">cháu</ENAMEX> tại <ENAMEX TYPE="LOCATION">KS Sen Việt Boutique</ENAMEX>, tham gia <ENAMEX TYPE="LOCATION">cưới</ENAMEX>, tiếp xúc gần với <ENAMEX TYPE="CONTACT_PERSON">chú</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">anh</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">bạn</ENAMEX>. Đến ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">3/7/2020</ENAMEX></ENAMEX> lên <ENAMEX TYPE="LOCATION">Trung tâm y tế Thành phố Hà Giang</ENAMEX> khai báo y tế và được cho đi cách ly tập trung. 
+Ngày <ENAMEX TYPE="CON_DATE">16/11/2020</ENAMEX>: đi chơi với <ENAMEX TYPE="CON_PERSON">cháu</ENAMEX> tại <ENAMEX TYPE="LOCATION">KS Sen Việt Boutique</ENAMEX>, tham gia <ENAMEX TYPE="LOCATION">cưới</ENAMEX>, tiếp xúc gần với <ENAMEX TYPE="CON_PERSON">chú</ENAMEX>,<ENAMEX TYPE="CON_PERSON">vợ</ENAMEX>,<ENAMEX TYPE="CON_PERSON">anh</ENAMEX>,<ENAMEX TYPE="CON_PERSON">bạn</ENAMEX>. Đến ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">3/7/2020</ENAMEX></ENAMEX> lên <ENAMEX TYPE="LOCATION">Trung tâm y tế Thành phố Hà Giang</ENAMEX> khai báo y tế và được cho đi cách ly tập trung. 
 
-Ngày <ENAMEX TYPE="POSITIVE_DATE">3/6/2020</ENAMEX>: BN làm test nhanh tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Vĩnh Hảo</ENAMEX> có kết quả dương tính IgM, IgG. 
+Ngày <ENAMEX TYPE="POS_DATE">3/6/2020</ENAMEX>: BN làm test nhanh tại <ENAMEX TYPE="LOCATION">Trạm y tế xã Vĩnh Hảo</ENAMEX> có kết quả dương tính IgM, IgG. 
 
-20. Thông tin bệnh nhân: họ tên <ENAMEX TYPE="PERSON">em</ENAMEX>, sinh năm <ENAMEX TYPE="AGE">234</ENAMEX>, giới tính<ENAMEX TYPE="SEX">nữ</ENAMEX>. Địa chỉ <ENAMEX TYPE="ADDRESS">Khách sạn Wyndham Garden Hà Nội</ENAMEX>. 
+20. Thông tin bệnh nhân: họ tên <ENAMEX TYPE="NAME">em</ENAMEX>, sinh năm <ENAMEX TYPE="AGE">234</ENAMEX>, giới tính<ENAMEX TYPE="GENDER">nữ</ENAMEX>. Địa chỉ <ENAMEX TYPE="ADDRESS">Khách sạn Wyndham Garden Hà Nội</ENAMEX>. 
 
-Từ <ENAMEX TYPE="CONTACT_DATE">27/9/2020</ENAMEX>, bệnh nhân đi du lịch Sapa cùng <ENAMEX TYPE="CONTACT_PERSON">dì</ENAMEX>. 
+Từ <ENAMEX TYPE="CON_DATE">27/9/2020</ENAMEX>, bệnh nhân đi du lịch Sapa cùng <ENAMEX TYPE="CON_PERSON">dì</ENAMEX>. 
 
-Ngày <ENAMEX TYPE="CONTACT_DATE">7/5/2020</ENAMEX>, bệnh nhân đi cưới ở <ENAMEX TYPE="LOCATION">KS Kim Cương Xanh</ENAMEX> có tiếp xúc gần với những người sau: <ENAMEX TYPE="CONTACT_PERSON">chị</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">người quen</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">em</ENAMEX>,<ENAMEX TYPE="CONTACT_PERSON">bạn</ENAMEX>. Vào 14h cùng ngày <ENAMEX TYPE="CONTACT_DATE">4/4/2020</ENAMEX>, đến <ENAMEX TYPE="LOCATION">KS Mường Thanh Luxury Sài Gòn</ENAMEX> đưa cơm cho mẹ. 
-Đến ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="ISOLATION_DATE">13/5/2020</ENAMEX></ENAMEX>, bệnh nhân có biểu hiện mất khứu giác, ho khan, ho nên tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. 
+Ngày <ENAMEX TYPE="CON_DATE">7/5/2020</ENAMEX>, bệnh nhân đi cưới ở <ENAMEX TYPE="LOCATION">KS Kim Cương Xanh</ENAMEX> có tiếp xúc gần với những người sau: <ENAMEX TYPE="CON_PERSON">chị</ENAMEX>, <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX>,<ENAMEX TYPE="CON_PERSON">người quen</ENAMEX>,<ENAMEX TYPE="CON_PERSON">em</ENAMEX>,<ENAMEX TYPE="CON_PERSON">bạn</ENAMEX>. Vào 14h cùng ngày <ENAMEX TYPE="CON_DATE">4/4/2020</ENAMEX>, đến <ENAMEX TYPE="LOCATION">KS Mường Thanh Luxury Sài Gòn</ENAMEX> đưa cơm cho mẹ. 
+Đến ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="ISO_DATE">13/5/2020</ENAMEX></ENAMEX>, bệnh nhân có biểu hiện mất khứu giác, ho khan, ho nên tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. 
 
-Đến sáng ngày <ENAMEX TYPE="HOSPITALIZE_DATE">26/12/2020</ENAMEX> khi có thông tin bác nhiễm Covid, bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Phòng khám đa khoa KV Đông Hà</ENAMEX> và lấy mẫu xét nghiệm. 
-Vào 15h ngày <ENAMEX TYPE="POSITIVE_DATE">18/8/2020</ENAMEX>, trung tâm thông báo kết quả dương tính với SARS-CoV-2. 
+Đến sáng ngày <ENAMEX TYPE="HOS_DATE">26/12/2020</ENAMEX> khi có thông tin bác nhiễm Covid, bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Phòng khám đa khoa KV Đông Hà</ENAMEX> và lấy mẫu xét nghiệm. 
+Vào 15h ngày <ENAMEX TYPE="POS_DATE">18/8/2020</ENAMEX>, trung tâm thông báo kết quả dương tính với SARS-CoV-2. 

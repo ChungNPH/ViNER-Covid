@@ -1,14 +1,14 @@
-Tên: <ENAMEX TYPE="PERSON">BN 1024</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 1024</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">loc288,Hòa Tiến, Hòa Vang, Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX>, trong đó có <ENAMEX TYPE="CONTACT_PERSON">anh trai ct758 (bệnh nhân số 1023) tại <ENAMEX TYPE="LOCATION">loc289, xã Hòa Tiến</ENAMEX></ENAMEX>.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">20/7</ENAMEX> đến 25/7/2020, bệnh nhân được nghỉ hè, ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>. Khoảng từ 15 giờ đến 17 giờ các ngày 21/7, 23/7 và 25/7, bệnh nhân đến tham gia học tại <ENAMEX TYPE="LOCATION">Trung tâm bồi dưỡng kiến thức Phong Nam ở xã Hòa Châu, huyện Hòa Vang</ENAMEX>. Tại đây, bệnh nhân tiếp xúc với cô giáo và khoảng 20 bạn cùng lớp.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">26/7</ENAMEX> đến 31/7/2020, trong thời gian giãn cách xã hội tại TP Đà Nẵng, bệnh nhân chỉ ở nhà, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>, không đi học, không tiếp xúc với người khác.
-- Ngày <ENAMEX TYPE="CONTACT_DATE">29/7</ENAMEX>, 30/7 và 31/7/2020, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
-- Trong thời gian từ ngày <ENAMEX TYPE="SYMPTOMS_DATE">01/8</ENAMEX> đến 05/8/2020, bệnh nhân xuất hiện triệu chứng khó thở nhiều, không ho, không sốt.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">06/8</ENAMEX> đến 21/8/2020, bệnh nhân tiếp tục ở nhà và chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>. Ngoài ra:
-+ Ngày <ENAMEX TYPE="CONTACT_DATE">18/8/2020</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">bà ngoại ct759</ENAMEX> mang bánh qua nhà và tiếp xúc với bệnh nhân.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX>, trong đó có <ENAMEX TYPE="CON_PERSON">anh trai ct758 (bệnh nhân số 1023) tại <ENAMEX TYPE="LOCATION">loc289, xã Hòa Tiến</ENAMEX></ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">20/7</ENAMEX> đến 25/7/2020, bệnh nhân được nghỉ hè, ở nhà và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>. Khoảng từ 15 giờ đến 17 giờ các ngày 21/7, 23/7 và 25/7, bệnh nhân đến tham gia học tại <ENAMEX TYPE="LOCATION">Trung tâm bồi dưỡng kiến thức Phong Nam ở xã Hòa Châu, huyện Hòa Vang</ENAMEX>. Tại đây, bệnh nhân tiếp xúc với cô giáo và khoảng 20 bạn cùng lớp.
+- Từ ngày <ENAMEX TYPE="CON_DATE">26/7</ENAMEX> đến 31/7/2020, trong thời gian giãn cách xã hội tại TP Đà Nẵng, bệnh nhân chỉ ở nhà, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, không đi học, không tiếp xúc với người khác.
+- Ngày <ENAMEX TYPE="CON_DATE">29/7</ENAMEX>, 30/7 và 31/7/2020, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Trong thời gian từ ngày <ENAMEX TYPE="SYM_DATE">01/8</ENAMEX> đến 05/8/2020, bệnh nhân xuất hiện triệu chứng khó thở nhiều, không ho, không sốt.
+- Từ ngày <ENAMEX TYPE="CON_DATE">06/8</ENAMEX> đến 21/8/2020, bệnh nhân tiếp tục ở nhà và chỉ tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>. Ngoài ra:
++ Ngày <ENAMEX TYPE="CON_DATE">18/8/2020</ENAMEX>, <ENAMEX TYPE="CON_PERSON">bà ngoại ct759</ENAMEX> mang bánh qua nhà và tiếp xúc với bệnh nhân.
 - Ngày 22/8/2020, tại <ENAMEX TYPE="LOCATION">Hội trường thôn Yến Nê 1, xã Hòa Tiến, huyện Hòa Vang</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 1).
-- Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">24/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được Trung tâm Y tế huyện Hòa Vang lấy mẫu dịch hầu họng (lần 2), đến tối cùng ngày, bệnh nhân có kết quả xét nghiệm khẳng định (+) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">24/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được Trung tâm Y tế huyện Hòa Vang lấy mẫu dịch hầu họng (lần 2), đến tối cùng ngày, bệnh nhân có kết quả xét nghiệm khẳng định (+) với vi rút SARS-CoV-2.
 - Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện dã chiến Hòa Vang</ENAMEX>.
 Năm sinh: <ENAMEX TYPE="AGE">2004</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

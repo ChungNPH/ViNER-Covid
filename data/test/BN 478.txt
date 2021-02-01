@@ -1,10 +1,10 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 478</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>.
+- Họ và tên: <ENAMEX TYPE="NAME">BN 478</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>.
 - Sinh năm: <ENAMEX TYPE="AGE">1940</ENAMEX>.
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn Cẩm Văn Bắc, xã Điện Hồng, huyện Điện Bàn, tỉnh Quảng Nam</ENAMEX>
 - Số điện thoại: ct50</ENAMEX> (địa chỉ: Thôn Cẩm Văn Bắc, xã Điện Hồng, huyện Điện Bàn, tỉnh Quảng Nam)
-- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> tại <ENAMEX TYPE="LOCATION">Thôn Cẩm Văn Bắc, xã Điện Hồng, huyện Điện Bàn, tỉnh Quảng Nam</ENAMEX>.
-- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">10/7/2020</ENAMEX> bệnh nhân ở nhà mệt, phù nhiều 2 chi dưới nhập viện <ENAMEX TYPE="LOCATION">bệnh viện Đa khoa khu vực Quảng Nam</ENAMEX> điều trị đến ngày 17/7/2020
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> tại <ENAMEX TYPE="LOCATION">Thôn Cẩm Văn Bắc, xã Điện Hồng, huyện Điện Bàn, tỉnh Quảng Nam</ENAMEX>.
+- Ngày <ENAMEX TYPE="SYM_DATE">10/7/2020</ENAMEX> bệnh nhân ở nhà mệt, phù nhiều 2 chi dưới nhập viện <ENAMEX TYPE="LOCATION">bệnh viện Đa khoa khu vực Quảng Nam</ENAMEX> điều trị đến ngày 17/7/2020
 - Từ ngày 17/7/2020 đến ngày 28/7/2020 bệnh nhân điều trị tại <ENAMEX TYPE="LOCATION">khoa Nội thận – Nội tiết, bệnh viện Đà Nẵng</ENAMEX>.
 - Chiều ngày 28/7/2020 bệnh nhân chuyển qua <ENAMEX TYPE="LOCATION">bệnh viện 199 – Bộ Công an</ENAMEX>.
-- Thời gian chăm bệnh nhân, ngoài chị ct51 còn có 02 người con ruột thay nhau chăm bệnh nhân (<ENAMEX TYPE="CONTACT_PERSON">ct52</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct53</ENAMEX>).
--  Ngày 28/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của bệnh viện Phổi Đà Nẵng</ENAMEX>.
+- Thời gian chăm bệnh nhân, ngoài chị ct51 còn có 02 người con ruột thay nhau chăm bệnh nhân (<ENAMEX TYPE="CON_PERSON">ct52</ENAMEX>, <ENAMEX TYPE="CON_PERSON">ct53</ENAMEX>).
+-  Ngày 28/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của bệnh viện Phổi Đà Nẵng</ENAMEX>.

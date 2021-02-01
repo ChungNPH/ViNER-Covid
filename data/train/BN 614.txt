@@ -1,8 +1,8 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 614</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 614</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1978</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc186, quận Ngũ Hành Sơn, Tp. Đà Nẵng</ENAMEX>.
-- Trong khoảng thời gian <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân ct191</ENAMEX> điều trị tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân đến chăm sóc vào các buổi tối ngày <ENAMEX TYPE="CONTACT_DATE">17/7</ENAMEX>, 22/7, 23/7 và 24/7/2020.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE">17/7/2020</ENAMEX> đến 31/7/2020 bệnh nhân vẫn đi làm tại <ENAMEX TYPE="LOCATION">công ty giày da tại Khu công nghiệp Điện Nam, Điện Ngọc</ENAMEX> và không tiếp xúc với ai ngoài <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
-- Chiều ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">31/7/2020</ENAMEX></ENAMEX> Trung tâm Y tế quận Ngũ Hành Sơn đến điều tra giám sát trường hợp tiếp xúc gần với bệnh nhân ct191 và bệnh nhân được chuyển đi cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX> lúc 17 giờ cùng ngày.
-- Những người tiếp xúc gần với bệnh nhân trong gia đình gồm: <ENAMEX TYPE="CONTACT_PERSON">chồng (ct193</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con (ct194</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con (ct195</ENAMEX>.
-- Ngày 31/7/2020 Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">01/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Trong khoảng thời gian <ENAMEX TYPE="CON_PERSON">bệnh nhân ct191</ENAMEX> điều trị tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân đến chăm sóc vào các buổi tối ngày <ENAMEX TYPE="CON_DATE">17/7</ENAMEX>, 22/7, 23/7 và 24/7/2020.
+- Từ ngày <ENAMEX TYPE="CON_DATE">17/7/2020</ENAMEX> đến 31/7/2020 bệnh nhân vẫn đi làm tại <ENAMEX TYPE="LOCATION">công ty giày da tại Khu công nghiệp Điện Nam, Điện Ngọc</ENAMEX> và không tiếp xúc với ai ngoài <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Chiều ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX> Trung tâm Y tế quận Ngũ Hành Sơn đến điều tra giám sát trường hợp tiếp xúc gần với bệnh nhân ct191 và bệnh nhân được chuyển đi cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX> lúc 17 giờ cùng ngày.
+- Những người tiếp xúc gần với bệnh nhân trong gia đình gồm: <ENAMEX TYPE="CON_PERSON">chồng (ct193</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con (ct194</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con (ct195</ENAMEX>.
+- Ngày 31/7/2020 Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">01/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

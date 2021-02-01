@@ -1,11 +1,11 @@
-Tên: <ENAMEX TYPE="PERSON">BN 416</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 416</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">phường Hòa Khánh Bắc, quận Liên Chiểu, thành phố Đà Nẵng</ENAMEX>
-- Bệnh nhân đang sống chung với <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con gái</ENAMEX> tại phường Hòa Khánh Bắc, quận Liên Chiểu. Theo thông tin người nhà cung cấp, trong vòng 01 tháng gần đây, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">thành phố Đà Nẵng</ENAMEX> , không đi ra ngoại tỉnh.
- - Ngày <ENAMEX TYPE="CONTACT_DATE">07/7/2020</ENAMEX>, bệnh nhân T.V.D đến chăm <ENAMEX TYPE="CONTACT_PERSON">mẹ ruột</ENAMEX> (trú tại phường Hòa Quý, quận Ngũ Hành Sơn) tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX>. Ngày 10/7/2020, mẹ của bệnh nhân T.V.D chuyển Bệnh viện Đà Nẵng để tiếp tục điều trị.
+- Bệnh nhân đang sống chung với <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX> tại phường Hòa Khánh Bắc, quận Liên Chiểu. Theo thông tin người nhà cung cấp, trong vòng 01 tháng gần đây, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">thành phố Đà Nẵng</ENAMEX> , không đi ra ngoại tỉnh.
+ - Ngày <ENAMEX TYPE="CON_DATE">07/7/2020</ENAMEX>, bệnh nhân T.V.D đến chăm <ENAMEX TYPE="CON_PERSON">mẹ ruột</ENAMEX> (trú tại phường Hòa Quý, quận Ngũ Hành Sơn) tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX>. Ngày 10/7/2020, mẹ của bệnh nhân T.V.D chuyển Bệnh viện Đà Nẵng để tiếp tục điều trị.
  - Ngày 16/7/2020, bệnh nhân T.V.D có đến <ENAMEX TYPE="LOCATION">tầng 5, khoa Can thiệp tim mạch - Trung tâm Tim mạch (Bệnh viện Đà Nẵng)</ENAMEX> để chăm sóc mẹ đang nằm viện.
- - Ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="CONTACT_DATE">17/7/2020</ENAMEX></ENAMEX>, bệnh nhân T.V.D từ <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> trở về nhà, lúc này bệnh nhân có dấu hiệu sốt, cảm giác hơi mệt, Tối cùng ngày, đến <ENAMEX TYPE="LOCATION"><ENAMEX TYPE="CONTACT_PERSON">nhà bà con</ENAMEX> tại đường Nguyễn Lương, phường Hòa Khánh Bắc, quận Liên Chiểu</ENAMEX> để dự tiệc. Trưa ngày 18/7/2020, bệnh nhân T.V.D có đi đám cưới tại <ENAMEX TYPE="LOCATION">Trung tâm Tiệc cưới và Hội nghị For You Palace (loc117, phường Hòa Cường Bắc, quận Hải Châu, thành phố Đà Nẵng)</ENAMEX>.
-Lây cho người khác: <ENAMEX TYPE="CONTACT_PERSON">BN422</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">BN431</ENAMEX>
-<ENAMEX TYPE="CONTACT_PERSON">BN423</ENAMEX> (điều dưỡng)
-hoặc <ENAMEX TYPE="CONTACT_PERSON">BN554</ENAMEX> 
+ - Ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="CON_DATE">17/7/2020</ENAMEX></ENAMEX>, bệnh nhân T.V.D từ <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> trở về nhà, lúc này bệnh nhân có dấu hiệu sốt, cảm giác hơi mệt, Tối cùng ngày, đến <ENAMEX TYPE="LOCATION"><ENAMEX TYPE="CON_PERSON">nhà bà con</ENAMEX> tại đường Nguyễn Lương, phường Hòa Khánh Bắc, quận Liên Chiểu</ENAMEX> để dự tiệc. Trưa ngày 18/7/2020, bệnh nhân T.V.D có đi đám cưới tại <ENAMEX TYPE="LOCATION">Trung tâm Tiệc cưới và Hội nghị For You Palace (loc117, phường Hòa Cường Bắc, quận Hải Châu, thành phố Đà Nẵng)</ENAMEX>.
+Lây cho người khác: <ENAMEX TYPE="CON_PERSON">BN422</ENAMEX>, <ENAMEX TYPE="CON_PERSON">BN431</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN423</ENAMEX> (điều dưỡng)
+hoặc <ENAMEX TYPE="CON_PERSON">BN554</ENAMEX> 
 Năm sinh: <ENAMEX TYPE="AGE">1963</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

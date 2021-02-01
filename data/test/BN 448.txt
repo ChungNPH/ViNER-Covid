@@ -1,8 +1,8 @@
-- Họ và tên:<ENAMEX TYPE="PERSON">BN 448</ENAMEX>			Sinh ngày: <ENAMEX TYPE="AGE">04/8/1999</ENAMEX>
-- Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>						Dân tộc: Kinh
+- Họ và tên:<ENAMEX TYPE="NAME">BN 448</ENAMEX>			Sinh ngày: <ENAMEX TYPE="AGE">04/8/1999</ENAMEX>
+- Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>						Dân tộc: Kinh
 - Địa chỉ thường trú tại Đà Nẵng: <ENAMEX TYPE="ADDRESS">loc85, phường Hoà Cường Bắc, quận Hải Châu, Tp Đà Nẵng</ENAMEX>.
 - Theo lời khai: bệnh nhân là sinh viên ngành Điều dưỡng trường Đại học Đông Á, Tp Đà Nẵng. Từ ngày 22/6/2020 đến ngày 17/7/2020 bệnh nhân thực tập tại <ENAMEX TYPE="LOCATION">Bệnh viện đa khoa Đà Nẵng</ENAMEX>.
-- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">20/7/2020</ENAMEX> bệnh nhân có biểu hiện sốt, kèm đau họng.
+- Ngày <ENAMEX TYPE="SYM_DATE">20/7/2020</ENAMEX> bệnh nhân có biểu hiện sốt, kèm đau họng.
 - Tối ngày 26/7/2020 bệnh nhân đi từ <ENAMEX TYPE="LOCATION">Tp Đà Nẵng</ENAMEX> về <ENAMEX TYPE="LOCATION">Tp Buôn Ma Thuột</ENAMEX> bằng xe khách, nhà xe Cao Nguyên địa chỉ 96 Nguyễn Chí Thanh, phường Tân An, Tp Buôn Ma Thuột, trên xe bệnh nhân đeo khẩu trang và không tiếp xúc với những người xung quanh.
-- Sáng ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX></ENAMEX> bệnh nhân vào <ENAMEX TYPE="LOCATION">BVĐK Thiện Hạnh</ENAMEX> khai báo y tế và được hướng dẫn qua <ENAMEX TYPE="LOCATION">BVĐK vùng Tây Nguyên,</ENAMEX> Sau đó bệnh nhân đi Grap đến <ENAMEX TYPE="LOCATION">BVĐK vùng Tây Nguyên</ENAMEX> được hướng dẫn nhập viện cách ly.
+- Sáng ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">27/7/2020</ENAMEX></ENAMEX> bệnh nhân vào <ENAMEX TYPE="LOCATION">BVĐK Thiện Hạnh</ENAMEX> khai báo y tế và được hướng dẫn qua <ENAMEX TYPE="LOCATION">BVĐK vùng Tây Nguyên,</ENAMEX> Sau đó bệnh nhân đi Grap đến <ENAMEX TYPE="LOCATION">BVĐK vùng Tây Nguyên</ENAMEX> được hướng dẫn nhập viện cách ly.
 + Tại <ENAMEX TYPE="LOCATION">Bệnh viện đa khoa vùng Tây Nguyên</ENAMEX>: bệnh nhân nhập viện lúc 09 giờ 00 phút ngày 27/7/2020 trong tình trạng tỉnh táo, tiếp xúc tốt, hạch ngoại vi không sưng, họng đỏ, không ho, không khó thở. Mạch: 80 lần/phút; Nhiệt độ: 37,5oC; Huyết áp: 150/90mmHg; Nhịp thở: 20 lần/phút. Được chẩn đoán: Hội chứng Cúm

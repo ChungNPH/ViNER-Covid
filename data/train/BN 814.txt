@@ -1,8 +1,8 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 814</ENAMEX>		Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 814</ENAMEX>		Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">2005</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc403, phường Thọ Quang, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">bố (ct1272)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">mẹ (ct1273, là bệnh nhân số 738)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">anh trai (ct1274)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc403, phường Thọ Quang, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.
-- Từ ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">24/7</ENAMEX></ENAMEX></ENAMEX> đến 04/8/2020, bệnh nhân được cách ly cùng với <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> tại <ENAMEX TYPE="LOCATION">khách sạn Luna Diamond ở 244 Hồ Nghinh, quận Sơn Trà, Tp. Đà Nẵng (khách sạn dành cho bệnh nhân và người nhà của khoa Thận - Nội tiết, bệnh viện Đà Nẵng)</ENAMEX>.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">bố (ct1272)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">mẹ (ct1273, là bệnh nhân số 738)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">anh trai (ct1274)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc403, phường Thọ Quang, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">24/7</ENAMEX></ENAMEX></ENAMEX> đến 04/8/2020, bệnh nhân được cách ly cùng với <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> tại <ENAMEX TYPE="LOCATION">khách sạn Luna Diamond ở 244 Hồ Nghinh, quận Sơn Trà, Tp. Đà Nẵng (khách sạn dành cho bệnh nhân và người nhà của khoa Thận - Nội tiết, bệnh viện Đà Nẵng)</ENAMEX>.
 - Ngày 05/8/2020, sau khi mẹ bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2, bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Khu quân sự trên đường Huỳnh Ngọc Huệ, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>.
-- Ngày 08/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">09/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Ngày 08/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">09/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
 - Hiện tại bệnh nhân được cách ly, điều trị tại tại <ENAMEX TYPE="LOCATION">Khu quân sự trên đường Huỳnh Ngọc Huệ, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>.

@@ -1,11 +1,11 @@
-- Họ và tên: <ENAMEX TYPE="PERSON">BN 808</ENAMEX>		Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Họ và tên: <ENAMEX TYPE="NAME">BN 808</ENAMEX>		Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
 - Sinh năm: <ENAMEX TYPE="AGE">1992</ENAMEX>
 - Địa chỉ: <ENAMEX TYPE="ADDRESS">loc429, phường Hoà Xuân, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX> 
-- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">bố chồng (ct1494)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">mẹ chồng (ct1495)</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">chồng (ct1496)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc429, phường Hoà Xuân, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>.
-- <ENAMEX TYPE="CONTACT_DATE">Ngày 23/7/2020</ENAMEX>, bệnh nhân có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân số 433</ENAMEX> sau đó về quê tại <ENAMEX TYPE="LOCATION">xã Điện thọ, huyện Điện bàn, tỉnh Quảng Nam</ENAMEX>.
-- <ENAMEX TYPE="CONTACT_DATE">Ngày 24/7/2020</ENAMEX>, bệnh nhân đi làm tại <ENAMEX TYPE="LOCATION">công ty TNHH Fujikura Automotive Việt nam tại ở Đường số 2, khu công nghiệp Hòa Cầm, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>, tiếp xúc <ENAMEX TYPE="CONTACT_PERSON">các đồng nghiệp trong công ty (không nhớ rõ)</ENAMEX>.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">bố chồng (ct1494)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">mẹ chồng (ct1495)</ENAMEX> và <ENAMEX TYPE="CON_PERSON">chồng (ct1496)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc429, phường Hoà Xuân, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>.
+- <ENAMEX TYPE="CON_DATE">Ngày 23/7/2020</ENAMEX>, bệnh nhân có tiếp xúc với <ENAMEX TYPE="CON_PERSON">bệnh nhân số 433</ENAMEX> sau đó về quê tại <ENAMEX TYPE="LOCATION">xã Điện thọ, huyện Điện bàn, tỉnh Quảng Nam</ENAMEX>.
+- <ENAMEX TYPE="CON_DATE">Ngày 24/7/2020</ENAMEX>, bệnh nhân đi làm tại <ENAMEX TYPE="LOCATION">công ty TNHH Fujikura Automotive Việt nam tại ở Đường số 2, khu công nghiệp Hòa Cầm, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>, tiếp xúc <ENAMEX TYPE="CON_PERSON">các đồng nghiệp trong công ty (không nhớ rõ)</ENAMEX>.
 - Khoảng 14 giờ 30 ngày 24/7/2020, bệnh nhân đi xe máy cá nhân về nhà tại <ENAMEX TYPE="LOCATION">loc429, phường Hoà Xuân, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>, đến tối bệnh nhân có đi chơi <ENAMEX TYPE="LOCATION">quanh xóm</ENAMEX>.
 - Ngày 25/7/2020, bệnh nhân tiếp tục đi làm tại <ENAMEX TYPE="LOCATION">công ty TNHH Fujikura Automotive Việt nam</ENAMEX>, sau đó trở về nhà.
 - Ngày 26/7/2020, bệnh nhân tham dự <ENAMEX TYPE="LOCATION">đám cưới gần nhà</ENAMEX> (không nhớ rõ địa chỉ) sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
-- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX></ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">Trạm y tế phường</ENAMEX> để khai báo y tế và được cách ly tại <ENAMEX TYPE="LOCATION">Khu ký túc xá sinh viên</ENAMEX>.
-- Ngày 08/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">08/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">27/7/2020</ENAMEX></ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">Trạm y tế phường</ENAMEX> để khai báo y tế và được cách ly tại <ENAMEX TYPE="LOCATION">Khu ký túc xá sinh viên</ENAMEX>.
+- Ngày 08/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">08/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

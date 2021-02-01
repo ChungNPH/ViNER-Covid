@@ -1,15 +1,15 @@
-Tên: <ENAMEX TYPE="PERSON">BN 958</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 958</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">Tổ 01, phường Hòa Hiệp Bắc, quận Liên Chiểu, TP Đà Nẵng</ENAMEX>
- - Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">tổ 01, phường Hòa Hiệp Bắc, quận Liên Chiểu, TP Đà Nẵng</ENAMEX></ENAMEX>.
- - Tối ngày <ENAMEX TYPE="CONTACT_DATE">23/7/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> đưa <ENAMEX TYPE="CONTACT_PERSON">chồng bệnh nhân</ENAMEX> đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thần kinh, Bệnh viện Đà Nẵng</ENAMEX>.
- - Từ ngày <ENAMEX TYPE="CONTACT_DATE">24/7</ENAMEX> đến ngày 30/7/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> chăm sóc <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX>.
+ - Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">tổ 01, phường Hòa Hiệp Bắc, quận Liên Chiểu, TP Đà Nẵng</ENAMEX></ENAMEX>.
+ - Tối ngày <ENAMEX TYPE="CON_DATE">23/7/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX> đưa <ENAMEX TYPE="CON_PERSON">chồng bệnh nhân</ENAMEX> đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thần kinh, Bệnh viện Đà Nẵng</ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">24/7</ENAMEX> đến ngày 30/7/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> chăm sóc <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX>.
  - Cuối tháng 7/2020 (không nhớ rõ ngày), tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 1) và có kết quả (-) với vi rút SARS-CoV-2
- - Ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">31/7/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân cùng chồng được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia đình Đà Nẵng</ENAMEX> (ở cùng phòng với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân số 935</ENAMEX> lúc này vẫn có kết quả xét nghiệm âm tính với vi rút SARS-CoV-2).
+ - Ngày <ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân cùng chồng được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia đình Đà Nẵng</ENAMEX> (ở cùng phòng với <ENAMEX TYPE="CON_PERSON">bệnh nhân số 935</ENAMEX> lúc này vẫn có kết quả xét nghiệm âm tính với vi rút SARS-CoV-2).
  - Ngày 03/8/2020, tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia đình Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 2) và có kết quả (-) với vi rút SARS-CoV-2 
  - Từ ngày 04/8/2020 đến 11/8/2020, bệnh nhân tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia đình Đà Nẵng</ENAMEX>.
  - Ngày 12/8/2020, bệnh nhân tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia đình Đà Nẵng</ENAMEX>.
  - Ngày 14/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khu cách ly của Bệnh viện Đa khoa Gia đình Đà Nẵng</ENAMEX>.
- - <ENAMEX TYPE="POSITIVE_DATE">Ngày 15/8/2020</ENAMEX>, khi bệnh nhân số 935 (được Bộ Y tế công bố ngày 15/8/2020) có kết quả xét nghiệm (+) với vi rút SARS-CoV-2, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 4) và cho kết quả (+) với vi rút SARS-CoV-2.
+ - <ENAMEX TYPE="POS_DATE">Ngày 15/8/2020</ENAMEX>, khi bệnh nhân số 935 (được Bộ Y tế công bố ngày 15/8/2020) có kết quả xét nghiệm (+) với vi rút SARS-CoV-2, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 4) và cho kết quả (+) với vi rút SARS-CoV-2.
 Hiện tại bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi</ENAMEX>.
 Năm sinh: <ENAMEX TYPE="AGE">1974</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

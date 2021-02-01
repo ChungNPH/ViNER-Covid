@@ -1,16 +1,16 @@
-Tên: <ENAMEX TYPE="PERSON">BN 1010</ENAMEX>
+Tên: <ENAMEX TYPE="NAME">BN 1010</ENAMEX>
 Địa chỉ: <ENAMEX TYPE="ADDRESS">loc175, phường Hòa Hiệp Bắc, quận Liên Chiểu, TP Đà Nẵng</ENAMEX>
- - Tối <ENAMEX TYPE="CONTACT_DATE">24/7/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> (Bệnh nhân số 958 được Bộ Y tế công bố ngày 16/8/2020) đến khám và bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thần kinh, Bệnh viện Đà Nẵng</ENAMEX>.
- - Từ ngày 24/7 đến 30/7/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">phòng thuộc Khoa Nội thần kinh, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian này, <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> là người trực tiếp chăm sóc bệnh nhân.
+ - Tối <ENAMEX TYPE="CON_DATE">24/7/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> (Bệnh nhân số 958 được Bộ Y tế công bố ngày 16/8/2020) đến khám và bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thần kinh, Bệnh viện Đà Nẵng</ENAMEX>.
+ - Từ ngày 24/7 đến 30/7/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">phòng thuộc Khoa Nội thần kinh, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian này, <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> là người trực tiếp chăm sóc bệnh nhân.
  - Ngày 30/7/2020, tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 1) và có kết quả xét nghiệm (-) với vi rút SARS-CoV-2.
- - Ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">31/7/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia Đình</ENAMEX>. Tại đây, bệnh nhân được cách ly cùng phòng với <ENAMEX TYPE="CONTACT_PERSON">Bệnh nhân số 730 (được Bộ Y tế công bố ngày 06/8/2020) và số 935</ENAMEX> (được Bộ Y tế công bố ngày 15/8/2020).
+ - Ngày <ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia Đình</ENAMEX>. Tại đây, bệnh nhân được cách ly cùng phòng với <ENAMEX TYPE="CON_PERSON">Bệnh nhân số 730 (được Bộ Y tế công bố ngày 06/8/2020) và số 935</ENAMEX> (được Bộ Y tế công bố ngày 15/8/2020).
  - Từ ngày 02/8 đến 04/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">phòng thuộc khu cách ly của Bệnh viện Đa khoa Gia Đình</ENAMEX>.
  - Từ ngày 05/8 đến 12/8/2020, bệnh nhân tiếp tục được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">khu cách ly của Bệnh viện Đa khoa Gia Đình</ENAMEX>.
  - Ngày 13/8/2020, tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia Đình</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 3) và có kết quả xét nghiệm (-) với vi rút SARS-CoV-2.
  - Ngày 15/8/2020, tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia Đình</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 4) và có kết quả xét nghiệm (-) với vi rút SARS-CoV-2 (vợ bệnh nhân (Bệnh nhân số 958) và bệnh nhân số 935 (cùng phòng cách ly) có kết quả xét nghiệm (+) với vi rút SARS-CoV-2).
  - Ngày 16/8 và 17/8/2020, bệnh nhân tiếp tục được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">khu cách ly của Bệnh viện Đa khoa Gia Đình</ENAMEX>.
  - Ngày 18/8, 19/8 và 20/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">phòng thuộc khu cách ly của Bệnh viện Đa khoa Gia Đình</ENAMEX>.
- - Ngày <ENAMEX TYPE="POSITIVE_DATE">21/8/2020</ENAMEX>, tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia Đình</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 5) và tối cùng ngày có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+ - Ngày <ENAMEX TYPE="POS_DATE">21/8/2020</ENAMEX>, tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia Đình</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 5) và tối cùng ngày có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
  - Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>.
 Năm sinh: <ENAMEX TYPE="AGE">1968</ENAMEX>
-Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

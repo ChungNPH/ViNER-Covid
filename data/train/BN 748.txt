@@ -1,3 +1,3 @@
-    • Họ và tên: <ENAMEX TYPE="PERSON">BN 748</ENAMEX>, <ENAMEX TYPE="AGE">54 tuổi</ENAMEX>. Tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">BN620</ENAMEX>
+    • Họ và tên: <ENAMEX TYPE="NAME">BN 748</ENAMEX>, <ENAMEX TYPE="AGE">54 tuổi</ENAMEX>. Tiếp xúc với <ENAMEX TYPE="CON_PERSON">BN620</ENAMEX>
     • Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn Nam Bắc, Quảng Vinh, Sầm Sơn, Thanh Hóa</ENAMEX>.
     • Lịch trình di chuyển của bệnh nhân: Trưa ngày 27/7/2020, BN bắt xe từ <ENAMEX TYPE="LOCATION">Đà Nẵng</ENAMEX> về <ENAMEX TYPE="LOCATION">Thanh Hóa</ENAMEX> trên chuyến xe Kim Chi ở <ENAMEX TYPE="LOCATION">Đà Nẵng</ENAMEX> biển số: (43B-03126); khoảng 6h sáng ngày 28/7, Bệnh nhân xuống tại <ENAMEX TYPE="LOCATION">Lưu Vệ, Quảng Xương</ENAMEX> và tự đi xe máy về (xe máy gửi trên xe ô tô từ Đà Nẵng về).
