@@ -1,8 +1,0 @@
-<ENAMEX TYPE="SEX">nữ</ENAMEX> bệnh nhân tên <ENAMEX TYPE="PERSON">Đ.T.L.T </ENAMEX>(<ENAMEX TYPE="AGE">51 tuổi</ENAMEX>, trú tại <ENAMEX TYPE="ADDRESS">TP Phan Thiết, Bình Thuận</ENAMEX>) từ <ENAMEX TYPE="LOCATION">sân bay Tân Sơn Nhất</ENAMEX> bay sang <ENAMEX TYPE="LOCATION">New York (Mỹ)</ENAMEX> vào ngày 22/2, quá cảnh 3 giờ tại <ENAMEX TYPE="LOCATION">sân bay Incheon (Hàn Quốc)</ENAMEX>. 
-Ngày 25/2, bệnh nhân bay qua <ENAMEX TYPE="LOCATION">Washington</ENAMEX>. Ngày 29/2, người này từ <ENAMEX TYPE="LOCATION">Washington</ENAMEX> bay quá cảnh 3 giờ tại <ENAMEX TYPE="LOCATION">sân bay Doha (Qatar)</ENAMEX>. Đến ngày 2/3, bà bay về <ENAMEX TYPE="LOCATION">sân bay Tân Sơn Nhất</ENAMEX> vào lúc 6 giờ. 
-
-Ngày <ENAMEX TYPE="SYMPTOMS_DATE">5/3</ENAMEX>, nữ bệnh nhân này ho và khạc đờm. 
-
-Ngày 7/3, nữ bệnh nhân thấy sốt, đau rát họng. Sáng ngày <ENAMEX TYPE="HOSPITALIZE_DATE">9/3</ENAMEX>, bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">Bệnh viên đa khoa tỉnh Bình Thuận</ENAMEX>. 
-
-Đến ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="ISOLATION_DATE">10/3</ENAMEX></ENAMEX>, Viện Pasteur Nha Trang thông báo kết quả dương tính virus SARS-CoV-2 đối với bệnh nhân L.T. 

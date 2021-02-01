@@ -1,9 +1,0 @@
-Chiều 30/12, Trung tâm kiểm soát bệnh tật TP HCM (HCDC) đã cập nhật thông về <ENAMEX TYPE="PERSON">bệnh nhân 1453</ENAMEX> nhiễm COVID-19 trú tại quận 9. 
-
-Theo đó, bệnh nhân 1453 là người nhập cảnh trái phép, đi chung nhóm với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân 1440 (Vĩnh Long)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">1451 (TP HCM)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">1452 (Đồng Tháp)</ENAMEX>. 
-
-Theo thông tin, ngày 24/12, bệnh nhân 1453 cùng nhóm người nhập cảnh trái phép xuống xe tại <ENAMEX TYPE="LOCATION">đường Tên Lửa, quận Bình Tân</ENAMEX>, nhóm này ngồi uống cà phê tại <ENAMEX TYPE="LOCATION">phường Bình Trị đông B, quận Bình Tân</ENAMEX>. 
-
-Tiếp theo, bệnh nhân 1453 đặt <ENAMEX TYPE="CONTACT_PERSON">xe ôm công nghệ</ENAMEX> về <ENAMEX TYPE="LOCATION">nhà trọ tại quận 9</ENAMEX> và làm việc tại 1 <ENAMEX TYPE="LOCATION">xưởng làm đồng</ENAMEX> gần nơi ở. 
-
-23h ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/12</ENAMEX></ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">công an địa phương</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">y tế</ENAMEX> quận 9 đã tiếp cận bệnh nhân 1453 và đưa vào <ENAMEX TYPE="LOCATION">khu cách ly tập trung quận 9</ENAMEX> và lấy mẫu xét nghiệm, xác định mắc Covid-19. 
