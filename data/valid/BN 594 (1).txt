@@ -1,0 +1,9 @@
+-  Họ tên: <ENAMEX TYPE="NAME">BN 594</ENAMEX>           	
+-  Sinh năm : <ENAMEX TYPE="AGE">1952</ENAMEX>            	     	- Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+-  Nơi lưu trú tại <ENAMEX TYPE="ADDRESS">Tổ 16, thôn Phước Trung, xã Cẩm Kim</ENAMEX>
+-   Khoảng 9:00 đến 10:00 sáng ngày <ENAMEX TYPE="CON_DATE">14/7</ENAMEX> đi xe buýt từ Hội An ra Đà Nẵng chăm <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX> tại <ENAMEX TYPE="LOCATION">tầng 3 khu G, khoa Nội tổng hợp khu yêu cầu - Bệnh viện Đa Khoa Đà Nẵng</ENAMEX>;
+-  Ngày <ENAMEX TYPE="CON_DATE">17,18,19/7</ENAMEX> ở tại nhà, có đến nhà cô <ENAMEX TYPE="CON_PERSON">em gái tên ct1735</ENAMEX> nói chuyện khoảng 15 phút;
+-  Sáng <ENAMEX TYPE="CON_DATE">20/7</ENAMEX> đi xe bus ra lại <ENAMEX TYPE="LOCATION">bệnh viện Đa khoa Đà Nẵng</ENAMEX> để chăm <ENAMEX TYPE="CON_DATE">con gái</ENAMEX>, trưa ngày 22/7 đi xe bus về lại Hội An;
+-  Từ <ENAMEX TYPE="SYM_DATE">22/7</ENAMEX>, sau khi từ bệnh viện về lại nhà, có biểu hiện mệt mỏi, đau lưng dấu hiệu cảm cúm;
+-  Sau đó chỉ ở nhà cho đến khi được chuyển cách ly vào ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX>.
+Bệnh nhân được con dâu đưa đến khai báo tại <ENAMEX TYPE="LOCATION">Trạm Y tế xã Cẩm Kim</ENAMEX> và được cách ly từ ngày 31/7/2020 tại <ENAMEX TYPE="LOCATION">trường Thủy Lợi</ENAMEX>.

@@ -1,0 +1,12 @@
+Tên: <ENAMEX TYPE="NAME">BN 927</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS"> Khu đô thị mới ven sông Hòa Quý, quận Ngũ Hành Sơn, Tp. Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_DATE">chồng L.C.K</ENAMEX> tại Khu đô thị mới ven sông Hòa Quý.
+- Từ ngày <ENAMEX TYPE="CON_DATE">30/7 đến 01/8/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> đi <ENAMEX TYPE="LOCATION">chợ Đầu mối, quận Hải Châu</ENAMEX> (1 lần nhưng không nhớ rõ ngày).
+- Ngày <ENAMEX TYPE="SYM_DATE">31/7/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng ho, sổ mũi. 
+- Ngày 02/8, 03/8/2020, bệnh nhân đến khám tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX> (không nhớ rõ ngày) sau đó trở về nhà.
+- Từ ngày 03/8 đến 09/8/2020, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
+- Ngày 10/8, 11/8 và 12/8/2020, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
+- Khoảng 9 giờ 30 ngày 13/08/2020, bệnh nhân được chồng chở bằng xe ô tô riêng đến khám tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia Đình Đà Nẵng</ENAMEX>, tại đây bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng.
+- Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">14/8/2020</ENAMEX></ENAMEX></ENAMEX> bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+Năm sinh: <ENAMEX TYPE="AGE">1991</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

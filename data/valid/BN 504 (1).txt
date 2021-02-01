@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 504</ENAMEX> (ca số  ). Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1969</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">tổ 27, thôn  Bến Trễ, xã Cẩm Hà, Hội An, quảng Nam</ENAMEX>
+- Bệnh nhân đang ở nhà cùng <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX>, <ENAMEX TYPE="CON_PERSON">2 con gái</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX> tại địa chỉ <ENAMEX TYPE="LOCATION">tổ 27, thôn Bến Trễ, xã Cẩm Hà, Hội An, quảng Nam</ENAMEX>.
+- Bệnh nhân có tiền sử điều trị đái tháo đường, bệnh thận mạn giai cuối/ chạy thận định kỳ 2 lần/tuần (thứ 2 và thứ 5), mất thị lực cả 2 mắt, thường xuyên vào <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> để điều trị.
+	- Từ ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">27/7/2020</ENAMEX></ENAMEX> đến 30/7/2020, bệnh nhân được cách ly ở <ENAMEX TYPE="LOCATION">khách sạn</ENAMEX> theo quy định.
+	- Ngày 29/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POS_DATE">30/7/2020</ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của khoa Y học nhiệt đới, bệnh viện Đà Nẵng</ENAMEX>.
+- Trong vòng 14 ngày qua, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và đến <ENAMEX TYPE="LOCATION">bệnh viện</ENAMEX> điều trị. Không đi đến nơi nào khác.
+- Vào các ngày chạy thận tại bệnh viện Đà Nẵng, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">con gái (ct1773)</ENAMEX> đi xe buýt lúc 10 giờ sáng để di chuyển từ Hội An ra Đà Nẵng và sau khi chạy thận xong, bệnh nhân cùng con gái đi xe buýt chuyến 16 giờ đến 17 giờ để về lại <ENAMEX TYPE="LOCATION">Hội An.</ENAMEX>

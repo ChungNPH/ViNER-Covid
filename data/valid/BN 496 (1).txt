@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 496</ENAMEX> (ca số  ). Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1965</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Yến Nê, xã Hòa Tiến, huyện Hòa Vang, Tp. Đà Nẵng</ENAMEX>.
+- Bệnh nhân đang ở nhà cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con rể</ENAMEX> tại địa chỉ <ENAMEX TYPE="LOCATION">thôn Yến Nê, xã Hòa Tiến, huyện Hòa Vang, Tp. Đà Nẵng</ENAMEX>.
+	- Bệnh nhân có tiền sử điều trị tăng huyết áp, bệnh thận mạn giai đoạn 5/ chạy thận định kỳ 2 lần/tuần thường xuyên vào <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> để điều trị.
+	- Bệnh nhân đã điều trị tại <ENAMEX TYPE="LOCATION">khoa Nội tiết niệu, bệnh viện Đà Nẵng</ENAMEX> trong vòng 5 tháng nay, đợt gần nhất bệnh nhân xuất viện vào ngày 24/7/2020.
+	- Ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="HOS_DATE">28/7/2020</ENAMEX></ENAMEX> bệnh nhân đến lịch chạy thận định kì, đồng thời xuất hiện triệu chứng khó thở, mệt nhiều nên được chuyển đến <ENAMEX TYPE="LOCATION">khoa Y học nhiệt đới, bệnh viện Đà Nẵng</ENAMEX>.
+	- Ngày 29/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="ISO_DATE">30/7/2020</ENAMEX></ENAMEX> cho kết quả  (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến khu cách ly của <ENAMEX TYPE="LOCATION">khoa Y học nhiệt đới, bệnh viện Đà Nẵng</ENAMEX>.
+- Trong vòng 14 ngày qua, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và đến bệnh viện điều trị. Không đi đến nơi nào khác.

@@ -1,0 +1,14 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 526</ENAMEX> Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1970</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Kp Phước Mỹ 3, TT Nam Phước, Duy Xuyên</ENAMEX>
+- 08h00 Ngày <ENAMEX TYPE="CON_DATE">13/7/2020</ENAMEX>: đưa ông <ENAMEX TYPE="CON_PERSON">ct1733</ENAMEX> vào <ENAMEX TYPE="LOCATION">Phòng Khám BVĐK Bình An, TT Nam Phước</ENAMEX>, được hướng dẫn đưa ông Trần Tấm Lắm đi chụp fim và đo điện tim, đến 10h00 chuyển viện ra BVĐK Đà Nẵng (Bn Trần Tấn Lắm) bằng xe cấp cứu, đưa BN Lắm vào <ENAMEX TYPE="LOCATION">Khoa Cấp cứu</ENAMEX>, 12h00 được chuyển lên <ENAMEX TYPE="LOCATION">Khoa Tim mạch Can thiệp</ENAMEX> (P501), ở tại phòng chờ, có mua cơm tại phía trên bệnh viện tại 2 địa chỉ đường Hải Phòng (không nhớ tên quán)
+- Từ ngày 13/7 – 17/7/2020: chăm người bệnh nằm điều trị tại <ENAMEX TYPE="LOCATION">bệnh phòng</ENAMEX> và không đi đâu, tiếp xúc với các bệnh nhân và người nhà các bệnh nhân cùng phòng (không rõ tên, địa chỉ của những người tiếp xúc).
+- Ngày 18/7/2020: được chuyển qua <ENAMEX TYPE="LOCATION">P506</ENAMEX>.
+- Từ ngày 19 – 20/7/2020: chăm người bệnh nằm điều trị tại <ENAMEX TYPE="LOCATION">bệnh phòng</ENAMEX> và không đi đâu, tiếp xúc với các bệnh nhân và người nhà các bệnh nhân cùng phòng (không rõ tên, địa chỉ của những người tiếp xúc).
+- 8h00 ngày <ENAMEX TYPE="CON_DATE">21/7/2020</ENAMEX>: đưa <ENAMEX TYPE="CON_PERSON">người nhà</ENAMEX> xuất viện, di chuyển về nhà tại địa chỉ <ENAMEX TYPE="LOCATION">Kp Phước Mỹ 3, TT Nam Phước, Duy Xuyên</ENAMEX> bằng phương tiện taxi (không rõ xe, tên tài xế).
+- Từ ngày 21/7 đến ngày 28/7/2020: đi làm nghề thợ hồ tại <ENAMEX TYPE="LOCATION">Khu phố chợ Nam Phước</ENAMEX> (không rõ tiếp xúc với ai). Trong ngày 28/7/2020 có đi khai báo y tế tại <ENAMEX TYPE="LOCATION">TYT TT Nam Phước</ENAMEX> và được hướng dẫn cách ly tại nhà (tạm thời)
+- 8h00 ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">29/7/2020</ENAMEX></ENAMEX>: được đưa về <ENAMEX TYPE="LOCATION">khu cách ly tại Trung tâm Y tế Duy Xuyên</ENAMEX> bằng xe cấp cứu cùng với Trần Tấn Dũng, trong ngày được lấy mẫu xét nghiệm (Cán bộ phòng xét nghiệm TTYTDX).
+- 08h00 Ngày 13/7/2020: đưa BN Trần Tấm Lắm vào <ENAMEX TYPE="LOCATION">Phòng khám BVĐK Bình An</ENAMEX>.
+- 10h00 Ngày 13/7/2020: vào <ENAMEX TYPE="LOCATION">Cấp cứu BVĐK ĐN</ENAMEX>, 12h00 đưa BN Trần Tấm Lắm vào <ENAMEX TYPE="LOCATION">Khoa Tim mạch Can thiệp (P501)</ENAMEX>. Bản thân ngồi tại <ENAMEX TYPE="LOCATION">phòng chờ</ENAMEX>.
+- Ngày 18/7/2020: <ENAMEX TYPE="LOCATION">chuyển qua P506</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">29/7/2020</ENAMEX></ENAMEX>: cách ly tập trung tại <ENAMEX TYPE="LOCATION">khu cách ly Trung tâm Y tế Duy Xuyên</ENAMEX>.

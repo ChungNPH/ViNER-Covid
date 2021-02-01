@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 610</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1990</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn La Sơn, xã Hoà Khương, huyện Hoà Vang, Tp. Đà Nẵng</ENAMEX>
+- Người trong gia đình tiếp xúc gần gồm: <ENAMEX TYPE="CON_PERSON">bố (ct1648</ENAMEX> và <ENAMEX TYPE="CON_PERSON">mẹ (ct1649</ENAMEX>. 
+- Từ ngày <ENAMEX TYPE="CON_DATE">17/7/2020 đến 20/7/2020</ENAMEX> bệnh nhân đi làm tại <ENAMEX TYPE="LOCATION">Ngoại tiết niệu, bệnh viện Đà Nẵng</ENAMEX> rồi về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tại địa chỉ thôn La Sơn, xã Hoà Khương, huyện Hoà Vang, Tp. Đà Nẵng và chỉ tiếp xúc với <ENAMEX TYPE="CON_PERSON">bố</ENAMEX> và <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX>, không đi đến nới khác.
+- Ngày <ENAMEX TYPE="SYM_DATE">21/7/2020</ENAMEX> đến 23/7/2020 bệnh nhân xuât hiện triệu chứng mệt mỏi, sốt nên chỉ ở nhà và vẫn chỉ tiếp xúc với bố, mẹ.
+- Ngày 24/7/2020 bệnh nhân đi học tại <ENAMEX TYPE="LOCATION">trường Đại Học Đông Á Đà Nẵng.</ENAMEX>
+- Ngày 25/7/2020 đến 26/7/2020 bệnh nhân tiếp tục đi làm tại <ENAMEX TYPE="LOCATION">khoa Ngoại tiết niệu, bệnh viện Đà Nẵng</ENAMEX> rồi về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">27/7/2020</ENAMEX></ENAMEX> bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Khách sạn Diamond Sea tại phường Phước Mỹ, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.
+- Ngày 01/8/2020 Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">02/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

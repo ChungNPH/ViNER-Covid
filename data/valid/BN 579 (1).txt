@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 579</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1978</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Tổ 5, phường Hòa Thọ Đông, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>.
+- Những người tiếp xúc gần trong gia đình: <ENAMEX TYPE="CON_PERSON">Mẹ ruột (ct1606</ENAMEX>, <ENAMEX TYPE="CON_PERSON">chồng (ct1607</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con (ct1608</ENAMEX>.
+- Từ ngày 15/7/2020 đến 24/7/2020 bệnh nhân nhập viện vào <ENAMEX TYPE="LOCATION">khoa Thận – Nội tiết, bệnh viện Đà Nẵng (phòng 601)</ENAMEX>.
+- Sáng ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX> bệnh nhân ăn sáng tại quán bún <ENAMEX TYPE="CON_PERSON">chị ct1609</ENAMEX> gần Trung Tâm Giáo Dục Thường Xuyên Số 3 tại địa chỉ <ENAMEX TYPE="LOCATION">224 Trường Chinh, phường Hoà An, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>.
+- Ngày 25/7/2020 bệnh nhân có đên công ty Xây lắp sản xuất và Thương mại dịch vụ Trường Long tại địa chỉ <ENAMEX TYPE="LOCATION">đường số 2 - Khu công nghiệp Hòa Cầm, phường Hòa Thọ Tây, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>.
+- Ngày 30/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">01/8/2020</ENAMEX></ENAMEX></ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>.

@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 565</ENAMEX>     Giới tính:<ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1945</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn Thạnh Phú, xã Đại Chánh, Đại Lộc, Quảng Nam</ENAMEX>
+	Ngày <ENAMEX TYPE="CON_DATE">30/6/2020</ENAMEX>: ra <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> khám mổ hạch cổ điều trị tại <ENAMEX TYPE="LOCATION">khoa Nội thần kinh</ENAMEX>, đến ngày 16/7 xuất viện đi Taxi về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tài xế Taxi người ĐN chưa liên lạc được, trên xe taxi còn có con gái nuôi mẹ <ENAMEX TYPE="CON_PERSON">ct1728</ENAMEX> và cháu ngoại <ENAMEX TYPE="CON_PERSON">Trần Văn Lợi</ENAMEX> hiện nay cũng đang ở khu cách ly tập trung, về nhà bà ở nhà cùng sinh hoạt với <ENAMEX TYPE="CON_PERSON">con gái ct1729</ENAMEX>, <ENAMEX TYPE="CON_PERSON">rễ ct1730</ENAMEX>, <ENAMEX TYPE="CON_PERSON">cháu ngoại ct1731</ENAMEX>, <ENAMEX TYPE="CON_PERSON">ct1732</ENAMEX> bà còn tiếp xúc với con rễ Trần Văn Thuận, cháu ngoại Trần Văn Tiến. Ngoài ra bà ko tiếp xúc với ai khác.
+	Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">30/7/2020</ENAMEX></ENAMEX>: đi khai báo y tế địa phương và được đưa đi cách ly tập trung đến nay.
+- Ngày: 16/7/2020: Đi taxi về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>;
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">30/7</ENAMEX></ENAMEX>: đi cách ly tập trung cho đến nay.

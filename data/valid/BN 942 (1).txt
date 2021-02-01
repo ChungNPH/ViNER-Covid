@@ -1,0 +1,17 @@
+Tên: <ENAMEX TYPE="NAME">BN 942</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Trưng Nữ Vương, phường Hòa Thuận Tây, quận Hải Châu, TP Đà Nẵng</ENAMEX>
+'- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại đường Trưng Nữ Vương, phường Hòa Thuận Tây, trong đó <ENAMEX TYPE="CON_PERSON">chồng là bệnh nhân số 915</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">của hàng Vinmart trước nhà</ENAMEX> để mua sắm, Đến tối, <ENAMEX TYPE="CON_PERSON">vợ chồng cháu gái T. T. H</ENAMEX> đến ăn tối và ngủ lại nhà bệnh nhân.
+- Từ ngày <ENAMEX TYPE="CON_DATE">26/7 đến 02/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày 03/8/2020, bệnh nhân đến mua ga ở <ENAMEX TYPE="LOCATION">đường Nguyễn Thành Hãn</ENAMEX> (không nhớ rõ địa chỉ).
+- Ngày <ENAMEX TYPE="CON_DATE">04/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">05/8, 06/8 và 07/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="SYM_DATE">08/8 đến 11/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng mệt mỏi, sốt nhẹ và ho nên tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Ngày 12/8/2020, bệnh nhân và những người trong gia đình được lấy mẫu xét nghiệm dịch hầu họng (lần 1) tại <ENAMEX TYPE="LOCATION">Trạm Y tế phường Hòa Thuận Tây, quận Hải Châu</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">13/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+ - Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">14/8/2020</ENAMEX></ENAMEX>, chồng bệnh nhân (bệnh nhân số 915) có kết quả xét nghiệm (+) với vi rút SARS-CoV-2. Bệnh nhân và những người trong gia đình có kết quả xét nghiệm (-) với vi rút SARS-CoV-2, được đưa đến cách ly tại <ENAMEX TYPE="LOCATION">Trường Tiểu học Lê Đình Chinh, quận Hải Châu</ENAMEX> và được xét nghiệm dịch hầu họng (lần 2).
+- Trưa ngày <ENAMEX TYPE="POS_DATE">15/8/2020</ENAMEX> bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-Cov-2.
+- Hiện tại, bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
+Nguồn lây: <ENAMEX TYPE="CON_PERSON">BN915 (chồng)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1958</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

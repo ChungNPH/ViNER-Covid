@@ -1,0 +1,11 @@
+Tên: <ENAMEX TYPE="NAME">BN 869</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS"> thôn An Ngãi Đông, xã Hòa Sơn, huyện Hòa Vang, TP Đà Nẵng</ENAMEX>
+ - Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại thôn An Ngãi Đông, xã Hòa Sơn
+ - Từ ngày 04/7 đến 08/7/2020, bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Lão, Bệnh viện Đà Nẵng.</ENAMEX>
+ - Ngày 09/7/2020, bệnh nhân được xuất viện và trở về <ENAMEX TYPE="LOCATION">nhà.</ENAMEX>
+ - Từ ngày 11/7 đến 19/7/2020, bệnh nhân mệt mỏi nhiều nên tiếp tục đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Lão, Bệnh viện Đà Nẵng.</ENAMEX>
+ - Ngày 20/7/2020, bệnh nhân được xuất viện và trở về <ENAMEX TYPE="LOCATION">nhà.</ENAMEX>
+ - Từ ngày <ENAMEX TYPE="CON_DATE">21/7 đến ngày 12/8/2020</ENAMEX>, bệnh nhân tự cách ly ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, chỉ tiếp xúc với những người trong gia đình, không đi đến nơi khác, Trong thời gian này, có <ENAMEX TYPE="CON_PERSON">con gái N.T. T</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con trai N.V.H</ENAMEX> thường xuyên đến thăm bệnh nhân.
+ - Ngày 10/8/2020, bệnh nhân được lấy mẫu dịch hầu họng xét nghiệm với vi rút SARS-CoV-2 tại <ENAMEX TYPE="LOCATION">Trạm Y tế xã Hòa Sơn, huyện Hòa Vang</ENAMEX> theo kế hoạch xét nghiệm diện rộng. Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">11/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2. Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1937</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

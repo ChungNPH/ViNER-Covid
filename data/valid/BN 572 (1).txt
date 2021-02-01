@@ -1,0 +1,11 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 572</ENAMEX> (ca số  ). Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1977</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Tổ dân phố phường thọ đông B, TP Quảng Ngãi</ENAMEX>.
+	- Hiện tại bệnh nhân sống cùng vợ và 02 người con tại <ENAMEX TYPE="LOCATION">Tổ dân phố phường thọ đông B, TP Quảng Ngãi</ENAMEX>
+- Ngày <ENAMEX TYPE="CON_DATE">28/6/2020</ENAMEX> bệnh nhân đưa <ENAMEX TYPE="CON_PERSON">mẹ là ct1592</ENAMEX> (BN số…) ra <ENAMEX TYPE="LOCATION">bệnh viện Đa khoa Đà Nẵng</ENAMEX> nhập viện tại khoa lão.
+- Ngày <ENAMEX TYPE="CON_DATE">07/7/2020</ENAMEX> bệnh nhân chăm <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa tích cực chống độc bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">16/7/2020</ENAMEX> bệnh nhân chăm <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa nội thần kinh, bệnh viện Đà Nẵng</ENAMEX>.
+- 11h30 ngày <ENAMEX TYPE="CON_DATE">16/7/2020</ENAMEX> bệnh nhân đi xe về <ENAMEX TYPE="LOCATION">Quảng Ngãi</ENAMEX> (không nhớ tên xe) và có tiếp xúc với <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CON_PERSON">2 con</ENAMEX>.
+- Từ ngày 17/7/2020 đến ngày 22/7/2020 bệnh nhân đi làm tại <ENAMEX TYPE="LOCATION">Trung tâm sát hạch lái xe Quảng Ngãi</ENAMEX>.
+- Ngày 23/7/2020 lúc 03h30 sáng bệnh nhân đi <ENAMEX TYPE="LOCATION">xe giường nằm Thanh Hường</ENAMEX> ra lại <ENAMEX TYPE="LOCATION">Đà Nẵng</ENAMEX>.
+- Ngày 29/7/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng xét nghiệm vi rút SARS-CoV-2. Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX></ENAMEX> bệnh nhân được được thông báo kết quả (+) với vi rút SARS-CoV-2 và được chuyển lên điều trị, cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

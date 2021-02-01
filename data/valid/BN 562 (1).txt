@@ -1,0 +1,8 @@
+- Họ và tên:  <ENAMEX TYPE="NAME">BN 562</ENAMEX>.                         Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>.
+- Năm sinh: <ENAMEX TYPE="AGE">1967</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Nam Hà, xã Điện Trung,Thị xã Điện Bàn, Quảng Nam</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">22/07/2020 – 24/07/2020</ENAMEX>: đi cùng chồng ra Đà Nẵng thăm anh chồng và bệnh nhân ở lại chăm <ENAMEX TYPE="CON_PERSON">anh chồng là bệnh nhân Covid-19 số 436</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa Hồi sức tích cực – Chống độc Bệnh viện đa khoa Đà Nẵng</ENAMEX>.
+- 14h cùng ngày về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tại thôn Nam Hà, xã Điện Trung và ở nhà không đi đâu.
+- Ngày 25/07/2020: ở nhà tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, có người thân đến thăm và gửi tiền đầy tháng cho cháu bà ở Sài Gòn. Bà mệt nên không đi đâu ra ngoài. 
+- Ngày 26/07/2020: qua <ENAMEX TYPE="LOCATION">nhà chị trong xóm</ENAMEX> chơi. Tuy nhiên chị đang làm vườn, không tiếp xúc gần. 
+- Đến ngày 28/07/2020: khi bệnh nhân 436 công bố dương tính trường hợp đến <ENAMEX TYPE="LOCATION">trạm y tế xã Điện Trung</ENAMEX> khai báo, Trường hợp được xác định là F1 và được đi cách ly tập trung vào sáng ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">29/07/2020</ENAMEX></ENAMEX>. Vào khu cách ly thì có triệu chứng ho nhẹ , mệt mỏi nên được đi cách ly điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Khu vực Quảng Nam</ENAMEX> vào chiều cùng ngày. 

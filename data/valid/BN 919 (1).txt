@@ -1,0 +1,11 @@
+Tên: <ENAMEX TYPE="NAME">BN 919</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Nhì Tây, xã Bình Lâm, huyện Hiệp Đức, tỉnh Quảng Nam</ENAMEX>
+'- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại thôn Nhì Tây, xã Bình Lâm, huyện Hiệp Đức, tỉnh Quảng Nam.
+- Từ ngày <ENAMEX TYPE="CON_DATE">16/7 đến 30/7/2020</ENAMEX>, bệnh nhân đến khám và nhập viện điều trị tại <ENAMEX TYPE="LOCATION">Khoa Ngoại thận, Bệnh viện Đà Nẵng</ENAMEX>, khoảng 01 tuần sau bệnh nhân được phẫu thuật và tiếp tục được điều trị, bệnh nhân chỉ ở trong Bệnh viện và tiếp xúc với <ENAMEX TYPE="CON_PERSON">con trai N.T.K</ENAMEX>.
+- Khoảng từ ngày 26/7 đến 30/7/2020 (không nhớ rõ ngày), bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 1) tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> và cho kết quả (-) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX>, bệnh nhân được xuất viện và được chuyển cách ly tập trung.
+- Từ ngày 05/8 đến 09/8/2020, bệnh nhân chỉ ở trong phòng (với 03 người khác nhưng không rõ tên) tại <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>.
+- Ngày 10/8, 11/8 và 12/8/2020, bệnh nhân chỉ ở tại phòng trong <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>, tiếp xúc với 03 người cùng phòng.
+- Trưa ngày <ENAMEX TYPE="POS_DATE">14/8/2020</ENAMEX> bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-Cov-2; sau đó bệnh nhân được chuyển cách ly và điều trị.
+Năm sinh: <ENAMEX TYPE="AGE">1971</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

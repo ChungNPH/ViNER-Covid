@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 505</ENAMEX> Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX> 
+- Sinh năm: <ENAMEX TYPE="AGE">1963</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc517, Hoà Khánh Nam, Liên Chiểu, thành phố Đà Nẵng</ENAMEX>
+	- Bệnh nhân đang điều trị bệnh thận tại <ENAMEX TYPE="LOCATION">tầng 6, bệnh viện Đà Nẵng</ENAMEX> từ tháng 10/2019 đến nay (bệnh nhân không nhớ rõ số phòng ở gần đây).
+- Từ ngày <ENAMEX TYPE="CON_DATE">10/7/2020</ENAMEX> đến nay, bệnh nhân có lịch chạy thận nhân tạo vào thứ 2 và thứ 5 hằng tuần, sau đó bệnh nhân trở về nhà tại địa chỉ <ENAMEX TYPE="LOCATION">loc517, Hoà Khánh Nam</ENAMEX>, Trong thời gian này, bệnh nhân có tiếp xúc với <ENAMEX TYPE="CON_PERSON">04 người thân trong gia đình, hàng xóm</ENAMEX>. Bên cạnh đó, bệnh nhân có tiếp xúc với <ENAMEX TYPE="CON_PERSON">con gái tên ct1774</ENAMEX>, đang sinh sống tại Hoà Nhơn, Hoà Vang. Vào thời gian trên, bệnh nhân có đi chợ tại <ENAMEX TYPE="LOCATION">chợ Hoà Khánh Nam</ENAMEX> và <ENAMEX TYPE="LOCATION">chợ Hoà Khánh</ENAMEX>. 
+- Từ ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">25/7/2020</ENAMEX></ENAMEX>, sau khi có lệnh phong toả Bệnh viện Đà Nẵng, bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">Khách sạn số 11 Phạm Văn Đồng</ENAMEX>. Được Trung tâm Y tế Sơn Trà lấy mẫu xét nghiệm. Kết quả bệnh nhân dương tính có SAR-CoV2 vào ngày <ENAMEX TYPE="POS_DATE">30/7/2020</ENAMEX>.
+- Bệnh nhân được đưa vào <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> để cách ly và điều trị bệnh. 

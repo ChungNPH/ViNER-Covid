@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 605</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1968</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">xã Quê Châu, huyện Quế Sơn, tỉnh Quảng Nam</ENAMEX>
+- Người nhà tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CON_PERSON">con gái (ct1778</ENAMEX>
+- Ngày 19/7/2020 bệnh nhân từ nhà tại xã Quê Châu, huyện Quế Sơn, tỉnh Quảng Nam đến nhập viện tại <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX> với chẩn đoán Đái tháo đường và Gout.
+- Ngày 29/7/2020 bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">bệnh viện 199 Bộ Công An tại Đà Nẵng (tầng 7).</ENAMEX>
+- Trưa ngày 02/8/2020 bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">bệnh viện Phổi Đà Nẵng.</ENAMEX>
+- Từ ngày ở Lào về Việt Nam, bệnh nhân không ho, không sốt, luôn đeo khẩu trang trong quá trình đi lại và tiếp xúc. Trong suốt thời gian điều trị chỉ tiếp xúc với <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX>, là người chăm sóc cho bệnh nhân.
+- Ngày 31/7/2020 Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">02/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

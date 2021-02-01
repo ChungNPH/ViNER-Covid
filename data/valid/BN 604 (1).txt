@@ -1,0 +1,7 @@
+Bệnh nhân: <ENAMEX TYPE="NAME">BN 604</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1969</ENAMEX>, giới tính: <ENAMEX TYPE="GENDER">nữ</ENAMEX>, quốc tịch: Việt Nam
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Hòa Khê, Thanh Khê, Đà Nẵng</ENAMEX>
+Ngày <ENAMEX TYPE="CON_DATE">14/7</ENAMEX>: Bệnh nhân phù chân được <ENAMEX TYPE="CON_PERSON">người nhà</ENAMEX> đưa nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thận – Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>. 
+Từ ngày <ENAMEX TYPE="CON_DATE">14/7 – 30/7</ENAMEX>: Bệnh nhân điều trị tại <ENAMEX TYPE="LOCATION">Phòng 609, Khoa Nội thận – Nội tiết, Bệnh viện Đa khoa Đà Nẵng</ENAMEX>, Người chăm sóc chính là <ENAMEX TYPE="CON_PERSON">em gái</ENAMEX>, Hiện bệnh nhân yếu nên đang đợi nhân viên Y tế vào phòng lấy giúp số điện thoại <ENAMEX TYPE="CON_PERSON">em gái</ENAMEX>. Bệnh nhân có thông báo là em gái đã âm tính.
+Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7</ENAMEX></ENAMEX>: Bệnh nhân được chuyển qua <ENAMEX TYPE="LOCATION">bệnh viện 199</ENAMEX> để cách ly và lấy mẫu xét nghiệm
+Ngày <ENAMEX TYPE="POS_DATE">2/8</ENAMEX>: Có kết quả dương tính, Bệnh nhân được chuyển qua <ENAMEX TYPE="LOCATION">Bệnh viện Lao Phổi Đà Nẵng</ENAMEX> điều trị.

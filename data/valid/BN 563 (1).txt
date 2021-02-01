@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 563</ENAMEX>                   Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1979</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Châu Lâu, xã Điện Thọ, Thị xã Điện Bàn, tỉnh Quảng Nam</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">17/07/2020</ENAMEX>: cùng <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> thuê xe dịch vụ ra <ENAMEX TYPE="LOCATION">bệnh viện đa khoa Đà Nẵng</ENAMEX> khoa thần kinh để đón <ENAMEX TYPE="CON_PERSON">cha ruột</ENAMEX> và <ENAMEX TYPE="CON_PERSON">mẹ ruột</ENAMEX> về tại nhà <ENAMEX TYPE="CON_PERSON">em gái</ENAMEX> ở <ENAMEX TYPE="LOCATION">thôn Châu Lâu, Điện Thọ</ENAMEX> (mẹ là BN 433 chưa được phát hiện). 
+- Ngày <ENAMEX TYPE="CON_DATE">19/07 đến 21/7/2020</ENAMEX>: hàng ngày có đi chợ nấu ăn đem qua cho <ENAMEX TYPE="CON_PERSON">ba mẹ</ENAMEX> (mẹ là BN 433 chưa được phát hiện). 
+- Ngày  22/07/2020: đi ăn tại <ENAMEX TYPE="LOCATION">quán bún trong cùng thôn</ENAMEX>.
+- Ngày 25/07/2020: đi nấu đám tại <ENAMEX TYPE="LOCATION">nhà của một gia đình tại thôn Châu Lâu</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/07/2020</ENAMEX></ENAMEX>: mẹ được xác định dương tính Covid – 19 (BN 433), trường hợp được xác định là F1 và được đưa đi cách ly tập trung và lấy mẫu xét nghiệm.

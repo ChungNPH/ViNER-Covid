@@ -1,0 +1,18 @@
+Tên: <ENAMEX TYPE="NAME">BN 894</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc521, phường Hòa Khê, quận Thanh Khê, TP Đà Nẵng</ENAMEX>
+'- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại loc521, phường Hòa Khê.
+- Từ đầu tháng <ENAMEX TYPE="CON_DATE">26/7 đến 04/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và tiếp xúc với những người trong <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX>, Bao gồm: <ENAMEX TYPE="CON_PERSON">bệnh nhân số 892</ENAMEX>, <ENAMEX TYPE="CON_PERSON">bệnh nhân số 893</ENAMEX>, <ENAMEX TYPE="CON_PERSON">bệnh nhân số 895</ENAMEX>, <ENAMEX TYPE="CON_PERSON">bệnh nhân số 896</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">05/8/2020</ENAMEX> bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">em gái P.N.D.Q</ENAMEX> đến siêu thị <ENAMEX TYPE="LOCATION">Big C Đà Nẵng</ENAMEX> (bằng xe máy cá nhân), mua đồ và tính tiền tại tầng 2 (quầy gần cuối) sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">06/8 đến 10/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và tiếp xúc với những người trong <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX>, không đi đến nơi khác.
+ - Ngày 11/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng với vi rút SARS-CoV-2 tại <ENAMEX TYPE="LOCATION">trường tiểu học Lê Quang Sung, quận Thanh Khê</ENAMEX> theo kế hoạch xét nghiệm diện rộng tại các cụm dân cư, nhóm đối tượng và có kết quả mẫu gộp nghi ngờ với vi rút SARS-CoV-2.
+ - Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">12/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng tại <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Thanh Khê</ENAMEX> xét nghiệm để khẳng định và cho kết quả (+) với vi rút SARS-CoV-2.
+Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>
+Nguồn lây: - <ENAMEX TYPE="CON_PERSON">BN892 (bố)</ENAMEX>
+- <ENAMEX TYPE="CON_PERSON">BN893 (mẹ)</ENAMEX>
+- <ENAMEX TYPE="CON_PERSON">BN895 (em)</ENAMEX>
+- <ENAMEX TYPE="CON_PERSON">BN896 (người thân chung nhà)</ENAMEX>
+Lây cho người khác: - <ENAMEX TYPE="CON_PERSON">BN893 (mẹ)</ENAMEX>
+- <ENAMEX TYPE="CON_PERSON">BN895 (em)</ENAMEX>
+- <ENAMEX TYPE="CON_PERSON">BN896 (người thân ở chung nhà)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1999</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

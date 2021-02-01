@@ -1,0 +1,8 @@
+Tên: <ENAMEX TYPE="NAME">BN 886</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">Phước Thiện 1, xã BìnhHải, huyện Bình Sơn,tỉnh Quảng Ngãi</ENAMEX>
+- Từ ngày <ENAMEX TYPE="CON_DATE">12/7 đến 20/7/2020</ENAMEX>, bệnh nhân đến chăm sóc <ENAMEX TYPE="CON_PERSON">chồng B.H.T</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa Ngoại tổng hợp, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian này, bệnh nhân chỉ ở trong bệnh viện và mua cơm trước <ENAMEX TYPE="LOCATION">cổng Bệnh viện Đà Nẵng</ENAMEX> (không nhớ rõ địa điểm).
+- Từ ngày <ENAMEX TYPE="CON_DATE">23/7 đến 29/7/2020</ENAMEX>, bệnh nhân tiếp tục chăm sóc <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">30/7</ENAMEX></ENAMEX> đến 02/8/2020, bệnh nhân được đưa đến cách ly tập trung.
+- Ngày <ENAMEX TYPE="POS_DATE">10/8/2020</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng xét nghiệm (lần 2) và ngày 12/8/2020 cho kết quả (+) với vi rút SARS-CoV-2.
+Năm sinh: <ENAMEX TYPE="AGE">1956</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

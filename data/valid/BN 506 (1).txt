@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 506</ENAMEX> (ca số  ). Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1951</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">xã Quế An, huyện Quế Sơn, tỉnh Quảng Nam</ENAMEX>
+- Bệnh nhân ở nhà cùng <ENAMEX TYPE="CON_PERSON">vợ (ct1569</ENAMEX> tại <ENAMEX TYPE="LOCATION">xã Quế An, huyện Quế Sơn, tỉnh Quảng Nam.</ENAMEX>
+- Bệnh nhân có tiền sử suy tim, thiếu máu, viêm gan C, bệnh thận mạn giai đoạn cuối phát hiện cách đây 3 năm, chạy thận thường xuyên (2 lần/tuần, thứ 2 và thứ 5) tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>.
+	- Ngày 27/7/2020 (thứ 2) bệnh nhân tiếp tục đến chạy thận tại <ENAMEX TYPE="LOCATION">khoa Thận nhân tạo, bệnh viện Đà Nẵng</ENAMEX>. Sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khách sạn cách ly dành cho bệnh nhân chạy thận của bệnh viện Đà Nẵng</ENAMEX>.
+	- Ngày 30/7/2020 (thứ 5) bệnh nhân được đưa về <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> để tiếp tục chạy thận.
+	- Ngày 29/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của khoa Y học nhiệt đới, bệnh viện Đà Nẵng</ENAMEX>.
+- Trong vòng 14 ngày qua, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> điều trị. Không đi đến nơi nào khác.

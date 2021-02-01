@@ -1,0 +1,8 @@
+Bệnh nhân: <ENAMEX TYPE="NAME">BN 487</ENAMEX> 
+- Năm sinh: <ENAMEX TYPE="AGE">1954</ENAMEX>, giới tính: <ENAMEX TYPE="GENDER">nam</ENAMEX>, quốc tịch: Việt Nam
+- Ngày khởi phát: <ENAMEX TYPE="SYM_DATE">27/7/2020</ENAMEX>, sốt không rõ nhiệt độ
+Bệnh nhân điều trị tại <ENAMEX TYPE="LOCATION">khoa Phục hồi chức năng bệnh viện Đa khoa Đà Nẵng</ENAMEX>. Vợ bệnh nhân chăm sóc bệnh nhân một mình, thỉnh thoảng có con vào thăm.
+16/7/2020: bệnh nhân xuất viện bệnh viện Đa khoa Đà Nẵng về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. Bệnh nhân chỉ ở nhà không đi đâu khác do khó đi lại. 
+<ENAMEX TYPE="CON_DATE">20/7/2020</ENAMEX>: <ENAMEX TYPE="CON_PERSON">Vợ</ENAMEX> bệnh nhân đưa bệnh nhân quay lại <ENAMEX TYPE="LOCATION">bệnh viện Đa khoa Đà Nẵng, vào khoa Phục hồi Chức Năng</ENAMEX>. Bệnh nhân nằm cùng phòng với 7 người. Bệnh nhân không di chuyển đi đâu, ba bữa ăn đều do vợ mua thức ăn bên ngoài mang vào. Thỉnh thoảng vợ bệnh nhân có mua mua cháo và nước sôi ở canten. Trong thời gian nằm viện, <ENAMEX TYPE="CON_PERSON">bác sĩ</ENAMEX> vào thăm khám thứ 2, còn lại <ENAMEX TYPE="CON_PERSON">kỹ thuật viên PHCN</ENAMEX> vào thường xuyên (không nhớ tên là ai).
+<ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">26/7/2020</ENAMEX></ENAMEX></ENAMEX>: Bệnh nhân được cách ly tại bệnh viện cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX>.
+Ngày <ENAMEX TYPE="POS_DATE">28/7/2020</ENAMEX>, bệnh nhân được đưa đi cách ly và lấy mẫu XN dương tính SARS-CoV-2.

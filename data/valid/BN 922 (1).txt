@@ -1,0 +1,14 @@
+Tên: <ENAMEX TYPE="NAME">BN 922</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Phạm Nhữ Tăng, phường Hoà Khê, quận Thanh Khê, TP Đà Nẵng </ENAMEX>
+'- Ngày <ENAMEX TYPE="CON_DATE">23/7/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">bố C.V.P</ENAMEX> đến khám và bố bệnh nhân nhập viện điều trị tại <ENAMEX TYPE="LOCATION">Khoa Ngoại tổng hợp, Bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">24/7 đến 25/7/2020</ENAMEX>, bệnh nhân chỉ chăm sóc <ENAMEX TYPE="CON_PERSON">bố</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khoa Ngoại tổng hợp</ENAMEX> và có mua đồ ăn tại <ENAMEX TYPE="LOCATION">căn tin Bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>, khi Bệnh viện Đà Nẵng được phong tỏa, bệnh nhân ở lại Bệnh viện để chăm sóc <ENAMEX TYPE="CON_PERSON">bố</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">27/7 đến 29/7/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">phòng bệnh</ENAMEX> chăm sóc <ENAMEX TYPE="CON_PERSON">bố</ENAMEX>.
+- Ngày 30/7/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 1) tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> cho kết quả (-) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="CON_DATE">31/7 đến 01/08/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">phòng bệnh</ENAMEX> chăm sóc <ENAMEX TYPE="CON_PERSON">bố</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">02/08/2020</ENAMEX></ENAMEX>, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly tập trung</ENAMEX>.
+- Ngày 03/8 đến 09/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>.
+- Ngày 10/8, 11/8 và 12/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>.
+- Trưa ngày <ENAMEX TYPE="POS_DATE">14/8/2020</ENAMEX> bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-Cov-2; sau đó, bệnh nhân được chuyển cách ly và điều trị.
+Năm sinh: <ENAMEX TYPE="AGE">1992</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

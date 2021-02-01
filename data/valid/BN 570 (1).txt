@@ -1,0 +1,6 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 570</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">2011</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc509, tổ 10, phường Hòa Khánh Bắc, quận Liên Chiểu, Tp. Đà Nẵng</ENAMEX>
+- Người trong gia đình tiếp xúc gần gồm: <ENAMEX TYPE="CON_PERSON">bố (ct1744</ENAMEX>, <ENAMEX TYPE="CON_PERSON">mẹ (ct1745</ENAMEX> và <ENAMEX TYPE="CON_PERSON">em (ct1746</ENAMEX>
+- Ngày <ENAMEX TYPE="SYM_DATE">27/7/2020</ENAMEX> bệnh nhân xuất hiện triệu chứng sốt, ho.
+	- Ngày 30/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">01/8/2020</ENAMEX></ENAMEX></ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>.

@@ -1,0 +1,6 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 600</ENAMEX>       	 Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">2013</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Khu Lưu Minh, Khu phố 5, TT Hà Lam, Thăng Bình, QNam</ENAMEX>
+      	BN là cháu ngoại của <ENAMEX TYPE="CON_PERSON">BN 522;523</ENAMEX>, là con ruột của <ENAMEX TYPE="CON_PERSON">BN 564</ENAMEX>, sống cùng nhà với nhau;
+      	Hằng ngày BN chỉ chơi tại nhà, không đi đâu, thường xuyên tiếp xúc với <ENAMEX TYPE="CON_PERSON">BN 522</ENAMEX>, <ENAMEX TYPE="CON_PERSON">BN 523</ENAMEX> và <ENAMEX TYPE="CON_PERSON">BN 564</ENAMEX>
+-  Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/07</ENAMEX></ENAMEX>: đã tiến hành cách ly tại <ENAMEX TYPE="LOCATION">Khu cách ly tập trung TYT Hà Lam</ENAMEX> và lấy mẫu xét nghiệm.

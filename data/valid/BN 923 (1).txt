@@ -1,0 +1,10 @@
+Tên: <ENAMEX TYPE="NAME">BN 923</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc505,  phường Hòa Cường Bắc, quận Hải Châu, TP Đà Nẵng</ENAMEX>
+'- Từ ngày <ENAMEX TYPE="CON_DATE">26/7 đến 01/8/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">bố vợ V.C</ENAMEX> đến chăm sóc <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> điều trị tại <ENAMEX TYPE="LOCATION">Khoa Nội hô hấp, Bệnh viện Đà Nẵng</ENAMEX>, trong thời gian này bệnh nhân chỉ ở trong Bệnh viện không đi đến nơi khác.
+- Khoảng ngày 27/7, 28/7/2020 (không nhớ rõ ngày), bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 1) tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> và cho kết quả (-) với vi rút SARS-CoV-2.
+- Từ ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">02/8</ENAMEX></ENAMEX> đến 09/8/2020, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly Tiểu đoàn D11 - Sư đoàn 375</ENAMEX>.
+- Ngày 10/8, 11/8 và 12/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>
+- Ngày 13/8/2020, tại <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 2).
+- Trưa ngày <ENAMEX TYPE="POS_DATE">14/8/2020</ENAMEX> bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-Cov-2; sau đó, bệnh nhân được chuyển cách ly và điều trị.
+Năm sinh: <ENAMEX TYPE="AGE">1992</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

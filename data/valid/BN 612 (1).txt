@@ -1,0 +1,15 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 612</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1995</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc514, phường An Hải Tây, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.
+- Bệnh nhân có tiếp xúc gần với <ENAMEX TYPE="CON_PERSON">mẹ là ct1769</ENAMEX> là bệnh nhân đang điều trị tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>.
+- Sáng ngày 25/7/2020 bệnh nhân đến đổ xăng tại <ENAMEX TYPE="LOCATION">cửa hàng xăng dầu Hoà Khánh 13, đường Trường Sa, quận Ngũ Hành Sơn, Tp. Đà Nẵng.</ENAMEX>
+- Lúc 17 giờ ngày 25/7/2020 bệnh nhân đi đám cưới <ENAMEX TYPE="LOCATION">nhà hàng tiệc cưới Quảng Đại Gold tại đường 30/4, phường Hòa Cường Bắc, quận Hải Châu, Tp. Đà nẵng</ENAMEX>.
+- Lúc 19 giờ ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX> bệnh nhân đến nhà chú của bệnh nhân (ct1770) ở <ENAMEX TYPE="LOCATION">đường Huyền Trân Công Chúa, quận Ngũ Hành Sơn, Tp. Đà Nẵng</ENAMEX>, Bệnh nhân có tiếp xúc với <ENAMEX TYPE="CON_PERSON">ông ct1770</ENAMEX> và <ENAMEX TYPE="CON_PERSON">2 người bạn</ENAMEX>.
+- Sáng ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX> bệnh nhân đến <ENAMEX TYPE="LOCATION">đường Bùi Hữu Nghĩa ở Phước mỹ, Sơn Trà, Đà Nẵng</ENAMEX>, có tiếp xúc với <ENAMEX TYPE="CON_PERSON">cậu</ENAMEX> và <ENAMEX TYPE="CON_PERSON">dì</ENAMEX>.
+- Lúc 10 giờ 30 ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX> bệnh nhân đi đám cưới tại <ENAMEX TYPE="LOCATION">nhà hàng tiệc cưới Gia Hận ở đường 2/9, phường Hòa Cường Bắc, quận Hải Châu, Tp. Đà Nẵng</ENAMEX> và ngồi cùng bàn với <ENAMEX TYPE="CON_PERSON">người trong gia đình</ENAMEX>.
+- Chiều ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX> bệnh nhân đến địa chỉ <ENAMEX TYPE="LOCATION">87 Hoài Thanh, phường Mỹ An, quận Ngũ Hành Sơn, Tp. Đà Nẵng</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">2 người bạn</ENAMEX> và <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Lúc 17 giờ 15 ngày 26/7/2020 bệnh nhân ra <ENAMEX TYPE="LOCATION">biển Mỹ Khê</ENAMEX>.
+- Sáng ngày <ENAMEX TYPE="CON_DATE">27/7/2020</ENAMEX> bệnh nhân uống cà phê tại quán cà phê <ENAMEX TYPE="CON_PERSON">ct1772</ENAMEX> ở <ENAMEX TYPE="LOCATION">đường Nguyễn Thiết, phường An Hải Tây, quận Sơn Trà, Tp. Đà Nẵng.</ENAMEX>
+- Tối ngày <ENAMEX TYPE="CON_DATE">29/7/2020</ENAMEX> bệnh nhân đến địa chỉ <ENAMEX TYPE="LOCATION">22 Ngọc Hân, phường An Hải Tây, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX> và tiếp xúc với <ENAMEX TYPE="CON_PERSON">bạn</ENAMEX>.
+- Tối ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX> bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hoà Vang.</ENAMEX>
+- Ngày 01/8/2020 Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">02/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

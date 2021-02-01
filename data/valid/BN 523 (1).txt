@@ -1,0 +1,12 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 523</ENAMEX>  (vợ ông Bùi Văn Ngấn)	Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1957</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Khu Lưu Minh, Khu phố 5, TT Hà Lam, Thăng Bình, QNam</ENAMEX>
+- Đi nuôi ông <ENAMEX TYPE="CON_PERSON">Bùi Văn Ngấn</ENAMEX> từ ngày <ENAMEX TYPE="CON_DATE">09/07/2020</ENAMEX> tại phòng 614, tầng 6, khoa Thận nội tiết, BN Đà Nẵng.
+Trong thời gian nằm viện, Bà ở lại Bệnh viện. Hằng ngày xuống <ENAMEX TYPE="LOCATION">căn tin</ENAMEX> mua hàng rồi về lại phòng.
+- Ngày <ENAMEX TYPE="CON_DATE">22/07/2020</ENAMEX>, ông <ENAMEX TYPE="CON_PERSON">ct1779</ENAMEX> xuất viện, bà cũng ông trở về gia đình tại <ENAMEX TYPE="LOCATION">Khu phố 5, TT Hà Lam, Thăng Bình Quảng Nam</ENAMEX>.
+	- Từ ngày <ENAMEX TYPE="SYM_DATE">22/07/2020</ENAMEX>: trở về, BN có triệu chứng sốt, ho, không đau ngực, có khạc đờm màu vàng hơi đặc.
+	- Khoảng 9h sáng ngày <ENAMEX TYPE="CON_DATE">29/07/2020</ENAMEX>, BN đến khám tại <ENAMEX TYPE="LOCATION">TTYT Thăng Bình</ENAMEX>, tại đây BN được người nhà dẫn thẳng vào <ENAMEX TYPE="LOCATION">phòng X-Quang chụp phim</ENAMEX>. Sau đó được người nhà chở về nhà, không đi các khu vực khác trong bệnh viện. Kết quả phim X-Quang được <ENAMEX TYPE="CON_PERSON">con</ENAMEX> của BN nhận.
+	- Từ ngày 22/07/2020 đến nay 31/07/2020, BN chỉ đến <ENAMEX TYPE="LOCATION">TTYT Thăng Bình</ENAMEX> chụp X-Quang rồi về. Còn lại ở trong nhà, không đi đâu cả.
+- Ngày <ENAMEX TYPE="CON_DATE">09/07/2020</ENAMEX>: nuôi ông <ENAMEX TYPE="CON_PERSON">ct1779</ENAMEX> tại <ENAMEX TYPE="LOCATION">BVĐN, khoa Thận nội tiết</ENAMEX>
+- Ngày <ENAMEX TYPE="CON_DATE">22/07/2020</ENAMEX>: Cùng ông <ENAMEX TYPE="CON_PERSON">ct1779</ENAMEX> xuất viện về ở tại <ENAMEX TYPE="LOCATION">Khu phố 5, TT Hà Lam, Thăng Bình Quảng Nam</ENAMEX>
+Tình trạng bệnh nhân hiện tại: Đang ở tại nhà tại <ENAMEX TYPE="LOCATION">Khu phố 5, TT Hà Lam, Thăng Bình Quảng Nam</ENAMEX>. Có ho, không sốt, không đau ngực, ăn uống được.

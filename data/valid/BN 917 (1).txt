@@ -1,0 +1,17 @@
+Tên: <ENAMEX TYPE="NAME">BN 917</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">xã Điện An, huyện Điện Bàn, tỉnh Quảng Nam</ENAMEX>
+'- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại xã Điện An, huyện Điện Bàn, tỉnh Quảng Nam.
+- Từ ngày <ENAMEX TYPE="CON_DATE">14/7 đến 19/7/2020</ENAMEX>, bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Bệnh viện Da liễu Đà Nẵng</ENAMEX> để điều trị Zona, có <ENAMEX TYPE="CON_PERSON">T.Đ.V (thường trú tại đường Ngũ Hành Sơn, phường Mỹ An, quận Ngũ Hành Sơn)</ENAMEX> và <ENAMEX TYPE="CON_PERSON">T.Đ.H (thường trú tại xã Điện An, huyện Điện Bàn, tỉnh Quảng Nam)</ENAMEX> đến chăm sóc bệnh nhân.
+- Ngày 20/7/2020, huyết áp bệnh nhân tăng cao đột ngột nên được chuyển đến <ENAMEX TYPE="LOCATION">Khoa Cấp cứu, Bệnh viện Đà Nẵng</ENAMEX>. Sau đó bệnh nhân được chuyển đến điều trị tại <ENAMEX TYPE="LOCATION">Khoa Thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">20/7 đến 28/7/2020</ENAMEX>, bệnh nhân tiếp tục được điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian này, có <ENAMEX TYPE="CON_PERSON">người nhà ở xã Điện An, huyện Điện Bàn, tỉnh Quảng Nam</ENAMEX>, đến chăm sóc bệnh nhân.
+- Ngày 29/7/2020, bệnh nhân được chuyển đến điều trị tại <ENAMEX TYPE="LOCATION">Khoa Hồi sức cấp cứu, Bệnh viện 199 - Bộ Công an</ENAMEX>.
+- Từ ngày 02/8 đến 07/8/2020, bệnh nhân tiếp tục được điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện 199 - Bộ Công an</ENAMEX>. Ngày <ENAMEX TYPE="CON_DATE">08/8/2020</ENAMEX>, có <ENAMEX TYPE="CON_PERSON">T.Đ.V</ENAMEX> vào thăm bệnh nhân.
+- Ngày 09/8/2020, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">Khoa A2, Bệnh viện 199 - Bộ Công an</ENAMEX>. 
+- Ngày <ENAMEX TYPE="CON_DATE">10/8/2020</ENAMEX>, có <ENAMEX TYPE="CON_PERSON">T.Đ.V</ENAMEX> vào thăm bệnh nhân.
+- Ngày <ENAMEX TYPE="CON_DATE">11/8/2020</ENAMEX>, <ENAMEX TYPE="CON_PERSON">có T. Đ.T (thường trú tại Bằng An Trung, xã Điện An, huyện Điện Bàn, tỉnh Quảng Nam)</ENAMEX> vào thăm bệnh nhân.
+- Tối ngày 11/8/2020, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">Khoa Hồi sức cấp cứu, Bệnh viện 199 - Bộ Công an</ENAMEX>.
+- Sáng ngày <ENAMEX TYPE="CON_DATE">13/8/2020</ENAMEX>, có <ENAMEX TYPE="CON_PERSON">T.Đ.T</ENAMEX> và <ENAMEX TYPE="CON_PERSON">N.T.K.P</ENAMEX> vào thăm bệnh nhân.
+- Tối ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">13/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1936</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 597</ENAMEX>  	           Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1981</ENAMEX>;
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Khu Lưu Minh, Khu phố 5, TT Hà Lam, Thăng Bình,Quảng Nam</ENAMEX>;
+      	BN là con của <ENAMEX TYPE="CON_PERSON">BN 522; 523</ENAMEX>, sống cùng nhà với 2 BN này;
+-   Thời gian từ <ENAMEX TYPE="CON_DATE">09/07 đến 22/07</ENAMEX>, BN hằng ngày ra <ENAMEX TYPE="LOCATION">Khoa Thận nội tiết, BV Đà Nẵng</ENAMEX> chăm sóc bố là <ENAMEX TYPE="CON_PERSON">BN 522</ENAMEX> (sáng ra ĐN, chiều về lại Quảng Nam)
+-   Từ ngày <ENAMEX TYPE="CON_DATE">22/07 đến 29/07</ENAMEX>, BN chỉ ở nhà chăm sóc bố là <ENAMEX TYPE="CON_PERSON">BN522</ENAMEX>, hằng ngày BN đi <ENAMEX TYPE="LOCATION">chợ tại khu chợ Ngã tư Hà Lam</ENAMEX> (phía trên đèn xanh đèn đỏ ngã tư thị trấn Hà Lam khoảng 500m);
+-  Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/07</ENAMEX></ENAMEX>: đã tiến hành cách ly tại <ENAMEX TYPE="LOCATION">Khu cách ly tập trung tại TYT</ENAMEX>

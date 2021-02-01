@@ -1,0 +1,19 @@
+Tên: <ENAMEX TYPE="NAME">BN 945</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">tổ 7 thôn Yến Nê 2, xã Hòa Tiến, huyện Hòa Vang, TP Đà Nẵng </ENAMEX>
+'- Bệnh nhân ở cùng Tổ với <ENAMEX TYPE="CON_PERSON">Bệnh nhân 872</ENAMEX> (được Bộ Y tế công bố ngày 12/8/2020).
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">bố H.V.L</ENAMEX> tại <ENAMEX TYPE="LOCATION">tổ 7, thôn Yến Nê 2, xã Hoà Tiến, huyện Hoà Vang, TP Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">01/8 đến 03/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">bố</ENAMEX> và không đi đến nơi khác.
+- Ngày <ENAMEX TYPE="CON_DATE">04/8/2020</ENAMEX>, bệnh nhân đến gặp <ENAMEX TYPE="CON_PERSON">cô T. T. H</ENAMEX> (thường trú tại <ENAMEX TYPE="LOCATION">K89 Trần Quang Khải, quận Sơn Trà) tại bến cá Sơn Trà</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">05/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">bố</ENAMEX> và không đi đến nơi khác.
+- Ngày <ENAMEX TYPE="CON_DATE">06/8/2020</ENAMEX>, <ENAMEX TYPE="CON_PERSON">anh T</ENAMEX> và <ENAMEX TYPE="CON_PERSON">chị T</ENAMEX> đến nhà và tiếp xúc với bệnh nhân.
+- Ngày <ENAMEX TYPE="CON_DATE">07/8 và 08/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">bố</ENAMEX> và không đi đến nơi 
+- Ngày 09/8/2020, bệnh nhân đến mua sắm tại <ENAMEX TYPE="LOCATION">tạp hoá bà S gần cổng chào đối diện tổ 7, thôn Yến Nê 2, xã Hoà Tiến, huyện Hoà Vang</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">10/8/2020</ENAMEX>, bệnh nhân gặp <ENAMEX TYPE="CON_PERSON">L.T.P</ENAMEX> (thường trú tại <ENAMEX TYPE="LOCATION">thôn 10 An Tân, xã Đại Hưng, huyện Đại Lộc, tỉnh Quảng Nam) tại đường Châu Thị Vĩnh Tế</ENAMEX> (không nhớ rõ địa điểm) và <ENAMEX TYPE="CON_PERSON">cô T.T. H</ENAMEX> tại <ENAMEX TYPE="LOCATION">trạm xe buýt Sơn Trà - Điện Ngọc</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">11/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">bố</ENAMEX> và không đi đến nơi khác.
+ <ENAMEX TYPE="LOCATION">thôn Yến Nê 2, xã Hoà Tiến, huyện Hoà Vang</ENAMEX> và có kết quả  (-) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="CON_DATE">13/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">bố</ENAMEX> và không đi đến nơi khác.
+Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">15/8/2020</ENAMEX></ENAMEX></ENAMEX> bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+- Hiện tại, bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
+Nguồn lây: Có khả năng <ENAMEX TYPE="CON_PERSON">BN872 (hàng xóm)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">2001</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

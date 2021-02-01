@@ -1,0 +1,14 @@
+Tên: <ENAMEX TYPE="NAME">BN 939</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc534, phường Tam Thuận, quận Thanh Khê, TP Đà Nẵng.</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại loc534, phường Tam Thuận. Trong đó có <ENAMEX TYPE="CON_PERSON">bệnh nhân số 937</ENAMEX>, <ENAMEX TYPE="CON_PERSON">bệnh nhân số 939</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">10/7 đến 20/7/2020</ENAMEX>, bệnh nhân đến chăm sóc <ENAMEX TYPE="CON_PERSON">mẹ N.T.L</ENAMEX> (đã mất) tại <ENAMEX TYPE="LOCATION">Khoa Thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>. 
+- Ngày <ENAMEX TYPE="CON_DATE">21/7/2020</ENAMEX>, mẹ bệnh nhân xuất viện, trở về nhà nên bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> chăm sóc <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Từ ngày 22/7 đến 26/7/2020, bệnh nhân đến <ENAMEX TYPE="LOCATION">chợ của phường Bình Hiên, quận Hải Châu</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">27/7 đến ngày 09/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> chăm sóc <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">10/8 và 11/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> chăm sóc <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">12/8/2020</ENAMEX>, bệnh nhân ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tổ chức đám tang cho mẹ, tại đây ngoài <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, bệnh nhân tiếp xúc với những người thường xuyên có mặt (những người làm dịch vụ tang lễ, người đến viếng…). 
+- Ngày 14/8/2020, bệnh nhân cùng gia đình đưa tang mẹ tại <ENAMEX TYPE="LOCATION">nghĩa trang Hòa Sơn, huyện Hòa Vang</ENAMEX> sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. Tối cùng ngày, bệnh nhân được lấy mẫu dịch hầu họng xét nghiệm để khẳng định và trưa ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">15/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
+Nguồn lây: <ENAMEX TYPE="CON_PERSON">BN937 (Em)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1954</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

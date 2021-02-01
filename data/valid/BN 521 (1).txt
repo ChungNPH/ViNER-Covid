@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 521</ENAMEX>                   Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">2005</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Châu Lâu, xã Điện Thọ, Thị xã Điện Bàn, tỉnh Quảng Nam</ENAMEX>.
+- Ngày 17/07/2020: bệnh nhân nghỉ hè ở nhà chơi tại <ENAMEX TYPE="LOCATION">thôn Châu Lâu, Điện Thọ</ENAMEX>. 
+- Hàng ngày bệnh nhân có đi đá bóng tại <ENAMEX TYPE="LOCATION">sân bóng thôn Tây cũ nay là La Huân</ENAMEX>.
+- Bệnh nhân có hay qua <ENAMEX TYPE="LOCATION">nhà hàng xóm</ENAMEX> là <ENAMEX TYPE="CON_PERSON">ông ngoại chú</ENAMEX> chơi rồi về nhà.
+- Đến ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/07/2020</ENAMEX></ENAMEX>: bà ngoại bệnh nhân được xác định dương tính Covid – 19, Bệnh nhân được xác định là F1 và được đưa đi cách ly tập trung và lấy mẫu xét nghiệm. 

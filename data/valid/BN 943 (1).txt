@@ -1,0 +1,13 @@
+Tên: <ENAMEX TYPE="NAME">BN 943</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc468, phường Hoà Khánh Nam, quận Liên Chiểu, TP Đà Nẵng</ENAMEX>
+'- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại loc468, phường Hoà Khánh Nam.
+- Từ <ENAMEX TYPE="CON_DATE">ngày 23/7 đến ngày 25/7/2020</ENAMEX>, bệnh nhân đến chăm sóc <ENAMEX TYPE="CON_PERSON">vợ (bệnh nhân số 430)</ENAMEX> điều trị tại <ENAMEX TYPE="LOCATION">Khoa Thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian này, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">bệnh viện</ENAMEX>, không về nhà.
+- Sáng ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>, <ENAMEX TYPE="CON_PERSON">em gái bệnh nhân T. T. S</ENAMEX> đến <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> thay bệnh nhân chăm sóc bệnh nhân số 430 (bệnh nhân phải đi làm do công ty thiếu nhân viên làm việc), sau đó bệnh nhân về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và đi thu gom rác thải trong cộng đồng từ khoảng 07 giờ 00 đến 10 giờ 00. Trong thời gian làm việc, bệnh nhân chỉ thu gom rác thải, không tiếp xúc với người dân.
+ - Ngày <ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">27/7/2020</ENAMEX></ENAMEX></ENAMEX>, trước khi Bệnh viện Đà Nẵng được phong tỏa, bệnh nhân trở lại <ENAMEX TYPE="LOCATION">bệnh viện</ENAMEX> để thay thế cho <ENAMEX TYPE="CON_PERSON">em gái T. T. S</ENAMEX>, Sau đó, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly tại Khoa Thận - Nội tiết</ENAMEX>, được lấy mẫu xét nghiệm dịch hầu họng (lần 1) và cho kết quả (-) với vi rút SARS-CoV-2.
+- Ngày 28/7/2020, bệnh nhân tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">Khoa Thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày 29/7 đến 09/8/2020, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm Giáo dục Quốc phòng và An ninh - Quân khu V, phường Hòa Thọ Tây, quận Cẩm Lệ</ENAMEX>. 
+- Ngày 10/8, 11/8 và 12/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khu cách ly thuộc Trung tâm Giáo dục Quốc phòng và An ninh - Quân khu V</ENAMEX>.
+- Tối ngày <ENAMEX TYPE="POS_DATE">14/8/2020</ENAMEX>, bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-Cov-2.
+<ENAMEX TYPE="CON_PERSON">BN430 (vợ)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1989</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

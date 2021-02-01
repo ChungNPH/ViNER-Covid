@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 552</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1942</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn Hạ Nông Đông, xã Điện Phước, huyện Điện Bàn, tỉnh Quảng Nam</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">14/7/2020 đến nay</ENAMEX>: Bệnh nhân nuôi <ENAMEX TYPE="CON_PERSON">vợ (ct1789)</ENAMEX> hiện đang được điều trị tại <ENAMEX TYPE="LOCATION">khoa Ngoại bỏng - Bệnh viện Đà Nẵng</ENAMEX>;
+- Bệnh nhân chủ yếu dành thời gian chăm sóc vợ, ít ra khỏi <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày 25 đến 26/7/2020, bệnh nhân có ra ngoài 2 lần để mua café tại <ENAMEX TYPE="LOCATION">xe đẩy lề đường Quang Trung</ENAMEX> vào buổi sáng, và mua mì tôm vào buổi chiều.
+- Bệnh nhân được lấy mẫu xét nghiệm SARS – CoV – 2 ngày 29/7/2020 và có kết quả (+) ngày <ENAMEX TYPE="POS_DATE">31/7/2020</ENAMEX>.
+- Hiện tại, bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">Khu cách ly Bệnh viện Phổi Đà Nẵng</ENAMEX>. Tình trạng sức khỏe: bệnh nhân không sốt, không ho, không khó thở.
+1. Ngày 29/7/2020, Bệnh viện Đà Nẵng tiến hành giám sát và lấy mẫu xét nghiệm. Kết quả xét nghiệm ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX></ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

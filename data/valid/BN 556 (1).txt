@@ -1,0 +1,13 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 556</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1991</ENAMEX>
+- Địa chỉ thường trú: <ENAMEX TYPE="ADDRESS">đường Vũ Miên, Miếu Bông, Hòa Vang, Đà Nẵng</ENAMEX>
+- Hàng ngày bệnh nhân đi làm sau đó về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, ít tiếp xúc với những người xung quanh, bệnh nhân thường ăn sáng và uống cà phê tại <ENAMEX TYPE="LOCATION">Căn tin Công ty FPT Complex Ngũ Hành Sơn</ENAMEX> .
+	- Trưa ngày 22/7/2020: Bệnh nhân ăn trưa tại <ENAMEX TYPE="LOCATION">quán 1989, FPT City</ENAMEX>.
+- Tối ngày 24/7/2020: Bệnh nhân đi ăn tại <ENAMEX TYPE="LOCATION">Phố nướng Tokyo, số 4 Phạm Văn Đồng, Phước Mỹ, Sơn Trà, Đà Nẵng </ENAMEX>
+- Ngày 25/7/2020: Sáng 9 giờ bệnh nhân tự chạy xe máy về quê <ENAMEX TYPE="LOCATION">Hương An - Quế Sơn - Quảng Nam</ENAMEX>, đến 15 giờ bệnh nhân chạy xe về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. Bệnh nhân có uống nước mía tại <ENAMEX TYPE="LOCATION">quán đối diện nhà</ENAMEX>.
+- Ngày <ENAMEX TYPE="SYM_DATE">26/7/2020</ENAMEX>: Bệnh nhân có dấu hiệu sốt, tự uống thuốc hạ sốt tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Ngày 27/7/2020: Bệnh nhân còn sốt nên đến khám lại tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Cẩm Lệ</ENAMEX>, được lấy mẫu sàng lọc SARS-CoV2 và cho về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> uống thuốc theo đơn.
+- Từ ngày 27/7/2020 đến ngày 31/7/2020: Bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đâu. 
+- Hiện tại, bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">Khu cách ly Trung tâm Y tế huyện Hòa Vang</ENAMEX>. 
+- Ngày 27/7/2020: bệnh nhân còn sốt nên đến khám lại tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Cẩm Lệ</ENAMEX> được lấy mẫu sàng lọc SARS-CoV2 và cho về nhà uống thuốc theo đơn. 
+1. Ngày 27/7/2020, Trung tâm Y tế quận Cẩm Lệ tiến hành giám sát và lấy mẫu xét nghiệm. Kết quả xét nghiệm ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX></ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

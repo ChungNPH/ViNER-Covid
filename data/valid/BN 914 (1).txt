@@ -1,0 +1,12 @@
+Tên: <ENAMEX TYPE="NAME">BN 914</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">Khu dân cư số 2, thị trấn Sông Vệ, huyện Tư Nghĩa, tỉnh Quảng Ngãi.</ENAMEX>
+'- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">em gái H.T. T</ENAMEX> tại Khu dân cư số 2, thị trấn sông vệ, huyện Tư Nghĩa, tỉnh Quảng Ngãi.
+- Ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> để thay thế <ENAMEX TYPE="CON_PERSON">em dâu</ENAMEX> chăm sóc <ENAMEX TYPE="CON_PERSON">bố (là bệnh nhân số 479)</ENAMEX>, đang điều trị tại <ENAMEX TYPE="LOCATION">Khoa Nội thận - Nội tiết</ENAMEX>.
+- Từ ngày 26/7 đến 30/7/2020, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">Bệnh viện</ENAMEX>, trong khoảng thời gian này, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 1) tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> và cho kết quả (-) với vi rút SARS-CoV-2.
+- Từ ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7</ENAMEX></ENAMEX> đến 05/8/2020, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX>.
+- Ngày 06/8, 07/8 và 08/8/2020, bệnh nhân chỉ ở trong phòng tại khu cách ly thuộc <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX>.
+- Trong khoảng thời gian từ ngày <ENAMEX TYPE="SYM_DATE">09/8 đến 10/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng sốt, ho.
+- Ngày 12/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 2) tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX>.
+- Ngày <ENAMEX TYPE="POS_DATE">13/8/2020</ENAMEX>, bệnh nhân có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2; sau đó bệnh nhân được chuyển đến cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1960</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

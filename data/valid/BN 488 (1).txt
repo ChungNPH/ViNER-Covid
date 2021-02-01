@@ -1,0 +1,12 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 488</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>.  Năm sinh: <ENAMEX TYPE="AGE">1953</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc478, tổ 49 Phường Tam Thuận, Quận Thanh Khê, Thành phố Đà Nẵng</ENAMEX>
+- Quá trình duy chuyển: Bệnh nhân nằm viện mỗ thoát vị đĩa đệm ngày 25/5/2020 tại <ENAMEX TYPE="LOCATION">khoa ngoại thần kinh</ENAMEX>. Đến ngày 17/7/2020 bệnh nhân được chuyển lên <ENAMEX TYPE="LOCATION">phòng 203 khoa phục hồi chức năng – Bệnh viện Đà Nẵng</ENAMEX>. Khoảng thời gian lên khoa Phục hồi chức năng không ai đến thăm.  Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX></ENAMEX> chuẩn đoán xác định nhiễm Covid ( +)
+2.1. <ENAMEX TYPE="CON_PERSON">Con rể: ct1613</ENAMEX>
+2.2. <ENAMEX TYPE="CON_PERSON">Vợ ct1614( F1)</ENAMEX>
+2.3. <ENAMEX TYPE="CON_PERSON">Con ct1615</ENAMEX>
+2.4. <ENAMEX TYPE="CON_PERSON">Cháu ct1616</ENAMEX>, Là  học sinh trường Đinh Bộ Lĩnh, ở nhà cậu .
+2.5. <ENAMEX TYPE="CON_PERSON">Cháu ct1617</ENAMEX>, Là  học sinh trường Đinh Bộ Lĩnh, ở nhà cậu.
+3.1. <ENAMEX TYPE="CON_PERSON">Con Trai: ct1618</ENAMEX>
+3.3. <ENAMEX TYPE="CON_PERSON">Cháu ct1619</ENAMEX>, Học trường Phan Chu Trinh
+3.4. <ENAMEX TYPE="CON_PERSON">Cháu ct1620</ENAMEX>
+3.5. <ENAMEX TYPE="CON_PERSON">Cháu ct1621 </ENAMEX>                                   

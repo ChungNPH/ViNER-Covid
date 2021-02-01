@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 497</ENAMEX> (ca số  ). Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1952</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc471, phường Thạch Thang, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>.
+- Bệnh nhân đang ở nhà cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con dâu</ENAMEX>, <ENAMEX TYPE="CON_PERSON">cháu nội</ENAMEX> tại địa chỉ <ENAMEX TYPE="LOCATION">loc471, phường Thạch Thang, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>.
+	- Từ 22/6/2020 đến 04/7/2020 bệnh nhân điều trị sỏi thận tại <ENAMEX TYPE="LOCATION">khoa Ngoại tổng hợp, bệnh viện Đà Nẵng</ENAMEX>.
+	- Ngày 05/7/2020 bệnh nhân đến khám tại phòng mạch tư bác sĩ Xứng, <ENAMEX TYPE="LOCATION">đường Phan Đăng Lưu, phường Khuê Trung, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>
+	- Ngày 17/7/2020, khoảng từ 8 giờ đến 9 giờ, bệnh nhân đến khám tại <ENAMEX TYPE="LOCATION">khoa Nội thần kinh bệnh viện Đa khoa Quốc tế Vinmec Đà Nẵng</ENAMEX>.
+- Ngày 18/7/2020 bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">khoa Nội tổng hợp, bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày 21/7/2020 bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khoa Ngoại tổng hợp, bệnh viện Đà Nẵng</ENAMEX>.
+<ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến khu cách ly của <ENAMEX TYPE="LOCATION">khoa Y học nhiệt đới, bệnh viện Đà Nẵng</ENAMEX>.	

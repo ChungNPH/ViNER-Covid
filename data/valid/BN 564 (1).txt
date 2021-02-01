@@ -1,0 +1,11 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 564</ENAMEX>	 Giới tính: <ENAMEX TYPE="GENDER">nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1984</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Khu Lưu Minh, Khu phố 5, TT Hà Lam, Thăng Bình, QNam</ENAMEX>
+- Vào các ngày <ENAMEX TYPE="CON_DATE">12/07,19/07,23/07</ENAMEX> có ra <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> chăm sóc <ENAMEX TYPE="CON_PERSON">BN 522</ENAMEX> (ra chăm sóc ban ngày; buổi tối trở về <ENAMEX TYPE="LOCATION">nhà tại KP5, TT Hà Lam, Thăng Bình</ENAMEX>). Tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, trường hợp khai chỉ tiếp xúc với nhân viên căng tin; <ENAMEX TYPE="CON_PERSON">3 điều dưỡng</ENAMEX>; <ENAMEX TYPE="CON_PERSON">1 Bs Trưởng khoa Thận nội tiết</ENAMEX> khoảng 15 phút vào ngày 23/07 mà không đeo khẩu trang.
+	- Trường hợp sống chung gia đình BN 522; 523 cùng với 2 con gái là <ENAMEX TYPE="CON_PERSON">T.H.V (sinh 2011)</ENAMEX> và <ENAMEX TYPE="CON_PERSON">T.H.T (sinh 2013)</ENAMEX>;
+- Hằng ngày đi làm tại <ENAMEX TYPE="LOCATION">Khoa Liên chuyên khoa Mắt-TMH-RHM- TTYT Thăng Bình</ENAMEX> (trừ những ngày đi Bệnh viện Đà Nẵng). Trong thời gian làm việc tại bệnh viện, đã tiếp xúc với nhiều bệnh nhân nội trú và ngoại trú.
+- Hằng ngày khoảng 10h30 đến 11h, trường hợp đi chợ tại <ENAMEX TYPE="LOCATION">khu chợ Ngã tư Hà Lam</ENAMEX> (phía trên đèn xanh đèn đỏ ngã tư Hà Lam khoảng 500m)
+- 1 đến 2 lần/tuần, trường hợp đến mua hàng nhu yếu phẩm tại <ENAMEX TYPE="LOCATION">Tạp hóa Cô ct1622</ENAMEX> – nằm trong chợ Hà Lam
+- Công việc tại quán Cafe giao cho nhân viên làm việc, hằng ngày vào sáng sớm, ghé <ENAMEX TYPE="LOCATION">quán Cafe </ENAMEX> để uống tại riêng 1 bàn với những người quen.
+- Ngày <ENAMEX TYPE="ISO_DATE">29/07</ENAMEX> + Đã khai báo y tế, tiến hành cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, theo dõi sức khỏe. + Lấy mẫu xét nghiệm
+Ngày <ENAMEX TYPE="HOS_DATE">31/07</ENAMEX>: Đã tiến hành cách ly tại <ENAMEX TYPE="LOCATION">Khu cách ly tập trung TT Hà Lam</ENAMEX>

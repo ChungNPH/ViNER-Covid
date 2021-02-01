@@ -1,0 +1,11 @@
+Tên: <ENAMEX TYPE="NAME">BN 870</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS"> xã Điện Hồng,huyện Điện Bàn,tỉnh Quảng Nam</ENAMEX>
+ - Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">xã Điện Hồng, huyện Điện Bàn, tỉnh Quảng Nam.</ENAMEX>
+ - Ngày <ENAMEX TYPE="CON_DATE">24/7/2020</ENAMEX> bệnh nhân đi làm công trình xây dựng tại thành phố Đà Nẵng (không rõ địa chỉ) sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+ - Ngày 25/7 và 26/7/2020, bệnh nhân tiếp tục đi làm sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+ - Ngày <ENAMEX TYPE="CON_DATE">27/7/2020</ENAMEX>, bệnh nhân đưa <ENAMEX TYPE="CON_PERSON">bố (là bệnh nhân số 478)</ENAMEX> đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thận Nội tiết, Bệnh viện Đà Nẵng.</ENAMEX>
+ - Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">30/7/2020</ENAMEX></ENAMEX>, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>. Ngày 31/7/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 2) cho kết quả (-) với vi rút SARS-CoV-2.
+ - Ngày <ENAMEX TYPE="POS_DATE">11/8/2020</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 3) cho kết quả (+) với vi rút SARS-CoV-2.
+ - Hiện tại, bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng.</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1985</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

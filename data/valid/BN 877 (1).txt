@@ -1,0 +1,15 @@
+Tên: <ENAMEX TYPE="NAME">BN 877</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc480, phường An Khê, quận Thanh Khê, TP Đà Nẵng</ENAMEX>
+Thông tin dịch tễ: - Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">vợ N.T.N</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con V.T.D.T</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con V.M</ENAMEX>.
+- Trước ngày 26/7/2020, vào các buổi sáng, bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ Phước Tường</ENAMEX> rồi trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
+- Từ ngày <ENAMEX TYPE="CON_DATE">26/7/2020 đến 08/8/2020</ENAMEX>, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">cơ quan (trên địa bàn phường Hòa Thuận Tây)</ENAMEX> và có tiếp xúc với các <ENAMEX TYPE="CON_PERSON">bệnh nhân số 878</ENAMEX>, <ENAMEX TYPE="CON_PERSON">879</ENAMEX> (được Bộ Y tế công bố ngày 12/8/2020) và <ENAMEX TYPE="CON_PERSON">890</ENAMEX> (được Bộ Y tế công bố ngày 13/8/2020), không về nhà.
+- Ngày <ENAMEX TYPE="SYM_DATE">08/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng đau mỏi cơ và sốt nhẹ.
+- Sáng ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">12/8/2020</ENAMEX></ENAMEX></ENAMEX>, Trung tâm Kiểm soát bệnh tật TP Đà Nẵng nhận được mẫu dịch hầu họng của bệnh nhân để xét nghiệm khẳng định và có kết quả (+) với vi rút SARS-CoV-2.
+ - Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng.</ENAMEX>
+Nguồn lây: <ENAMEX TYPE="CON_PERSON">BN878</ENAMEX>,
+<ENAMEX TYPE="CON_PERSON">BN879</ENAMEX>,
+<ENAMEX TYPE="CON_PERSON">BN890</ENAMEX>,
+<ENAMEX TYPE="CON_PERSON">BN880</ENAMEX>
+Lây cho người khác: <ENAMEX TYPE="CON_PERSON">BN916</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1979</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

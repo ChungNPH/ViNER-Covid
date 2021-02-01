@@ -1,0 +1,9 @@
+Tên: <ENAMEX TYPE="NAME">BN 924</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">(Từ 2016, bệnh nhân vào Đà Nẵng làm nghề chăm sóc bệnh nhân tại Bệnh viện Đà Nẵng, không thuê trọ, tất cả sinh hoạt đều trong Bệnh viện Đà Nẵng) </ENAMEX>
+'- Từ ngày <ENAMEX TYPE="CON_DATE">26/7 đến 01/8/2020</ENAMEX>, bệnh nhân được người nhà bệnh nhân số 699 thuê chăm sóc cho <ENAMEX TYPE="CON_PERSON">bệnh nhân số 699</ENAMEX> (điều trị tại <ENAMEX TYPE="LOCATION">Khoa Nội thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>). Thời gian này, Bệnh viện Đà Nẵng được phong tỏa nên bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">phòng bệnh</ENAMEX> và chăm sóc cho bệnh nhân số 699.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">02/08/2020</ENAMEX></ENAMEX>, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>.
+- Ngày 10/8, 11/8 và 12/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khu cách ly Tiểu đoàn D11 - Sư đoàn 375</ENAMEX>.
+- Trưa ngày <ENAMEX TYPE="POS_DATE">14/8/2020</ENAMEX> bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-Cov-2; sau đó, bệnh nhân được chuyển cách ly và điều trị.
+hoặc <ENAMEX TYPE="CON_PERSON">BN699</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1983</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

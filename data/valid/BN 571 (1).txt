@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 571</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1985</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc506, phường Thạch Thang, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>.
+         - Từ ngày 15/7/2020 đến 22/7/2020 bệnh nhân làm việc tại <ENAMEX TYPE="LOCATION">khoa Y học cổ truyền, bệnh viện Đà Nẵng</ENAMEX>.
+	- Trước ngày 22/07/2020 bệnh nhân có đi uống cà phê 1 mình tại <ENAMEX TYPE="LOCATION">quán cà phê gần cầu chân cầu Thuận Phước</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">22/7/2020 đến 24/7/2020</ENAMEX> bệnh nhân có châm cứu cho <ENAMEX TYPE="CON_PERSON">ct1738</ENAMEX> (địa chỉ <ENAMEX TYPE="LOCATION">278/1 Trần Cao Vân, phường Tam Thuận, quận Thanh Khê, Tp Đà Nẵng</ENAMEX>)
+- Khoảng 17 giờ đến 18 giờ ngày <ENAMEX TYPE="CON_DATE">22/7/2020</ENAMEX> bệnh nhân đi dự đám cưới tại <ENAMEX TYPE="LOCATION">nhà hàng Táo Đỏ (phường Bình Hiên, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>), ngồi cùng bàn với <ENAMEX TYPE="CON_PERSON">các nhân viên trong khoa</ENAMEX> (số người này đã được cách ly tại bệnh viện). Sau đám cưới, bệnh nhân đi ăn ở <ENAMEX TYPE="LOCATION">phường Thọ Quang, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">24/7/2020</ENAMEX> bệnh nhân có tiếp xúc với <ENAMEX TYPE="CON_PERSON">mẹ ruột (ct1739</ENAMEX> tại nhà ở địa chỉ <ENAMEX TYPE="LOCATION">169 ông ích khiêm, phường Thạch Thang, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>.
+	- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">25/7/2020</ENAMEX></ENAMEX> bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">khoa Y học cổ truyền, bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày 29/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POS_DATE">31/7/2020</ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>.

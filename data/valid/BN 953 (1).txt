@@ -1,0 +1,20 @@
+Tên: <ENAMEX TYPE="NAME">BN 953</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc485, phường Hòa Phát,quận Cẩm Lệ, Tp.Đà Nẵng </ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc485</ENAMEX>, trong đó có <ENAMEX TYPE="CON_PERSON">con rể là bệnh nhân 897</ENAMEX> (được Bộ Y tế công bố ngày 13/8/2020), <ENAMEX TYPE="CON_PERSON">cháu nhỏ 2 tháng tuổi - bệnh nhân số 954</ENAMEX> (được Bộ Y tế công bố ngày 16/8/2020).
+- Ngày 24/7/2020, bệnh nhân tham gia <ENAMEX TYPE="LOCATION">chương trình về nguồn với Hội Liên hiệp phụ nữ phường Hòa Phát, quận Cẩm Lệ</ENAMEX> (khoảng 40 người) đến những nơi sau: <ENAMEX TYPE="LOCATION">khu di tích K20</ENAMEX>, <ENAMEX TYPE="LOCATION">khu di tích lịch sử Bắc Mỹ An, thành Điện Hải</ENAMEX>, <ENAMEX TYPE="LOCATION">bãi tắm Tuấn Anh (xã Hòa Bắc, huyện Hòa Vang)</ENAMEX>.
+- Ngày <ENAMEX TYPE="SYM_DATE">30/7/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng mệt mỏi (sau 2-3 ngày uống thuốc thì đỡ).
+- Từ ngày <ENAMEX TYPE="CON_DATE">31/7/2020 đến 10/8/2020</ENAMEX>, bệnh nhân ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> chăm <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX> và <ENAMEX TYPE="CON_PERSON">cháu nhỏ</ENAMEX> và chỉ tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, Những người khác trong gia đình tiếp xúc với bệnh nhân: <ENAMEX TYPE="CON_PERSON">con gái Đ.T.B.N (K1120 Trường Chinh, phường Hòa Phát, quận Cẩm Lệ)</ENAMEX> và <ENAMEX TYPE="CON_PERSON">chị L.T.K.C</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">05/8/2020 và 08/8/2020</ENAMEX>, <ENAMEX TYPE="CON_PERSON">em ruột L.T.L.T</ENAMEX> đến nhà chơi và tiếp xúc với bệnh nhân.
+- Ngày <ENAMEX TYPE="CON_DATE">11/8/2020 và 12/8/2020</ENAMEX>, bệnh nhân chỉ ở nhà, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">13/8/2020</ENAMEX></ENAMEX>, sau khi con rể của bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2, bệnh nhân được đưa đến cách ly tại <ENAMEX TYPE="LOCATION">khu nhà ở công nhân thuộc khu công nghiệp Hòa Cầm, quận Cẩm Lệ</ENAMEX>.
+- Ngày 14/8/2020, tại khu cách ly, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng. Ngày <ENAMEX TYPE="POS_DATE">15/8/2020</ENAMEX>, bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>. 
+Nguồn lây: <ENAMEX TYPE="CON_PERSON">BN897 (con rể)</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN952 (chồng)</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN954 (cháu)</ENAMEX>
+Lây cho người khác: <ENAMEX TYPE="CON_PERSON">BN952 (chồng)</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN954 (cháu)</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN955 (con gái)</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN1001 (cháu)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1964</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

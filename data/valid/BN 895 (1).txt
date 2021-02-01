@@ -1,0 +1,19 @@
+Tên: <ENAMEX TYPE="NAME">BN 895</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc491, phường Hòa Khê, quận Thanh Khê, TP Đà Nẵng</ENAMEX>
+'- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại loc491, phường Hòa Khê.
+- Từ <ENAMEX TYPE="CON_DATE">đầu tháng 26/7 đến 04/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và tiếp xúc với những người trong gia đình, Bao gồm: <ENAMEX TYPE="CON_PERSON">bệnh nhân số 892</ENAMEX>, <ENAMEX TYPE="CON_PERSON">bệnh nhân số 893</ENAMEX>, <ENAMEX TYPE="CON_PERSON">bệnh nhân số 894</ENAMEX>, <ENAMEX TYPE="CON_PERSON">bệnh nhân số 896</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">05/8/2020</ENAMEX> Bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">chị gái P.N.T. T</ENAMEX> đến <ENAMEX TYPE="LOCATION">siêu thị Big C Đà Nẵng</ENAMEX> (bằng xe máy cá nhân), mua đồ và tính tiền tại tại tầng 2 (quầy gần cuối) sau đó trở về nhà.
+- Từ ngày <ENAMEX TYPE="CON_DATE">06/8 đến 09/8/2020</ENAMEX>, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
+- Ngày <ENAMEX TYPE="CON_DATE">10/8/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">mẹ T.T.H</ENAMEX> đến <ENAMEX TYPE="LOCATION">chợ Thanh Khê</ENAMEX> mua cam (không nhớ rõ tiệm) sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+ - Ngày 11/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng với vi rút SARS-CoV-2 tại <ENAMEX TYPE="LOCATION">trường tiểu học Lê Quang Sung, quận Thanh Khê</ENAMEX> theo kế hoạch xét nghiệm diện rộng tại các cụm dân cư, nhóm đối tượng và có kết quả mẫu gộp nghi ngờ với vi rút SARS-CoV-2.
+ - Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">12/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân đến mua thuốc cho mẹ (bị ngã xe) tại <ENAMEX TYPE="LOCATION">nhà thuốc Quốc Việt trên đường Huỳnh Ngọc Huệ</ENAMEX> (không rõ địa chỉ). Chiều cùng ngày, bệnh nhân được lấy mẫu dịch hầu họng tại <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Thanh Khê</ENAMEX> xét nghiệm để khẳng định và cho kết quả (+) với vi rút SARS-CoV-2.
+Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>
+Nguồn lây: - <ENAMEX TYPE="CON_PERSON">BN892 (bố)</ENAMEX>
+- <ENAMEX TYPE="CON_PERSON">BN893 (mẹ)</ENAMEX>
+- <ENAMEX TYPE="CON_PERSON">BN894 (chị)</ENAMEX>
+- <ENAMEX TYPE="CON_PERSON">BN896 (người thân chung nhà)</ENAMEX>
+Lây cho người khác: - <ENAMEX TYPE="CON_PERSON">BN893 (mẹ)</ENAMEX>
+- <ENAMEX TYPE="CON_PERSON">BN894 (chị)</ENAMEX>
+- <ENAMEX TYPE="CON_PERSON">BN896 (người thân ở chung nhà)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">2003</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

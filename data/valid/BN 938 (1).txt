@@ -1,0 +1,14 @@
+Tên: <ENAMEX TYPE="NAME">BN 938</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc464, tổ 29, phường Tam Thuận, quận  Thanh Khê, TP Đà Nẵng</ENAMEX>
+- Hiện tại, bệnh nhân đang sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại loc464, tổ 29, phường Tam Thuận, Trong đó có <ENAMEX TYPE="CON_PERSON">bệnh nhân số 939</ENAMEX>, <ENAMEX TYPE="CON_PERSON">bệnh nhân số 937</ENAMEX>. 
+- Từ ngày <ENAMEX TYPE="CON_DATE">17/7 đến 19/7/2020</ENAMEX>, bệnh nhân đến chăm sóc <ENAMEX TYPE="CON_PERSON">bà nội</ENAMEX> điều trị tại <ENAMEX TYPE="LOCATION">Khoa Thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày 20/7 đến 09/8/2020 bệnh nhân đến làm tại <ENAMEX TYPE="LOCATION">Công ty TNHH Seto Seisakusho</ENAMEX> rồi trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
+- Ngày 10/8/2020 bệnh nhân đi làm tại Công ty TNHH Seto Seisakusho rồi về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
+- Ngày <ENAMEX TYPE="CON_DATE">11/8/2020</ENAMEX> bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày 12/8 và 13/8/2020, bệnh nhân ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tổ chức đám tang bà nội.
+- Trong đám tang ngoài <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, bệnh nhân tiếp xúc nhiều người thường xuyên có mặt (những người phục vụ tang lễ, thăm viếng...) 
+- Ngày 14/8/2020, bệnh nhân cùng gia đình đưa tang bà nội tại <ENAMEX TYPE="LOCATION">nghĩa trang Hòa Sơn, huyện Hòa Vang</ENAMEX> sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. Tối cùng ngày, bệnh nhân được lấy mẫu dịch hầu họng xét nghiệm để khẳng định và trưa ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">15/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>
+Nguồn lây: <ENAMEX TYPE="CON_PERSON">BN937 (Mợ/cô)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1985</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

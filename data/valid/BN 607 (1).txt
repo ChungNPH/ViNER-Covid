@@ -1,0 +1,12 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 607</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1964</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc490, phường Hoà Khê, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>
+- Người nhà bệnh nhân có tiếp xúc gần: <ENAMEX TYPE="CON_PERSON">ct1653</ENAMEX> và <ENAMEX TYPE="CON_PERSON">ct1654</ENAMEX>.
+- Bệnh nhân có tiếp xúc với <ENAMEX TYPE="CON_PERSON">ca bệnh 436</ENAMEX>.
+- Ngày 23/07/2020 bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>.
+- Sáng 24/07/2020 bệnh nhân xuất viện và bắt xe máy Grap về (không nhớ biển số xe). Trên đường về nhà, bệnh nhân đến <ENAMEX TYPE="LOCATION">tạp hoá Anh Thư tại địa chỉ 111 Hà Huy Tập, phường Hoà Khê, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>. Sau đó tiếp tục mua mỳ quảng gần địa chỉ <ENAMEX TYPE="LOCATION">111 Hà Huy Tập, phường Hoà Khê, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>.
+- Sau đó bệnh nhân về nhà tại địa chỉ <ENAMEX TYPE="LOCATION">411/09 Hà Huy Tập, phường Hoà Khê, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX> và tự cách ly.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">29/07/2020</ENAMEX></ENAMEX> bệnh nhân được đưa đi cách ly tại địa chỉ <ENAMEX TYPE="LOCATION">521 Nguyễn Lương Bằng, phường Hoà Hiệp Nam, quận Liên Chiểu, Tp. Đà Nẵng.</ENAMEX>
+- Ngoài ra bệnh nhân có tiếp xúc với <ENAMEX TYPE="CON_PERSON">con rể (ct1655)</ENAMEX> và <ENAMEX TYPE="CON_PERSON">3 cháu</ENAMEX>.
+	- Ngày 31/7/2020 Trung tâm Kiểm soát bệnh tật TP Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">02/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân đang điều trị, cách ly tại địa chỉ <ENAMEX TYPE="LOCATION">521 Nguyễn Lương Bằng, phường Hoà Hiệp Nam, quận Liên Chiểu, Tp. Đà Nẵng.</ENAMEX>

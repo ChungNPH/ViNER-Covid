@@ -1,0 +1,19 @@
+Tên: <ENAMEX TYPE="NAME">BN 955</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc527, tổ 9, phường HòaPhát, quận Cẩm Lệ,Tp. Đà Nẵng.</ENAMEX>
+- Hiện tại, bệnh nhân đang sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại loc527, tổ 9, phường Hòa Phát. 
+- Từ giữa tháng <ENAMEX TYPE="CON_DATE">7/2020</ENAMEX>, bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ Tân An, quận Thanh Khê</ENAMEX> (khoảng 2-3 ngày/lần) sau đó trở về nhà bố, mẹ tại <ENAMEX TYPE="LOCATION">K882 Trường Chinh, phường Hòa Phát, quận Cẩm Lệ</ENAMEX> nấu ăn rồi trở về nhà, Những người trong gia đình bố, mẹ tiếp xúc với bệnh nhân có <ENAMEX TYPE="CON_PERSON">Đ.T. T (bệnh nhân số 952)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">L.T.K.H (bệnh nhân số 953)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">N.N.B.N (bệnh nhân số 954)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">N.V.S (bệnh nhân số 897)</ENAMEX>. 
+- Từ ngày 20/7 đến ngày 25/7/2020, bệnh nhân tham gia dạy học tại <ENAMEX TYPE="LOCATION">Trung tâm bồi dưỡng kiến thức Phong Nam, xã Hòa Châu, huyện Hòa Vang</ENAMEX> (lớp có khoảng 20 học sinh).
+- Ngày <ENAMEX TYPE="CON_DATE">21/7/2020</ENAMEX>, bệnh nhân tham dự tiệc đầy tháng <ENAMEX TYPE="CON_PERSON">cháu N.N.B.N tại nhà bố mẹ ở K882 Trường Chinh</ENAMEX>.
+- Ngày 23/7/2020, bệnh nhân đến <ENAMEX TYPE="LOCATION">trường THPT Phan Thành Tài</ENAMEX> để ký sổ học bạ (chỉ lên ký sổ và về, không tiếp xúc với ai).
+- Từ ngày 26/7 đến ngày 10/8/2020, bệnh nhân chỉ đi <ENAMEX TYPE="LOCATION">chợ Tân An, quận Thanh Khê</ENAMEX> (không nhớ rõ ngày) sau đó trở về nhà bố, mẹ tại <ENAMEX TYPE="LOCATION">K882 Trường Chinh</ENAMEX> nấu ăn rồi trở về nhà, không đi đến nơi khác.
+- Ngày <ENAMEX TYPE="CON_DATE">11/8/2020</ENAMEX>, bệnh nhân đến nhà <ENAMEX TYPE="CON_PERSON">bố</ENAMEX>, <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> tại <ENAMEX TYPE="LOCATION">K882 Trường Chinh</ENAMEX> rồi trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
+- Ngày <ENAMEX TYPE="CON_DATE">12/8/2020</ENAMEX>, bệnh nhân chỉ đi <ENAMEX TYPE="LOCATION">chợ Tân An, quận Thanh Khê</ENAMEX> sau đó trở về nhà <ENAMEX TYPE="CON_PERSON">bố</ENAMEX>, <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> nấu ăn rồi trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
+	- Sáng ngày <ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">13/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ Tân An</ENAMEX>, Trưa cùng ngày, sau khi bệnh nhân số 897 có kết quả xét nghiệm (+) với vi rút SARS-CoV-2, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">khu nhà ở công nhân thuộc khu công nghiệp Hòa Cầm, quận Cẩm Lệ</ENAMEX>. Tại khu cách ly, bệnh nhân ở cùng phòng với <ENAMEX TYPE="CON_PERSON">L.T.K.C</ENAMEX>.
+- Ngày 14/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng và tối ngày <ENAMEX TYPE="POS_DATE">15/8/2020</ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2.
+Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>.
+Nguồn lây: <ENAMEX TYPE="CON_PERSON">BN897 (anh/em)</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN952 (bố)</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN953 (mẹ)</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN954 (cháu)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1989</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

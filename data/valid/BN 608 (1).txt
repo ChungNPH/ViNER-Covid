@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 608</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1956</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">tổ 34, phường An Hải Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>
+- Người nhà tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX> và <ENAMEX TYPE="CON_PERSON">cháu</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">23/7/2020 đến 28/7/2020</ENAMEX> bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tại tổ 34, phường An Hải Đông, quận Sơn Trà, Tp. Đà Nẵng chỉ tiếp xúc mới <ENAMEX TYPE="CON_PERSON">người trong nhà</ENAMEX> và không đi đến nơi khác.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/7/2020</ENAMEX></ENAMEX> bệnh nhân cùng với với vợ và cháu được đưa đi cách ly tập trung và được lấy mẫu xét nghiệm vi rút SARS-CoV-2.
+	- Ngày 31/7/2020 Trung tâm Kiểm soát bệnh tật TP Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">02/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

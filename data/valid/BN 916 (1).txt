@@ -1,0 +1,15 @@
+Tên: <ENAMEX TYPE="NAME">BN 916</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">xã Cát Tân, huyện Phù Cát, tỉnh Bình Định</ENAMEX>
+'- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại xã Cát Tân, huyện Phù Cát, tỉnh Bình Định.
+- Ngày 20/7 và 21/7/2020, bệnh nhân từ TP Đà Nẵng về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tại xã Cát Tân, huyện Phù Cát, tỉnh Bình Định.
+- Ngày 22/7/2020, bệnh nhân trở lại <ENAMEX TYPE="LOCATION">TP Đà Nẵng</ENAMEX> để làm việc.
+- Từ ngày 23/7 đến 25/7/2020 (không nhớ rõ thời gian), bệnh nhân đến <ENAMEX TYPE="LOCATION">nhà hàng Trung Gia ở đường Võ Nguyên Giáp, quận Sơn Trà</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">25/7 đến 05/8/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">cơ quan</ENAMEX> làm việc, ở cùng phòng và tiếp xúc các <ENAMEX TYPE="CON_PERSON">bệnh nhân số 880</ENAMEX> và <ENAMEX TYPE="CON_PERSON">số 890</ENAMEX>, trong quá trình làm việc bệnh nhân tiếp xúc với các <ENAMEX TYPE="CON_PERSON">bệnh nhân số 877</ENAMEX>, <ENAMEX TYPE="CON_PERSON">878</ENAMEX>, <ENAMEX TYPE="CON_PERSON">879</ENAMEX>, <ENAMEX TYPE="CON_PERSON">880</ENAMEX> (được Bộ Y tế công bố ngày 12/8/2020) và <ENAMEX TYPE="CON_PERSON">890</ENAMEX> (được Bộ Y tế công bố ngày 13/8/2020).
+- Ngày <ENAMEX TYPE="CON_DATE">06/8, 07/8, 08/8/2020</ENAMEX>, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">cơ quan</ENAMEX> làm việc, tiếp xúc với <ENAMEX TYPE="CON_PERSON">các đồng nghiệp</ENAMEX>, không đi đến nơi khác.
+- Ngày <ENAMEX TYPE="SYM_DATE">09/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng đau đầu, sốt nhẹ.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">10/8/2020</ENAMEX></ENAMEX>, bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">khu tập thể (32) phường Hòa Thuận Tây</ENAMEX>.
+- Ngày <ENAMEX TYPE="POS_DATE">11/8/2020</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng và ngày 13/8/2020 có kết quả (+) với vi rút SARS-CoV-2; sau đó bệnh nhân được chuyển cách ly, điều trị tại <ENAMEX TYPE="LOCATION">ệnh viện Phổi Đà Nẵng</ENAMEX>.
+Nguồn lây: <ENAMEX TYPE="CON_PERSON">BN880</ENAMEX>,<ENAMEX TYPE="CON_PERSON">BN890</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN877</ENAMEX>, <ENAMEX TYPE="CON_PERSON">BN878</ENAMEX>, <ENAMEX TYPE="CON_PERSON">BN879</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1986</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

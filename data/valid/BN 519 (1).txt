@@ -1,0 +1,11 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 519</ENAMEX>         Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1980</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc489 - An Hội – Minh An – Hội An</ENAMEX>
+Thông tin dịch tễ: TH này sống với cùng <ENAMEX TYPE="CON_PERSON">vợ là B.T.C</ENAMEX>, <ENAMEX TYPE="CON_PERSON">2 con là B.Đ.Q.T và B.Đ.B.T</ENAMEX> tại <ENAMEX TYPE="LOCATION">phường Minh An, thành phố Hội An, tỉnh Quảng Nam</ENAMEX>. 
+- Ngày <ENAMEX TYPE="CON_DATE">23/7/2020</ENAMEX>: Chăm <ENAMEX TYPE="CON_PERSON">bố vợ là BN428</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa Nội - Tiết Niệu, Bệnh viện Đà Nẵng</ENAMEX>. 
+- Ngày <ENAMEX TYPE="CON_DATE">24/7/2020</ENAMEX>: Chăm <ENAMEX TYPE="CON_PERSON">bố vợ</ENAMEX> từ bệnh viện đi xe máy về thẳng nhà, ăn cơm cùng gia đình có tiếp xúc với <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX>, <ENAMEX TYPE="CON_PERSON">cô ruột</ENAMEX>, <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX>, <ENAMEX TYPE="CON_PERSON">2 con và cháu P.P.A</ENAMEX>, Chiều đến nhà bạn tiếp xúc với <ENAMEX TYPE="CON_PERSON">bạn là P.V.T</ENAMEX> và <ENAMEX TYPE="CON_PERSON">vợ bạn là chị H</ENAMEX>. 
+- Ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX>: Sáng cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> đến <ENAMEX TYPE="LOCATION">quán Cà phê Lộc Viên trong Kiệt Trần Phú</ENAMEX>, 8h30-10h30 có đến uống Cà phê cùng bạn T., bạn P.V.T và 3 người khác,Tối bán hàng cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> tại <ENAMEX TYPE="LOCATION">chợ đêm Nguyễn Hoàng</ENAMEX> đến 9h30 thì về nhà.
+    • Ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>: Đi câu tại cầu sắt Cẩm Kim có nói chuyện cùng bạn là <ENAMEX TYPE="CON_PERSON">anh P.V.T</ENAMEX> và <ENAMEX TYPE="CON_PERSON">anh P.N</ENAMEX>.
+    • Ngày <ENAMEX TYPE="CON_DATE">27/7/2020</ENAMEX>: Ở nhà cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX>, không tiếp xúc với người nào khác
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/7/2020</ENAMEX></ENAMEX>: Được đưa vào <ENAMEX TYPE="LOCATION">Khu cách ly Bệnh viên Đa khoa Hội An</ENAMEX>
+Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/7/2020</ENAMEX></ENAMEX>: Được đưa vào <ENAMEX TYPE="LOCATION">Khu cách ly Bệnh viên Đa khoa Hội An</ENAMEX>

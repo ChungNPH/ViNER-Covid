@@ -1,0 +1,19 @@
+Tên: <ENAMEX TYPE="NAME">BN 897</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc473, phường Hòa Phát, quận Cẩm Lệ, TP Đà Nẵng</ENAMEX>
+'- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại địa chỉ loc473, phường Hòa Phát, quận Cẩm Lệ, TP Đà Nẵng.
+ + Ngày 13/7/2020, bệnh nhân có đi khám bệnh tại <ENAMEX TYPE="LOCATION">khoa Tai - Mũi - Họng, Bệnh viện Đà Nẵng</ENAMEX>. 
+ + Ngày <ENAMEX TYPE="CON_DATE">21/7/2020</ENAMEX>, <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> bệnh nhân tổ chức tiệc đầy tháng cho con nên có mời người nhà đến dự và có tiếp xúc bệnh nhân gồm: <ENAMEX TYPE="CON_PERSON">ba mẹ ruột là N.V.C và H.T.H (xã Đại Phong, huyện Đại Lộc, tỉnh Quảng Nam)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">chị vợ Đ.T.B.N</ENAMEX> và <ENAMEX TYPE="CON_PERSON">dì L.T.K.C.</ENAMEX>
+ + Trước khi giãn cách xã hội, hằng ngày bệnh nhân ăn sáng tại quán bún của <ENAMEX TYPE="CON_PERSON">bà L.T.K.C</ENAMEX> ở gần nhà (địa chỉ: <ENAMEX TYPE="LOCATION">loc473, phường Hòa Phát, quận Cẩm Lệ</ENAMEX>).  
+ + Hằng ngày bệnh nhân đi làm tại <ENAMEX TYPE="LOCATION">cơ quan</ENAMEX> (giờ hành chính), về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> vào buổi trưa và chiều, tiếp xúc <ENAMEX TYPE="CON_PERSON">các đồng nghiệp tại cơ quan</ENAMEX> và <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">26/7 đến 10/8/2020</ENAMEX>: bệnh nhân thường xuyên tiếp xúc với <ENAMEX TYPE="CON_PERSON">các đồng nghiệp tại cơ quan</ENAMEX>, <ENAMEX TYPE="CON_PERSON">Đội quy tắc đô thị phường</ENAMEX>, <ENAMEX TYPE="CON_PERSON">Ban quản lý chợ Hòa An</ENAMEX> và <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>. 
+ + Khoảng 2-3 ngày, sau khi đi làm về, khoảng 17 giờ, bệnh nhân thường ghé mua bánh mì 01 lần tại <ENAMEX TYPE="LOCATION">tiệm bánh mì Anh Quân trên đường Tôn Đản</ENAMEX> (giáp ranh giữa phường Hòa An và phường Hòa Phát).
+ + Trong thời gian này có <ENAMEX TYPE="CON_PERSON">chị N</ENAMEX> và <ENAMEX TYPE="CON_PERSON">dì C</ENAMEX> thường xuyên đến nhà chơi và tiếp xúc với bệnh nhân (không nhớ rõ ngày).
+ + Ngày <ENAMEX TYPE="SYM_DATE">02/8 đến 03/8/2020</ENAMEX>, bệnh nhân xuất hiện mệt thoáng qua, đau họng nhẹ và viêm amidan.
+ - Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">12/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng xét nghiệm để khẳng định và cho kết quả (+) với vi rút SARS-CoV-2. 
+Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>
+Lây cho người khác: <ENAMEX TYPE="CON_PERSON">BN952(bố vợ)</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN953 (mẹ vợ)</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN954 (con)</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">BN955 (chị/em)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1985</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

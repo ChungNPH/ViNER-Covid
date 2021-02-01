@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 574</ENAMEX> (ca số  ). Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1952</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Tổ dân phố phường thọ đông B, TP Quảng Ngãi</ENAMEX>.
+	- Hiện tại bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> tại <ENAMEX TYPE="LOCATION">Tổ dân phố phường thọ đông B, TP Quảng Ngãi</ENAMEX>
+- Ngày 28/6/2020 bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">khoa lão, bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày 07/7/2020 bệnh nhân được chuyển qua <ENAMEX TYPE="LOCATION">khoa Hồi sức tích cực chống độc, bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày 16/7/2020 bệnh nhân được chuyển qua <ENAMEX TYPE="LOCATION">khoa Nội thần kinh</ENAMEX> đến nay.
+- Thời gian bệnh nhân nằm viện, chỉ có <ENAMEX TYPE="CON_PERSON">chồng (ct1742)</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con trai (ct1743)</ENAMEX> chăm sóc.
+- Ngày 29/7/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng xét nghiệm vi rút SARS-CoV-2. Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX></ENAMEX> bệnh nhân được được thông báo kết quả (+) với vi rút SARS-CoV-2 và được chuyển lên điều trị, cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

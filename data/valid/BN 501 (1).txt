@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 501</ENAMEX> (ca số  ). Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1962</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc503, phường Nam Dương, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>
+- Ngày <ENAMEX TYPE="CON_DATE">21/7/20</ENAMEX> bệnh nhân đưa <ENAMEX TYPE="CON_PERSON">chồng (ct1734)</ENAMEX> đến khoa Cấp cứu bệnh viện Đà Nẵng, sau đó chồng bệnh nhân được chuyển đến khoa Thận - Tiết niệu, bệnh viện Đà Nẵng.
+- Từ ngày <ENAMEX TYPE="CON_DATE">21/7/2020 đến 24/7/2020</ENAMEX> bệnh nhân chăm sóc <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> tại khoa Thận - Tiết niệu, bệnh viện Đà Nẵng. Sau đó  trong ngày 24/7/2020 chồng bệnh nhân xuất viện.
+- Ngày 24/7/20 đến 27/7/20 bệnh nhân ở nhà tại địa chỉ <ENAMEX TYPE="LOCATION">loc503, phường Nam Dương, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>. 
+- Lúc 20 giờ 30 phút ngày 27/7/20 bệnh nhân đến <ENAMEX TYPE="LOCATION">Trạm y tế phường Nam Dương</ENAMEX> khai báo y tế. Bệnh nhân khai báo không biết có tiếp xúc với người (+) hay không. Trạm Y tế phường Nam Dương đã hướng dẫn tự cách ly tại nhà và có biểu hiện sốt, ho, đau họng, mệt mỏi… và báo cho Trung tâm Y tế quận Hải Châu. 
+- Lúc 6 giờ 30 ngày 28/7/20 bệnh nhân khai báo thêm: Trong quá trình chăm sóc chồng tại khoa có chung phòng và tiếp xúc với <ENAMEX TYPE="CON_PERSON">bệnh nhân 427</ENAMEX>.
+	- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/7/20</ENAMEX></ENAMEX> bệnh nhân được đưa đi cách ly và được lấy mẫu xét nghiệm đến ngày <ENAMEX TYPE="POS_DATE">31/7/2020</ENAMEX> bệnh nhân cho kết quả (+) với vi rút SARS-CoV-2, sau đó được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của Trung tâm Y tế huyện Hòa Vang</ENAMEX>.

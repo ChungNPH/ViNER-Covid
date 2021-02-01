@@ -1,0 +1,10 @@
+Tên: <ENAMEX TYPE="NAME">BN 868</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">tổ 56, phường Hòa Khê, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại tổ 56, phường Hòa Khê
+ - Ngày <ENAMEX TYPE="CON_DATE">19/7 đến 25/7/2020</ENAMEX>, bệnh nhân đến khám và nhập viện điều trị tại <ENAMEX TYPE="LOCATION">Khoa Nội Tổng hợp, Bệnh viện Đà Nẵng</ENAMEX>, Trong thời gian điều trị, <ENAMEX TYPE="CON_PERSON">con gái L.T.A.N</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con trai L.Đ.N</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con dâu N.T. T.H</ENAMEX> thay phiên nhau đến Bệnh viện chăm sóc bệnh nhân, Ngoài ra có <ENAMEX TYPE="CON_PERSON">chị T.T.L (trú tại phường An Khê, quận Thanh Khê)</ENAMEX> đến Bệnh viện thăm bệnh nhân (không nhớ rõ ngày).
+ - Từ ngày 26/7 đến 27/07/2020, bệnh nhân đến <ENAMEX TYPE="LOCATION">chợ ven đường Hà Huy Tập giao với đường Huỳnh Ngọc Huệ</ENAMEX>, trong lúc đi chợ bệnh nhân có mang khẩu trang, chỉ mua thực phẩm rồi trở về nhà, không có tiếp xúc với người khác.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">28/7 đến 11/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
+ - Ngày 11/8/2020, bệnh nhân được lấy mẫu dịch hầu họng xét nghiệm với vi rút SARS-CoV-2 tại <ENAMEX TYPE="LOCATION">Trung tâm Văn hóa, Thể thao quận Thanh Khê</ENAMEX> theo kế hoạch xét nghiệm diện rộng.
+ - Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">11/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2 và hiện đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1962</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

@@ -1,0 +1,14 @@
+Tên: <ENAMEX TYPE="NAME">BN 936</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc532, phường Bình Hiên, quận Hải Châu, TP Đà Nẵng </ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">vợ  P.T. T.V</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con gái H.Q.A.N</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc532, phường Bình Hiên, quận Hải Châu, TP Đà Nẵng</ENAMEX>.
+- Từ ngày 16/7 đến 20/7/2020, bệnh nhân đến khám và nhập viện điều trị tại <ENAMEX TYPE="LOCATION">Khoa Nội tiêu hóa, Bệnh viện Đà Nẵng</ENAMEX>. Ngày <ENAMEX TYPE="CON_DATE">21/7/2020</ENAMEX>, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">Khoa Tim mạch (phòng 402), Bệnh viện Đà Nẵng</ENAMEX>, Trong khoảng thời gian này, <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> bệnh nhân  thường xuyên đến chăm sóc bệnh nhân.
+- Từ ngày 21/7 đến 29/7/2020, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">phòng bệnh</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7</ENAMEX></ENAMEX> đến 01/8/2020, bệnh nhân tiếp tục được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày 02/8/2020, bệnh nhân được chuyển đến cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX> (cùng với 5 bệnh nhân khác).
+- Từ ngày 03/8 đến 10/8/2020, bệnh nhân tiếp tục được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX>.
+- Ngày 11/8, 12/8 và 13/8/2020, bệnh nhân chỉ ở tại phòng bệnh thuộc khu cách ly của <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX>.
+- Ngày 14/8/2020, tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 2).
+- Ngày <ENAMEX TYPE="POS_DATE">15/8/2020</ENAMEX> bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-Cov-2.
+- Hiện tại, bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1964</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

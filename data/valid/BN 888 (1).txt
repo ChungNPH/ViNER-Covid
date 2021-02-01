@@ -1,0 +1,12 @@
+Tên: <ENAMEX TYPE="NAME">BN 888</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Trần Bình Trọng,tổ 3, phường Hải Châu 1,quận Hải Châu, TP ĐàNẵng</ENAMEX>
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CON_PERSON">em gái N.T.L</ENAMEX> và <ENAMEX TYPE="CON_PERSON">02 cháu trai tại đường Trần Bình Trọng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">12/7 đến 20/7/2020</ENAMEX>, bệnh nhân bị té nên nhập viện tại <ENAMEX TYPE="LOCATION">khoa Cấp cứu, Bệnh viện Đà Nẵng</ENAMEX>, sau đó được chuyển đến điều trị tại <ENAMEX TYPE="LOCATION">khoa Lão, Bệnh viện Đà Nẵng</ENAMEX>, Trong thời gian này, chỉ có <ENAMEX TYPE="CON_PERSON">em gái N.T.L</ENAMEX> chăm sóc bệnh nhân.
+- Ngày 21/7/2020, bệnh nhân được xuất viện về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. Khoảng 9 giờ 30 cùng ngày, bệnh nhân đi mua thuốc tại <ENAMEX TYPE="LOCATION">tiệm thuốc tây ở ngã 3 Ngô Gia Tự - Trần Bình Trọng</ENAMEX> (không nhớ rõ địa chỉ).
+- Từ <ENAMEX TYPE="CON_DATE">22/7 đến 08/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
+- Ngày 09/8, 10/8 và 11/8/2020 (3 ngày trước khi xuất hiện triệu chứng), bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và tiếp xúc với những người trong gia đình, không đi đến nơi khác.
+- Khoảng 8 giờ 30 ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="CON_DATE"><ENAMEX TYPE="HOS_DATE">12/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân xuất hiện triệu chứng ho nhẹ và đi cầu ra phân đen nên được <ENAMEX TYPE="CON_PERSON">em gái N.T.L</ENAMEX> đưa đi khám tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia đình</ENAMEX>. Đến 12 giờ 30 cùng ngày, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">Bệnh viện C Đà Nẵng</ENAMEX>, sau đó bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng.
+- Tối ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="ISO_DATE">12/8/2020</ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1955</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

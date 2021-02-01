@@ -1,0 +1,12 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 499</ENAMEX> (ca số  ). Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1952</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc519, phường Xuân Hà, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>.
+	- Bệnh nhân đang ở nhà cùng <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con rể</ENAMEX> và <ENAMEX TYPE="CON_PERSON">cháu ngoại</ENAMEX> tại địa chỉ <ENAMEX TYPE="LOCATION">loc519, phường Xuân Hà, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>.
+	- Bệnh nhân có tiền sử điều trị Tăng huyết áp, Đái tháo đường, Leukemia; thường xuyên vào <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> để điều trị.
++ <ENAMEX TYPE="CON_PERSON">Bệnh nhân 498 (ct1775)</ENAMEX> thăm thường trực từ 7h -18h hàng ngày và cho ăn
++ <ENAMEX TYPE="CON_PERSON">Con gái ct1776</ENAMEX>: mang cơm tối từ 17-19h30 hàng ngày 
++ <ENAMEX TYPE="CON_PERSON">Con trai ct1777</ENAMEX> - vào ngủ đêm cùng Bệnh nhân.
+	- Ngày 18/7 đến 23/7/2020 là đợt điều trị gần đây nhất của bệnh nhân tại <ENAMEX TYPE="LOCATION">Khoa Huyết học, bệnh viện Đà Nẵng</ENAMEX>.
+	- Ngày <ENAMEX TYPE="SYM_DATE">27/7/2020</ENAMEX> bệnh nhân xuất hiện triệu chứng sốt nhưng không điều trị gì.
+	- Ngày 28/7/2020 bệnh nhân được bác sĩ bệnh viện Đà Nẵng tư vấn đến điều trị tại <ENAMEX TYPE="LOCATION">bệnh viện Ung Bướu Đà Nẵng</ENAMEX> (được chồng chở bằng xe máy) vì bệnh viện Đà Nẵng hiện đang trong tình trạng cách ly.
+- Ngày 28/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> cho kết quả  (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến khu cách ly của <ENAMEX TYPE="LOCATION">bệnh viện Ung Bướu Đà Nẵng</ENAMEX>.

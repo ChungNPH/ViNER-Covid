@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 575</ENAMEX> (ca số  ). Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1938</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc467- Thanh Bình-Hải Châu-Đà Nẵng</ENAMEX>
+- 09h00 ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="CON_DATE">09/7/2020</ENAMEX></ENAMEX> bệnh nhân chóng mặt, nôn mửa được <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX> đưa đi khám tại khoa cấp cứu tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>, sau đó bệnh nhân được chuyển vào <ENAMEX TYPE="LOCATION">khoa Nội tổng hợp</ENAMEX> điều trị đến ngày 21/7/2020 thì được cho xuất viện.
+- 17h00 ngày 22/7/2020 bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">khoa cấp cứu, bệnh viện Đà Nẵng</ENAMEX>. Đến 21h30 cùng ngày bệnh nhân được chuyển vào <ENAMEX TYPE="LOCATION">khoa y học nhiệt đới, bệnh viện Đà Nẵng</ENAMEX>.
+- 06h00 ngày 23/7/2020 bệnh nhân được chuyển vào <ENAMEX TYPE="LOCATION">khoa nội thần kinh</ENAMEX> đến nay.
+-Trong quá trình chăm sóc bệnh nhân thì có 4 người con và 1 cháu ngoại có tiếp xúc với bệnh nhân là: <ENAMEX TYPE="CON_PERSON">ct1598(con)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">ct1599 (con)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">ct1600 (con)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">ct1601 (con)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">ct1602 (cháu ngoại)</ENAMEX>.
+- Ngày 29/7/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng xét nghiệm vi rút SARS-CoV-2. Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX></ENAMEX> bệnh nhân được được thông báo kết quả (+) với vi rút SARS-CoV-2 và được chuyển lên điều trị, cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

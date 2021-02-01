@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 489</ENAMEX> (ca số  ). Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1949</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc525, phường Bình Thuận, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>
+	- Ngày 22/6/2020 bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">khoa Phục hồi chức năng, bệnh viện Đà Nẵng</ENAMEX>.
+	- Ngày <ENAMEX TYPE="CON_DATE">13/7/2020</ENAMEX> bệnh nhân về nhà chỉ tiếp xúc với <ENAMEX TYPE="CON_PERSON">người nhà</ENAMEX> và 1 người hàng xóm: <ENAMEX TYPE="CON_PERSON">ct1782</ENAMEX> làm tại khoa Phục hồi chức năng, bệnh viện Đà Nẵng.
+	- Ngày 14/7/2020 bệnh nhân nhập viện lại tại <ENAMEX TYPE="LOCATION">khoa Phục hồi chức năng, bệnh viện Đà Nẵng</ENAMEX>.
+	- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">29/7/20</ENAMEX></ENAMEX> bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX> và được lấy mẫu xét nghiệm đến ngày <ENAMEX TYPE="POS_DATE">30/7/2020</ENAMEX> bệnh nhân có kết quả (+) với vi rút SARS-CoV-2.

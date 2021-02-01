@@ -1,0 +1,17 @@
+    • Bệnh nhân:  <ENAMEX TYPE="NAME">BN 568</ENAMEX> sinh năm <ENAMEX TYPE="AGE">1994</ENAMEX>, <ENAMEX TYPE="GENDER">nữ</ENAMEX>, quốc tịch Việt Nam, nghề nghiệp: nhân viên phục vụ nhà hàng. Điện thoại: 0389182580
+    • Địa chỉ nhà trọ tại TP.HCM: <ENAMEX TYPE="ADDRESS">loc497, phường 3, Quận 8</ENAMEX>.
+    • Địa chỉ nơi làm việc tại TPHCM: <ENAMEX TYPE="LOCATION">nhà hàng Lá Phong, số 9 Trần Cao Vân, phường Đa Kao, Quận 1, TP.HCM.</ENAMEX>
+    • Lúc 20h10-21h ngày <ENAMEX TYPE="CON_DATE">18/7</ENAMEX>, BN bay ra <ENAMEX TYPE="LOCATION">Đà Nẵng</ENAMEX> trên chuyến bay số hiệu VN7116, số ghế 34A, Sau khi đến Đà Nẵng, BN được <ENAMEX TYPE="CON_PERSON">em gái</ENAMEX> chở bằng xe máy đến <ENAMEX TYPE="LOCATION">khoa Ngoại thần kinh của BVĐK Đà Nẵng</ENAMEX>, Trong suốt thời gian ở Đà Nẵng, BN đều ở lại BV cùng <ENAMEX TYPE="CON_PERSON">em gái</ENAMEX> để chăm sóc <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> bị thoát vị đĩa đệm (nằm viện từ ngày 14/7).
+    • Sáng ngày 19/7, BN đi mua cháo trước <ENAMEX TYPE="LOCATION">cổng BV (đường Hải Phòng)</ENAMEX>. Trưa 12h, BN mua cơm tại <ENAMEX TYPE="LOCATION">chợ Tam Giác Hải Phòng</ENAMEX>. Tối cùng ngày, BN mua Mì Quảng tại <ENAMEX TYPE="LOCATION">106 Nguyễn Thị Định</ENAMEX> và mua cháo vịt <ENAMEX TYPE="LOCATION">trước Trường THCS Lê Độ</ENAMEX>. Sau đó BN quay lại BV.
+    • Sáng ngày 21/7, BN đi ăn bún mắm trên <ENAMEX TYPE="LOCATION">đường Trần Kế Xương</ENAMEX>. Lúc 17g, BN đi <ENAMEX TYPE="LOCATION">chợ Cồn</ENAMEX>. Lúc 21g, BN đi mua nem chua đá và ngồi ăn tại <ENAMEX TYPE="LOCATION">đuôi cầu Rồng</ENAMEX>.
+    • Lúc 7h50-9h ngày <ENAMEX TYPE="CON_DATE">22/7</ENAMEX>, BN bay về <ENAMEX TYPE="LOCATION">TPHCM</ENAMEX> trên chuyến bay VJ647, số ghế 32F, Đi về nhà trọ bằng xe máy do <ENAMEX TYPE="CON_PERSON">bạn trai</ENAMEX> chở. BN có đeo khẩu trang.
+    • Ngày 23 – 25/7, BN đi làm tại <ENAMEX TYPE="LOCATION">nhà hàng Lá Phong</ENAMEX>. Tiếp xúc với 30 nhân viên. Có đặt đồ ăn qua Baemin. Lịch làm việc của BN:
+    • Ngày 23/7:  làm việc từ 9h30 đến 14 giờ, nghỉ trưa tại <ENAMEX TYPE="LOCATION">nhà hàng</ENAMEX>, chiều làm từ 17 giờ đến 22 giờ.  
+    • Ngày 24/7:  làm việc từ 9h30 đến 14 giờ, nghỉ trưa tại <ENAMEX TYPE="LOCATION">nhà hàng</ENAMEX>, chiều làm từ 17 giờ đến 22 giờ. 
+    • Ngày 25/7:  làm việc từ 9h30 đến 14 giờ, nghỉ trưa tại <ENAMEX TYPE="LOCATION">nhà hàng</ENAMEX>, chiều làm từ 17 giờ đến 22 giờ.
+    • Từ 9h30 đến 14 giờ ngày <ENAMEX TYPE="ISO_DATE">26/7</ENAMEX>, BN đi làm tại <ENAMEX TYPE="LOCATION">nhà hàng</ENAMEX>, Chiều thì tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, Tối đặt đồ ăn qua Baemin.
+    • Ngày 27/7, sáng BN đặt đồ ăn qua Baemin. Lúc 18h, BN đi <ENAMEX TYPE="LOCATION">chợ Hòa Bình Quận 5</ENAMEX> mua rau, cá, thịt heo. (BN có mang khẩu trang khi đi chợ)
+    • Ngày 28-29/7, BN ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tự nấu cơm ăn, không ra ngoài.
+    • Ngày <ENAMEX TYPE="HOS_DATE">30/7</ENAMEX>: Lúc 8h45, BN tự đi xe máy đến <ENAMEX TYPE="LOCATION">Trạm y tế phường 3</ENAMEX>, Lúc 9h10, BN được đưa lên <ENAMEX TYPE="LOCATION">khu cách ly tập trung của Quận 8</ENAMEX> và được lấy mẫu lúc 16h.
+    • Ngày <ENAMEX TYPE="POS_DATE">31/7</ENAMEX>, BN có kết quả xét nghiệm dương tính với SARS-CoV-2.
+    • Chuyển BN đến <ENAMEX TYPE="LOCATION">BV Bệnh Nhiệt Đới</ENAMEX> để cách ly điều trị.

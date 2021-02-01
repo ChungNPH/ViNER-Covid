@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 500</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1979</ENAMEX>.
+- Địa chỉ:  <ENAMEX TYPE="ADDRESS">thôn Gò Hà, xã Hòa Khương, huyện Hòa Vang, Tp. Đà Nẵng</ENAMEX>.
+- Hằng ngày bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ chiều Hòa Khương tại xã Hòa Khương, huyện Hòa Vang, Tp. Đà Nẵng</ENAMEX>. 
+	- Ngày 17, 18 và 19/7/2020 bệnh nhân đến <ENAMEX TYPE="LOCATION">trường THCS Trần Quốc Tuấn, xã Hòa Phong, huyện Hòa Vang, TP. Đà Nẵng</ENAMEX> coi thi tuyển sinh lớp 10.
+	- Ngày <ENAMEX TYPE="CON_DATE">24/7/2020</ENAMEX>: bệnh nhân đến chăm <ENAMEX TYPE="CON_PERSON">mẹ (ca bệnh số 431)</ENAMEX> tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> (1 ngày).
+- Chiều 26/7/2020: lúc 18 giờ bệnh nhân đi đám đầy tháng <ENAMEX TYPE="LOCATION">nhà hàng xóm</ENAMEX> (khoảng 5 mâm cổ). 
+- Ngày 26/7/2020: bệnh nhân đi mua thuốc tại hiệu thuốc <ENAMEX TYPE="LOCATION">quầy thuốc cô Thái trước Trạm Y tế xã Hòa Khương, huyện Hòa Vang, Tp. Đà Nẵng</ENAMEX>. 
+- Ngày 26/7/2020 bệnh nhân đến <ENAMEX TYPE="LOCATION">trường THCS Đỗ Thúc Tịnh</ENAMEX> làm việc có tiếp xúc nhiều người.
+- Tối ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">27/7/2020</ENAMEX></ENAMEX> lúc 22 giờ bệnh nhân được đưa đi cách ly tập trung tại <ENAMEX TYPE="LOCATION">Khu Ký túc xá phía tây thành phố</ENAMEX>.   

@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 522</ENAMEX>	Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1953</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Khu Lưu Minh, Khu phố 5, TT Hà Lam, Thăng Bình, QNam</ENAMEX>
+- Nhập viện ngày 09/07/2020 tại <ENAMEX TYPE="LOCATION">phòng 614, tầng 6, khoa Thận nội tiết, BN Đà Nẵng</ENAMEX>;
+- Ngày 22/07/2020, BN xuất viện trở về gia đình tại <ENAMEX TYPE="LOCATION">Khu phố 5, TT Hà Lam, Thăng Bình Quảng Nam</ENAMEX>, ở nhà không đi đâu;
+- Ngày 09/07/2020: Nhập viện <ENAMEX TYPE="LOCATION">BV ĐKĐN, khoa Thận nội tiết</ENAMEX>
+- Ngày 22/07/2020: Xuất viện, về ở tại <ENAMEX TYPE="LOCATION">Khu phố 5, TT Hà Lam, Thăng Bình Quảng Nam</ENAMEX>
+- Ngày 09/07/2020: Nhập viện <ENAMEX TYPE="LOCATION">BV ĐN, khoa Thận nội tiết</ENAMEX>
+- Ngày 22/07/2020: Xuất viện, về ở tại <ENAMEX TYPE="LOCATION">Khu phố 5, TT Hà Lam, Thăng Bình Quảng Nam</ENAMEX>
+Tình trạng bệnh nhân hiện tại: Đang ở tại nhà tại <ENAMEX TYPE="LOCATION">loc466</ENAMEX>. BN mệt, sức khỏe yếu do mắc các bệnh nền.

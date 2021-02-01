@@ -1,0 +1,19 @@
+Tên: <ENAMEX TYPE="NAME">BN 893</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc536, phường Hòa Khê, quận Thanh Khê, TP Đà Nẵng</ENAMEX>
+'- Từ ngày <ENAMEX TYPE="CON_DATE">26/7 đến 04/8/2020</ENAMEX>, bệnh nhân tự cách ly ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và tiếp xúc với những người trong <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX>, Bao gồm: <ENAMEX TYPE="CON_PERSON">bệnh nhân số 892</ENAMEX>, <ENAMEX TYPE="CON_PERSON">bệnh nhân số 894</ENAMEX>, <ENAMEX TYPE="CON_PERSON">bệnh nhân số 895</ENAMEX> và <ENAMEX TYPE="CON_PERSON">bệnh nhân số 896</ENAMEX>.
+- Ngày 05/8/2020, bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ Thanh Khê, quận Thanh Khê</ENAMEX> (không nhớ đối tượng tiếp xúc).
+- Từ ngày <ENAMEX TYPE="CON_DATE">06/8 đến 08/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và tiếp xúc với những người trong <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">09/8/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> đến mua thuốc tại <ENAMEX TYPE="LOCATION">tiệm thuốc Phước Thiện, đối diện siêu thị Big C Đà Nẵng (đường Hùng Vương, quận Thanh Khê)</ENAMEX> sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Ngày 10/8/2020, bệnh nhân cùng con gái P.N.D.Q đến chợ <ENAMEX TYPE="LOCATION">Thanh Khê</ENAMEX> mua cam (không nhớ rõ tiệm) sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+ - Ngày 11/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng với vi rút SARS-CoV-2 tại <ENAMEX TYPE="LOCATION">trường tiểu học Lê Quang Sung, quận Thanh Khê</ENAMEX> theo kế hoạch xét nghiệm diện rộng tại các cụm dân cư, nhóm đối tượng và có kết quả mẫu gộp nghi ngờ với vi rút SARS-CoV-2.
+ - Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">12/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng tại <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Thanh Khê</ENAMEX> xét nghiệm để khẳng định và cho kết quả (+) với vi rút SARS-CoV-2.
+ Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>
+Nguồn lây: - <ENAMEX TYPE="CON_PERSON">BN892 (chồng)</ENAMEX>
+- <ENAMEX TYPE="CON_PERSON">BN894 (con)</ENAMEX>
+- <ENAMEX TYPE="CON_PERSON">BN895 (con)</ENAMEX>
+- <ENAMEX TYPE="CON_PERSON">BN896 (người thân chung nhà)</ENAMEX>
+Lây cho người khác: - <ENAMEX TYPE="CON_PERSON">BN894 (con)</ENAMEX>
+- <ENAMEX TYPE="CON_PERSON">BN895 (con)</ENAMEX>
+- <ENAMEX TYPE="CON_PERSON">BN896 (người thân ở chung nhà)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1972</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

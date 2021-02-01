@@ -1,0 +1,15 @@
+Tên: <ENAMEX TYPE="NAME">BN 890</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Hà Tông Quyên, phường Khuê Trung, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>
+Thông tin dịch tễ: - Ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">cơ quan (trên địa bàn phường Hòa Thuận Tây)</ENAMEX> làm việc và tiếp xúc với 3 người đến nộp quyết toán gồm: <ENAMEX TYPE="CON_PERSON">N.V.D</ENAMEX>, <ENAMEX TYPE="CON_PERSON">N.Q.K</ENAMEX>, <ENAMEX TYPE="CON_PERSON">L.B.H</ENAMEX>, sau đó bệnh nhân ở lại cơ quan, không về nhà.
+- Từ ngày <ENAMEX TYPE="CON_DATE">26/7/2020 đến ngày 07/8/2020</ENAMEX>, bệnh nhân tiếp tục ở lại <ENAMEX TYPE="LOCATION">cơ quan</ENAMEX> làm việc, hằng ngày bệnh nhân có tiếp xúc với 3 người trong phòng làm việc là bệnh nhân số <ENAMEX TYPE="CON_PERSON">878</ENAMEX>, <ENAMEX TYPE="CON_PERSON">879</ENAMEX> và <ENAMEX TYPE="CON_PERSON">880</ENAMEX>,Đến tối, bệnh nhân ăn tối cùng 6 người gồm: <ENAMEX TYPE="CON_PERSON">B.X.Q</ENAMEX>, <ENAMEX TYPE="CON_PERSON">V.K.C</ENAMEX> và các <ENAMEX TYPE="CON_PERSON">bệnh nhân số 877</ENAMEX>, <ENAMEX TYPE="CON_PERSON">878</ENAMEX>, <ENAMEX TYPE="CON_PERSON">879</ENAMEX>, <ENAMEX TYPE="CON_PERSON">880</ENAMEX>.
+- Các ngày: 08, 09, 10/8/2020 (03 ngày trước khi được lấy mẫu xét nghiệm), bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">cơ quan</ENAMEX>, không đi đến nơi khác.
+- Ngày 11/8/2020, bệnh được lấy mẫu dịch hầu họng. Khoảng 14 giờ 30 ngày <ENAMEX TYPE="SYM_DATE">12/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng mệt mỏi và sốt nhẹ.
+- Tối ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">12/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
+Nguồn lây: <ENAMEX TYPE="CON_PERSON">BN877</ENAMEX>,
+<ENAMEX TYPE="CON_PERSON">BN878</ENAMEX>,
+<ENAMEX TYPE="CON_PERSON">BN879</ENAMEX>,
+<ENAMEX TYPE="CON_PERSON">BN880</ENAMEX>
+Lây cho người khác: <ENAMEX TYPE="CON_PERSON">BN916</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1973</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

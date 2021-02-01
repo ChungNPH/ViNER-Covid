@@ -1,0 +1,14 @@
+Tên: <ENAMEX TYPE="NAME">BN 879</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS"> loc529, phường Hoà Thuận Tây, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>
+Thông tin dịch tễ: - Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại loc529, phường Hoà Thuận Tây, quận Hải Châu, TP Đà Nẵng.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">26/7/2020 đến ngày 08/8/2020</ENAMEX>, bệnh nhân đi làm và ở lại <ENAMEX TYPE="LOCATION">cơ quan (trên địa bàn phường Hòa Thuận Tây)</ENAMEX> và có tiếp xúc với các đồng nghiệp là các <ENAMEX TYPE="CON_PERSON">bệnh nhân số 877</ENAMEX>, <ENAMEX TYPE="CON_PERSON">878</ENAMEX>, <ENAMEX TYPE="CON_PERSON">880</ENAMEX> (được Bộ Y tế công bố ngày 12/8/2020), 890 (được Bộ Y tế công bố ngày 13/8/2020), không về nhà.
+- Ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">09/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân xuất hiện triệu chứng mệt mỏi toàn thân, sốt nhẹ, nhức đầu nên được đưa đi cách ly và được lấy mẫu xét nghiệm dịch hầu họng vào ngày 09/8/ và 11/8/2020, có kết quả nghi ngờ với vi rút SARS-CoV-2.
+- Sáng ngày <ENAMEX TYPE="POS_DATE">12/8/2020</ENAMEX>, Trung tâm Kiểm soát bệnh tật TP Đà Nẵng nhận được mẫu dịch hầu họng của bệnh nhân để xét nghiệm khẳng định và có kết quả (+) với vi rút SARS-CoV-2.
+ - Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
+Nguồn lây: <ENAMEX TYPE="CON_PERSON">BN877</ENAMEX>,
+<ENAMEX TYPE="CON_PERSON">BN878</ENAMEX>,
+<ENAMEX TYPE="CON_PERSON">BN890</ENAMEX>,
+<ENAMEX TYPE="CON_PERSON">BN880</ENAMEX>
+Lây cho người khác: <ENAMEX TYPE="CON_PERSON">BN916</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1987</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

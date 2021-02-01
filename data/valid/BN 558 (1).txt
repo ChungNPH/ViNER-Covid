@@ -1,0 +1,11 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 558</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">72</ENAMEX> tuổi.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Tổ 5, Phú Sơn 2, Hòa Khương, Hòa Vang, Đà Nẵng</ENAMEX>
+- Bệnh nhân đang sống tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX> cùng <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX> và <ENAMEX TYPE="CON_PERSON">cháu</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và tiếp xúc với những người trong gia đình 
+- Ngày <ENAMEX TYPE="CON_DATE">15/7/2020</ENAMEX>: Bệnh nhân được <ENAMEX TYPE="CON_PERSON">cháu (tên ct1555)</ENAMEX> đưa đến khám đau đầu tại <ENAMEX TYPE="LOCATION">Bệnh viện Tâm thần Đà Nẵng</ENAMEX>.
+- Ngày 17/7/2020: Bệnh nhân đi khám mắt tại <ENAMEX TYPE="LOCATION">Bệnh viện Mắt Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">19 đến 27/7/2020</ENAMEX>: Bệnh nhân đi taxi cùng <ENAMEX TYPE="CON_PERSON">cháu (tên Hiền)</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX> đến khám tại <ENAMEX TYPE="LOCATION">Khoa cấp cứu - Bệnh viện Đà Nẵng</ENAMEX>, được chẩn đoán Zona và nhập viện điều trị nội trú tại tầng 7 tại <ENAMEX TYPE="LOCATION">Khoa Nội Thần kinh - Bệnh viện Đà Nẵng</ENAMEX> và được khám bệnh tại <ENAMEX TYPE="LOCATION">Khoa Mắt – Bệnh viện Đà Nẵng</ENAMEX>. 
+- Từ ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">27/7/2020</ENAMEX></ENAMEX> - 31/7/2020: bệnh nhân chuyển đến Khu cách ly Bệnh viện 199 – Bộ Công an, và được cháu (tên Hải) chăm sóc tại đây.
+- Bệnh nhân được lấy mẫu xét nghiệm SARS – CoV – 2 ngày 28/7/2020 và có kết quả (+) ngày <ENAMEX TYPE="POS_DATE">31/7/2020</ENAMEX>.
+- Hiện tại, bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">Khu cách ly Bệnh viện 199 – Bộ Công an</ENAMEX>. Tình trạng sức khỏe: bệnh nhân hết sốt, còn ho nhẹ.
+1. Ngày 28/7/2020, <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> tiến hành giám sát và lấy mẫu xét nghiệm. Kết quả xét nghiệm ngày <ENAMEX TYPE="POS_DATE">31/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

@@ -1,0 +1,12 @@
+Tên: <ENAMEX TYPE="NAME">BN 876</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">huyện Duy Xuyên,tỉnh Quảng Nam</ENAMEX>
+- Ngày <ENAMEX TYPE="CON_DATE">19/7/2020</ENAMEX>, bệnh nhân cùng với 2 <ENAMEX TYPE="CON_PERSON">con N.V.T</ENAMEX>, <ENAMEX TYPE="CON_PERSON">N.T.C</ENAMEX> đến khám và bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">khoa Nội thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">19/7 đến 23/7/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="CON_PERSON">con N.V.T</ENAMEX> đến bệnh viện chăm sóc, bệnh nhân chỉ ăn uống và sinh hoạt trong <ENAMEX TYPE="LOCATION">bệnh viện</ENAMEX>, không đi đến nơi khác.
+- Từ ngày <ENAMEX TYPE="CON_DATE">24/7 đến 26/7/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="CON_PERSON">con N.T.C</ENAMEX> và <ENAMEX TYPE="CON_PERSON">N.T.H</ENAMEX> đến bệnh viện chăm sóc.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">26/7/2020</ENAMEX></ENAMEX>, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">bệnh viện 199 - Bộ Công an</ENAMEX>. Tại đây bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng và cho kết quả (-) với vi rút SARS-CoV-2.
+- Từ ngày 27/7 đến 04/8/2020, bệnh nhân tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">bệnh viện</ENAMEX>, không tiếp xúc với ai kể cả những người trong gia đình.
+- Từ ngày 05/8 đến 11/8/2020, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">khu cách ly tập trung</ENAMEX>.
+- Ngày <ENAMEX TYPE="POS_DATE">12/8/2020</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng và cho kết quả (+) với vi rút SARS-CoV-2.
+- Hiện tại, bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">bệnh viện Phổi Đà Nẵng</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1947</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

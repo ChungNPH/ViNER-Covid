@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 491</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1955</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Bình Định, huyện Thăng Bình, tỉnh Quảng Nam</ENAMEX>
+- Bệnh nhân ở nhà cùng <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con dâu</ENAMEX>, <ENAMEX TYPE="CON_PERSON">2 cháu nội</ENAMEX> tại địa chỉ <ENAMEX TYPE="LOCATION">Bình Định, huyện Thăng Bình, tỉnh Quảng Nam</ENAMEX>.
+- Bệnh nhân bị tổn thương cột sống cổ đã phẫu thuật ngày 06/4/2020, và đang điều trị tại <ENAMEX TYPE="LOCATION">khoa Phục hồi chức năng, bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày 02/7/2020 bệnh nhân nhập viện vào <ENAMEX TYPE="LOCATION">khoa Ngoại thần kinh, bệnh viện Đà Nẵng</ENAMEX>, đến ngày 07/7/2020 bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khoa Phục hồi chức năng, bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày 02/7/2020 bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>, không đi đến nơi nào khác.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/7/2020</ENAMEX></ENAMEX> bệnh nhân được đưa đến <ENAMEX TYPE="LOCATION">khu cách ly quân khu 5</ENAMEX>, ngày 29/7/2020 được lấy mẫu xét nghiệm dịch hầu họng,
+ ngày <ENAMEX TYPE="POS_DATE">30/7/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của Trung tâm Y tế huyện Hòa Vang</ENAMEX>.

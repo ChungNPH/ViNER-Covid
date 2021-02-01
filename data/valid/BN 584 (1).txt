@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 584</ENAMEX> (ca số          ). Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1997</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc512, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>.
+- Người nhà bệnh nhân: <ENAMEX TYPE="CON_PERSON">Chị gái ct1748 SĐT: 0935477391</ENAMEX>, <ENAMEX TYPE="CON_PERSON">Anh rể ct1749</ENAMEX>.
+- Ngày 22/7/2020, bệnh nhân ra trực, bệnh nhân di chuyển từ <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> về nhà và không tiếp xúc với ai ngoài gia đình.
+- Ngày 23-24/7/2020, Bệnh nhân làm hành chính tại <ENAMEX TYPE="LOCATION">khoa Nội thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX> rồi về nhà.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">25/7/2020</ENAMEX></ENAMEX>, Bệnh nhân đi trực lại tại <ENAMEX TYPE="LOCATION">khoa Nội thận - Nội tiết</ENAMEX> và được cách ly tại khoa đến 30/7/2020.
+- Ngày <ENAMEX TYPE="SYM_DATE">31/7/2020</ENAMEX>, Bệnh nhân có sốt nhẹ nên được lấy mẫu xét nghiệm SARS-Cov-2 và tiếp tục được cách ly tại khoa.
+- Ngày <ENAMEX TYPE="POS_DATE">01/8/2020</ENAMEX>, Bệnh nhân được thông báo kết quả (+) với vi rút SARS-CoV-2 và được đưa đi cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hoà Vang</ENAMEX> đến nay.

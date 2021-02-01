@@ -1,0 +1,16 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 613</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1991</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc455, phường Hòa Thọ Đông, quận Cẩm Lệ, thành phố Đà Nẵng</ENAMEX>.
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CON_PERSON">cha mẹ chồng</ENAMEX>, <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> và <ENAMEX TYPE="CON_PERSON">01 con gái</ENAMEX> tại địa chỉ số loc455, phường Hòa Thọ Đông, quận Cẩm Lệ, thành phố Đà Nẵng.
+- Từ ngày 20/7/2020 đến ngày 30/7/2020 bệnh nhân đi làm tại <ENAMEX TYPE="LOCATION">Công ty CP liên kết con người số 05 Lê Văn Long, phường Thanh Bình, quận Hải Châu, TP Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">21/7/2020</ENAMEX> bệnh nhân có đi ăn đám giỗ tại <ENAMEX TYPE="LOCATION">số 03 Lê Văn Long, phường Thanh Bình, quận Hải Châu, TP Đà Nẵng</ENAMEX>, Tại đây bệnh nhân ngồi chung bàn với <ENAMEX TYPE="CON_PERSON">bệnh nhân số 456</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">23/7/2020</ENAMEX> bệnh nhân có tổ chức ăn uống tại nhà với 02 gia đình khác, Gia đình anh Huỳnh Văn Phú: <ENAMEX TYPE="CON_PERSON">ct1570</ENAMEX>, vợ <ENAMEX TYPE="CON_PERSON">ct1571</ENAMEX>, 02 con: <ENAMEX TYPE="CON_PERSON">ct1572</ENAMEX>, <ENAMEX TYPE="CON_PERSON">ct1573</ENAMEX>, Gia đình anh Phạm Tiến Ba: <ENAMEX TYPE="CON_PERSON">ct1574</ENAMEX>, vợ <ENAMEX TYPE="CON_PERSON">ct1575</ENAMEX>, 02 con: <ENAMEX TYPE="CON_PERSON">ct1576</ENAMEX>, <ENAMEX TYPE="CON_PERSON">ct1577</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">24/7/2020</ENAMEX> bệnh nhân có đi ăn tại <ENAMEX TYPE="LOCATION">nhà hàng hải sản Joki số 271 Chính Hữu, phường Phước Mỹ, quận Sơn Trà, TP Đà Nẵng</ENAMEX>, Bệnh nhân đi cùng với chị <ENAMEX TYPE="CON_PERSON">ct1578</ENAMEX> và 2 vợ chồng anh <ENAMEX TYPE="CON_PERSON">ct1579</ENAMEX>, <ENAMEX TYPE="CON_PERSON">ct1580</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX> bệnh nhân có về nhà mẹ ruột tại đại chỉ <ENAMEX TYPE="LOCATION">số K183/55/24 Tô Hiệu, phường Hòa Minh, quận Liên Chiểu, TP Đà Nẵng</ENAMEX>. Tại đây bệnh nhân có tiếp xúc với <ENAMEX TYPE="CON_PERSON">cha mẹ</ENAMEX>, <ENAMEX TYPE="CON_PERSON">em trai</ENAMEX> và <ENAMEX TYPE="CON_PERSON">cháu ruôt</ENAMEX>.
+- Ngày <ENAMEX TYPE="SYM_DATE">27/7/2020</ENAMEX> bệnh nhân có triệu chứng sốt, ho, hơi rát họng, ho có đàm nhưng không đi khám cơ sở y tế.
+- Ngày 29/7/2020 bệnh nhân có đi mua đồ tại <ENAMEX TYPE="LOCATION">chợ Đống Đa, đường Lương Ngọc Quyến, phường Thuận Phước, quận hải Châu, TP Đà Nẵng</ENAMEX>.
++Mua đồ tại <ENAMEX TYPE="LOCATION">chợ Cẩm Lệ, đường Nguyễn Văn Huyên, phường Khuê Trung, quận Cẩm Lệ, TP Đà Nẵng</ENAMEX>.
++ Mua thuốc tại tiệm thuốc tây trên <ENAMEX TYPE="LOCATION">đường Hải Hồ, phường Thanh Bình, quận Hải Châu, TP Đà Nẵng</ENAMEX> (không nhớ tên hiệu thuốc).
++ Mua đồ tại <ENAMEX TYPE="LOCATION">siêu thị Vinmart số 41 Hải Hồ, phường Thanh Bình, quận Hải Châu, TP Đà Nẵng.</ENAMEX>
+- Chiều ngày 30/7/2020 bệnh nhân đến <ENAMEX TYPE="LOCATION">trung tâm y tế quận Cẩm Lệ</ENAMEX>, khai báo y tế và được lấy mẫu xét nghiệm dịch hầu họng.
+- Từ ngày <ENAMEX TYPE="ISO_DATE">30/7/2020</ENAMEX> đến nay bệnh nhân tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không tiếp xúc với ai.

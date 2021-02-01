@@ -1,0 +1,14 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 596</ENAMEX>.           	       	Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1997</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">tổ 4, thôn Vĩnh Xuân, xã Bình Trung, Thăng Bình, Quảng Nam</ENAMEX>.
+BN hằng ngày làm việc tại 1 phòng khám tư trên <ENAMEX TYPE="LOCATION">đường Đống Đa, phường Thạch Thang, quận Hải Châu, Tp Đà Nẵng</ENAMEX>;
+Ở trọ tại <ENAMEX TYPE="LOCATION">loc479, phường Vĩnh Trung, quận Thanh Khê, Đà Nẵng</ENAMEX>;
+-   Các ngày 14/07; 15/07; 16/07; 17/07; 19/07, BN có vào <ENAMEX TYPE="LOCATION">khoa Ngoại chấn thương thần kinh, Bệnh viện C Đà Nẵng</ENAMEX> thăm người bệnh;
+-   Tối ngày 21/07, BN về quê tại <ENAMEX TYPE="LOCATION">tổ 4, thôn Vĩnh Xuân, xã Bình Trung, Thăng Bình, Quảng Nam</ENAMEX>;
+-   Sáng 22/07, BN đi ăn đám giỗ tại nhà ông ngoại ở <ENAMEX TYPE="LOCATION">tổ 1, Kế Xuyên 1, Bình Trung, Thăng Bình, Quảng Nam</ENAMEX>;
+-   Chiều ngày 22/07, BN có đi biển tại <ENAMEX TYPE="LOCATION">xã Bình Nam, Thăng Bình</ENAMEX>;
+-   Sáng ngày 23/07, BN có đi <ENAMEX TYPE="LOCATION">chợ Kế Xuyên, Bình Trung, BN</ENAMEX> có ghé <ENAMEX TYPE="LOCATION">shop quần áo Trang tại chợ</ENAMEX>, BN có đeo khẩu trang khi đi chợ;
+-   Chiều 26/07, BN trở về quê tại <ENAMEX TYPE="LOCATION">tổ 4, thôn Vĩnh Xuân, xã Bình Trung, Thăng Bình, Quảng Nam</ENAMEX>, BN tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>;
+-   Sáng 28/07, BN tới <ENAMEX TYPE="LOCATION">TYT xã Bình Trung</ENAMEX> để khai báo y tế, sau đó có vào <ENAMEX TYPE="LOCATION">Điện máy xanh xã Bình Trung</ENAMEX> để nộp tiền điện, trong thời gian này BN có đeo 2 khẩu trang. Sau đó về nhà và tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>;
+-   Tối <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="ISO_DATE">29/07</ENAMEX></ENAMEX>, BN có sốt trên 37,50, vào khám tại <ENAMEX TYPE="LOCATION">BV ĐK tỉnh Quảng Nam</ENAMEX>, tình trạng sức khỏe ổn định, BN về lại nhà, tự cách ly theo dõi sức khỏe;
+- Chiều <ENAMEX TYPE="HOS_DATE">30/07</ENAMEX>, BN có triệu chứng sốt cao trên 380, BN vào lại <ENAMEX TYPE="LOCATION">BV ĐK tỉnh Quảng Nam</ENAMEX>, nhập viện và được lấy mẫu xét nghiệm ngày 31/07.

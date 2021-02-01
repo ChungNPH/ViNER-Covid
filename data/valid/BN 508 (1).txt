@@ -1,0 +1,7 @@
+Bệnh nhân:  <ENAMEX TYPE="NAME">BN 508</ENAMEX> 
+- Năm sinh: <ENAMEX TYPE="AGE">1989</ENAMEX>, giới tính: <ENAMEX TYPE="GENDER">nam</ENAMEX>, quốc tịch Việt Nam
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc526</ENAMEX>
+Bệnh nhân sống với <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con nhỏ</ENAMEX>. Bệnh nhân nghỉ làm 1 tháng nay để chăm <ENAMEX TYPE="CON_PERSON">bố</ENAMEX>.
+Bệnh nhân là người nhà chăm sóc <ENAMEX TYPE="CON_PERSON">bệnh nhân 437</ENAMEX> tại <ENAMEX TYPE="LOCATION">phòng Hồi sức tích cực và khoa Nội thận - Nội tiết bệnh viện Đà Nẵng</ENAMEX>.
+Từ đầu tháng 7, sau khi bệnh nhân 437 nhập viện để chạy thận hang ngày; BN Hoan nghỉ làm để chăm <ENAMEX TYPE="CON_PERSON">bố</ENAMEX> cùng <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> (Mẹ bệnh nhân ở lại bệnh viện chăm bố thường trực) và <ENAMEX TYPE="CON_PERSON">chị gái</ENAMEX>. Hàng ngày bệnh nhân mang thức ăn vào theo khung giờ 11h30-12h trưa và 23h-24h. Đồ ăn mang vào hang ngày do <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CON_PERSON">chị gái</ENAMEX> nấu; đồng thời <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CON_PERSON">chị gái</ENAMEX> đi chợ chứ bệnh nhân không đi đâu khác.
+Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/07/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được được lấy mẫu xét nghiệm SARS-CoV-2 và có kết quả xét nghiệm dương tính.

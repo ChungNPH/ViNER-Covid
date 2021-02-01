@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 507</ENAMEX>  
+- Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1963</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc470, An hải Tây, Sơn Trà</ENAMEX>
+Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">vợ là chị Nguyễn Thị Như Hồng</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con</ENAMEX>. Bệnh nhân điều trị suy thận tại <ENAMEX TYPE="LOCATION">Khoa Nội thận - Nội tiết, bệnh viện Đa Khoa Đà Nẵng</ENAMEX> từ 14/5 đến hiện tại. 
+Từ ngày 1/7/ 2020 đến 6/7/2020: Bệnh nhân điều trị tại <ENAMEX TYPE="LOCATION">Khoa nội thận - nội tiết BVĐK Đà Nẵng (phòng 603 - phòng bảo hiểm)</ENAMEX>. Trong thời gian nằm viện, hàng ngày, bệnh nhân ăn hàng quán ngoài <ENAMEX TYPE="LOCATION">cổng bệnh viện (phố Hải Phòng)</ENAMEX> và mua đá trong <ENAMEX TYPE="LOCATION">căn tin bệnh viện</ENAMEX>.
+Ngày 9/7/2020, 13/7/2020, 16/7/2020, 20/7/2020, 23/7/2020 bệnh nhân đến <ENAMEX TYPE="LOCATION">bệnh viện đa khoa Đà Nẵng, tầng 2 khoa nội thận nội tiết</ENAMEX> để chạy thận.
+-Ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX> BN đi đám cưới <ENAMEX TYPE="LOCATION">nhà hàng Happy Palace ở khu phố mới, phường Vĩnh Điện, Điện Bàn, Quảng Nam</ENAMEX> bằng xe riêng, Trong ngày có thăm <ENAMEX TYPE="CON_PERSON">chị ruột</ENAMEX> ở <ENAMEX TYPE="LOCATION">đường Nguyễn Hiền, Sơn Trà, Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">27/7/2020</ENAMEX></ENAMEX> BN được đưa vào <ENAMEX TYPE="LOCATION">khu cách ly tập trung</ENAMEX> và được lấy mẫu ngày 29/7/2020. 

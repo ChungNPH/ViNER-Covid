@@ -1,0 +1,17 @@
+Tên: <ENAMEX TYPE="NAME">BN 915</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">tổ 29, Hòa Thuận Tây, quận Hải Châu, TP Đà Nẵng</ENAMEX>
+'- Từ ngày <ENAMEX TYPE="CON_DATE">22/7 đến 24/7/2020</ENAMEX>, bệnh nhân tham dự <ENAMEX TYPE="LOCATION">Hội nghị</ENAMEX> và có tiếp xúc với <ENAMEX TYPE="CON_PERSON">Bệnh nhân số 800</ENAMEX> (được Bộ Y tế công bố ngày 08/8/2020).
+- Chiều ngày 24/7/2020, bệnh nhân tham dự liên hoan tại <ENAMEX TYPE="LOCATION">quán Hồng Hạc (47 Nguyễn Hữu Thọ, quận Hải Châu)</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX>, bệnh nhân chỉ tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>, bệnh nhân tham gia công tác phòng chống dịch COVID-19 tại <ENAMEX TYPE="LOCATION">tổ 29, phường Hòa Thuận Tây, quận Hải Châu</ENAMEX> cùng với <ENAMEX TYPE="CON_PERSON">H.N.S</ENAMEX> (K574 Trưng Nữ Vương, quận Hải Châu) và <ENAMEX TYPE="CON_PERSON">Đ.T. V</ENAMEX>; và bệnh nhân có vào nhà hộ gia đình tại <ENAMEX TYPE="LOCATION">K6 đường Nguyễn Thành Hãn, quận Hải Châu</ENAMEX>, tiếp xúc với 02 người trong hộ gia đình là <ENAMEX TYPE="CON_PERSON">D.T. T.L</ENAMEX> và <ENAMEX TYPE="CON_PERSON">T.T.B.C</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">27/7 đến 04/8/2020</ENAMEX>, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">05/8/2020</ENAMEX>, <ENAMEX TYPE="CON_PERSON">H.N.S</ENAMEX> đến nhà và tiếp xúc với bệnh nhân.
+- Từ ngày <ENAMEX TYPE="CON_DATE">06/8 đến ngày 08/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">09/8, 10/8, 11/8/2020</ENAMEX> (3 ngày trước khi được lấy mẫu xét nghiệm), bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày 12/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng tại <ENAMEX TYPE="LOCATION">Trạm Y tế phường Hòa Thuận Tây, quận Hải Châu</ENAMEX>.
+- Sáng ngày <ENAMEX TYPE="CON_DATE">13/8/2020</ENAMEX>, bệnh nhân đến mua nhu yếu phẩm tại tiệm tạp hóa <ENAMEX TYPE="CON_PERSON">cô H</ENAMEX> ở <ENAMEX TYPE="LOCATION">đường Trưng Nữ Vương</ENAMEX> (không nhớ rõ địa chỉ).
+- Tối ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">13/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+Nguồn lây: <ENAMEX TYPE="CON_PERSON">BN800</ENAMEX>
+Lây cho người khác: <ENAMEX TYPE="CON_PERSON">BN942 (vợ)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1954</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

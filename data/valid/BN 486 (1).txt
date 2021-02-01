@@ -1,0 +1,7 @@
+Bệnh nhân:  <ENAMEX TYPE="NAME">BN 486</ENAMEX> .
+- Năm sinh: <ENAMEX TYPE="AGE">1956</ENAMEX>.
+, giới tính: <ENAMEX TYPE="GENDER">nam</ENAMEX>.
+Bệnh nhân điều trị tại <ENAMEX TYPE="LOCATION">phòng 605 Khoa Nội tiết-Nội thận bệnh viện Đà Nẵng</ENAMEX>. <ENAMEX TYPE="CON_PERSON">Vợ bệnh nhân (ct1737)</ENAMEX> chăm sóc bệnh nhân một mình từ đầu tháng 6. Bệnh nhân nói chuyện với nhiều người trong phòng, vợ bệnh nhân không nói chuyện với ai. Hiện vợ bệnh nhân đang cách ly tại nhà.
+Từ đầu tháng 6, bệnh nhân bị thương ở chân vào <ENAMEX TYPE="LOCATION">bệnh viện Đa khoa Đà Nẵng</ENAMEX>, hạn chế đi lại. Trong thời gian nằm viện, sáng và trưa hàng ngày, bệnh nhân nhờ người trong cùng phòng mua thức ăn ở căn tin hoặc bên ngoài bệnh viện, tối vợ mang thức ăn. Vì tỉnh táo và đi lại được, người nhà vào thăm rất ít.
+<ENAMEX TYPE="ISO_DATE">23/7/2020</ENAMEX>: Không gặp được người nhà do bệnh viện Đa khoa đóng cửa, hạn chế người nhà vào viện.
+Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE">28/7/2020</ENAMEX></ENAMEX>, bệnh nhân được đưa đi cách ly và lấy mẫu XN dương tính SARS-CoV-2.

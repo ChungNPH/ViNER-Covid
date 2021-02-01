@@ -1,0 +1,6 @@
+- Họ và tên: 	<ENAMEX TYPE="NAME">BN 602</ENAMEX>			Sinh ngày:    /    /<ENAMEX TYPE="AGE">2006</ENAMEX>
+- Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>						Dân tộc: Kinh
+- Địa chỉ tạm trú tại Đắk Lắk: <ENAMEX TYPE="ADDRESS">loc493 – Tân Lập – Tp Buôn Ma Thuột - Đắk Lắk</ENAMEX>.
+Ngày <ENAMEX TYPE="CON_DATE">24/7/2020</ENAMEX>: ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không ra ngoài tại địa chỉ loc494 – Hòa Vang – Đà Nẵng, lúc 19 giờ bệnh nhân cùng gia đình (<ENAMEX TYPE="CON_PERSON">Ông bà ngoại</ENAMEX>, <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> và <ENAMEX TYPE="CON_PERSON">em</ENAMEX>) đi xe Mai Linh không nhớ biển về Đắk Lắk, đeo khẩu trang suốt chuyến đi.
+ Từ ngày 25/07/2020 đến n gày 31/07/2020: ở tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX> địa chỉ loc495 phường Tân Lập Thành Phố Buôn Ma Thuột không đi ra ngoài
+Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">01/08/2020</ENAMEX></ENAMEX></ENAMEX>: Bệnh nhân và 5 người cùng nhà tại tp Buôn Ma Thuột được đưa vào <ENAMEX TYPE="LOCATION">khu cách ly tập trung tại Trung đoàn cảnh sát cơ động Tây Nguyên – Km6 Phường Tân Hòa – Tp Buôn Ma Thuột</ENAMEX>, Lúc 21 giờ cùng ngày bệnh nhân có kết quả xét nghiệm dương tính với virut SARS-COV-2.

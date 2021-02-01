@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 609</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1989</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc502, phường Hoà Thọ Đông, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>
+- Người nhà tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX>, <ENAMEX TYPE="CON_PERSON">em trai</ENAMEX>, <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con</ENAMEX>.
+-  Bệnh nhân là điều dưỡng tại <ENAMEX TYPE="LOCATION">khoa Quốc tế - Nội tổng hợp, bệnh viện Đà Nẵng</ENAMEX>, được đưa đi cách ly ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">26/7/2020</ENAMEX></ENAMEX> tại <ENAMEX TYPE="LOCATION">khách sạn Vian Hotel ở địa chỉ 124 Phạm Văn Đồng, phường An Hải Bắc, quận Sơn Trà, Tp. Đà Nẵng.</ENAMEX>
+- Ngày 16/07/2020 đến 26/07/2020 bệnh nhân (có đeo khẩu trang) đến đưa cơm cho chồng tại <ENAMEX TYPE="LOCATION">bệnh viện Quân y 17, Tp. Đà Nẵng</ENAMEX> (chỉ đưa cơm rồi về, không tiếp xúc với ai).
+- Trước khi được đưa đi cách ly vào ngày 26/7/2020 tại khách sạn Vian Hotel ở địa chỉ <ENAMEX TYPE="LOCATION">124 Phạm Văn Đồng, phường An Hải Bắc, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>, ngày nào bệnh nhân (có mang khẩu trang) cũng đi <ENAMEX TYPE="LOCATION">chợ Hoà Cầm, quận Cẩm Lệ, Tp. Đà Nẵng.</ENAMEX>
+	- Ngày 01/8/2020 Trung tâm Kiểm soát bệnh tật TP Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POS_DATE">02/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

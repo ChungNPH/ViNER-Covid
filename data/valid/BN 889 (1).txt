@@ -1,0 +1,13 @@
+Tên: <ENAMEX TYPE="NAME">BN 889</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Bàu Mạc 5,phường Hòa KhánhBắc, quận Liên Chiểu,TP Đà Nẵng</ENAMEX>
+- Từ ngày 26/7 đến 30/7/2020, bệnh nhân làm việc tại <ENAMEX TYPE="LOCATION">Bệnh viện Ung bướu Đà Nẵng</ENAMEX>.
+- Ngày 31/7/2020, bệnh nhân tham gia điều trị các bệnh nhân nhiễm vi rút SARS-CoV-2 tại <ENAMEX TYPE="LOCATION">Bệnh viện Ung Bướu Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">01/8 và 02/8/2020</ENAMEX>, bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Ung bướu Đà Nẵng</ENAMEX> và ở cùng với các <ENAMEX TYPE="CON_PERSON">đồng nghiệp</ENAMEX>.
+- Từ ngày 03/8 đến 06/8/2020, bệnh nhân được lấy mẫu dịch hầu họng xét nghiệm với vi rút SARS-CoV-2 (lần 1) cho kết quả (-), sau đó bệnh nhân được tăng cường đến <ENAMEX TYPE="LOCATION">khoa Hồi sức cấp cứu thuộc Trung tâm Y tế huyện Hòa Vang</ENAMEX> để làm việc theo ca. Khi kết thúc ca làm việc, bệnh nhân được đưa về <ENAMEX TYPE="LOCATION">khu vực cách ly dành cho nhân viên y tế</ENAMEX> (mỗi người một phòng riêng).
+- Ngày 07/8/2020, bệnh nhân được lấy mẫu dịch hầu họng xét nghiệm vi rút SARS-CoV-2 (lần 2) cho kết quả (-), sau đó bệnh nhân tiếp tục làm việc rồi về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không tiếp xúc với ai.
+- Ngày 08/8 và 09/8/2020, bệnh nhân tiếp tục làm việc tại <ENAMEX TYPE="LOCATION">khoa Hồi sức cấp cứu, Trung tâm Y tế huyện Hòa Vang</ENAMEX> rồi về Nhà nghỉ, không tiếp xúc với ai.
+- Tối ngày <ENAMEX TYPE="SYM_DATE">10/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng sốt, đau đầu, đau họng.
+- Sáng ngày 11/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 3) tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX> và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">12/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) vi rút SARS-CoV-2.
+Lây cho người khác: <ENAMEX TYPE="CON_PERSON">BN961</ENAMEX>(đồng nghiệp)
+Năm sinh: <ENAMEX TYPE="AGE">1986</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

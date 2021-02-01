@@ -1,0 +1,4 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 490</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1993</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc454, phường Bình Thuận, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>
+- Ngày 28/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của Trung tâm Y tế huyện Hòa Vang</ENAMEX>.

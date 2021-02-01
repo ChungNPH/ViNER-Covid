@@ -1,0 +1,13 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 525</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1930</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Kp Phước Mỹ 3, TT Nam Phước, Duy Xuyên</ENAMEX>
+- 08h00 Ngày <ENAMEX TYPE="CON_DATE">13/7/2020</ENAMEX>: BN tức ngực, người nhà đưa vào <ENAMEX TYPE="LOCATION">Phòng Khám BVĐK Bình An, TT Nam Phước</ENAMEX> được hướng dẫn chụp fim, đo điện tim và được Chẩn đoán: Nghi ngờ hẹp van tim, đến 10h00 chuyển viện ra <ENAMEX TYPE="LOCATION">BVĐK Đà Nẵng</ENAMEX> (đi cùng con trai là <ENAMEX TYPE="CON_PERSON">ct1736</ENAMEX>) bằng xe cấp cứu, BN vào <ENAMEX TYPE="LOCATION">Khoa Cấp cứu</ENAMEX>, 12h00 được chuyển lên <ENAMEX TYPE="LOCATION">Khoa Tim mạch Can thiệp (P501)</ENAMEX>.
+- Từ ngày 13/7 – 17/7/2020: BN nằm điều trị tại <ENAMEX TYPE="LOCATION">bệnh phòng</ENAMEX> và không đi đâu, tiếp xúc với các bệnh nhân và người nhà các bệnh nhân cùng phòng (không rõ tên, địa chỉ của những người tiếp xúc).
+- Ngày 18/7/2020: BN được chuyển qua <ENAMEX TYPE="LOCATION">P506</ENAMEX> (lý do sức khỏe ổn định).
+- Từ ngày 19 – 20/7/2020: BN nằm điều trị tại <ENAMEX TYPE="LOCATION">phòng</ENAMEX> và không đi đâu, tiếp xúc với các bệnh nhân và người nhà các bệnh nhân cùng phòng (không rõ tên, địa chỉ của những người tiếp xúc).
+- 8h00 ngày 21/7/2020: xuất viện, di chuyển về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tại địa chỉ Kp Phước Mỹ 3, TT Nam Phước, Duy Xuyên bằng phương tiện taxi (không rõ xe, tên tài xế).
+- Sáng ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">29/7/2020</ENAMEX></ENAMEX>: được đưa về <ENAMEX TYPE="LOCATION">khu cách ly tại Trung tâm Y tế Duy Xuyên</ENAMEX> bằng xe cấp cứu cùng với Trần Tấn Dũng, trong ngày được lấy mẫu xét nghiệm (Cán bộ phòng xét nghiệm TTYTDX), chiều ngày <ENAMEX TYPE="POS_DATE">30/7/2020</ENAMEX> có kết quả nghi ngờ với Sasr-CoV-2.
+- 08h00 Ngày 13/7/2020: vào <ENAMEX TYPE="LOCATION">Phòng khám BVĐK Bình An</ENAMEX>.
+-10h00 Ngày 13/7/2020: vào <ENAMEX TYPE="LOCATION">Cấp cứu BVĐK ĐN</ENAMEX>, 12h00 nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Tim mạch Can thiệp (P501)</ENAMEX>.
+- Ngày 18/7/2020: chuyển qua <ENAMEX TYPE="LOCATION">P506, Khoa Tim mạch Can Thiệp- BVĐKĐN</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">29/7/2020</ENAMEX></ENAMEX>: cách ly tập trung tại <ENAMEX TYPE="LOCATION">khu cách ly Trung tâm Y tế Duy Xuyên</ENAMEX>.

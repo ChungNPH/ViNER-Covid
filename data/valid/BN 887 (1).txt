@@ -1,0 +1,19 @@
+Tên: <ENAMEX TYPE="NAME">BN 887</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Trường Chinh,phường Hòa Phát, quậnCẩm Lệ, TP Đà Nẵng </ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">con gái T.T.L</ENAMEX> tại đường Trường Chinh.
+- Từ ngày 24/6 đến 14/7/2020, bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">khoa Nội thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày 18/7 và 19/7/2020, bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">khoa Lão, Bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">23/7/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX> chở đến <ENAMEX TYPE="LOCATION">chợ Phước Tường, quận Thanh Khê</ENAMEX> và trở về nhà, sau đó bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con dâu</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX> tổ chức đám giỗ tại nhà nhưng không mời ai.
+- Từ ngày <ENAMEX TYPE="CON_DATE">26/7 đến 02/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
+- Ngày <ENAMEX TYPE="CON_DATE">03/8/2020</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX> bệnh nhân đến thăm bệnh nhân.
+- Ngày <ENAMEX TYPE="CON_DATE">04/8/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX> chở đến <ENAMEX TYPE="LOCATION">chợ Phước Tường, quận Thanh Khê</ENAMEX>, sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">05/8/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX> chở đến <ENAMEX TYPE="LOCATION">chợ Cẩm Lệ, quận Cẩm Lệ</ENAMEX> mua đồ để tổ chức đám giỗ chồng tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">06/8 và 07/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
+- Ngày <ENAMEX TYPE="CON_DATE">08/8/2020</ENAMEX>, <ENAMEX TYPE="CON_PERSON">con trai T.V.H (cư trú tại K922 Trường Chinh)</ENAMEX> đến chơi rồi về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">09/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
+- Ngày 11/8/2020, bệnh nhân được lấy mẫu dịch hầu họng xét nghiệm với vi rút SARS-CoV-2 tại <ENAMEX TYPE="LOCATION">Trạm Y tế phường Hòa Thọ Đông, quận Cẩm Lệ</ENAMEX>, sau đó trở về nhà.
+- Khoảng 09 giờ 00 ngày <ENAMEX TYPE="CON_DATE">12/8/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">con gái</ENAMEX> đến <ENAMEX TYPE="LOCATION">chợ Phước Tường, quận Thanh Khê</ENAMEX> (có mang khẩu trang), sau đó khoảng 10 giờ 30 cùng ngày trở về nhà.
+- Sáng ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">12/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2.
+	- Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1955</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

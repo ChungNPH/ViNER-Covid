@@ -1,0 +1,12 @@
+Tên: <ENAMEX TYPE="NAME">BN 891</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS"> loc523, phường Hòa Khê, quận Thanh Khê, TP Đà Nẵng</ENAMEX>
+'- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc523, phường Hòa Khê, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>.
+- Ngày 28/7/2020, bệnh nhân xin nghỉ làm tại Hạ Long - tỉnh Quảng Ninh sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tại TP Đà Nẵng.
+- Ngày <ENAMEX TYPE="CON_DATE">29/7 và 30/7/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với những người trong <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX>, không đi đến nơi khác.
+- Từ ngày <ENAMEX TYPE="CON_DATE">31/7 đến 10/8/2020</ENAMEX>, bệnh nhân làm việc ở <ENAMEX TYPE="LOCATION">phòng làm việc riêng tại nhà</ENAMEX>. Đến tối, bệnh nhân đến nhà <ENAMEX TYPE="CON_PERSON">bạn là Đ.T.V.N</ENAMEX> tại K191 Ông Ích Khiêm (chỉ tiếp xúc với N) và thỉnh thoảng đến nhà ngoại (không nhớ rõ ngày) tại <ENAMEX TYPE="LOCATION">K140 Lê Duẩn</ENAMEX> (tiếp xúc với <ENAMEX TYPE="CON_PERSON">cậu là N.P</ENAMEX> và <ENAMEX TYPE="CON_PERSON">2 con của cậu</ENAMEX>), bệnh nhân có ngồi ăn uống 01 lần với <ENAMEX TYPE="CON_PERSON">bạn là Đ.T.V.N</ENAMEX> và <ENAMEX TYPE="CON_PERSON">P.N.T</ENAMEX>.
+- Khoảng 2 ngày/1 lần, bệnh nhân đến mua thuốc lá tại <ENAMEX TYPE="LOCATION">quầy tạp hóa gần trường Lê Quang Sung, quận Thanh Khê</ENAMEX> (không nhớ tên tiệm), tiếp xúc với <ENAMEX TYPE="CON_PERSON">chủ tiệm</ENAMEX>.
+ - Khoảng 9 giờ ngày <ENAMEX TYPE="CON_DATE">11/8/2020</ENAMEX>, bệnh nhân cùng gia đình được lấy mẫu xét nghiệm dịch hầu họng với vi rút SARS-CoV-2 tại <ENAMEX TYPE="LOCATION">trường tiểu học Lê Quang Sung, quận Thanh Khê</ENAMEX> có kết quả mẫu gộp nghi ngờ với vi rút SARS-CoV-2, Sau đó trở về làm việc tại nhà, đến tối bệnh nhân đến nhà <ENAMEX TYPE="CON_PERSON">bạn Đ.T.V.N</ENAMEX> và <ENAMEX TYPE="CON_PERSON">nhà ngoại</ENAMEX> sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">12/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân tiếp tục làm việc tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và sau đó được lấy mẫu dịch hầu họng tại <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Thanh Khê</ENAMEX> xét nghiệm để khẳng định và cho kết quả (+) với vi rút SARS-CoV-2.
+Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">bệnh viện Phổi Đà Nẵng</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1981</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

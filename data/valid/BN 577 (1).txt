@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 577</ENAMEX> (ca số  ). Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1947</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Tổ 31 Hoà Minh, quận Liên Chiểu, TP Đà Nẵng</ENAMEX>.
+- Hiện tại bệnh nhân sống cùng vợ chồng <ENAMEX TYPE="CON_PERSON">con trai</ENAMEX> (<ENAMEX TYPE="CON_PERSON">con dâu: ct1603</ENAMEX> ) và <ENAMEX TYPE="CON_PERSON">03 cháu nội</ENAMEX> tại <ENAMEX TYPE="LOCATION">Tổ 31 Hoà Minh, quận Liên Chiểu, TP Đà Nẵng</ENAMEX>.
+- bệnh nhân có tiền sử bị suy thận mạn, chạy thận 02 lần/tuần tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> (thứ 3, thứ 6 hàng tuần).
+- Ngày 21/7/2020 bệnh nhân chạy thận tại <ENAMEX TYPE="LOCATION">khoa Nội thận – Nội tiết</ENAMEX>, sau đó  bệnh nhân cảm thấy mệt nên nhập viện <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> đến ngày 24/7/2020 thì được xuất viện  (trong quá trình ở viện không đi đâu).
+- Ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="HOS_DATE">29/7/2020</ENAMEX></ENAMEX> bệnh nhân cảm thấy mệt mỏi được người nhà đưa đi cấp cứu tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> và điều trị cho đến nay .
+- Trong khoảng thời gian nằm viện từ <ENAMEX TYPE="CON_DATE">21/7/2020 đến 24/7/2020</ENAMEX>, ngoài <ENAMEX TYPE="CON_PERSON">chị ct1604</ENAMEX> chăm bệnh còn có <ENAMEX TYPE="CON_PERSON">con gái bệnh nhân (ct1605</ENAMEX> và <ENAMEX TYPE="CON_PERSON">02 người con chị Mười</ENAMEX> có đến thăm bệnh nhân 
+- Ngày 30/7/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng xét nghiệm vi rút SARS-CoV-2. Ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX> bệnh nhân được được thông báo kết quả (+) với vi rút SARS-CoV-2 và được chuyển lên điều trị và cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

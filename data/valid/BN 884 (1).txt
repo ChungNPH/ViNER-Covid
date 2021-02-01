@@ -1,0 +1,13 @@
+Tên: <ENAMEX TYPE="NAME">BN 884</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">tổ 2 thôn Phò Nam, xãHòa Bắc, huyện HòaVang, TP Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">chồng P.P</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con P.H.N</ENAMEX> tại <ENAMEX TYPE="LOCATION">tổ 2 Thôn Phò Nam, xã Hòa Bắc</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">20/7/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CON_PERSON">chồng</ENAMEX> đến khám tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Liên Chiểu</ENAMEX>, sau đó bệnh nhân được chuyển nhập viện điều trị tại <ENAMEX TYPE="LOCATION">khoa Nội tiêu hóa, Bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày 22/7/2020, bệnh nhân được chuyển đến phòng 711, tầng 7 tại <ENAMEX TYPE="LOCATION">khoa Nội thần kinh, Bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">23/7 đến 26/7/2020</ENAMEX>, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khoa</ENAMEX>, <ENAMEX TYPE="CON_PERSON">người nhà</ENAMEX> mua thức ăn tại căn tin cho bệnh nhân.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">27/7/2020</ENAMEX></ENAMEX>, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">Bệnh viện 199 - Bộ Công an</ENAMEX>. Tại đây, bệnh nhân ở tại <ENAMEX TYPE="LOCATION">phòng 931, tầng 9 khu cách ly</ENAMEX>.
+- Ngày 28/7 và 29/7/2020, bệnh nhân tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">bệnh viện</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CON_DATE">09/8/2020 đến ngày 11/8/2020</ENAMEX> bệnh nhân được chuyển cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Y học cổ truyền Đà Nẵng</ENAMEX>, Tại đây, bệnh nhân ở cùng với <ENAMEX TYPE="CON_PERSON">02 người tại phòng 403</ENAMEX>.
+- Ngày 12/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 2), đến khoảng 19 giờ 00 cùng ngày, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">phòng 308 thuộc khu cách ly Bệnh viện Y học Cổ truyền</ENAMEX>.
+- Tối ngày <ENAMEX TYPE="POS_DATE">12/8/2020</ENAMEX> bệnh nhân có kết quả (+) vi rút SARS-CoV-2 và được chuyển cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1969</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

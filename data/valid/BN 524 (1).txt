@@ -1,0 +1,20 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 524</ENAMEX> Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1934</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Tổ 4, Kp Xuyên Đông (Đình An cũ), TT Nam Phước, Duy Xuyên, Quảng Nam</ENAMEX>.
+- 10h00 Ngày 11/7/2020: vào <ENAMEX TYPE="LOCATION">khoa Cấp cứu BV Da Liễu Đà Nẵng</ENAMEX> được Chẩn đoán: Zona vùng mặt, đến 15h00 cùng ngày chuyển <ENAMEX TYPE="LOCATION">Cấp cứu BVĐK Đà Nẵng</ENAMEX> (Lý do CLS: Suy thận, Suy tim), 17h00 được chuyển lên <ENAMEX TYPE="LOCATION">Khoa Thận – Tiết niệu tầng 6 (P606).</ENAMEX>
+Trong thời gian này BN nằm tại <ENAMEX TYPE="LOCATION">phòng bệnh</ENAMEX> và không đi đâu, tiếp xúc với các bệnh nhân và người nhà các bệnh nhân cùng phòng (06 người bệnh và 1 số người nhà nuôi bệnh, không rõ tên, địa chỉ của những người tiếp xúc). 
+- 10h00 ngày <ENAMEX TYPE="CON_DATE">16/7/202</ENAMEX>: xuất viện, Chẩn đoán ra viện: Zona tạm ổn, Suy thận, suy tim, Di chuyển về nhà cháu <ENAMEX TYPE="CON_PERSON">ct1656</ENAMEX> địa chỉ: <ENAMEX TYPE="LOCATION">454/1 Nguyễn Tri Phương, Hòa Thuận Tây, Hải Châu, Đà Nẵn</ENAMEX> bằng phương tiện ôtô. Người tiếp xúc: 07 người;
+- Sáng Ngày 17/7/2020: ở nhà, đến 15h00 cùng ngày về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tại địa chỉ: Tổ 4, Kp Xuyên Đông (Đình An cũ), TT Nam Phước, Duy Xuyên bằng phương tiện ôtô của Văn Công Nhơn (1987);
+- Ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="HOS_DATE">18/7/2020</ENAMEX></ENAMEX>: ở tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, đến 20h00 có dấu hiệu sốt, được người nhà đưa vào <ENAMEX TYPE="LOCATION">Khoa Cấp cứu BVĐK Bình An, TT Nam Phước</ENAMEX>, sau đó được chuyển lên <ENAMEX TYPE="LOCATION">Khoa Nội tầng 5 (P505)</ENAMEX>. Tại đây tiếp xúc với nhiều người trong phòng bệnh (không rõ số lượng), người nhà vào thăm nhiều (không rõ số lượng)
+- Ngày 19-20-21/7/2020: nằm điều trị tại <ENAMEX TYPE="LOCATION">khoa Nội</ENAMEX>.
+- Sáng ngày 22/7/2020: được chuyển xuống <ENAMEX TYPE="LOCATION">Khoa Đông Y (P204)</ENAMEX>.
+- Ngày 23/7/2020: điều trị tại <ENAMEX TYPE="LOCATION">khoa Đông Y.</ENAMEX>
+- Ngày 24/7/2020: được chuyển lên <ENAMEX TYPE="LOCATION">Khoa Nội (P507).</ENAMEX>
+- Ngày 25-27/7/2020: điều trị tại <ENAMEX TYPE="LOCATION">Khoa Nội</ENAMEX>, đến 10h00 ngày 27/7/2020 chuyển <ENAMEX TYPE="LOCATION">BVĐKKV Quảng Nam</ENAMEX>, BN vào <ENAMEX TYPE="LOCATION">Khoa Cấp cứu</ENAMEX>, đến 13h30 BN được chuyển vào <ENAMEX TYPE="LOCATION">Khoa HSTCCĐ.</ENAMEX>
+- Sáng ngày <ENAMEX TYPE="ISO_DATE">29/7/2020</ENAMEX>: BN được chuyển vào <ENAMEX TYPE="LOCATION">phòng cách ly riêng</ENAMEX>, lấy mẫu xét nghiệm Sasr-CoV-2, đến 14h30 ngày <ENAMEX TYPE="POS_DATE">30/7/2020</ENAMEX> cho kết quả Nghi ngờ với SARS-CoV-2.
+- 10h00 Ngày 11/7/2020: vào <ENAMEX TYPE="LOCATION">Cấp cứu BV Da Liễu</ENAMEX>:
+- 15h00 Ngày 11/7/2020: vào <ENAMEX TYPE="LOCATION">Cấp cứu BVĐK ĐN</ENAMEX>, 17h00 nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Thận – Tiết niệu (P606)</ENAMEX>.
+- 20h00 ngày 18/7/2020: vào <ENAMEX TYPE="LOCATION">Cấp cứu BVĐK Bình An, TT Nam Phước, vào Khoa Nội (P505)</ENAMEX>
+- Ngày 22/7/2020: chuyển <ENAMEX TYPE="LOCATION">Khoa Đông Y (P204)</ENAMEX>.
+- Ngày 24/4/2020: chuyển <ENAMEX TYPE="LOCATION">Khoa Nội (P507)</ENAMEX>.
+- 10h00 ngày 27/7/2020: chuyển <ENAMEX TYPE="LOCATION">BVĐKV Quảng Nam </ENAMEX>→ Khoa Cấp cứu→ Khoa HSTCCĐ.

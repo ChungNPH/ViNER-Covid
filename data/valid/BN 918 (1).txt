@@ -1,0 +1,13 @@
+Tên: <ENAMEX TYPE="NAME">BN 918</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">Khối Hoài Phô, Cẩm Phô, TP Hội An, tỉnh Quảng Nam</ENAMEX>
+'- Ngày 22/7/2020, bệnh nhân đi xe buýt từ nhà tại TP Hội An đến TP Đà Nẵng (không nhớ tuyến xe) đến khám (sỏi thận) và nhập viện điều trị tại <ENAMEX TYPE="LOCATION">phòng 206, Khoa Ngoại yêu cầu, Bệnh viện Đà Nẵng</ENAMEX>. Sau đó đến tối, bệnh nhân đi xe buýt về nhà tại TP Hội An để lấy thêm đồ dùng cá nhân.
+- Sáng ngày 23/7/2020, bệnh nhân đi xe buýt (không nhớ tuyến xe) từ nhà tại TP Hội An đến <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày 24/7 đến 28/7/2020, bệnh nhân ở tại <ENAMEX TYPE="LOCATION">phòng bệnh</ENAMEX>, ăn uống tại <ENAMEX TYPE="LOCATION">căn tin Bệnh viện Đà Nẵng</ENAMEX>, không đi đến nơi khác.
+- Từ ngày 26/7 đến 28/7/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">phòng bệnh</ENAMEX>.
+- Ngày 29/7/2020, bệnh nhân được xuất viện nhưng không có phương tiện để về nhà nên tạm ở lại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7</ENAMEX></ENAMEX> và 01/8/2020, bệnh nhân tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày 03/8 đến 09/8/2020, bệnh nhân chỉ ở phòng tại <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>, tiếp xúc với những người ở cùng phòng.
+- Ngày 10/8, 11/8 và 12/8/2020, bệnh nhân chỉ ở phòng tại <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>, tiếp xúc với những người ở cùng phòng.
+- Trưa ngày <ENAMEX TYPE="POS_DATE">14/8/2020</ENAMEX> bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-Cov-2; sau đó bệnh nhân được chuyển cách ly và điều trị.
+Năm sinh: <ENAMEX TYPE="AGE">1955</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

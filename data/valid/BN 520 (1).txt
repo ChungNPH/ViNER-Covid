@@ -1,0 +1,6 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 520</ENAMEX>                        Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1969</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Đông Đức, xã Điện Thọ,Thị xã Điện Bàn, Quảng Nam</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">20/07/2020 – 24/07/2020</ENAMEX>: bệnh nhân đi đến <ENAMEX TYPE="LOCATION">thôn Châu Lâu, xã Điện Thọ</ENAMEX> để điều trị tư cho bệnh nhân có triệu chứng ho, sốt nhẹ là <ENAMEX TYPE="CON_PERSON">bệnh nhân Covid – 19 số 433</ENAMEX> được công bố ngày 28/07/2020.
+- Trong thời gian từ 20/07/220 – 28/07/2020: bệnh nhân có đi điều trị cho nhiều người tại <ENAMEX TYPE="LOCATION">xã Điện Thọ</ENAMEX> và bán quầy thuốc tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. Hàng ngày bệnh nhân có đi đến <ENAMEX TYPE="LOCATION">chợ hợp tác xã 1 tại thôn Châu Lâu</ENAMEX> để mua thức ăn. 
+- Đến ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/07/2020</ENAMEX></ENAMEX>, khi bệnh nhân 433 công bố dương tín, Bệnh nhân được xác định là F1 và được đi cách ly tập trung trong cùng ngày.

@@ -1,0 +1,11 @@
+Tên: <ENAMEX TYPE="NAME">BN 920</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Mỹ Phước, xã Đại Phong, huyện Đại Lộc, tỉnh Quảng Nam</ENAMEX>
+'- Tối ngày <ENAMEX TYPE="CON_DATE">23/7/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="CON_PERSON">anh rể H</ENAMEX> và <ENAMEX TYPE="CON_PERSON">cháu T</ENAMEX> (địa chỉ K160 Nguyễn Hoàng, quận Hải Châu) đưa đến khám và nhập viện điều trị tại <ENAMEX TYPE="LOCATION">Khoa Ngoại tổng hợp, Bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày 24/7 đến 01/8/2020, bệnh nhân được điều trị tại <ENAMEX TYPE="LOCATION">Khoa Ngoại tổng hợp, Bệnh viện Đà Nẵng</ENAMEX>, không đi đến nơi khác.
+- Khoảng cuối tháng 7/2020 (không nhớ rõ ngày), bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 1) tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> cho kết quả (-) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">02/08/2020</ENAMEX></ENAMEX>, bệnh nhân được chuyển cách ly tập trung.
+- Ngày 03/8 đến 09/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>.
+- Ngày 10/8, 11/8 và 12/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>.
+- Trưa ngày <ENAMEX TYPE="POS_DATE">14/8/2020</ENAMEX> bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-Cov-2; sau đó, bệnh nhân được chuyển cách ly và điều trị.
+Năm sinh: <ENAMEX TYPE="AGE">1954</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

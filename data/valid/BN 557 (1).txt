@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 557</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX> 
+- Sinh năm: 11/11/<ENAMEX TYPE="AGE">2018</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Tổ 2, Lệ Sơn Nam, Hòa Tiến, Hòa Vang, Đà Nẵng</ENAMEX>.
+- Bệnh nhân là cháu nội và thường xuyên tiếp xúc <ENAMEX TYPE="CON_PERSON">bệnh nhân COVID – 19 mã số 509</ENAMEX>.
+- Từ 14 giờ đến 20 giờ 30 ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>: Bệnh nhân về nhà <ENAMEX TYPE="CON_PERSON">ông, bà ngoại</ENAMEX> tại <ENAMEX TYPE="LOCATION">Miếu Bông, Hòa Phước, Hòa Vang, Đà Nẵng</ENAMEX>.
+- Đêm <ENAMEX TYPE="SYM_DATE">26/7/2020</ENAMEX>: Bệnh nhân xuất hiện triệu chứng sốt.
+- Ngày 27/7/2020: Bệnh nhân không ra khỏi <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Khoảng 9 giờ sáng ngày 28/7/2020, bệnh nhân đến khám tại <ENAMEX TYPE="LOCATION">khoa Nhi – Bệnh viện Đa khoa Gia đình Đà Nẵng</ENAMEX> và được lấy mẫu xét nghiệm SARS – CoV – 2, sau đó được cho về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> theo dõi sức khỏe.
+- Hiện tại, bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">Khu cách ly Trung tâm Y tế huyện Hòa Vang</ENAMEX>. 
+1. Ngày 28/7/2020, Bệnh viện Đa khoa Gia đình Đà Nẵng tiến hành giám sát và lấy mẫu xét nghiệm. Kết quả xét nghiệm ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX></ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

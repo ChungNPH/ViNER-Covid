@@ -1,0 +1,8 @@
+Tên: <ENAMEX TYPE="NAME">BN 925</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Thanh Long, xã Tam Quang, huyện Núi Thành, tỉnh Quảng Nam</ENAMEX>
+'- Từ ngày <ENAMEX TYPE="CON_DATE">26/7 đến 01/8/2020</ENAMEX>, bệnh nhân đến chăm sóc <ENAMEX TYPE="CON_PERSON">chồng L.T.D</ENAMEX>, điều trị tại <ENAMEX TYPE="LOCATION">Khoa Ngoại chấn thương, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian này, bệnh nhân chỉ ở trong Bệnh viện.
+- Từ ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">02/8</ENAMEX></ENAMEX> đến 09/8/2020, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>.
+- Ngày 10/8, 11/8 và 12/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khu cách ly Tiểu đoàn D11-Sư đoàn 375</ENAMEX>.
+- Trưa ngày <ENAMEX TYPE="POS_DATE">14/8/2020</ENAMEX> bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-Cov-2 sau đó, bệnh nhân được chuyển cách ly và điều trị.
+Năm sinh: <ENAMEX TYPE="AGE">1974</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>

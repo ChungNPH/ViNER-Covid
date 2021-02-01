@@ -1,0 +1,12 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 592</ENAMEX>            Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1920</ENAMEX>;
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn Nam Thành, Duy Trung, Duy Xuyên, Quảng Nam</ENAMEX>.
+- 07h00 Ngày <ENAMEX TYPE="CON_DATE">22/7/2020</ENAMEX>: vào <ENAMEX TYPE="LOCATION">khoa Cấp cứu BV Bình An</ENAMEX>, 9h00 đi chụp phim, siêu âm, xét nghiệm và được nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội (P508)</ENAMEX> (tiếp xúc với <ENAMEX TYPE="CON_PERSON">ct1644</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con cháu</ENAMEX> đến thăm);
+- Ngày <ENAMEX TYPE="CON_DATE">23/7/2020</ENAMEX>: ở tại bệnh phòng (tiếp xúc là <ENAMEX TYPE="CON_PERSON">ct1645</ENAMEX>);
+- 14h00 ngày 24/7/2020: được chuyển qua <ENAMEX TYPE="LOCATION">P505</ENAMEX>;
+- Ngày 25 – 26/7/2020: ở tại <ENAMEX TYPE="LOCATION">bệnh phòng</ENAMEX> và không đi đâu (không rõ tiếp xúc);
+- Ngày 27/7/2020: xuất viện về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+-Từ ngày <ENAMEX TYPE="CON_DATE">27/7 đến ngày 29/7/2020</ENAMEX>: ở tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và không đi đâu. Trong thời gian này có <ENAMEX TYPE="CON_PERSON">bà ct1646</ENAMEX> đến thăm;
+- 11h00 ngày <ENAMEX TYPE="CON_DATE">30/7/2020</ENAMEX> được con trai là <ENAMEX TYPE="CON_PERSON">ct1647</ENAMEX> đưa <ENAMEX TYPE="LOCATION">Khoa cấp cứu Trung tâm Y tế Duy Xuyên</ENAMEX>, sau đó được chuyển ra <ENAMEX TYPE="LOCATION">BVĐK Khu vực Quảng Nam</ENAMEX> bằng xe cấp cứu;
+- 07h20 Ngày 22/7/2020: vào <ENAMEX TYPE="LOCATION">Cấp cứu BV Bình An Quảng Nam, vào Khoa Nội (P508)</ENAMEX>, ngày 24/7/2020 chuyển <ENAMEX TYPE="LOCATION">(P505)</ENAMEX>;
+- 11h00 ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">30/7/2020</ENAMEX></ENAMEX>: vào <ENAMEX TYPE="LOCATION">Cấp cứu Trung tâm Y tế Duy Xuyên, TT Nam Phước, 11h45 chuyển viện BVĐK Khu vực Quảng Nam</ENAMEX>.

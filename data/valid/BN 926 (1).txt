@@ -1,0 +1,13 @@
+Tên: <ENAMEX TYPE="NAME">BN 926</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc450, phường An Khê, quận Thanh Khê, TP Đà Nẵng</ENAMEX>
+'- Bệnh nhân sống cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> tại địa chỉ loc450, phường An Khê.
+ - Khoảng thời gian từ ngày <ENAMEX TYPE="CON_DATE">10/7 đến 20/7/2020</ENAMEX>, bệnh nhân bị đau chân nặng nên chỉ nằm ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đâu hay tiếp xúc với ai ngoài <ENAMEX TYPE="CON_PERSON">những người trong gia đình</ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CON_DATE">20/7 đến 27/7/2020</ENAMEX>, bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Ngoại Chấn thương - Chỉnh hình, Bệnh viện Đà Nẵng</ENAMEX> để phẫu thuật chân. Vì lý do dịch bệnh nên Bệnh viện Đà Nẵng thông báo hủy lịch mổ cho bệnh nhân vào ngày 27/7/2020, trong thời gian này chỉ có <ENAMEX TYPE="CON_PERSON">cháu N.Đ.K</ENAMEX> chăm sóc bệnh nhân.
+ - Ngày <ENAMEX TYPE="SYM_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">28/7</ENAMEX></ENAMEX></ENAMEX> đến 29/7/2020, bệnh nhân được chuyển lên cách ly tại <ENAMEX TYPE="LOCATION">khu cách ly Trung tâm Giáo dục Quốc phòng An ninh - Quân khu V</ENAMEX>. Trong thời gian này bệnh nhân bị đau chân trở lại và có sốt nên được xe cấp cứu chở về nhập viện lại tại <ENAMEX TYPE="LOCATION">Khoa Ngoại Chấn thương - Chỉnh hình, Bệnh viện Đà Nẵng</ENAMEX>.
+ - Từ ngày 30/7 đến 31/7/2020, bệnh nhân được điều trị tại <ENAMEX TYPE="LOCATION">Khoa Ngoại Chấn thương - Chỉnh hình, Bệnh viện Đà Nẵng</ENAMEX>, được lấy mẫu xét nghiệm dịch hầu họng (lần 1) và cho kết quả (-) với vi rút SARS-CoV-2.
+ - Ngày 01/08/2020, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>.
+ - Ngày 02/8 đến 09/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>.
+- Ngày 10/8, 11/8 và 12/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX>.
+- Trưa ngày <ENAMEX TYPE="POS_DATE">14/8/2020</ENAMEX> bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-Cov-2; sau đó, bệnh nhân được chuyển cách ly và điều trị.
+Năm sinh: <ENAMEX TYPE="AGE">1954</ENAMEX>
+Gender: <ENAMEX TYPE="GENDER">Nam</ENAMEX>

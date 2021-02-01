@@ -1,0 +1,12 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 553</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>. 
+- Sinh năm: <ENAMEX TYPE="AGE">1995</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Tổ 11, phường Khuê Mỹ, quận Ngũ Hành Sơn, thành phố Đà Nẵng</ENAMEX>.
+- Ngày 06/6/2020: Bệnh nhân vào viện điều trị Viêm màng não mủ tại <ENAMEX TYPE="LOCATION">khoa Y học nhiệt đới - Bệnh viện Đà Nẵng</ENAMEX>;
+- Ngày 23/7/2020: Bệnh nhân chuyển <ENAMEX TYPE="LOCATION">khoa Nội Thần kinh – Bệnh viện Đà Nẵng</ENAMEX> tiếp tục điều trị đến nay.
+- Từ ngày 20 đến 22/7/2020, có 2 buổi tối bệnh nhân uống café tại <ENAMEX TYPE="LOCATION">Moss Coffee địa chỉ 140/2 Hải Phòng, Hải Châu, Đà Nẵng</ENAMEX>; có 1 buổi tối bệnh nhân ăn <ENAMEX TYPE="LOCATION">quán bún thịt nướng đối diện 140/2 Hải Phòng</ENAMEX> (đầu hẻm chợ đêm).
+- Từ ngày <ENAMEX TYPE="CON_DATE">24 đến 25/7/2020</ENAMEX>, có 1 buổi tối bệnh nhân về nhà ngủ, tại đây bệnh nhân gặp gỡ <ENAMEX TYPE="CON_PERSON">bố</ENAMEX>, <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX>, <ENAMEX TYPE="CON_PERSON">2 em</ENAMEX>, <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CON_PERSON">con</ENAMEX>. 
+- Chiều 26/7/2020: Bệnh nhân xuống <ENAMEX TYPE="LOCATION">căn tin Bệnh viện Đà Nẵng</ENAMEX> mua cơm.
+- Ngày <ENAMEX TYPE="SYM_DATE">29/7/2020</ENAMEX>: Bệnh nhân có sốt.
+- Bệnh nhân được lấy mẫu xét nghiệm SARS – CoV – 2 ngày 29/7/2020 và có kết quả (+) ngày <ENAMEX TYPE="POS_DATE">31/7/2020</ENAMEX>.
+- Hiện tại, bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">Khu cách ly Bệnh viện Phổi Đà Nẵng</ENAMEX>. Tình trạng sức khỏe: bệnh nhân hết sốt, còn ho nhẹ.
+1. Ngày 29/7/2020, Bệnh viện Đà Nẵng tiến hành giám sát và lấy mẫu xét nghiệm. Kết quả xét nghiệm ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">31/7/2020</ENAMEX></ENAMEX></ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

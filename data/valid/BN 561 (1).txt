@@ -1,0 +1,11 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 561</ENAMEX>         Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">2001</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn Thuận An, thị trấn Đông Phú, huyện Quế Sơn</ENAMEX>
+ - Ngày 10/7/2020 đến 20/7/2020: điều trị tại <ENAMEX TYPE="LOCATION">khoa Ngoại thần kinh Bệnh viện Đa khoa Đà Nẵng</ENAMEX>;
+- Lúc 17 giờ 30 ngày <ENAMEX TYPE="CON_DATE">20/7/2020</ENAMEX>: Ra viện về ở tại phòng trọ <ENAMEX TYPE="LOCATION">loc531 Quận Hải Châu Đà Nẵng</ENAMEX>, ở cùng <ENAMEX TYPE="CON_PERSON">em họ</ENAMEX>; 
+- Ngày 18 giờ 00 ngày <ENAMEX TYPE="CON_DATE">20/7/2020</ENAMEX>: về Quế Sơn bằng xe ô tô của Chú ct1784 cùng xóm, trên xe có <ENAMEX TYPE="CON_PERSON">tài xế</ENAMEX> và <ENAMEX TYPE="CON_PERSON">mẹ</ENAMEX>; 
+- Ngày <ENAMEX TYPE="CON_DATE">25/7/2020</ENAMEX>: đi Đà Nẵng bằng phương tiện buýt, có đeo khẩu trang, trên xe có đông người, xe xuất phát khoản 15 giờ 30, Khi đến Dà Nẵng được <ENAMEX TYPE="CON_PERSON">bạn</ENAMEX> đón đưa đến <ENAMEX TYPE="LOCATION">Nhà Sách 300 Lê Duẫn, Đà Nẵng</ENAMEX>, Sau đó về nhà trọ ở cùng <ENAMEX TYPE="CON_PERSON">em họ</ENAMEX>;
+- Sáng ngày <ENAMEX TYPE="CON_DATE">27/7/2020</ENAMEX>: được <ENAMEX TYPE="CON_PERSON">bạn</ENAMEX> đưa đến <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> tái khám nhưng do bệnh viện bị phong tỏa nên không khám được, sau đó đến <ENAMEX TYPE="LOCATION">Công an Quận Thanh Khê</ENAMEX> để giải quyết vụ việc tai nạn giao thông, được bạn đưa chở đến địa điểm đón xe buýt để về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tại Quế Sơn
+- Sàng 28/7/2020: đến <ENAMEX TYPE="LOCATION">TTYT Quế Sơn</ENAMEX> khám, chụp phim điều trị ngoại trú;
+- Chiều 28/7/2020: đến <ENAMEX TYPE="LOCATION">TYT thị trấn Đông Phú</ENAMEX> khai báo y tế;
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">29/7/2020</ENAMEX></ENAMEX>: đến <ENAMEX TYPE="LOCATION">TTYT Quế Sơn</ENAMEX> khám và nhập viện;

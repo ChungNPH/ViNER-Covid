@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 583</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nữ</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1987</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn Giáng Nam 1, xã Hòa Phước, huyện Hòa Vang, thành phố Đà Nẵng.</ENAMEX>
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CON_PERSON">cha mẹ chồng</ENAMEX>, <ENAMEX TYPE="CON_PERSON">chồng (ct1783)</ENAMEX>, <ENAMEX TYPE="CON_PERSON">em gái chồng</ENAMEX> và <ENAMEX TYPE="CON_PERSON">01 con gái</ENAMEX> tại <ENAMEX TYPE="LOCATION">Thôn Giáng Nam 1, xã Hòa Phước, huyện Hòa Vang, thành phố Đà Nẵng</ENAMEX>.
+- Từ ngày 19/7/2020 đến 25/7/2020, buổi sáng bệnh nhân chở con đi học tại <ENAMEX TYPE="LOCATION">trường mầm non Tương Lai, xã Hòa Phước, huyện Hòa Vang, thành phố Đà Nẵng</ENAMEX>. Bệnh nhân có khi ăn sáng tại quán gần trường mầm non (không nhớ rõ tên quán), có khi đem theo đồ ăn lên bệnh viện ăn. Thời gian này bệnh nhân chỉ đi làm rồi về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đâu.
+- Từ <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">26/7/2020</ENAMEX></ENAMEX> đến nay, bệnh nhân bị cách ly tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>
+- Ngày <ENAMEX TYPE="SYM_DATE">31/7/2020</ENAMEX> bệnh nhân có triệu chứng sốt.
+-Ngày 31/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POS_DATE">01/8/2020</ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của Trung tâm y tế huyện Hòa Vang</ENAMEX>.

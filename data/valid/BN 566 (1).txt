@@ -1,0 +1,6 @@
+2. Thông tin bệnh nhân: Họ và tên <ENAMEX TYPE="NAME">BN 566</ENAMEX>, sinh năm <ENAMEX TYPE="AGE">1959</ENAMEX>, <ENAMEX TYPE="GENDER">nam</ENAMEX>, dân tộc kinh, địa chỉ <ENAMEX TYPE="ADDRESS">Thôn Bùi, Hòa Tiến, Hưng Hà, tỉnh Thái Bình</ENAMEX>.
+- Xuống xe tại khu vực <ENAMEX TYPE="LOCATION">cầu Nguyễn (Đông Hưng, Thái Bình)</ENAMEX> vào khoảng 06h sáng ngày <ENAMEX TYPE="ISO_DATE">29/7/2020</ENAMEX> đi Taxi về <ENAMEX TYPE="LOCATION">nhà công dân ct1593</ENAMEX>. - Về <ENAMEX TYPE="LOCATION">Xã Hòa Tiến, huyện Hưng Hà</ENAMEX> đến <ENAMEX TYPE="LOCATION">Trạm Y tế</ENAMEX> khai báo theo qui định.- Mua rau tại quán cóc tại đường vào <ENAMEX TYPE="LOCATION">làng Triều Quyến, xã Hòa Tiến</ENAMEX>.- Sau đó 03 công dân này được hướng dẫn tự cách ly tại nhà (ct1594) đến khoảng 16 giờ 30 phút 31/7/2020 Trung tâm Y tế Hưng Hà nhận được thông báo 03 công dân trên có tiếp xúc trực tiếp với BN522 tại Quảng Nam.
+- Đến 01 giờ 45 phút ngày <ENAMEX TYPE="POS_DATE"><ENAMEX TYPE="HOS_DATE">01/8/2020</ENAMEX></ENAMEX>, ghi nhận 01 trường hợp có kết quả xét nghiệm Dương tính là trường hợp tiếp xúc trực tiếp với Bệnh nhân số 522.
+<ENAMEX TYPE="CON_PERSON">ct1595</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">ct1596</ENAMEX>
+<ENAMEX TYPE="CON_PERSON">ct1593</ENAMEX>

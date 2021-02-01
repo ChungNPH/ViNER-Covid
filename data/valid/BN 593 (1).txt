@@ -1,0 +1,12 @@
+-  Họ tên: <ENAMEX TYPE="NAME">BN 593</ENAMEX>                 	
+-  Tuổi: <ENAMEX TYPE="AGE">75</ENAMEX>              	      	- Giới tính: <ENAMEX TYPE="GENDER">nữ</ENAMEX>
+-  Nơi lưu trú tại Quảng Nam: <ENAMEX TYPE="ADDRESS">loc449 - khối Thịnh Mỹ - phường Cẩm An - TP Hội An</ENAMEX>
+- Đầu tháng 7 bệnh nhân được người <ENAMEX TYPE="CON_PERSON">con</ENAMEX> đưa ra thăm <ENAMEX TYPE="CON_PERSON">vợ</ENAMEX> tại <ENAMEX TYPE="LOCATION">phòng 607 khoa Nội - Thận - Nội tiết Bệnh viện Đa khoa Đà Nẵng</ENAMEX> sau đó được con chở về nhà bằng xe máy.
+- Lịch trình thường ngày của bệnh nhân: buổi sáng tắm biển <ENAMEX TYPE="LOCATION">bãi tắm Tân Mỹ</ENAMEX>, trưa và tối ăn cơm tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX> cùng <ENAMEX TYPE="CON_PERSON">gia đình</ENAMEX> (các thành viên trong nhà đã đi cách ly).
+- Bệnh nhân thỉnh thoảng đến quán cà phê <ENAMEX TYPE="CON_PERSON">anh ct1557</ENAMEX> để thăm và nói chuyện (đã được cách ly).
+- Ngày <ENAMEX TYPE="CON_DATE">23/7/2020</ENAMEX>: bệnh nhân được <ENAMEX TYPE="CON_PERSON">con</ENAMEX> đưa đến <ENAMEX TYPE="LOCATION">Bệnh viện Hội An</ENAMEX> bằng xe máy để làm xét nghiệm máu.
+- Ngày <ENAMEX TYPE="CON_DATE">24-26/7/2020</ENAMEX>: bệnh nhân ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp vài người khách đến thăm gồm <ENAMEX TYPE="CON_PERSON">ông ct1558</ENAMEX>, <ENAMEX TYPE="CON_PERSON">ông ct1559</ENAMEX>, 
+<ENAMEX TYPE="CON_PERSON">ông ct1560</ENAMEX>.
+- Ngày <ENAMEX TYPE="CON_DATE">26/7/2020</ENAMEX>: bệnh nhân được <ENAMEX TYPE="CON_PERSON">con</ENAMEX> chở đến nhà <ENAMEX TYPE="CON_PERSON">ông ct1561</ENAMEX> bàn việc làm mộ.
+- Từ <ENAMEX TYPE="CON_DATE">26-29/7/2020</ENAMEX>: ông ở nhà lo tang vợ, trong quá trình có tiếp xúc với <ENAMEX TYPE="CON_PERSON">ông ct1562</ENAMEX>, và <ENAMEX TYPE="CON_PERSON">ct1563</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">30/7/2020</ENAMEX></ENAMEX>: bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">trường Thủy Lợi</ENAMEX>.

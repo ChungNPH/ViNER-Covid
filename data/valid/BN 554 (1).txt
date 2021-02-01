@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="NAME">BN 554</ENAMEX>. Giới tính: <ENAMEX TYPE="GENDER">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1983</ENAMEX>.
+- Địa chỉ:  <ENAMEX TYPE="ADDRESS">Thạch Bồ, Hòa Tiến, Hòa Vang, Đà Nẵng</ENAMEX>
+	- Ngày <ENAMEX TYPE="CON_DATE">18/7/2020</ENAMEX>: Bệnh nhân đi đám cưới tại <ENAMEX TYPE="LOCATION">nhà hàng For You</ENAMEX> và ngồi chung bàn với <ENAMEX TYPE="CON_PERSON">BN416</ENAMEX>.
+	- Từ ngày 20 đến 24/7/2020: Bệnh nhân đi làm tại <ENAMEX TYPE="LOCATION">Tổ Tổng hợp Văn phòng nhân dân UBND huyện Hòa Vang</ENAMEX>.
+	- Ngày <ENAMEX TYPE="CON_DATE">20 và 21/7/2020</ENAMEX>: Bệnh nhân tập văn nghệ cùng <ENAMEX TYPE="CON_PERSON">nhân viên Tổ Tổng hợp</ENAMEX> <ENAMEX TYPE="LOCATION">Văn phòng nhân dân UBND huyện Hòa Vang</ENAMEX> (khoảng 10 người) tại <ENAMEX TYPE="LOCATION">Sảnh Mầm non Trường Mầm non Hòa Phong 2, xã Hòa Phong, huyện Hòa Vang, thành phố Đà Nẵng</ENAMEX>.
+	- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">25/7/2020</ENAMEX></ENAMEX>: bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>, kết quả xét nghiệm COVID-19 lần 1 âm tính.
+	- Hiện tại, bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">Khu cách ly Trung tâm Y tế huyện Hòa Vang</ENAMEX>. 
+- Ngày <ENAMEX TYPE="HOS_DATE"><ENAMEX TYPE="ISO_DATE">25/7/2020</ENAMEX></ENAMEX>: bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>, kết quả xét nghiệm âm tính lần 1.
+1. Ngày 29/7/2020, Trung tâm Y tế huyện Hòa Vang tiến hành giám sát và lấy mẫu xét nghiệm. Kết quả xét nghiệm ngày <ENAMEX TYPE="POS_DATE">31/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.
