@@ -1,0 +1,14 @@
+Tên: <ENAMEX TYPE="PERSON">BN 850</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc30, phường Hải Châu 2, quận Hải Châu, Tp. Đà Nẵng </ENAMEX>
+ - Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc30, phường Hải Châu 2</ENAMEX>.
+ - Từ ngày 23/7 đến 01/8/2020, bệnh nhân đi làm tại <ENAMEX TYPE="LOCATION">bến xe Trung tâm Đà Nẵng</ENAMEX> (làm 1 ngày nghỉ 1 ngày) sau đó trở về nhà.
+ - Ngày <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX>, bệnh nhân đi làm cùng ca và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân số 654</ENAMEX> (có mang khẩu trang) (BN 654 xác định mắc COVID-19 ngày 04/8/202).
+ - Ngày 28/7 và 30/7/2020, bệnh nhân ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
+ - Ngày <ENAMEX TYPE="CONTACT_DATE">31/7/2020</ENAMEX>, bệnh nhân tiếp tục đi làm cùng ca và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân số 654</ENAMEX>.
+ - Từ ngày 01/8 và 03/8/2020, bệnh nhân ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
+ - Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">06/8/2020</ENAMEX></ENAMEX>, bệnh nhân được đưa đi <ENAMEX TYPE="LOCATION">cách ly tập trung</ENAMEX>.
+ - Ngày 10/8/2020, Trung tâm kiểm soát bệnh tật Tp. Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">10/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+ - Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
+Nguồn lây: <ENAMEX TYPE="CONTACT_PERSON">BN654</ENAMEX> (đồng nghiệp)
+Năm sinh: <ENAMEX TYPE="AGE">1965</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

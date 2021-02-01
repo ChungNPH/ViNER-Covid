@@ -1,0 +1,8 @@
+Tên: <ENAMEX TYPE="PERSON">BN 648</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn La Thọ 3, xã Điện Hoà, huyện Điện Bàn, tỉnh Quảng Nam</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">thôn La Thọ 3, xã Điện Hoà, huyện Điện Bàn, tỉnh Quảng Nam</ENAMEX>.
+ - Trong thời gian từ ngày <ENAMEX TYPE="CONTACT_DATE">01/7 đến 16/7/2020</ENAMEX>, bệnh nhân bị liệt nên chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không tiếp xúc với ai ngoại trừ <ENAMEX TYPE="CONTACT_PERSON">chị gái là L.T. T.N</ENAMEX>, không đi đến nơi khác.
+ - Ngày <ENAMEX TYPE="CONTACT_DATE">17/7 đến 22/7/2020</ENAMEX>, bệnh nhân đi cùng <ENAMEX TYPE="CONTACT_PERSON">chị gái</ENAMEX> đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>. Trong suốt thời gian này, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">Bệnh viện</ENAMEX>, tiếp xúc với chị gái, không đi đến nơi khác.
+ - Từ ngày 24/7/2020 đến ngày 03/8/2020, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, không đi đến nơi khác. Ngày 02/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân. Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">03/8/2020</ENAMEX></ENAMEX></ENAMEX> bệnh nhân có kết quả (+) với vi rút SARS-CoV-2 và được chuyển đến <ENAMEX TYPE="LOCATION">TTYT Hòa Vang</ENAMEX> để cách ly, điều trị
+Năm sinh: <ENAMEX TYPE="AGE">1972</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

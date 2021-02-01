@@ -1,0 +1,8 @@
+Tên: <ENAMEX TYPE="PERSON">BN 756</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn An Quang, xã Bình Thanh, huyện Bình Sơn, tỉnh Quảng Ngãi</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">thôn An Quang, xã Bình Thanh, huyện Bình Sơn, tỉnh Quảng Ngãi</ENAMEX>. '- Từ ngày 04/6/2020, bệnh nhân được người nhà đưa đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX> và được điều trị cho đến nay. Trong suốt quá trình điều trị, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">Bệnh viện</ENAMEX>, không đi đến nơi khác, không trở về quê.
+ - Từ ngày <ENAMEX TYPE="CONTACT_DATE">01/7 đến 12/7/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="CONTACT_PERSON">N.T.T (1974)</ENAMEX> thường xuyên chăm sóc.
+ - Ngày <ENAMEX TYPE="CONTACT_DATE">13/7/2020</ENAMEX>, N.T.T trở về tỉnh Quảng Ngãi và thường trú tại xã Bình Trị, Bình Sơn, Quảng Ngãi cùng <ENAMEX TYPE="CONTACT_PERSON">con gái là N.T.Q.C</ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CONTACT_DATE">13/7 đến 01/8/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="CONTACT_PERSON">anh trai là N.V.Q</ENAMEX> thường xuyên chăm sóc. Ngày 06/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">07/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2. Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1985</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

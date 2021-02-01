@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 452</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>. 
+- Sinh năm: <ENAMEX TYPE="AGE">1968</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Điện Trung, Điện Bàn, Quảng Nam</ENAMEX>
+- 10/7-29/7/2020: Bệnh nhân nằm điều trị bệnh mạch vành tại <ENAMEX TYPE="LOCATION">phòng 402, tầng 4 Trung tâm tim mạch- Bệnh viện Đà Nẵng</ENAMEX>;
+- Trong thời gian trên chỉ ở trong phòng không đi ra ngoài, <ENAMEX TYPE="CONTACT_PERSON">điều dưỡng Bệnh viện</ENAMEX> mua cơm tới cho bệnh nhân, con trai có tới thăm nhưng không tiếp xúc trực tiếp do con trai tới chỉ đến để làm giấy tờ và các thủ tục ở Bệnh viện;
+- Tối ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">29/7</ENAMEX></ENAMEX> được chuyển đến <ENAMEX TYPE="LOCATION">khu điều trị Bệnh viện Phổi Đà Nẵng</ENAMEX>
+1. Ngày 28/7/2020, Bệnh viện Đà Nẵng tiến hành giám sát và lấy mẫu xét nghiệm. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE">29/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

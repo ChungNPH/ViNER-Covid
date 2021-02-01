@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 635</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1942</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Ngọc Sơn Tây, xã Bình Phục, huyện Thăng Bình, tỉnh Quảng Nam</ENAMEX>
+- Những người trong gia đình có tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">con gái ct13</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con rể ct14</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">cháu ct15</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">cháu ct16</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">16/7/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="CONTACT_PERSON">con gái ct17</ENAMEX> đưa đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thận - Tiết niệu, bệnh viện C Đà Nẵng</ENAMEX>. Trong khoảng thời gian này, chỉ có con gái ct18 đến chăm sóc cho bệnh nhân.
+- Ngày 23/7/2020, bệnh nhân xuất viện về <ENAMEX TYPE="LOCATION">nhà tại thôn Ngọc Sơn Tây, xã Bình Phục, huyện Thăng Bình, tỉnh Quảng Nam</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>, bệnh nhân từ nhà tại thôn Ngọc Sơn Tây, xã Bình Phục, huyện Thăng Bình, tỉnh Quảng Nam ra nhà <ENAMEX TYPE="CONTACT_PERSON">con gái ct18</ENAMEX> tại <ENAMEX TYPE="LOCATION">địa chỉ loc24, phường Hòa An, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>.
+- Sau đó trong ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7/2020</ENAMEX></ENAMEX>, cả gia đình bệnh nhân được đưa đi cách ly gồm: bệnh nhân ct20, con gái ct21, con rể ct14, cháu ct15, cháu ct16.
+- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">03/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

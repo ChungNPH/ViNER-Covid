@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 426</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>. 
+- Sinh năm: <ENAMEX TYPE="AGE">1958</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS"> xã Hoà Khương, huyện Hoà Vang, thành phố Đà Nẵng</ENAMEX>.
+	Hiện tại bệnh nhân đang ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> với <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> tại địa chỉ ở xã Hoà Khương, huyện Hoà Vang, thành phố Đà Nẵng.
+	Tối ngày <ENAMEX TYPE="SYMPTOMS_DATE">17/7/2020</ENAMEX>, bệnh nhân khó thở, mệt nhiều nên đến khám và được điều trị tại <ENAMEX TYPE="LOCATION">Khoa Thận nhân tạo, bệnh viện Đà Nẵng</ENAMEX>.
+	Ngày <ENAMEX TYPE="POSITIVE_DATE">26/7/2020</ENAMEX> bệnh nhân xuất hiện triệu chứng ho và được xét nghiệm dịch hầu họng cho kết quả (+) với vi rút SARS-CoV-2.
+	Chiều ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX></ENAMEX> bệnh nhân được đưa vào cách ly tại <ENAMEX TYPE="LOCATION">khoa Nội Thận - Tiết niệu, bệnh viện Đà Nẵng</ENAMEX>.
+	- Trong vòng 14 ngày qua bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và đến điều trị tại <ENAMEX TYPE="LOCATION">khoa Nội Thận - Tiết niệu, bệnh viện Đà Nẵng</ENAMEX>.
+1. Ngày 26/7/2020, Bệnh viện Đà Nẵng đã thực hiện lấy mẫu gửi đến Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE">27/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

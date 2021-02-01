@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 479</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1933</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc40, thị trấn Sông Vệ, huyện Tư Nghĩa, tỉnh Quảng Ngãi</ENAMEX>
+- Bệnh nhân ở nhà cùng <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> tại <ENAMEX TYPE="LOCATION">địa chỉ loc40, thị trấn Sông Vệ, huyện Tư Nghĩa, tỉnh Quảng Ngãi</ENAMEX>.
+- Ngày 18/6/2020 bệnh nhân được <ENAMEX TYPE="LOCATION">bệnh viện Đa khoa Quảng Ngãi</ENAMEX> chuyển đến <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>. Sau đó bệnh nhân nhập viện vào <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng (phòng 605)</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">18/6/2020</ENAMEX> bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>, không đi đến nơi nào khác. Các người con thay nhau chăm sóc trong đó có anh <ENAMEX TYPE="CONTACT_PERSON">ct26</ENAMEX>.
+- Ngày 28/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của Trung tâm Y tế huyện Hòa Vang</ENAMEX>.

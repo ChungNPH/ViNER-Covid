@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 705</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1961</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc173, phường An Hải Bắc, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX> 
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại địa chỉ <ENAMEX TYPE="LOCATION">loc173, phường An Hải Bắc, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX></ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">16/7/2020</ENAMEX> đến 31/7/2020, bệnh nhân chỉ ở nhà và đến các nhà lân cận trong xóm (không nhớ tên), không đi đến nơi khác.
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">01/8/2020</ENAMEX></ENAMEX>, cả nhà bệnh nhân được đưa đi cách ly.
+- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">04/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

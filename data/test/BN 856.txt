@@ -1,0 +1,13 @@
+Tên: <ENAMEX TYPE="PERSON">BN 856</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc154, phường Hoà Minh, quận Liên Chiểu, Tp. Đà Nẵng </ENAMEX>
+ - Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc154, phường Hoà Minh</ENAMEX>.
+ - Sáng ngày <ENAMEX TYPE="CONTACT_DATE">12/7/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">anh trai N.V.Đ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">chị gái N.T.Đ</ENAMEX> đưa <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX> đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Tim mạch, Bệnh viện Đà Nẵng</ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CONTACT_DATE">20/7 đến 31/7/2020</ENAMEX>, bệnh nhân thường xuyên đến <ENAMEX TYPE="LOCATION"><ENAMEX TYPE="CONTACT_PERSON">nhà anh trai</ENAMEX> (tại đường Lương Khánh Thiện, quận Liên Chiểu)</ENAMEX> để làm việc.
+ - Từ ngày <ENAMEX TYPE="CONTACT_DATE">31/7 đến 08/8/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">nhà anh trai</ENAMEX> (2 lần nhưng không nhớ rõ ngày) để làm việc, có lấy vật tư về nhà làm và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình anh trai</ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CONTACT_DATE">20/7 đến 10/8/2020</ENAMEX>, hằng ngày có <ENAMEX TYPE="CONTACT_PERSON">chị gái N.T.S</ENAMEX> thường xuyên đến chơi và nấu ăn cho bệnh nhân rồi trở về nhà.
+ - Từ ngày <ENAMEX TYPE="CONTACT_DATE">25/7 đến 27/7/2020</ENAMEX> (không nhớ rõ ngày), có <ENAMEX TYPE="CONTACT_PERSON">chú bệnh nhân là N.V.S</ENAMEX> ở phường Xuân Hà, quận Thanh Khê, đến thăm.
+ - Ngày 09/8/2020, bệnh nhân cùng gia đình được lấy mẫu xét nghiệm dịch hầu họng tại <ENAMEX TYPE="LOCATION">cộng đồng ở đường Hồ Quý Ly, quận Liên Chiểu</ENAMEX>.
+ - Khoảng 08 giờ ngày <ENAMEX TYPE="CONTACT_DATE">10/8/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">nhà cậu L</ENAMEX> nhưng không vào nhà chỉ đứng ở ngoài nói chuyện sau đó đến <ENAMEX TYPE="LOCATION">nhà anh Đ</ENAMEX> để thắp hương (tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">anh Đ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">vợ của anh Đ</ENAMEX>) tại <ENAMEX TYPE="LOCATION">đường Trần Cao Vân (không nhớ số nhà)</ENAMEX>, sau đó bệnh nhân có đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">cậu là N.V.Đ</ENAMEX> (loc156)</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">chú N.V.S</ENAMEX> (không nhớ rõ địa chỉ).
+ - Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">11/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2.
+Năm sinh: <ENAMEX TYPE="AGE">1990</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

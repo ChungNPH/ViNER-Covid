@@ -1,0 +1,10 @@
+Tên: <ENAMEX TYPE="PERSON">BN 765</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc62, thôn Đông Nà,xã Cẩm Hà, thành phốHội An, tỉnh Quảng Nam</ENAMEX>
+ - Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">con trai là Đ.A.T</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc62, thôn Đông Nà, xã Cẩm Hà, thành phố Hội An, tỉnh Quảng Nam</ENAMEX>.
+ - Khoảng đầu tháng <ENAMEX TYPE="CONTACT_DATE">02/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> đưa đến khám và điều trị ngoại trú tại <ENAMEX TYPE="LOCATION">Khoa Nội Thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>, sau đó trở về <ENAMEX TYPE="LOCATION">nhà tại thành phố Hội An</ENAMEX>.
+ - Ngày 24/7/2020, bệnh nhân đến chạy thận tại <ENAMEX TYPE="LOCATION">Khoa Nội Thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX> sau đó trở về nhà, không đi đến nơi khác.
+ - Từ ngày <ENAMEX TYPE="CONTACT_DATE">25/7 đến 27/7/2020</ENAMEX>, bệnh nhân ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX>, không đi đến nơi khác.
+ - Từ ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7</ENAMEX></ENAMEX> đến 05/8/2020, bệnh nhân tiếp tục đến <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> để chạy thận (02 lần/tuần), sau đó được đưa về khu cách ly tập trung.
+ - Ngày 06/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">07/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2. Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1944</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

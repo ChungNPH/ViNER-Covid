@@ -1,0 +1,7 @@
+    • Họ tên: <ENAMEX TYPE="PERSON">BN 624</ENAMEX> (mẹ BN 548)		
+    • Năm sinh: <ENAMEX TYPE="AGE">1951</ENAMEX>                  	- Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+    • Nơi lưu trú tại Quảng Nam: <ENAMEX TYPE="ADDRESS">khối Thịnh Mỹ - phường Cẩm An - TP Hội An</ENAMEX>
+- Ngày 7/7/2020: trường hợp nhập viện điều trị tại <ENAMEX TYPE="LOCATION">phòng 607 khoa Nội - Thận - Nội tiết Bệnh viện Đa khoa Đà Nẵng</ENAMEX>;
+- Ngày 25/7/2020: xuất viện và được đưa về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> bằng xe bệnh viện;
+- Trường hợp yếu liêt nằm một chỗ được <ENAMEX TYPE="CONTACT_PERSON">con cái</ENAMEX> chăm nuôi, có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">người đến thăm (hiện tại đã được cách ly)</ENAMEX>;
+(Chiều nay, sẽ chuyển <ENAMEX TYPE="LOCATION">BV Đa khoa Trung ương Quảng Nam để điều trị</ENAMEX>)

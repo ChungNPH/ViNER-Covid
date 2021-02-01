@@ -1,0 +1,29 @@
+Tên: <ENAMEX TYPE="PERSON">BN 1011</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc223, phường Thạc Gián, quận Thanh Khê, TP Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc223, phường Thạc Gián, quận Thanh Khê, TP Đà Nẵng</ENAMEX></ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">06/8</ENAMEX> đến 20/8/2020: bệnh nhân  tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">ông ct385</ENAMEX>, là nhân viên giữ xe, <ENAMEX TYPE="CONTACT_PERSON">chị L (tiểu thương bán xoa xoa)</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">chị C (tiểu thương bán gia vị)</ENAMEX> và khoảng từ 10 - 20 người khách. Sau khi bán hàng xong, bệnh nhân tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">ct386 là người dọn hàng</ENAMEX>.
++ Khoảng từ 16 giờ đến 17 giờ hằng ngày, bệnh nhân  tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">chị gái (cư trú tại loc225, phường Hòa Minh, quận Liên Chiểu)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">mẹ ct387</ENAMEX>, mua đậu khuôn của <ENAMEX TYPE="CONTACT_PERSON">chị ct388</ENAMEX> tại lô 132/7 của chợ Cồn.
+- Tại <ENAMEX TYPE="LOCATION">chợ Tân Lập</ENAMEX> và <ENAMEX TYPE="LOCATION">chợ Cồn</ENAMEX>, bệnh nhân tiếp xúc với người đo thân nhiệt hằng ngày. Ngoài ra:
++ Từ ngày <ENAMEX TYPE="CONTACT_DATE">12/8</ENAMEX> đến 15/8/2020, tại <ENAMEX TYPE="LOCATION">chợ Tân Lập</ENAMEX>, bệnh nhân đến mua cá ở <ENAMEX TYPE="LOCATION">quầy đối diện quầy <ENAMEX TYPE="CONTACT_PERSON">chị ct389</ENAMEX></ENAMEX> (không nhớ rõ tên người bán). 
++ Ngày <ENAMEX TYPE="CONTACT_DATE">16/8</ENAMEX>, 17/8, 18/8/2020 (không nhớ rõ ngày), bệnh nhân đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">bà ct390</ENAMEX></ENAMEX> để trả tiền rau và đến mua bột bánh canh tại <ENAMEX TYPE="LOCATION">quầy <ENAMEX TYPE="CONTACT_PERSON">chị ct391 ở chợ Tân Lập</ENAMEX></ENAMEX> (không nhớ rõ lô).
+- Ngày 17/8, 18/8 và 19/8/2020, khoảng từ 07 giờ đến 13 giờ, bệnh nhân đến bán tại <ENAMEX TYPE="LOCATION">chợ Tân Lập</ENAMEX> sau đó trở về nhà và khoảng từ 16 giờ đến 17 giờ, bệnh nhân đến bán tại <ENAMEX TYPE="LOCATION">chợ Cồn</ENAMEX> như bình thường. Ngoài ra, vào ngày 18/8 hoặc 19/8/2020 (không nhớ rõ ngày), bệnh nhân đến mua gà của 01 người bán hàng rong trong <ENAMEX TYPE="LOCATION">chợ Cồn</ENAMEX> (không nhớ rõ tên).
+- Ngày <ENAMEX TYPE="CONTACT_DATE">20/8/2020</ENAMEX>: bệnh nhân tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">chị ct392</ENAMEX>. Sau đó, bệnh nhân tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">chị ct393</ENAMEX> và được lấy mẫu dịch hầu họng (lần 1). Đến khoảng 15 giờ cùng ngày, bệnh nhân trở về nhà.
++ Khoảng từ 16 giờ đến 17 giờ Ngày <ENAMEX TYPE="CONTACT_DATE">20/8/2020</ENAMEX>, bệnh nhân đến bán tại <ENAMEX TYPE="LOCATION">chợ Cồn</ENAMEX> như bình thường, tại đây, bệnh nhân mua rau của <ENAMEX TYPE="CONTACT_PERSON">chị ct391</ENAMEX> và mua đậu khuôn của <ENAMEX TYPE="CONTACT_PERSON">chị ct395</ENAMEX>.
+- Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">21/8/2020</ENAMEX></ENAMEX></ENAMEX></ENAMEX>,  bệnh nhân mua giấy ướt tại <ENAMEX TYPE="LOCATION">quầy của <ENAMEX TYPE="CONTACT_PERSON">chị ct396</ENAMEX></ENAMEX> Đến tối cùng ngày có kết quả xét nghiệm khẳng định (+) với vi rút SARS-CoV-2.
+- Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế Hòa Vang</ENAMEX>.
+* Danh sách các tiểu thương xung quanh lô bán hàng của bệnh nhân tại chợ Cồn: <ENAMEX TYPE="CONTACT_PERSON">ct397</ENAMEX>;.
+- Danh sách các tiểu thương xung quanh lô bán hàng của bệnh nhân tại chợ Cồn: <ENAMEX TYPE="CONTACT_PERSON">ct398</ENAMEX>;.
+- Danh sách các tiểu thương xung quanh lô bán hàng của bệnh nhân tại chợ Cồn: <ENAMEX TYPE="CONTACT_PERSON">ct399</ENAMEX>;.
+- Danh sách các tiểu thương xung quanh lô bán hàng của bệnh nhân tại chợ Cồn: <ENAMEX TYPE="CONTACT_PERSON">ct400</ENAMEX>;.
+- Danh sách các tiểu thương xung quanh lô bán hàng của bệnh nhân tại chợ Cồn: <ENAMEX TYPE="CONTACT_PERSON">ct401</ENAMEX>;.
+- Danh sách các tiểu thương xung quanh lô bán hàng của bệnh nhân tại chợ Cồn: <ENAMEX TYPE="CONTACT_PERSON">ct402</ENAMEX>;.
+- Danh sách các tiểu thương xung quanh lô bán hàng của bệnh nhân tại chợ Cồn: <ENAMEX TYPE="CONTACT_PERSON">ct403</ENAMEX>;.
+- Danh sách các tiểu thương xung quanh lô bán hàng của bệnh nhân tại chợ Cồn: <ENAMEX TYPE="CONTACT_PERSON">ct404</ENAMEX>;.
+- Danh sách các tiểu thương xung quanh lô bán hàng của bệnh nhân tại chợ Cồn: <ENAMEX TYPE="CONTACT_PERSON">ct405</ENAMEX>;.
+- Danh sách các tiểu thương xung quanh lô bán hàng của bệnh nhân tại chợ Cồn: <ENAMEX TYPE="CONTACT_PERSON">ct406</ENAMEX>;.
+- Danh sách các tiểu thương xung quanh lô bán hàng của bệnh nhân tại chợ Cồn: <ENAMEX TYPE="CONTACT_PERSON">ct407</ENAMEX>;.
+- Danh sách các tiểu thương xung quanh lô bán hàng của bệnh nhân tại chợ Cồn: <ENAMEX TYPE="CONTACT_PERSON">ct408</ENAMEX>;.
+- Danh sách các tiểu thương xung quanh lô bán hàng của bệnh nhân tại chợ Cồn: <ENAMEX TYPE="CONTACT_PERSON">ct409</ENAMEX>;.
+- Danh sách các tiểu thương xung quanh lô bán hàng của bệnh nhân tại chợ Cồn: <ENAMEX TYPE="CONTACT_PERSON">ct410</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1982</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

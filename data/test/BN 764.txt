@@ -1,0 +1,8 @@
+Tên: <ENAMEX TYPE="PERSON">BN 764</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc66, phường Hòa Thuận Đông, quận Hải Châu, TP Đà Nẵng.</ENAMEX>
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">vợ T.T.K.Q</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con trai T.T</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con dâu N.T.M </ENAMEX>và <ENAMEX TYPE="CONTACT_PERSON">cháu nội</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc66, phường Hòa Thuận Đông, quận Hải Châu, TP Đà Nẵng</ENAMEX>.
+ - Từ ngày 01/7/2020 đến 13/7/2020 bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>. Thời gian này, ngoài vợ bệnh nhân chăm sóc bệnh nhân, còn có con dâu vào thăm.
+ - Ngày 15/7/2020 bệnh nhân bị té nên nhập viện <ENAMEX TYPE="LOCATION">Khoa cấp cứu, Bệnh viện Đà Nẵng</ENAMEX>, sau đó chuyển qua điều trị tại <ENAMEX TYPE="LOCATION">Khoa Nội thận - Nội tiết</ENAMEX> cho đến ngày <ENAMEX TYPE="CONTACT_DATE">28/7/2020</ENAMEX>. Thời gian này, chỉ có <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> bệnh nhân chăm sóc bệnh nhân.
+ - Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7/2020</ENAMEX></ENAMEX> bệnh nhân sau khi chạy thận xong thì được chuyển đi cách ly tại <ENAMEX TYPE="LOCATION">khách sạn Luna Diamond, đường Hồ Nghinh, phường Phước Mỹ, quận Sơn trà, TP Đà Nẵng</ENAMEX>. Ngày 06/8/2020 bệnh nhân được xét nghiệm dịch hầu họng, ngày <ENAMEX TYPE="POSITIVE_DATE">07/8/2020</ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đi cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1953</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

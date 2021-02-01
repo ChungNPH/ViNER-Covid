@@ -1,0 +1,15 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 420</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>. 
+- Sinh năm: <ENAMEX TYPE="AGE">1949</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc93, phường Hòa Cường Nam, quận Hải Châu, thành phố Đà Nẵng</ENAMEX>.
+	- Từ <ENAMEX TYPE="CONTACT_DATE">21/6/2020 đến 08/7/2020</ENAMEX> bệnh nhân vào <ENAMEX TYPE="LOCATION">thành phố Hồ Chí Minh</ENAMEX> thăm <ENAMEX TYPE="CONTACT_PERSON">con gái</ENAMEX> ở <ENAMEX TYPE="LOCATION">chung cư tại địa chỉ: loc94 phường 5, quận 11, thành phố Hồ Chí Minh</ENAMEX>. Ngày 08/7/2020 bệnh nhân trở về <ENAMEX TYPE="LOCATION">thành phố Đà Nẵng</ENAMEX>.
+	- Bệnh nhân hiện đang sống chung với <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con dâu</ENAMEX> tại địa chỉ số loc95, phường Hòa Cường Nam, quận Hải Châu, thành phố Đà Nẵng.
+- Bệnh nhân khai trong những ngày này có cùng chồng đến <ENAMEX TYPE="LOCATION">chợ Đầu mối</ENAMEX> để mua sắm. <ENAMEX TYPE="CONTACT_DATE">(8-12/7)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con dâu</ENAMEX> đi chợ chính, 2-3 lần.
+- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">12/7/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng sốt và đau ngực.
+	- Trong thời gian này, bệnh nhân có đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">em ruột (ct55</ENAMEX></ENAMEX> tại địa chỉ loc96, phường Hòa Cường Nam, quận Hải Châu, thành phố Đà Nẵng, 1 tiếng <ENAMEX TYPE="CONTACT_PERSON">vợ em ruột</ENAMEX>.
+- Ngày 16/7/2020, chồng bệnh nhân đến mua thuốc tại <ENAMEX TYPE="LOCATION">nhà thuốc Cẩm Tú</ENAMEX>, địa chỉ: 556 Hoàng Diệu, Hòa Thuận Đông, Đà Nẵng.
+- Sau khi dùng thuốc 5 ngày không cải thiện triệu chứng, ngày <ENAMEX TYPE="CONTACT_DATE">21/7/2020</ENAMEX> bệnh nhân vào <ENAMEX TYPE="LOCATION">bệnh viện C</ENAMEX> với <ENAMEX TYPE="CONTACT_PERSON">người nhà</ENAMEX> khám tại khoa Khám bệnh sau đó xin về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, chụp tim, nhập viện. Tối về mệt mệt. 
+Lúc này có <ENAMEX TYPE="CONTACT_PERSON">3 người họ hàng ở ct56, phường Hòa Thuận, thành phố Tam Kỳ, tỉnh Quảng Nam)<END></ENAMEX> ra thăm.
+- Sáng ngày <ENAMEX TYPE="HOSPITALIZE_DATE">22/7/2020</ENAMEX> bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">bệnh viện C</ENAMEX>.
+- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">21/7/2020</ENAMEX>, bệnh nhân sốt, ho, đau ngực nên đến khám tại <ENAMEX TYPE="LOCATION">Bệnh viện C Đà Nẵng tại Khoa Khám bệnh</ENAMEX> nhưng sau đó xin về nhà.
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE">22/7/2020</ENAMEX>, bệnh nhân nhập viện tại <ENAMEX TYPE="LOCATION">Bệnh viện C Đà Nẵng</ENAMEX>. Tình trạng bệnh nhân lúc nhập viện:
+1. Ngày 25/7/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng đã phối hợp với Bệnh viện C Đà Nẵng tiến hành giám sát và lấy mẫu xét nghiệm. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="ISOLATION_DATE">26/7/2020</ENAMEX></ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

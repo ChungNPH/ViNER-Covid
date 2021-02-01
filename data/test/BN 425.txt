@@ -1,0 +1,13 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 425</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>. 
+- Sinh năm: <ENAMEX TYPE="AGE">1996</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc4, xã Điện Hòa, huyện Điện Bàn, tỉnh Quảng Nam</ENAMEX>
+- Ngày <ENAMEX TYPE="CONTACT_DATE">23/7/2020</ENAMEX>, bệnh nhân tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">các nhân viên y tế có tiếp xúc gần với ca bệnh 418</ENAMEX>, không tiếp xúc trực tiếp với ca bệnh 418.
+- Tối ngày <ENAMEX TYPE="CONTACT_DATE">23/7/2020</ENAMEX>, bệnh nhân về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> ăn tối với <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại loc5, xã Điện Hòa, huyện Điện Bàn, tỉnh Quảng Nam.
+- Sáng ngày 24/7/2020, bệnh nhân lên <ENAMEX TYPE="LOCATION">khoa Hồi sức tích cực</ENAMEX> làm việc.
+- Trưa ngày <ENAMEX TYPE="CONTACT_DATE">24/7/2020</ENAMEX>, bệnh nhân có qua <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">đồng nghiệp</ENAMEX> tại địa chỉ: đường Trần Cao Vân</ENAMEX>.
+- Chiều ngày 24/7/2020, bệnh nhân đi <ENAMEX TYPE="LOCATION">InterContinental Đà Nẵng Sun Peninsula Resort, quận Sơn Trà, TP. Đà Nẵng cùng đoàn Bệnh viện Đà Nẵng</ENAMEX>.
+- Tối ngày 24/7/2020, bệnh nhân ăn tối tại <ENAMEX TYPE="LOCATION">nhà hàng Cua Biển - 112 Võ Nguyên Giáp, phường Phước Mỹ, quận Sơn Trà, TP. Đà Nẵng</ENAMEX>.
+- Trưa ngày 25/7/2020, bệnh nhân ăn trưa tại <ENAMEX TYPE="LOCATION">Khách sạn Công đoàn - 2 Ông Ích Khiêm, phường Thanh Bình, quận Hải Châu, TP. Đà Nẵng</ENAMEX>.
+- Chiều ngày 25/7/2020, bệnh nhân về <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> làm việc.
+- Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">26/7/2020</ENAMEX></ENAMEX></ENAMEX> bệnh nhân được xét nghiệm dịch hầu họng làm xét nghiệm và cho kết quả  (+) với vi rút SARS-CoV-2, sau đó được cách ly tại <ENAMEX TYPE="LOCATION">Khòa Y học Nhiệt đới , bệnh viện Đà Nẵng cho đến nay</ENAMEX>.
+1. Ngày 26/7/2020, Bệnh viện Đà Nẵng đã thực hiện lấy mẫu gửi đến Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE">27/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

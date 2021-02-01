@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 718</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1953</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc399, tổ 58, phường Khuê Trung, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng gia đình tại <ENAMEX TYPE="LOCATION">địa chỉ loc399, tổ 58, phường Khuê Trung, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>.
+- Những người trong gia đình tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">con (ct1263)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con (ct1264)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con (ct1265)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">cháu (ct1266)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">cháu (ct1267)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">cháu (ct1268)</ENAMEX>.
+- Bệnh nhân có tiền sử đái tháo đường tuýp 2, đa u tủy; được điều trị thường xuyên tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> trong khoảng 5 tháng trở lại đây.
+- Khoảng hơn 1 tháng trở lại đây, bệnh nhân được điều trị tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>, trong suốt thời gian này, bệnh nhân ở <ENAMEX TYPE="LOCATION">bệnh viện</ENAMEX>, không về nhà, không đi đến nơi khác, được <ENAMEX TYPE="CONTACT_PERSON">con trai (ct1269)</ENAMEX> thường xuyên chăm sóc tại <ENAMEX TYPE="LOCATION">bệnh viện</ENAMEX> và không về nhà.
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">26/7/2020</ENAMEX></ENAMEX>, bệnh nhân được chuyển đến cách ly, điều trị tại <ENAMEX TYPE="LOCATION">bệnh viện Đa khoa Gia Đình Đà Nẵng</ENAMEX>. Trong thời gian này bệnh nhân cũng chỉ ở <ENAMEX TYPE="LOCATION">bệnh viện</ENAMEX>, không về nhà, không đi đến nơi khác.
+- Ngày 03/8/2020, tình trạng bệnh nhân tiến triển xấu nên được chuyển đến <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày 04/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">05/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2 (bệnh nhân là ca bệnh thứ 10 đã tử vong).

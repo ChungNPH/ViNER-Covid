@@ -1,0 +1,12 @@
+Tên: <ENAMEX TYPE="PERSON">BN 853</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">Chung cư A3 Vũng Thùng, phường Nại Hiên Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>
+ - Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">mẹ P.T.N.B</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">bà ngoại H.T.E</ENAMEX> tại <ENAMEX TYPE="LOCATION">chung cư A3 Vũng Thùng, phường Nại Hiên Đông</ENAMEX>.
+ - Từ đầu tháng 7 (thời gian nghỉ hè), bệnh nhân chủ yếu <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi học thêm.
+ - Sáng ngày 26/7 và 27/7/2020, bệnh nhân đến mua bánh mỳ ở phía <ENAMEX TYPE="LOCATION">dưới sảnh chung cư</ENAMEX> (không rõ những người đã tiếp xúc).
+ - Từ ngày 28/7 đến 09/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX> với bà <ENAMEX TYPE="CONTACT_PERSON">ngoại</ENAMEX>, không đi đến nơi khác, không tiếp xúc với người khác.
+ - Chung cư A3 Vũng Thùng có bệnh nhân số 802 (xác định mắc COVID-19 ngày 8/8/2020). Trước khi được xét nghiệm (+) với vi rút SARS-CoV-2, bệnh nhân số 802 khai thỉnh thoảng có xuống <ENAMEX TYPE="LOCATION">sảnh chung cư A3 Vũng Thùng (cạnh khu xe ô tô)</ENAMEX> để tập thể dục (không nhớ rõ ngày) và không nhớ rõ các đối tượng đã tiếp xúc trong khu chung cư.
+ - Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">10/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2.
+ - Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
+Nguồn lây: Có khả năng <ENAMEX TYPE="CONTACT_PERSON">BN802</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">2006</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

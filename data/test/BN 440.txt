@@ -1,0 +1,16 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 440</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1980</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn Hòa Hữu Tây, xã Đại Hồng, huyện Đại Lộc, tỉnh Quảng Nam</ENAMEX>
+	- Ngày <ENAMEX TYPE="CONTACT_DATE">14 - 20/7/2020</ENAMEX>: Bệnh nhân chăm <ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX> tại <ENAMEX TYPE="LOCATION">tầng 3 Khoa Hồi sức tích cực – chống độc, Bệnh viện Đà Nẵng</ENAMEX>. 
+- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">18/7/2020</ENAMEX>: Bệnh nhân cảm thấy mệt, đau cổ, đau rát mũi, đau đầu, đau mỏi lưng nên vào khám tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày 20/7/2020: Bệnh nhân tái khám <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày 21/7/2020: Bệnh nhân về <ENAMEX TYPE="LOCATION">quê tại Đại Hồng, Đại Lộc</ENAMEX> 2 ngày. Chồng ra thay bệnh nhân chăm sóc con.
+- Ngày 23/7/2020: Bệnh nhân trở lại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>. Chồng bệnh nhân về lại quê.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">23/7/2020 đến 26/7/2020</ENAMEX>: Bệnh nhân chăm <ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX> tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>. Trong khoảng thời gian này, bệnh nhân di chuyển các địa điểm sau: 
++ <ENAMEX TYPE="LOCATION">Căn tin bệnh viện Đà Nẵng</ENAMEX>
++ Mua đồ chay tại <ENAMEX TYPE="LOCATION">quán Tâm Phúc - 132 Quang Trung</ENAMEX>
++ Uống <ENAMEX TYPE="LOCATION">café quán 142 đường Quang Trung</ENAMEX>
++ Vào <ENAMEX TYPE="LOCATION">quán mỳ Quảng Túy Loan đường Quang Trung</ENAMEX>
++ Mang đồ đi giặt tại <ENAMEX TYPE="LOCATION">95 Hải Phòng, Hải Châu, Đà Nẵng</ENAMEX>
+- Tối ngày 25/7/2020: Bệnh nhân mua đồ tại <ENAMEX TYPE="LOCATION">Siêu thị Vinmart, 114 Quang Trung, Thạch Thang, Hải Châu, Đà Nẵng</ENAMEX>
+1. Ngày 27/7/2020, Bệnh viện Đà Nẵng lấy mẫu xét nghiệm Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7/2020</ENAMEX></ENAMEX></ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

@@ -1,0 +1,11 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 663</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">2008</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc296, phường An Hải Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>
+- Bệnh nhân ở nhà tại <ENAMEX TYPE="LOCATION">địa chỉ loc296, phường An Hải Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX> cùng <ENAMEX TYPE="CONTACT_PERSON">bố (ct790)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">mẹ (ct791)</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">em (ct792)</ENAMEX>.
+- Ngoài những người trong gia đình đã nêu trên, còn <ENAMEX TYPE="CONTACT_PERSON">những người bên nhà ông, bà ngoại tại địa chỉ loc298, phường An Hải Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX> cũng tiếp xúc gần với bệnh nhân gồm: <ENAMEX TYPE="CONTACT_PERSON">ông ngoại (ct793)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">bà ngoại</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">cậu</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">dì (ct794)</ENAMEX> là bệnh nhân 503 và <ENAMEX TYPE="CONTACT_PERSON">1 cháu (1 tháng tuổi)</ENAMEX>.
+- Từ lúc được nghỉ hè <ENAMEX TYPE="CONTACT_DATE">11/7/2020</ENAMEX>, bệnh nhân chỉ ở nhà và qua <ENAMEX TYPE="CONTACT_PERSON"><ENAMEX TYPE="LOCATION">nhà ông, bà ngoại tại địa chỉ loc298, phường An Hải Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX></ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX>, bệnh nhân bị tai nạn gãy tay Sau đó được <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX> đưa đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Hải Châu</ENAMEX>.
+- Ngày 29/7 và 30/7/2020, bệnh nhân được phẫu thuật và tiếp tục điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Hải Châu</ENAMEX>.
+- Trong thời gian điều trị tại Trung tâm y tế quận Hải Châu, bệnh nhân chỉ ở trong bệnh viện, được <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX> chăm sóc, không đi đến nơi khác.
+- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">03/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Hải Châu</ENAMEX>.

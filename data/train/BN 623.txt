@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 623</ENAMEX>                           Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1937</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">khối Quảng Hậu, phường Điện Nam Trung, Thị xã Điện Bàn, tỉnh Quảng Nam</ENAMEX> 
+- <ENAMEX TYPE="CONTACT_DATE">Ngày 27/07/2020</ENAMEX>: khoảng lúc 08 giờ sáng, trường hợp mệt được <ENAMEX TYPE="CONTACT_PERSON">cháu</ENAMEX> chở đến <ENAMEX TYPE="LOCATION">Bệnh viện Đa Khoa Vĩnh Đức khám (BN433 điều trị tại BV này từ ngày 25/7 – 27/7)</ENAMEX>. Bác sĩ chẩn đoán thiếu máu đề nghị nhập viện, tuy nhiên không nhập viện và về lại <ENAMEX TYPE="LOCATION">nhà tại khối Quảng Hậu</ENAMEX>;
+- Chiều <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="CONTACT_DATE">27/07/2020</ENAMEX></ENAMEX>: có dấu hiệu mệt, sốt nên <ENAMEX TYPE="CONTACT_PERSON">người thân</ENAMEX> thuê xe dịch vụ tại địa phương chở đến <ENAMEX TYPE="LOCATION">khoa cấp cứu Bệnh viện Đa khoa Khu vực Quảng Nam (BN524 điều trị tại BV này từ 25 – 29/7/2020)</ENAMEX>. Sau đó được chuyển lên <ENAMEX TYPE="LOCATION">khoa Nội A</ENAMEX>; 
+- Tối ngày 27/07/2020 lúc 23 giờ: được chuyển lên <ENAMEX TYPE="LOCATION">khoa Hồi sức tích cực – chống độc</ENAMEX>; 
+- Hàng ngày có <ENAMEX TYPE="CONTACT_PERSON">cháu</ENAMEX> từ chăm tại bệnh viện. Từ đó đến nay trường hợp chỉ ở tại <ENAMEX TYPE="LOCATION">bệnh viện</ENAMEX>, không về nhà. Chỉ có <ENAMEX TYPE="CONTACT_PERSON">cháu</ENAMEX> đến chăm rồi về và <ENAMEX TYPE="CONTACT_PERSON">vợ chồng 2 em chú bác</ENAMEX> đến thăm;  
+- Ngày 01/08/2020: được <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Khu vực Quảng Nam</ENAMEX> lấy mẫu xét nghiệm. Ngày <ENAMEX TYPE="POSITIVE_DATE">02/08/2020</ENAMEX> có kết quả dương lần 1;  
+- Tối <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">02/08/2020</ENAMEX></ENAMEX>: bệnh nhân được chuyển ra <ENAMEX TYPE="LOCATION">bệnh viện TW Huế</ENAMEX>. 

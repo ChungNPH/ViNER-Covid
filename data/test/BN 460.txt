@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 460</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>. 
+- Sinh năm: <ENAMEX TYPE="AGE">1971</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn Đức Hòa, xã Đại Nghĩa, huyện Đại Lộc, tỉnh Quảng Nam</ENAMEX>.
+	- Ngày <ENAMEX TYPE="CONTACT_DATE">18/6 - 20/7/2020</ENAMEX>: chăm <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khoa Hồi sức tích cực - Bệnh viện Đà Nẵng</ENAMEX>; Trong quá trình chăm sóc chồng thường xuyên về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> ăn tối, tắm rửa rồi đi lại; 
+- Ngày 21/7/2020: đưa chồng về tại <ENAMEX TYPE="LOCATION">BVĐK KVMNPBQN</ENAMEX> chăm sóc tiếp; Trong quá trình chăm sóc chồng thường xuyên về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> ăn tối, tắm rửa rồi đi lại; 
+- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">23/7/2020</ENAMEX>: đau đầu mệt, đau họng có mua thuốc Decolgen uống không khỏi;
+- Ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>: vào <ENAMEX TYPE="LOCATION">quán <ENAMEX TYPE="CONTACT_PERSON">Bà C.</ENAMEX></ENAMEX> mua thực phẩm dầu nước mắm.
+Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7/2020</ENAMEX></ENAMEX>: cách ly y tế tại <ENAMEX TYPE="LOCATION">BV Đa khoa miền núi phía Bắc</ENAMEX>.

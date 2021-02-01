@@ -1,0 +1,19 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 725</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1973</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Số loc408, phường Thanh Khê Đông, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">chồng (ct1280)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">cha mẹ chồng</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">03 người con</ENAMEX> tại <ENAMEX TYPE="LOCATION">địa chỉ số loc408, phường Thanh Khê Đông, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
+- Từ 9h00 đến 10h hàng ngày, bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ Kỳ Đồng, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
+- Khoảng 1 tuần trở lại đây, buổi sáng bệnh nhân có mua mì quảng <ENAMEX TYPE="LOCATION">quán <ENAMEX TYPE="CONTACT_PERSON">chị ct1281</ENAMEX> (Trong kiệt nhà bệnh nhân )</ENAMEX> và bánh canh <ENAMEX TYPE="LOCATION">quán <ENAMEX TYPE="CONTACT_PERSON">chị ct1282</ENAMEX> (gần nhà bệnh nhân)</ENAMEX>
+- Ngày 10/07/2020 bệnh nhân có chở bàn ghế đến địa chỉ <ENAMEX TYPE="LOCATION">loc410, phường Thanh Khê Đông, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
+- Ngày 11/07/2020 bệnh nhân có chở bàn ghế đến địa chỉ <ENAMEX TYPE="LOCATION">loc411, phường Xuân Hà, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
+- Ngày 13/07/2020 buổi sáng bệnh nhân đi khám tại <ENAMEX TYPE="LOCATION">khoa Tai Mũi Họng, Trung tâm y tế quận Thanh Khê</ENAMEX>, được chẩn đoán viêm họng cấp sau đó được cho về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. Sau khi về nhà bệnh nhân chở bàn ghế đến điạ chỉ <ENAMEX TYPE="LOCATION">loc412, phường Hòa Khê, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>. Buổi chiều bệnh nhân đến dọn bàn ghế tại địa chỉ <ENAMEX TYPE="LOCATION">loc413, phường Hòa Khánh Bắc, quận Liên Chiểu, thành phố Đà Nẵng</ENAMEX> ( không tiếp xúc gần với ai có mang khẩu trang).
+- Ngày 14/7/2020 đến 17/07/2020 bệnh nhân không đi đâu (chỉ đi <ENAMEX TYPE="LOCATION">chợ Kỳ Đồng</ENAMEX>).
+- Ngày <ENAMEX TYPE="CONTACT_DATE">18/07/2020</ENAMEX> có chị <ENAMEX TYPE="CONTACT_PERSON">ct1283</ENAMEX> đã từng đến BV Đà Nẵng Khoa Nội tổng hợp tầng 3, phòng 311 ( ngày 18/07/20) thăm ông ct1284 – hiện tại đang ở BV Ung bướu đến nhà bệnh nhân chơi, bệnh nhân và <ENAMEX TYPE="CONTACT_PERSON">chị ct1285</ENAMEX> ngồi nói chuyện gần 1 tiếng đồng hồ.
+- Ngày 19/07/2020 bệnh nhân có chở bàn ghế  đến địa chỉ <ENAMEX TYPE="LOCATION">loc414, phường Thạc Gián, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">21/07/20</ENAMEX> bệnh nhân đến khám tại <ENAMEX TYPE="LOCATION">khoa Tai Mũi Họng, Trung tâm y tế quận Thanh Khê</ENAMEX>, được bác sỹ <ENAMEX TYPE="CONTACT_PERSON">ct1286</ENAMEX> nội soi và được cấp thuốc theo đơn cho về nhà. 
+- Trưa ngày 25/07/2020 bệnh nhân  có đi ăn đám cưới tại <ENAMEX TYPE="LOCATION">sảnh A tầng 4, nhà hàng Mikado số 487 Nguyễn Tất Thành, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>. 
+- Trưa ngày 26/07/2020 bệnh nhân  có đi ăn đám cưới tại <ENAMEX TYPE="LOCATION">sảnh A tầng 1, nhà hàng Mikado số 487 Nguyễn Tất Thành, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>. 
+- Ngày 30/07/2020 bệnh nhân đi mua thuốc tại <ENAMEX TYPE="LOCATION">nhà thuốc Hòa Thuận số 213 Yên Khê 2, phường Thanh Khê Đông, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
+- Tối ngày <ENAMEX TYPE="SYMPTOMS_DATE">03/08/2020</ENAMEX> bệnh nhân sốt cao, tức ngực nên đi khám tại <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Thanh Khê</ENAMEX> và được lấy mẫu xét nghiệm dịch hầu họng.
+- Ngày 04/08/2020 bệnh nhân đi khám tại <ENAMEX TYPE="LOCATION">khoa Tai Mũi Họng, Trung tâm y tế quận Thanh Khê</ENAMEX> (bác sỹ ct1287 khám)
+- Chiều ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">05/8/2020</ENAMEX></ENAMEX></ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đi điều trị, cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

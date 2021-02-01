@@ -1,0 +1,11 @@
+Tên: <ENAMEX TYPE="PERSON">BN 846</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS"> đường Thân Nhân Trung, phường Hòa Khê, quận Thanh Khê, TP Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">đường Thân Nhân Trung</ENAMEX>. <ENAMEX TYPE="CONTACT_PERSON">Mẹ là V.T.N.T</ENAMEX>, nhân viên y tế tại Khoa Nội thận - Nội tiết, Bệnh viện Đà Nẵng.
+ - Khoảng 05 giờ 30 ngày <ENAMEX TYPE="CONTACT_DATE">29/7/2020</ENAMEX>, bệnh nhân chạy bộ tại <ENAMEX TYPE="LOCATION">bãi biển Thanh Khê</ENAMEX> cùng với <ENAMEX TYPE="CONTACT_PERSON">N.Q.T (quận Thanh Khê)</ENAMEX>, sau đó về <ENAMEX TYPE="LOCATION">nhà N.Q.T</ENAMEX> nhưng chỉ tiếp xúc với T rồi trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+ - Ngày 29/7/2020, bệnh nhân đi mua bánh mỳ tại <ENAMEX TYPE="LOCATION">đường Đoàn Nhữ Hài, quận Thanh Khê</ENAMEX> (không nhớ rõ địa chỉ).
+ - Đầu tháng 8/2020, bệnh nhân <ENAMEX TYPE="LOCATION">đi chợ Thanh khê, quận Thanh Khê</ENAMEX> để mua trứng (không nhớ rõ ngày).
+ - Ngày 04/8/2020, 05/8/2020, bệnh nhân đến <ENAMEX TYPE="LOCATION">nhà bạn N.P.L (đường Trần Xuân Lê, quận Thanh Khê)</ENAMEX> nhưng không gặp bạn nên trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> (không nhớ rõ giờ).
+ - Ngày 09/8/2020, bệnh nhân được lấy mẫu dịch hầu họng xét nghiệm với vi rút SARS-CoV-2 tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Thanh Khê</ENAMEX>.
+ - Khoảng 16 giờ ngày <ENAMEX TYPE="CONTACT_DATE">09/8/2020</ENAMEX>, bệnh nhân đến mua đồ tại <ENAMEX TYPE="LOCATION">đường Triệu Nữ Vương</ENAMEX> (không nhớ rõ địa chỉ), sau đó đến <ENAMEX TYPE="LOCATION"><ENAMEX TYPE="CONTACT_PERSON">nhà bạn N.P.L</ENAMEX> (đường Trần Xuân Lê, quận Thanh Khê)</ENAMEX> tiếp xúc với gia đình bạn L. Ngày 09/8/2020, Trung tâm Kiểm soát bệnh tật TP Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">10/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2. Hiện tại bệnh nhân đang cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi</ENAMEX> .
+Năm sinh: <ENAMEX TYPE="AGE">2003</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

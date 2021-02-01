@@ -1,0 +1,13 @@
+Tên: <ENAMEX TYPE="PERSON">BN 735</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Hồ Hán Thương, phường Nại Hiên Đông, quận Sơn Trà, TP Đà Nẵng.</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">đường Hồ Hán Thương, phường Nại Hiên Đông</ENAMEX>. Hằng ngày, bệnh nhân ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> buôn bán hàng tàu biển và có tiếp xúc với gia đình và vài khách quen nhưng không nhớ tên.
+ - Từ <ENAMEX TYPE="CONTACT_DATE">24/7 đến 26/7/2020</ENAMEX>, bệnh nhân có vài lần đến thăm <ENAMEX TYPE="CONTACT_PERSON">bà nội</ENAMEX> tại <ENAMEX TYPE="LOCATION">đường Nguyễn Trung Trực, phường Nại Hiên Đông</ENAMEX>. Trong thời gian này, bệnh nhân có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân số 681</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân số 682</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CONTACT_DATE">27/7 đến 29/7/2020</ENAMEX>, bà nội bệnh nhân mất nên bệnh nhân qua đám tang bà nội và có tiếp xúc với những người trong gia đình (trong đó có <ENAMEX TYPE="CONTACT_PERSON">Bệnh nhân số 681 và 682</ENAMEX>). Hiện tại tất cả những người trong gia đình mà bệnh nhân tiếp xúc đều được chuyển cách ly tập trung.
+ - Từ ngày <ENAMEX TYPE="CONTACT_DATE">30/7 đến 03/8/2020</ENAMEX>, có <ENAMEX TYPE="CONTACT_PERSON">bố chồng là Đ.V.H</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">mẹ chồng là N.T.T</ENAMEX> đến nhà bệnh nhân chơi và có tiếp xúc với bệnh nhân. Thời gian còn lại bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> không đi đâu, chỉ tiếp xúc với gia đình.
+ - Ngày <ENAMEX TYPE="ISOLATION_DATE">04/8/2020</ENAMEX>, bệnh nhân đến khai báo y tế tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Sơn Trà</ENAMEX> và được lấy mẫu dịch hầu họng xét nghiệm vi rút SARS-CoV-2, Sau đó bệnh nhân về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> tự cách ly và chờ kết quả.
+ - Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">05/8/2020</ENAMEX></ENAMEX>, bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">Trường Cao đẳng Lương thực thực phẩm Đà Nẵng</ENAMEX> và được thông báo kết quả (+) với vi rút SARS-CoV-2.
+ - Hiện tại, bệnh nhân đang được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang, TP Đà Nẵng</ENAMEX>.
+Nguồn lây: <ENAMEX TYPE="CONTACT_PERSON">BN 681 (người thân)</ENAMEX>
+hoặc <ENAMEX TYPE="CONTACT_PERSON">BN682 (người thân)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1973</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

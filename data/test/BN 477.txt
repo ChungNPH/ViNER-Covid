@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 477</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1964</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">xã Duy Thành, huyện Duy Xuyên, tỉnh Quảng Nam</ENAMEX>
+- Bệnh nhân ở với <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">vợ (ct39</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">2 con</ENAMEX> tại <ENAMEX TYPE="LOCATION">xã Duy Thành, huyện Duy Xuyên, tỉnh Quảng Nam</ENAMEX>.
+- Bệnh nhân có tiền sử điều trị bệnh thận mạn, chạy thận thường xuyên tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> 2 lần/tuần (thứ 2 và thứ 5).
+- Từ ngày 13/7/2020 bệnh nhân tiếp tục đến chạy thận tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>. Sau đó được chẩn đoán thêm bị nhiễm trùng đường tiết niệu nên nhập viện điều trị nội trú từ ngày 17/7/2020.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">13/7/2020 đến nay</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>. Không đi đến nơi nào khác. Trong suốt thời gian này, chỉ có <ENAMEX TYPE="CONTACT_PERSON">vợ (ct39</ENAMEX> là người chăm sóc cho bệnh nhân.
+- Ngày 28/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

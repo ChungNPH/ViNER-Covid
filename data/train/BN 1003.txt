@@ -1,0 +1,11 @@
+Tên: <ENAMEX TYPE="PERSON">BN 1019</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc320, phường Mân Thái, quận Sơn Trà, TP Đà Nẵng</ENAMEX>
+- Từ tháng <ENAMEX TYPE="CONTACT_DATE">5/2020</ENAMEX>, bệnh nhân thường xuyên chăm sóc <ENAMEX TYPE="CONTACT_PERSON">em trai ct855</ENAMEX>, là bệnh nhân điều trị tại <ENAMEX TYPE="LOCATION">Khoa Y học nhiệt đới, Bệnh viện Đà Nẵng</ENAMEX>.
+- Từ khoảng giữa tháng <ENAMEX TYPE="CONTACT_DATE">7/2020</ENAMEX> đến 02/8/2020, bệnh nhân chỉ ở tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> chăm sóc <ENAMEX TYPE="CONTACT_PERSON">em trai</ENAMEX>, không đi đến nơi khác. Trong khoảng thời gian này (không nhớ rõ ngày), tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 1) và có kết quả xét nghiệm (-) với vi rút SARS-CoV-2.
+- Tối ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">02/8/2020</ENAMEX></ENAMEX>, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Sư đoàn 375, quận Cẩm Lệ</ENAMEX>. 
+- Từ ngày 03/8 đến 12/8/2020, bệnh nhân tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">Sư đoàn 375, quận Cẩm Lệ</ENAMEX>.
+- Từ ngày 15/8 đến 17/8/2020, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">phòng thuộc khu cách ly tại Sư đoàn 375, quận Cẩm Lệ</ENAMEX>.
+- Ngày 19/8/2020, tại khu cách ly, bệnh nhân được lấy mẫu dịch hầu họng (lần 4) và ngày <ENAMEX TYPE="POSITIVE_DATE">20/8/2020</ENAMEX> có kết quả xét nghiệm khẳng định (+) với vi rút SARS-CoV-2.
+- Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1955</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

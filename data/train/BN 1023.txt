@@ -1,0 +1,15 @@
+Tên: <ENAMEX TYPE="PERSON">BN 1023</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc300,Hòa Tiến, Hòa Vang, Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc301, xã Hòa Tiến</ENAMEX></ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>: bệnh nhân đến tham dự đám cưới cùng với <ENAMEX TYPE="CONTACT_PERSON">dì (ct795)</ENAMEX> tại <ENAMEX TYPE="LOCATION">Trung tâm Hội nghị tiệc cưới Phú Mỹ Sơn trên đường ĐT 605, xã Hòa Tiến, huyện Hòa Vang</ENAMEX>. Tại đây, bệnh nhân tiếp xúc với khoảng 10 người ngồi cùng bàn (không nhớ rõ tên).
+ + Khoảng 13 giờ Ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>:, bệnh nhân trở về nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+ + Khoảng 16 giờ, bệnh nhân đến <ENAMEX TYPE="LOCATION">biển Mỹ Khê</ENAMEX>.
+ - Ngày <ENAMEX TYPE="CONTACT_DATE">26/7</ENAMEX>, 27/7 và 28/7/2020, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+ - Ngày <ENAMEX TYPE="SYMPTOMS_DATE">29/7/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng sốt, đau đầu, rát cổ nên được mẹ N.T.M mua thuốc về uống.
+ - Khoảng 10 giờ 30 ngày 08/8/2020, bệnh nhân đến <ENAMEX TYPE="LOCATION">Trạm Y tế xã Hòa Tiến, huyện Hòa Vang</ENAMEX> để khai báo y tế (tiếp xúc với 1 nhân viên y tế, không rõ tên). Tại đây, bệnh nhân được hướng dẫn theo dõi sức khỏe và tự cách ly tại nhà.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">09/8</ENAMEX> đến 21/8/2020, bệnh nhân tiếp tục ở nhà và chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày 22/8/2020, tại <ENAMEX TYPE="LOCATION">Hội trường thôn Yến Nê 1, xã Hòa Tiến, huyện Hòa Vang</ENAMEX>, bệnh nhân cùng những người trong gia đình được lấy mẫu xét nghiệm dịch hầu họng (lần 1) và ngày 23/8/2020, bệnh nhân có kết quả xét nghiệm nghi ngờ với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">24/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân được Trung tâm y tế huyện Hòa Vang lấy mẫu dịch hầu họng (lần 2), đến tối cùng ngày, bệnh nhân có kết quả xét nghiệm khẳng định (+) với vi rút SARS-CoV-2.
+- Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện dã chiến Hòa Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">2000</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

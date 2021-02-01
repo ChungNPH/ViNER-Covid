@@ -1,0 +1,12 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 451</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>. 
+- Sinh năm: <ENAMEX TYPE="AGE">1984</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc44, thôn Bàu Cầu, xã Hòa Châu, huyện Hòa Vang, thành phố Đà Nẵng</ENAMEX>.
+- Bệnh nhân hiện đang sống cùng <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">hai con</ENAMEX> tại thôn Bàu Cầu, xã Hòa Châu, huyện Hòa Vang, thành phố Đà Nẵng.
+- Ngày 17/7/2020: Bệnh nhân có dự đám giỗ tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Chiều ngày 24/7/2020: Sau khi tan ca, bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ Cẩm Lệ, quận Cẩm Lệ, thành phố Đà Nẵng</ENAMEX> sau đó về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Khoảng 7 giờ đến 7 giờ 30 sáng ngày 25/7/2020: Bệnh nhân mua bánh mì tại <ENAMEX TYPE="LOCATION">tiệm mì Đồng Tiến trên đường Hải Phòng, Thạch Thang, Hải Châu, Đà Nẵng</ENAMEX>.
+- Sáng ngày <ENAMEX TYPE="SYMPTOMS_DATE">26/7/2020</ENAMEX>: Bệnh nhân xuất hiện dấu hiệu mệt mỏi. Tối ngày 26/7/2020: Bệnh nhân xuất hiện triệu chứng sốt.
+- Chiều ngày 26/7/2020: Bệnh nhân có xuống <ENAMEX TYPE="LOCATION">căn tin Bệnh viện</ENAMEX> lấy cơm.
+- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">27/7/2020</ENAMEX>: Bệnh nhân mệt mỏi nhiều, nằm tại <ENAMEX TYPE="LOCATION">phòng Dược khoa Nội thận – Nội tiết</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">26/7/2020 đến 27/7/2020</ENAMEX>, bệnh nhân giao tiếp, nói chuyện với <ENAMEX TYPE="CONTACT_PERSON">các đồng nghiệp trong Khoa</ENAMEX>.
+1. Ngày 27/7/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng đã phối hợp với Bệnh viện  Đà Nẵng tiến hành giám sát và lấy mẫu xét nghiệm. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">29/7/2020</ENAMEX></ENAMEX></ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

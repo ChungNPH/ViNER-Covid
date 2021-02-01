@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 429</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>. 
+- Sinh năm: <ENAMEX TYPE="AGE">1967</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Phường Hoà hiệp Bắc, quận Liên Chiểu, thành phố Đà Nẵng</ENAMEX>.
+	Bệnh nhân suy thận mạn giai đoạn 5, bệnh nhân khai ho đàm trắng đã lâu, ngày <ENAMEX TYPE="SYMPTOMS_DATE">14/7/2020</ENAMEX> ho nhiều hơn, khạc nhiều đàm trắng, mệt, ăn uống kém. Ngày <ENAMEX TYPE="HOSPITALIZE_DATE">19/7/2020</ENAMEX> bệnh nhân thấy mệt nhiều nên người nhà đưa vào nhập viện tại <ENAMEX TYPE="LOCATION">BV Đà Nẵng</ENAMEX> điều trị tại <ENAMEX TYPE="LOCATION">khoa Nội Thận – Tiết niệu</ENAMEX> đến nay. 
+Trong thời gian nằm viện, chỉ có con trai, con gái vào chăm bệnh (<ENAMEX TYPE="CONTACT_PERSON">ct41</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct42</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct43</ENAMEX>)
+	Ngày <ENAMEX TYPE="POSITIVE_DATE">26/7/2020</ENAMEX> bệnh nhân được xét nghiệm dịch hầu họng cho thấy (+) với vi rút SARS-CoV-2.
+	Chiều ngày <ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX> bệnh nhân được đưa vào cách ly tại <ENAMEX TYPE="LOCATION">khoa Nội Thận – Tiết niệu, bệnh viện Đà Nẵng</ENAMEX>. 
+1. Ngày 26/7/2020, Bệnh viện Đà Nẵng đã thực hiện lấy mẫu gửi đến Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE">27/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

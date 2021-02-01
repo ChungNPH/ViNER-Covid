@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 454</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1955</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Số loc97, phường Bình Hiên, quận Hải Châu, thành phố Đà Nẵng</ENAMEX>.
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> tại địa chỉ số loc97, phường Bình Hiên, quận Hải Châu, thành phố Đà Nẵng 
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">15/7/2020 đến nay</ENAMEX>, bệnh nhân chăm sóc <ENAMEX TYPE="CONTACT_PERSON">mẹ (là ct57)</ENAMEX> đang điều trị tại <ENAMEX TYPE="LOCATION">khoa Nội Hô hấp, bệnh viện Đà Nẵng</ENAMEX>.
+- Sáng ngày 15/7/2020 có mua rau ở gánh rau ngoài <ENAMEX TYPE="LOCATION">chợ Cồn - số 290 Hùng Vương, Vĩnh Trung, Hải Châu, Đà Nẵng</ENAMEX>
+- Từ ngày 16/7/2020 đến nay, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> và về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> một mình bằng xe máy. Ngoài ra không đến nơi khác.
+- Trong thời gian chăm sóc mẹ tại Bệnh viện Đà Nẵng, các buổi sáng hàng ngày bệnh nhân mua đồ tại <ENAMEX TYPE="LOCATION">căn tin của bệnh viện Đà Nẵng</ENAMEX>, buổi trưa về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> nghỉ. Buổi chiều lại vào chăm bệnh. Buổi tối thỉnh thoảng có <ENAMEX TYPE="CONTACT_PERSON">anh ct58</ENAMEX> vào chăm ca bệnh thay cho bệnh nhân (ct59 ở địa chỉ loc99, phường Hòa Cường Nam, quận Hải Châu, TP Đà Nẵng)
+- Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX></ENAMEX></ENAMEX> bệnh nhân được xét nghiệm dịch hầu họng và cho kết quả  (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của bệnh viện Đà Nẵng</ENAMEX>.
+1. Ngày 27/7/2020, Bệnh viện Đà Nẵng đã thực hiện lấy mẫu gửi đến Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE">29/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

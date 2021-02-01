@@ -1,0 +1,13 @@
+Tên: <ENAMEX TYPE="PERSON">BN 782</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Trưng Nữ Vương,phường Bình Thuận,quận Hải Châu, thànhphố Đà Nẵng.</ENAMEX>
+ - Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">đường Trưng Nữ Vương</ENAMEX>d. Bệnh nhân là con dâu của bệnh nhân số 683 và bệnh nhân số 656.
+ - Vợ chồng bệnh nhân và con trai mới chuyển ra <ENAMEX TYPE="LOCATION">Đà Nẵng</ENAMEX> từ thành phố Hồ Chí Minh ngày 01/7/2020.
+ - Từ 06h00 đến 07h00 hàng ngày bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ Mới, phường Hòa Thuận Đông, quận Hải Châu, TP Đà Nẵng</ENAMEX>.
+ - Ngày <ENAMEX TYPE="CONTACT_DATE">11/7/2020</ENAMEX> <ENAMEX TYPE="CONTACT_PERSON">bố mẹ chồng</ENAMEX> từ thành phố Hồ Chí Minh ra Đà Nẵng thăm vợ chồng bệnh nhân và ở lại nhà bệnh nhân.
+ - Bố chồng bệnh nhân lên cơn đau tim ngày 14/7/2020, nhập viện điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia đình Đà Nẵng</ENAMEX> đến 17/7/2020, sau đó chuyển qua <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX> điều trị đến 20/7/2020 thì xuất viện về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+ - Từ 14/7/2020 đến 03/8/2020 bệnh nhân chỉ đi <ENAMEX TYPE="LOCATION">chợ</ENAMEX> và về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi nào khác.
+ - Ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">04/8/2020</ENAMEX></ENAMEX></ENAMEX> sau khi bệnh nhân 656 được công bố, bệnh nhân được đi cách ly tập trung, Cùng trong ngày nay, bệnh nhân có trệu chứng ho, rát họng, đau đầu. Ngày 06/8/2020 Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">07/8/2020</ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2. Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
+Nguồn lây: <ENAMEX TYPE="CONTACT_PERSON">BN683 (Bố chồng)</ENAMEX>, 
+<ENAMEX TYPE="CONTACT_PERSON">BN656 (Mẹ chồng)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1993</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

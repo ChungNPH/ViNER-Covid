@@ -1,0 +1,11 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 690</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">2001</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc302, phường Hòa Khê, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">cha mẹ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">anh trai tại địa chỉ <ENAMEX TYPE="LOCATION">loc303, phường Hòa Khê, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX></ENAMEX>. Anh trai bệnh nhân là bệnh nhân số 691.
+- Từ ngày 20/7/2020 đến ngày 22/7/2020 bệnh nhân chỉ đi học lớp anh văn tại <ENAMEX TYPE="LOCATION">phòng B206 trường Đại học Bách khoa Đà Nẵng</ENAMEX> (từ 13h30 đến 16h30) và ở nhà, không đi đâu.
+- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">23/7/2020</ENAMEX> bệnh nhân có triệu chứng sốt nhẹ nhưng không đi khám tại cơ sở y tế.
+- 13h00 đến 15h00 ngày 23/7/2020 bệnh nhân đi học tại <ENAMEX TYPE="LOCATION">trường Đại học Bách khoa Đà Nẵng</ENAMEX>.
+- 13h30 đến 16h00 ngày 24/7/2020 bệnh nhân đi thi tại <ENAMEX TYPE="LOCATION">trường Đại học Bách khoa Đà Nẵng</ENAMEX>.
+- Từ 10h00 đến 10h30 ngày <ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX> bệnh nhân có đi khám cùng <ENAMEX TYPE="CONTACT_PERSON">cha</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">anh trai (bệnh nhân số 691)</ENAMEX> tại <ENAMEX TYPE="LOCATION">phòng khám <ENAMEX TYPE="CONTACT_PERSON">bác sỹ ct796</ENAMEX></ENAMEX>
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">02/8/2020</ENAMEX></ENAMEX> sau khi có thông tin anh trai (bệnh nhân 619) bị nhiễm SARS-CoV-2, bệnh nhân được chuyển đi cách ly và lấy mẫu xét nghiệm dịch hầu họng.
+- Ngày <ENAMEX TYPE="POSITIVE_DATE">04/8/2020</ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2. Ngày 05/8/2020 bệnh nhân được chuyển đi điều trị, cách ly <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

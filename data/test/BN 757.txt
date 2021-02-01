@@ -1,0 +1,10 @@
+Tên: <ENAMEX TYPE="PERSON">BN 757</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc8, phường Hoà Khánh Bắc, quận Liên Chiểu, TP Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc8</ENAMEX>.
+ - Từ ngày 07/7 đến 13/7/2020, bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian điều trị, <ENAMEX TYPE="CONTACT_PERSON">vợ là Đ.T.S</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con gái là Đ.T.T</ENAMEX> là người thường xuyên chăm sóc và tiếp xúc gần với bệnh nhân.
+ - Ngày <ENAMEX TYPE="CONTACT_DATE">13/7/2020</ENAMEX>, bệnh nhân được xuất viện, trở về <ENAMEX TYPE="LOCATION">nhà tại loc8, phường Hoà Khánh Bắc, quận Liên Chiểu, TP Đà Nẵng</ENAMEX> và chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX>.
+ - Ngày <ENAMEX TYPE="CONTACT_DATE">14/7/2020 đến 23/7/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
+ - Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">24/7/2020</ENAMEX></ENAMEX>, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">địa điểm cách ly tập trung</ENAMEX>.
+ - Ngày 06/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">07/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+Năm sinh: <ENAMEX TYPE="AGE">1950</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

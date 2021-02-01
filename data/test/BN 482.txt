@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 482</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1938</ENAMEX>.
+- Địa chỉ:  <ENAMEX TYPE="ADDRESS">loc89, phường Hòa Hải, quận Ngũ Hành Sơn, thành phố Đà Nẵng</ENAMEX>.
+- Bệnh nhân đang sống tại địa chỉ <ENAMEX TYPE="LOCATION">loc89, phường Hòa Hải, quận Ngũ Hành Sơn, thành phố Đà Nẵng</ENAMEX>.
+ - Ngày <ENAMEX TYPE="CONTACT_DATE">16/7 đến 28/7/2020</ENAMEX>, bệnh nhân nhập viện <ENAMEX TYPE="LOCATION">khoa Nội thận – Nội tiết, bệnh viện Đà Nẵng</ENAMEX> người nhà chăm sóc là <ENAMEX TYPE="CONTACT_PERSON">chị ct54 (BN số….)</ENAMEX>
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">29/7/2020</ENAMEX></ENAMEX>, bệnh nhân được chuyển qua <ENAMEX TYPE="LOCATION">Bệnh viện 199 – Bộ Công</ENAMEX> an để cách ly.  
+- Ngày <ENAMEX TYPE="POSITIVE_DATE">30/7/2020</ENAMEX> bệnh nhân được thông báo kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly và điều trị tại Bệnh viện Phổi Đà Nẵng</ENAMEX>.

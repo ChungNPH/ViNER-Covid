@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 427</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>. 
+- Sinh năm: <ENAMEX TYPE="AGE">1975</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc116 – Thôn Hoà Thọ, Xã Hoà Phú, huyện Hoà Vang, thành phố Đà Nẵng</ENAMEX>.
+	- Bệnh nhân khai phát hiện suy thận cách đây 04 tháng. Ngày <ENAMEX TYPE="SYMPTOMS_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">02/7/2020</ENAMEX></ENAMEX> bệnh nhân thấy mệt nhiều nên người nhà đưa vào nhập viện tại <ENAMEX TYPE="LOCATION">BV Đà Nẵng</ENAMEX> điều trị tại <ENAMEX TYPE="LOCATION">khoa Thận – Nội tiết</ENAMEX> đến nay. 
+	- Ngày <ENAMEX TYPE="POSITIVE_DATE">27/7/2020</ENAMEX> bệnh nhân được xét nghiệm dịch hầu họng cho thấy (+) với vi rút SARS-CoV-2.
+	- Chiều ngày <ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX> bệnh nhân được đưa vào cách ly tại <ENAMEX TYPE="LOCATION">khoa Thận – Nội tiết, bệnh viện Đà Nẵng</ENAMEX>. 
+- <ENAMEX TYPE="SYMPTOMS_DATE">Tối ngày 24/07/2020</ENAMEX>, bệnh nhân khởi bệnh với triệu chứng ho, sốt, khó thở.
+1. Ngày 26/7/2020, Bệnh viện Đà Nẵng đã thực hiện lấy mẫu gửi đến Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE">27/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

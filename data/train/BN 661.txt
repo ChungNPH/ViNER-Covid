@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 661</ENAMEX>		Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1934</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc229, phường An Hải Bắc, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX> 
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">19/07</ENAMEX> đến 21/07/2020, bệnh nhân đến chăm sóc <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa Hồi sức tích cực, bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">22/7</ENAMEX> đến 25/7/2020, bệnh nhân tiếp tục đến <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> để chăm sóc <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> nay đã được chuyển đến <ENAMEX TYPE="LOCATION">khoa Thận - nội tiết</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="ISOLATION_DATE">26/7</ENAMEX> đến 31/7/2020, bệnh nhân tự cách ly tại nhà ở <ENAMEX TYPE="LOCATION">loc229, phường An Hải Bắc, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE">01/8/2020</ENAMEX>, chồng bệnh nhân mất. Sau đó khoản 15 giờ 30 cùng ngày, cả gia đình bệnh nhân được đưa đi cách ly.
+- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">03/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+	- Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

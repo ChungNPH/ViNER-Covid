@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 831</ENAMEX>		Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">2013</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc343, phường Khuê Trung, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX> 
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">bố (ct1016, là bệnh nhân số 654)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">mẹ (ct1017)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">chị gái (ct1018)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc343, phường Khuê Trung, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>. 
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="ISOLATION_DATE">20/7</ENAMEX> đến nay</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE">04/8/2020</ENAMEX>, sau khi bố bệnh nhân có kết quả (+) với vi rút SARS-CoV-2, khoảng 17 giờ cùng ngày, cả gia đình bệnh nhân được đưa đi cách ly. Bố bệnh nhân được cách ly tại Trung tâm y tế huyện Hoà Vang; mẹ, chị gái và bệnh nhân được cách ly tại <ENAMEX TYPE="LOCATION">khu nhà ở công nhân thuộc khu công nghiệp Hoà Cầm, phường Hoà Thọ Tây, quận Cẩm Lệ</ENAMEX>.
+- Ngày 06/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">09/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

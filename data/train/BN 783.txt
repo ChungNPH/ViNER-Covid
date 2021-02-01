@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 783</ENAMEX>		Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">2003</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Đội 6 xóm 6A Cộng Hoà 1, xã Tịnh Ấn Tây, thành phố Quảng Ngãi, tỉnh Quảng Ngãi</ENAMEX>
+- Bệnh nhân sống cùng gia đình tại <ENAMEX TYPE="LOCATION">Đội 6 xóm 6A Cộng Hoà 1, xã Tịnh Ấn Tây, thành phố Quảng Ngãi, tỉnh Quảng Ngãi</ENAMEX>.
+- <ENAMEX TYPE="CONTACT_DATE">Từ ngày 27/6/ đến 06/8/2020</ENAMEX>, bệnh nhân nằm viện tại <ENAMEX TYPE="LOCATION">khoa Hồi sức và khoa Nội tiêu hoá, bệnh viện Đà Nẵng</ENAMEX>, trong suốt quá trình điều trị có <ENAMEX TYPE="CONTACT_PERSON">mẹ (ct1520)</ENAMEX> là người thường xuyên chăm sóc bệnh nhân.
+- Tối ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">07/8/2020</ENAMEX></ENAMEX>, bệnh nhân được chuyển đến cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
+- Ngày 07/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">07/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

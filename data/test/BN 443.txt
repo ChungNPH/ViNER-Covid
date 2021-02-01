@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 443</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1957</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Nam Hà 1, xã Điện Trung, thị xã Điện Bàn, tỉnh Quảng Nam</ENAMEX>.
+- Hiện bệnh nhân đang ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> với <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> tại địa chỉ thôn Nam Hà 1, xã Điện Trung, thị xã Điện Bàn, tỉnh Quảng Nam.
+- Bệnh nhân là vợ đang chăm sóc <ENAMEX TYPE="CONTACT_PERSON">ca bệnh ct46</ENAMEX> đang điều trị tại <ENAMEX TYPE="LOCATION">khoa Hồi sức tích cực - Chống độc, bệnh viện Đà Nẵng</ENAMEX> từ ngày 06/7/2020 đến nay.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">06/7/2020 đến nay</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> và về <ENAMEX TYPE="LOCATION">quê (<ENAMEX TYPE="CONTACT_PERSON">con rể ct47</ENAMEX> đưa về bằng xe máy) tại địa chỉ thôn Nam Hà 1, xã Điện Trung, thị xã Điện Bàn, tỉnh Quảng Nam</ENAMEX>. Ngoài ra không đến nơi khác.
+- Trong thời gian chăm sóc ca bệnh ở bệnh viện Đà Nẵng, ngoài bệnh nhân còn có <ENAMEX TYPE="CONTACT_PERSON">con gái (ct48</ENAMEX> thay phiên chăm sóc. Ngày cuối cùng ct49 ở bệnh viện Đà Nẵng là ngày 24/7/2020.
+- Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX></ENAMEX></ENAMEX> bệnh nhân được xét nghiệm dịch hầu họng và cho kết quả  (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của bệnh viện Phổi Đà Nẵng</ENAMEX>.
+1. Ngày 27/7/2020, Bệnh viện Đà Nẵng đã thực hiện lấy mẫu gửi đến Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE">28/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

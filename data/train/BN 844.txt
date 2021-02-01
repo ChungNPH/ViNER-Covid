@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 844</ENAMEX> 	Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1989</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc436, phường Hòa Phát, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>
+- <ENAMEX TYPE="CONTACT_DATE">Ngày 26/7/2020</ENAMEX>, bệnh nhân đi làm tại <ENAMEX TYPE="LOCATION">khoa Nội tiết niệu, bệnh viện Đà Nẵng</ENAMEX>. Đến tối cùng ngày, bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">khách sạn Golden Rose 1 ở 56 Loseby, phường Phước Mỹ, quận Sơn Trà</ENAMEX> cùng với các nhân viên của bệnh viện Đà Nẵng. Tại đây, bệnh nhân ở cùng phòng với <ENAMEX TYPE="CONTACT_PERSON">ct1512</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">ct1513</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/7</ENAMEX></ENAMEX> đến 10/8/2020, bệnh nhân tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">khách sạn Golden Rose 1</ENAMEX>.
+- Khoảng 8 giờ ngày 10/8/2020, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
+- Ngày 08/8/2020, bệnh nhân được lấy mẫu dịch hầu họng xét nghiệm lần 2 và ngày <ENAMEX TYPE="POSITIVE_DATE">10/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">bệnh viện Phổi Đà Nẵng</ENAMEX>.

@@ -1,0 +1,22 @@
+Tên: <ENAMEX TYPE="PERSON">BN 1014</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc237, phường Xuân Hà, quận Thanh Khê, TP Đà Nẵng</ENAMEX>
+ - Hiện tại bệnh nhân đang sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc237, phường Xuân Hà, quận Thanh Khê, TP Đà Nẵng</ENAMEX></ENAMEX>.
+- Từ ngày 16/7 đến 24/7/2020, bệnh nhân đến khám và điều trị ngoại trú tại <ENAMEX TYPE="LOCATION">Bệnh viện Chỉnh hình và Phục hồi chức năng Đà Nẵng, quận Hải Châu</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">08/8/2020</ENAMEX> đến 16/8/2020, bệnh nhân làm việc cùng tổ với <ENAMEX TYPE="CONTACT_PERSON">anh ct433</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">anh ct434</ENAMEX>, . Ngoài ra, bệnh nhân cũng thường xuyên tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">chị ct435 (nhân viên vệ sinh tại chợ Lầu Đèn)</ENAMEX>. Sau đó bệnh nhân trở về nhà, không đi đến nơi khác.
+- Ngày 17/8 và 18/8/2020, bệnh nhân tiếp tục đến làm việc tại <ENAMEX TYPE="LOCATION">chợ Lầu Đèn</ENAMEX> và trở về nhà như bình thường, không đi đến nơi khác.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">19/8/2020</ENAMEX>:bệnh nhân có tiếp xúc với những người sau: <ENAMEX TYPE="CONTACT_PERSON">ct436</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct437</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">19/8/2020</ENAMEX>:bệnh nhân có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">ct438</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">19/8/2020</ENAMEX>:bệnh nhân có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">ct439</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">19/8/2020</ENAMEX>:bệnh nhân có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">ct440</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">19/8/2020</ENAMEX>:bệnh nhân có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">ct441</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">19/8/2020</ENAMEX>:bệnh nhân có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">ct442</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">20/8/2020</ENAMEX>: bệnh nhân đến nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bà ct443</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">chị ct444</ENAMEX>.
+ Ngày <ENAMEX TYPE="CONTACT_DATE">20/8/2020</ENAMEX> bệnh nhân tiếp xúc với: <ENAMEX TYPE="CONTACT_PERSON">ct445</ENAMEX>; <ENAMEX TYPE="CONTACT_PERSON">ct446</ENAMEX>; <ENAMEX TYPE="CONTACT_PERSON">ct447</ENAMEX>.
++ Khoảng từ 16 giờ đến 16 giờ 30 Ngày <ENAMEX TYPE="CONTACT_DATE">20/8/2020</ENAMEX>, bệnh nhân đến làm việc tại <ENAMEX TYPE="LOCATION">chợ Lầu Đèn</ENAMEX>, tại đây, bệnh nhân tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">anh ct448</ENAMEX>.
++ Khoảng 18 giờ Ngày <ENAMEX TYPE="CONTACT_DATE">20/8/2020</ENAMEX>, bệnh nhân đến nhà, và tiếp xúc với: <ENAMEX TYPE="CONTACT_PERSON">ct449</ENAMEX>; <ENAMEX TYPE="CONTACT_PERSON">ct450</ENAMEX>; <ENAMEX TYPE="CONTACT_PERSON">ct451</ENAMEX>.
++ Khoảng 14 giờ, bệnh nhân đến nộp tiền tại <ENAMEX TYPE="LOCATION">ngân hàng An Bình ở số 255 Lê Duẩn, phường Tân Chính, quận Thanh Khê</ENAMEX>. Tại đây,Ngày <ENAMEX TYPE="CONTACT_DATE">21/8/2020</ENAMEX> bệnh nhân tiếp xúc với anh bảo vệ (không rõ tên) và <ENAMEX TYPE="CONTACT_PERSON">chị ct452 (thủ quỹ ngân hàng An Bình)</ENAMEX>.
++ Khoảng 15 giờ, bệnh nhân đến <ENAMEX TYPE="LOCATION">UBND phường Xuân Hà, quận Thanh Khê</ENAMEX>. Tại đây,Ngày <ENAMEX TYPE="CONTACT_DATE">21/8/2020</ENAMEX> bệnh nhân tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">anh ct453</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">anh ct454</ENAMEX>.
+- Sáng ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">22/8/2020</ENAMEX></ENAMEX></ENAMEX>, sau khi nhận được thông báo có kết quả xét nghiệm dịch hầu họng nghi ngờ với vi rút SARS-CoV-2, bệnh nhân tạm nghỉ việc và chỉ ở nhà, không tiếp xúc với người khác  trưa cùng ngày có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+- Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1960</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

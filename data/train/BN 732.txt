@@ -1,0 +1,13 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 732</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1968</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc425, phường An Hải Đông, quận Sơn Trà, thành phố Đà Nẵng</ENAMEX>.
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">cha mẹ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> tại <ENAMEX TYPE="LOCATION">địa chỉ số loc426, phường An Hải Đông, quận Sơn Trà, thành phố Đà Nẵng</ENAMEX>.
+- Bệnh nhân đang làm việc tại <ENAMEX TYPE="LOCATION">công ty TNHH Sinaran Việt Nam, đường số 5, Khu công nghiệp Đà Nẵng, quận Sơn Trà, thành phố Đà Nẵng</ENAMEX>. Bệnh nhân làm cùng nhà máy (công ty chia ra nhiều nhà máy) với <ENAMEX TYPE="CONTACT_PERSON">ct1488</ENAMEX> (bệnh nhân số 473)
+- Từ 17h00 đến 17h30 hàng ngày, bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ An Hải Đông, Lê Hữu Trác, phường An Hải Đông, quận Sơn Trà, thành phố Đà Nẵng</ENAMEX>.
+- <ENAMEX TYPE="CONTACT_DATE">Từ ngày 20/7/2020 đến 30/7/2020</ENAMEX> bệnh nhân chỉ đi làm tại <ENAMEX TYPE="LOCATION">công ty</ENAMEX>, không đi đâu. Khi làm việc tại <ENAMEX TYPE="LOCATION">công ty</ENAMEX>, bệnh nhân thường xuyên tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">ct1489</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct1490</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct1491</ENAMEX> (hiện tất cả đã được đi cách ly tập trung)
+- Sáng ngày <ENAMEX TYPE="CONTACT_DATE">30/7/2020</ENAMEX> bệnh nhân có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">ct1492</ENAMEX> làm cùng công ty.
+- Sáng ngày 01/8/2020 bệnh nhân có đi <ENAMEX TYPE="LOCATION">chợ An Hải Đông</ENAMEX>, bệnh nhân có mang khẩu trang và sát khuẩn trước khi vào chợ.
+- Trưa ngày 01/8/2020 bệnh nhân đi khai báo y tế tại <ENAMEX TYPE="LOCATION">Trạm y tế An Hải Đông</ENAMEX>.
+- Ngày 03/8/2020 bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng tại <ENAMEX TYPE="LOCATION">Trạm y tế An Hải Đông</ENAMEX>.
+- Từ <ENAMEX TYPE="ISOLATION_DATE">03/8/2020</ENAMEX> đến ngày 05/8/2020 bệnh nhân tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Chiều ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">05/8/2020</ENAMEX></ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đi điều trị, cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

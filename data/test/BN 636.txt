@@ -1,0 +1,11 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 636</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1953</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc50, phường Thanh Bình, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>
+- Bệnh nhân sống 1 mình tại <ENAMEX TYPE="LOCATION">địa chỉ loc50, phường Thanh Bình, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>.
+- Vào các buổi sáng hằng ngày, bệnh nhân đi tập dưỡng sinh cùng đội dưỡng sinh gồm khoản 20 người, tại <ENAMEX TYPE="LOCATION">công viên phường Thanh Bình, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">20/7/2020</ENAMEX>, bệnh nhân có tham dự đám giỗ (khoảng 30 - 40 người) ở nhà tại <ENAMEX TYPE="LOCATION">số 3 Lê Văn Long, phường Thanh Bình, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>, tại đây bệnh nhân tiếp xúc gần với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân ct30</ENAMEX> .
+- Từ ngày 21/7/2020 đến 30/7/2020, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà tại địa chỉ loc50, phường Thanh Bình, quận Hải Châu, Tp. Đà Nẵng</ENAMEX> và không đi đến nơi khác.
+- Ngày 25/7/2020, bệnh nhân ăn sáng tại <ENAMEX TYPE="LOCATION">quán mỳ Quảng Gấm đường Hải Hồ, phường Thanh Bình, quận Hải Châu, Tp. Đà Nẵng</ENAMEX> cùng đội dưỡng sinh, (khoản 20 người); sau đó cùng nhau đi uống cà phê tại địa chỉ <ENAMEX TYPE="LOCATION">170 Lý Tự Trọng, phường Thanh Bình, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>.
+- Tối ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân cùng những người tham dự đám giỗ nêu trên (có tiếp xúc gần với <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân ct30</ENAMEX>) được đưa đến <ENAMEX TYPE="LOCATION">khu cách ly ở Khu Ký túc xá phía Tây, phường Hòa Hiệp Nam, quận Liên Chiểu, Tp. Đà Nẵng</ENAMEX>.
+- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">03/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

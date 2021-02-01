@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 780</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">2011</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Khu chung cư số 1 đường Lê Phụ Trần, phường Nại Hiên Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">bố ct998</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">mẹ (ct999)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">bà ngoại (ct1000)</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khu chung cư số 1 đường Lê Phụ Trần, phường Nại Hiên Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.
+- <ENAMEX TYPE="CONTACT_DATE">Khoảng từ 25/7 đến 01/8/2020</ENAMEX>, buổi sáng bệnh nhân đến <ENAMEX TYPE="LOCATION">chung cư B1 đường Dương Văn Nga, phường Nại Hiên Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bà nội (ct1001 là bệnh nhân số 686)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">chú ct1002</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">ct1003</ENAMEX> đến tối thì về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> (chỉ đến 1,2 lần và không nhớ rõ ngày), chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="ISOLATION_DATE">02/8</ENAMEX> đến 04/8/2020, bệnh nhân tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE">05/8/2020</ENAMEX>, bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">trường Cao đẳng Lương thực - Thực phẩm Đà Nẵng tại 101B Lê Hữu Trác, phường Phước Mỹ, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.
+- Ngày 06/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">07/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

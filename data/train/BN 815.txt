@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 815</ENAMEX>		Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1994</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc439, phường An Khê, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX> 
+- <ENAMEX TYPE="CONTACT_DATE">Từ ngày 10/7 đến 24/7/2020</ENAMEX>, bệnh nhân ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> chăm sóc <ENAMEX TYPE="CONTACT_PERSON">con (ct1522)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc439, phường An Khê, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>, chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+- <ENAMEX TYPE="CONTACT_DATE">Từ ngày 25/7 đến 29/7/2020</ENAMEX>, bệnh nhân tiếp xúc gần với <ENAMEX TYPE="CONTACT_PERSON">mẹ (ct1523, là bệnh nhân 740)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">bố (ct1524)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">anh (ct1525)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">chị dâu (ct1526)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">cháu (ct1527)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con (ct1522)</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="ISOLATION_DATE">30/7</ENAMEX> đến 05/8/2020, bệnh nhân tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE">06/8/2020</ENAMEX>, sau khi nhận được thông tin mẹ (là bệnh nhân 740) có kết quả xét nghiệm (+) với vi rút SARS-CoV-2, bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">tiểu đoàn 29, lữ đoàn 28, quân chùng phong không không quân, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>.
+- Ngày 07/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">09/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

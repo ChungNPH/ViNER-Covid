@@ -1,0 +1,12 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">Ca nghi ngờ 7</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>.
+- Năm sinh: <ENAMEX TYPE="AGE">1967</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc86 – Phường Minh An – thành phố Hội An - tỉnh Quảng Nam</ENAMEX>.
+TH này sống cùng <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX>, làm nghề lái thuyền dịch vụ, ít tiếp xúc với hàng xóm xung quanh.
+- Trưa ngày <ENAMEX TYPE="CONTACT_DATE">24/7/2020</ENAMEX> (10h- 11h)
+Đi xe buýt ra nuôi <ENAMEX TYPE="CONTACT_PERSON">bố là ông BN428</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa Nội – Tiết niệu bệnh viện Đa khoa Đà Nẵng</ENAMEX>;
+- Trưa ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX> (10h30 -11h): Đi xe buýt tuyến Hội An – Đà Nẵng (không nhớ số xe) trở về <ENAMEX TYPE="LOCATION">nhà tại loc86 - Phường Minh An - thành phố Hội An - tỉnh Quảng Nam</ENAMEX>, tại đây có tiếp xúc với 2 người cùng nhà là <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con trai út</ENAMEX>;
+- Ngày <ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX>:
+Sang thăm nhà con trai lớn tại <ENAMEX TYPE="LOCATION">loc88, thôn Phước Trung - Cẩm Kim – Hội An</ENAMEX>, tại đây có tiếp xúc với 3 người: <ENAMEX TYPE="CONTACT_PERSON">con trai lớn</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con dâu</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">cháu (2 tháng tuổi)</ENAMEX>;
+- Chiều ngày <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX>: bán nước mía cho <ENAMEX TYPE="LOCATION"><ENAMEX TYPE="CONTACT_PERSON">chị T</ENAMEX> gần nhà</ENAMEX> (quầy nước mía của vợ bán, bệnh nhân chỉ phụ bán cho 1 người và sau hôm đó quầy tạm nghỉ bán do nghe thông tin có dịch);
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">25/7 đến ngày 28/7</ENAMEX>, không lái thuyền, chủ yếu ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, đi thăm <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> và có đi uống cafe tại <ENAMEX TYPE="LOCATION">quán Bi (chủ quán tên Bi)</ENAMEX>, khi đi uống cafe chỉ ngồi một mình không tiếp xúc ai (chỉ có chủ quán mang cafe ra).
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7/2020</ENAMEX></ENAMEX>: cách ly y tế tại <ENAMEX TYPE="LOCATION">khu cách ly tập trung thành phố Hội An</ENAMEX>, được lấy mẫu xét nghiệm;

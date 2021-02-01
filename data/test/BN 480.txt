@@ -1,0 +1,6 @@
+Bệnh nhân: <ENAMEX TYPE="PERSON">BN 480</ENAMEX> 
+- Năm sinh: <ENAMEX TYPE="AGE">1961</ENAMEX>, giới tính: <ENAMEX TYPE="SEX">nữ</ENAMEX>, quốc tịch: Việt Nam
+Bệnh nhân điều trị tại <ENAMEX TYPE="LOCATION">phòng 606 Khoa Nội tiết-Nội thận bệnh viện Đà Nẵng</ENAMEX>.
+Bệnh nhân trước đó đã vào viện điều trị 2 tuần, sau đó về nhà 1 tuần (chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>).
+<ENAMEX TYPE="CONTACT_DATE">12/7/2020</ENAMEX>: Bệnh nhân nhập <ENAMEX TYPE="LOCATION">viện</ENAMEX> trở lại. Bệnh nhân có <ENAMEX TYPE="CONTACT_PERSON">5 người con</ENAMEX> thay phiên nhau vào chăm, thỉnh thoảng có cháu vào thăm. Bệnh nhân chỉ ăn thức ăn trong bệnh viện theo khẩu phần, các con chăm không ngủ lại. Bệnh nhân không nói chuyên với ai, chỉ có con nói chuyện với người trong phòng. Thời gian nằm viện, bệnh nhân không đi đâu ra khỏi phòng.
+Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân mỏi người, được đưa đi cách ly và lấy mẫu XN dương tính SARS-CoV-2.

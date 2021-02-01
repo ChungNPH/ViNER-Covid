@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 828</ENAMEX>		Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1959</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc444, phường Hoà Xuân, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX> 
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">vợ (ct1547)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con trai (ct1548)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">em trai (ct1549)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc444, phường Hoà Xuân, quận Cẩm Lệ, Tp. Đà Nẵng</ENAMEX>.
+- <ENAMEX TYPE="CONTACT_DATE">Từ ngày 21/7 đến 28/7/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>, nhờ người quen mua đồ ăn giúp để ở cổng trước nhà, không tiếp xúc với ai.
+- <ENAMEX TYPE="CONTACT_DATE">Chiều ngày 29/7/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">con gái (ct1550, là bệnh nhân 615)</ENAMEX> tại loc446, quận Hải Châu</ENAMEX>, tiếp xúc với con gái sau đó trở về nhà.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="ISOLATION_DATE">30/7</ENAMEX> đến 03/8/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+- Chiều ngày <ENAMEX TYPE="HOSPITALIZE_DATE">04/8/2020</ENAMEX>, cả gia đình bệnh nhân đến <ENAMEX TYPE="LOCATION">trạm y tế phường Hoà Xuân, quận Cẩm Lệ</ENAMEX> khai báo y tế, khoảng 19 giờ cùng ngày, cả gia đình bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">khu nhà ở công nhân thuộc khu công nghiệp Hoà Cầm, phường Hoà Thọ Tây, quận Cẩm Lệ</ENAMEX>.
+- Ngày 06/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">09/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

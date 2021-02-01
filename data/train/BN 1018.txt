@@ -1,0 +1,10 @@
+Tên: <ENAMEX TYPE="PERSON">BN 1018</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc327, Hải Châu, Đà Nẵng</ENAMEX>
+- Từ tối ngày 25/7 đến 27/7/2020, bệnh nhân đến làm việc tại <ENAMEX TYPE="LOCATION">Khoa Nội tổng hợp, Bệnh viện Đà Nẵng</ENAMEX>. Tại đây, bệnh nhân tiếp xúc với các đồng nghiệp, bệnh nhân và người nhà bệnh nhân Sau giờ làm việc, bệnh nhân tự cách ly tại <ENAMEX TYPE="LOCATION">Khoa Nội tổng hợp</ENAMEX>, không về lại nơi cư trú.
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX></ENAMEX>, Bệnh viện Đà Nẵng được phong tỏa, bệnh nhân được cách ly và làm việc tại <ENAMEX TYPE="LOCATION">Khoa Nội tổng hợp</ENAMEX>. Cùng ngày, bệnh nhân được lấy mẫu dịch hầu họng (lần 1) và có kết quả xét nghiệm (-) với vi rút SARS-CoV-2.
+- Từ ngày 28/7 đến 04/8/2020, bệnh nhân tiếp tục được cách ly và làm việc tại <ENAMEX TYPE="LOCATION">Khoa Nội tổng hợp, Bệnh viện Đà Nẵng</ENAMEX>. Sau giờ làm việc, bệnh nhân sinh hoạt và cách ly 01 mình ở phòng riêng tại Khoa.
+- Từ ngày 05/8 đến 08/8/2020, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly tập trung dành cho nhân viên y tế tại quận Sơn Trà</ENAMEX> cùng với các nhân viên của Bệnh viện Đà Nẵng.
+- Sáng ngày <ENAMEX TYPE="POSITIVE_DATE">24/8/2020</ENAMEX>, tại khu cách ly, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 6) và có kết quả xét nghiệm khẳng định (+) với vi rút SARS-CoV-2.
+- Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1963</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 640</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1982</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Lệ Sơn Nam, xã Hòa Tiến, huyện Hòa Vang, thành phố Đà Nẵng</ENAMEX>.
+- Bệnh nhân bị bệnh động kinh đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">ba ct914</ENAMEX>  và <ENAMEX TYPE="CONTACT_PERSON">mẹ (Bà ct915) tại <ENAMEX TYPE="LOCATION">thôn Lệ Sơn Nam, xã Hòa Tiến, huyện Hòa Vang, thành phố Đà Nẵng</ENAMEX></ENAMEX>. 
+- Bệnh nhân bị Động kinh nên chỉ ở nhà với <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> không cho đi đâu ra khỏi nhà. 
+- Ngày <ENAMEX TYPE="CONTACT_DATE">20/7/2020</ENAMEX>, trong đám tang Ông ct914 có <ENAMEX TYPE="CONTACT_PERSON">bà ct917  hàng xóm (BN 509)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">em dâu (BN 456)</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con nuôi là ct918</ENAMEX> đến phục vụ đám tang. 
+- Sáng <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30/7/2020</ENAMEX></ENAMEX>, bệnh nhân cùng những người trong gia đình được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Khu Ký túc xá phía tây thành phố Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="POSITIVE_DATE">03/8/2020</ENAMEX>, bệnh nhân được thông báo cho kết quả (+) với vi rút SARS-CoV-2 và được chuyển đến <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX> để cách ly và điều trị.

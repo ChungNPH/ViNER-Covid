@@ -1,0 +1,8 @@
+Tên: <ENAMEX TYPE="PERSON">BN 756</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn Phú Sơn, xã An Ninh Đông, huyện Tuy An, tỉnh Phú Yên</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">thôn Phú Sơn, xã An Ninh Đông, huyện Tuy An, tỉnh Phú Yên</ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CONTACT_DATE">26/6 đến 25/7/2020</ENAMEX>, bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>. Trong suốt quá trình điều trị, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">Bệnh viện</ENAMEX>, không đi ra ngoài, có 02 con gái thay nhau chăm sóc là <ENAMEX TYPE="CONTACT_PERSON">H.T.T.T</ENAMEX> thường trú tại loc131, quận Liên Chiểu và <ENAMEX TYPE="CONTACT_PERSON">H.T.M.T</ENAMEX>.
+ - Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">25/7/2020</ENAMEX></ENAMEX>, bệnh nhân được cách ly và điều trị tại Bệnh viện cho đến nay. Ngày 06/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">07/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+ - Hiện tại, bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hoà Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1937</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

@@ -1,0 +1,11 @@
+Tên: <ENAMEX TYPE="PERSON">BN 582</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc78, phường Bình Hiên, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng gia đình tại <ENAMEX TYPE="LOCATION">loc78</ENAMEX>.
+ - Ngày 18/7/2020, bệnh nhân tham dự đám cưới tại <ENAMEX TYPE="LOCATION">Trung tâm tiệc cưới và hội nghị For You Palace tại đường 2/9, quận Hải Châu, TP Đà Nẵng</ENAMEX>.
+ - Từ ngày 19/7 đến 27/7/2020, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà tại loc78, phường Bình Hiên, quận Hải Châu, Tp. Đà Nẵng</ENAMEX> để dạy học.
+ - Sáng <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">29/7/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">vợ là T. T. N.D</ENAMEX> đến khám tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Hải Châu</ENAMEX>, Khoảng 9 giờ 30 cùng ngày, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX> để được cách ly.
+ - Khoảng 17 giờ ngày 31/7/2020, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng (phòng 507, Khoa Nội hô hấp)</ENAMEX> do tình trạng sức khỏe có chuyển biến nặng.
+ - Ngày <ENAMEX TYPE="POSITIVE_DATE">01/8/2020</ENAMEX> bệnh nhân có kết quả (+) với vi rút SARS- CoV-2 và được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>.
+ - Sáng 05/8/2020, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX> để tiếp tục cách ly, điều trị. Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1965</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

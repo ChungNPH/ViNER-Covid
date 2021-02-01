@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 471</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1978</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">xã Duy Thành, huyện Duy Xuyên, tỉnh Quảng Nam</ENAMEX>
+- Bệnh nhân ở với <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">2 con</ENAMEX> tại xã Duy Thành, huyện Duy Xuyên, tỉnh Quảng Nam.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">17/7/2020</ENAMEX> bệnh nhân là người chăm sóc cho <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> là bệnh nhân tại <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày 17/7/2020 đến nay, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>. Không đi đến nơi nào khác.
+- Ngày 28/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của Trung tâm Y tế huyện Hòa Vang</ENAMEX>.

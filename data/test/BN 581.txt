@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 581</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1996</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS"> loc128 - thôn Lệ Sơn Nam - xã Hòa Tiến - huyện Hòa Vang - Tp. Đà Nẵng</ENAMEX> 
+- Từ ngày 08/7/2020 đến 22/7/2020 bệnh nhân đến làm việc tại <ENAMEX TYPE="LOCATION">Khu tái định cư Lệ Sơn Nam, xã Hòa Tiến, huyện Hòa Vang, Tp. Đà Nẵng</ENAMEX>.
+- Từ ngày 23/7/2020 đến 24/7/2020 bệnh nhân đến làm việc tại <ENAMEX TYPE="LOCATION">Siêu thị VinMart+ ở số 904 đường Tôn Đức Thắng, phường Hòa Khánh Bắc, quận Liên Chiểu, Tp. Đà Nẵng</ENAMEX>.
+- Từ ngày 24/7/2020 đến 26/7/2020 bệnh nhân nhận làm việc tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang, Tp. Đà Nẵng</ENAMEX>.
+- Ngày 25/7/2020 bệnh nhân ăn sáng tại <ENAMEX TYPE="LOCATION">quán bún gần Trung tâm Y tế huyện Hòa Vang, Tp. Đà Nẵng</ENAMEX>.
+- Từ ngày 27/7/2020 đến 29/7/2020 bệnh nhân ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đâu.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">30/7/2020 đến 31/7/2020</ENAMEX> bệnh nhân đến nhà <ENAMEX TYPE="CONTACT_PERSON">bà nội</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khu tái định cư Lệ Sơn Nam, xã Hòa Tiến, huyện Hòa Vang, Tp. Đà Nẵng</ENAMEX>.
+- Ngày 30/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">31/7/2020</ENAMEX></ENAMEX></ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của Trung tâm y tế huyện Hòa Vang</ENAMEX>.

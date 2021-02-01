@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">Ca nghi ngờ 8</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1975</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc1 – Thanh Nam – Cẩm Nam – thành phố Hội An - tỉnh Quảng Nam</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">21/7/2020</ENAMEX>: chăm <ENAMEX TYPE="CONTACT_PERSON">ba BN428</ENAMEX> tại <ENAMEX TYPE="LOCATION">BVĐK ĐN, Khoa Nội thận - Nội tiết - P116</ENAMEX>;
+- Sáng ngày <ENAMEX TYPE="CONTACT_DATE">22/7/20</ENAMEX>: về lại <ENAMEX TYPE="LOCATION">nhà</ENAMEX> với <ENAMEX TYPE="CONTACT_PERSON">con gái</ENAMEX> và ở nhà không đi ra ngoài;
++ Uống <ENAMEX TYPE="LOCATION">cà phê Cường ở Thanh Nam,Cẩm Nam</ENAMEX>, tiếp xúc với 09 người;
++ Đi <ENAMEX TYPE="LOCATION">chợ Thanh Hà</ENAMEX> bán cá;
++ Đi <ENAMEX TYPE="LOCATION">chợ Thanh Hà</ENAMEX> bán cá;
+- Từ thời gian ở bệnh viện về có lên nhà Mẹ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">a trai</ENAMEX>.
+Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7/2020</ENAMEX></ENAMEX>: Được đưa vào <ENAMEX TYPE="LOCATION">Khu cách ly Bệnh viên Đa khoa Hội An</ENAMEX>

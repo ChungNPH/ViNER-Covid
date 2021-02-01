@@ -1,0 +1,11 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 473</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1982</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc42, phường An Hải Đông, quận Sơn Trà, thành phố Đà Nẵng</ENAMEX>.
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">mẹ chồng</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX>e và <ENAMEX TYPE="CONTACT_PERSON">02 con trai</ENAMEX> tại địa chỉ loc43, phường An Hải Đông, quận Sơn Trà, thành phố Đà Nẵng.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">20/7/2020 đến nay</ENAMEX>, bệnh nhân chăm <ENAMEX TYPE="CONTACT_PERSON">mẹ (là ct27)</ENAMEX> đang điều trị tại <ENAMEX TYPE="LOCATION">khoa Nội thận – Nội tiết, bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày 16/7/2020 đến 20/7/2020, 24/7/2020 đến 26/7/2020 bệnh nhân vẫn đi làm tại <ENAMEX TYPE="LOCATION">công ty TNHH Sinaran Việt Nam, Đường số 5, Khu Công Nghiệp Đà Nẵng, quận Sơn trà, TP Đà Nẵng</ENAMEX>. Lúc đi làm bệnh nhân đeo khẩu trang thường xuyên.
+- Thời gian chăm mẹ, ngoài bệnh nhân còn có 02 người em ruột thay nhau chăm mẹ (<ENAMEX TYPE="CONTACT_PERSON">ct28</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct29</ENAMEX>).
+- Chủ nhật hàng tuần bệnh nhân có đi mua sắm tại <ENAMEX TYPE="LOCATION">chợ An Hải Đông, phường An Hải Đông, quận Sơn Trà, TP Đà Nẵng</ENAMEX>. 
+- Thời gian chăm mẹ, bệnh nhân nấu ăn ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và đem qua bệnh nhân ăn cả ngày
+- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">28/7/2020</ENAMEX> bệnh nhân có triệu chứng rát cổ, ho nhẹ.
+- Ngày 28/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> cho kết quả  (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của bệnh viện Phổi Đà Nẵng</ENAMEX>.

@@ -1,0 +1,11 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 730</ENAMEX>		Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1961</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Điện Thắng Nam, Điện Bàn, tỉnh Quảng Nam</ENAMEX>
+- Bệnh nhân sống cùng gia đình tại <ENAMEX TYPE="LOCATION">Điện Thắng Nam, Điện Bàn, tỉnh Quảng Nam</ENAMEX>.
+- Từ <ENAMEX TYPE="CONTACT_DATE">ngày 02/7/2020 đến nay</ENAMEX>, những người trong gia đình tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con gái (ct1551)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con trai (ct1552)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con dâu (ct1553)</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">2 cháu</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con trai (ct1554)</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">02/7/2020</ENAMEX>, bệnh nhân đưa <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">khoa Y học nhiệt đới, bệnh viện Đà Nẵng</ENAMEX>, sau đó chồng bệnh nhân được điều trị ở đây và bệnh nhân là người trực tiếp chăm sóc.
+- Từ <ENAMEX TYPE="CONTACT_DATE">ngày 05/7 đến 31/7/2020</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khoa Nội thần kinh huyết học, bệnh viện Đà Nẵng</ENAMEX>. Bệnh nhân tiếp tục là người thường xuyên chăm sóc.
+- Chiều ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">31/7/2020</ENAMEX></ENAMEX>, bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Gia đình Đà Nẵng</ENAMEX>.
+- Ngày 03/8/2020, chồng bệnh nhân mất và được đưa đi hoả thiêu nhưng bệnh nhân không đi cùng, tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">bệnh viện Đa khoa Gia đình Đà Nẵng</ENAMEX>).
+- Ngày 04/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">05/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

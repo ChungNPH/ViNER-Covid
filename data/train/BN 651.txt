@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 651</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1953</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">thị trấn Nam Phước, huyện Duy Xuyên, tỉnh Quảng Nam</ENAMEX>
+- Bệnh nhân ở tại địa chỉ <ENAMEX TYPE="LOCATION">thị trấn Nam Phước, huyện Duy Xuyên, tỉnh Quảng Nam</ENAMEX> cùng <ENAMEX TYPE="CONTACT_PERSON">chồng (ct666</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con trai (ct667</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con dâu đang bầu 11 tuần</ENAMEX>. 
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">12/7</ENAMEX> đến 18/7/2020, bệnh nhân chỉ ở nhà tại <ENAMEX TYPE="LOCATION">thị trấn Nam Phước, huyện Duy Xuyên, tỉnh Quảng Nam</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
+- Ngày 18/7/2020, bệnh nhân được đưa đến cấp cứu tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>, sau đó được chuyển đến <ENAMEX TYPE="LOCATION">khoa Nội (phòng 707)</ENAMEX>.
+- Sau đó bệnh nhân được bệnh viện Đà Nẵng chuyển đến <ENAMEX TYPE="LOCATION">bệnh viện Gia đình</ENAMEX> (không nhớ rõ ngày). Từ thời điểm đó đến ngày 31/7/2020 bệnh nhân được điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Gia đình</ENAMEX>.
+- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">03/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>.

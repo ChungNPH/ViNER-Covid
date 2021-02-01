@@ -1,0 +1,14 @@
+Tên: <ENAMEX TYPE="PERSON">BN 851</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS"> loc82, xã Hoà Tiến, huyện Hoà Vang, Tp. Đà Nẵn</ENAMEX>
+ - Bệnh nhân sống 1 mình tại <ENAMEX TYPE="LOCATION">loc82, xã Hoà Tiến, huyện Hoà Vang, Tp. Đà Nẵng</ENAMEX>.
+ - Khoảng 14 giờ ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">nhà em trai</ENAMEX>, gồm: <ENAMEX TYPE="CONTACT_PERSON">L.V.Đ</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">P.T.K.C</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">L.T.P</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">L.T. T.N</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">L.T. D.M</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc82</ENAMEX> , sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+ - Ngày 26/7/2020, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
+ - Sáng <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX>, bệnh nhân tham dự đám tang và có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">V.T.K.L (là BN 509)</ENAMEX> tại <ENAMEX TYPE="LOCATION">tổ 1 Lệ Sơn Nam</ENAMEX>.
+ - Ngày 28/7 và 29/7/2020, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
+ - Sau khi xác định BN 509 mắc COVID-19 ngày 30/7/2020, từ ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30/7/2020</ENAMEX></ENAMEX> đến 09/8/2020, bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">khu cách ly tập trung</ENAMEX>. Tại đây bệnh nhân ở cùng phòng với 7 người. Xét nghiệm lần 1 ngày 02/8/2020 , bệnh nhân có kết quả (-).
+ - Tối ngày 09/8/2020, bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hoà Vang</ENAMEX>.
+ - Ngày 10/8/2020, Trung tâm kiểm soát bệnh tật Tp. Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">10/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+ - Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX> .
+hoặc <ENAMEX TYPE="CONTACT_PERSON">BN509</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1953</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

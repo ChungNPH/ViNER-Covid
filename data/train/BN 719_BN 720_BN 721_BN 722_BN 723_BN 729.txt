@@ -1,0 +1,71 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 719</ENAMEX> (BN719)         	Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1992</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">tổ 20, Bình Khương, Bình Giang, Thăng Bình, Quảng Nam</ENAMEX>
+BN ở cùng nhà với <ENAMEX TYPE="CONTACT_PERSON">mẹ ct1342</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">vợ ct1343</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con gái ct1344</ENAMEX>.
+- Sáng ngày <ENAMEX TYPE="CONTACT_DATE">23/7/2020</ENAMEX>: bệnh nhân chăm đau <ENAMEX TYPE="CONTACT_PERSON">ông nội</ENAMEX> tại <ENAMEX TYPE="LOCATION">tầng 2, khoa Hồi sức tích cực, BVĐK ĐN</ENAMEX>. Đến 14h30, <ENAMEX TYPE="CONTACT_PERSON">ông nội</ENAMEX> BN chuyển lên <ENAMEX TYPE="LOCATION">khoa Ngoại Tiêu hóa</ENAMEX>. Khoảng 15h30, bệnh nhân về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> bằng xe máy;
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">24/7 đến 31/7/2020</ENAMEX>: BN hằng ngày mở cửa tiệm cắt tóc của mình tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX> từ 8h sáng đến 4h chiều, 1 ngày khoảng dưới 10 khách đến cắt tóc;
++ BN thường ăn sáng tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, một vài ngày BN ăn sáng tại <ENAMEX TYPE="LOCATION">quán Mỳ Thắng (tổ 20, Bình Khương, Bình Giang)</ENAMEX>;
++ Buổi chiều hằng ngày, BN đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">bà ngoại ct1345</ENAMEX></ENAMEX> để 
+thắp hương cho ông ngoại tại <ENAMEX TYPE="LOCATION">tổ 20, Bình Khương, Bình Giang</ENAMEX>;
+<ENAMEX TYPE="CONTACT_DATE">Các ngày 24; 25; 27/7</ENAMEX>, từ 4h45 đến 6h sáng, BN cùng với 4 người bạn của mình: <ENAMEX TYPE="CONTACT_PERSON">ct1346</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct1347</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct1348</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">anh ct1349</ENAMEX> đi tập Gym tại <ENAMEX TYPE="LOCATION">Phòng Gym Phạm Gia, TT Hà Lam, Thăng Bình</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX>: BN đi đám nhà mới tại <ENAMEX TYPE="LOCATION">nhà cô <ENAMEX TYPE="CONTACT_PERSON">ct1350</ENAMEX></ENAMEX>, khoảng 10 - 12 bàn. BN ngồi cùng bàn với <ENAMEX TYPE="CONTACT_PERSON">ct1351</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct1352</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct1353</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct1354</ENAMEX>.
+6h30 đến 7h15 ngày 28/07/2020, BN có uống cafe tại <ENAMEX TYPE="LOCATION">Quán T (tổ 20, Bình Khương, Bình Giang)</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">03/08/2020</ENAMEX></ENAMEX>: được cách ly và lấy mẫu xét nghiệm;
+- Ngày 06/8/2020: chuyển điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Trung ương Quảng Nam</ENAMEX>.
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 720</ENAMEX> (BN720) 		Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1990</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">tổ 1, Tiên Đỏa, Bình Sa, Thăng Bình, Quảng Nam</ENAMEX>
+BN ở cùng nhà với Mẹ <ENAMEX TYPE="CONTACT_PERSON">ct1355</ENAMEX>, vợ <ENAMEX TYPE="CONTACT_PERSON">ct1356</ENAMEX>, con trai <ENAMEX TYPE="CONTACT_PERSON">ct1357</ENAMEX> (16 tháng tuổi), em gái <ENAMEX TYPE="CONTACT_PERSON">ct1358</ENAMEX> và em rể <ENAMEX TYPE="CONTACT_PERSON">ct1359</ENAMEX>.
+- Ngày 18/07/2020: BN nhập viện tại <ENAMEX TYPE="LOCATION">phòng 207, tầng 2, khoa Ngoại Thần kinh (cơ sở 2), BVĐK ĐN</ENAMEX> để điều trị chấn thương cột sống thắt lưng;
+- Chiều <ENAMEX TYPE="CONTACT_DATE">21/07/2020</ENAMEX>: BN xuất viện và về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> bằng xe ô tô cùng với <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX>;
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">22/07 đến 28/07/2020</ENAMEX>, BN đi làm tại <ENAMEX TYPE="LOCATION">cơ sở sửa chữa điện thoại T.L (đường Tiểu La, TT Hà Lam, Thăng Bình)</ENAMEX>, tại đây BN thường xuyên tiếp xúc, ăn trưa cùng 4 thành viên trong gia đình chủ cơ sở là <ENAMEX TYPE="CONTACT_PERSON">ct1360</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct1361</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct1362</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct1363</ENAMEX> và 1 bạn <ENAMEX TYPE="CONTACT_PERSON">ct1364</ENAMEX> - thợ sửa chữa cùng làm việc. Khoảng thời gian này BN thường xuyên không đeo khẩu trang;
+Buổi trưa trong thời gian từ <ENAMEX TYPE="CONTACT_DATE">22/7 đến 28/07</ENAMEX> (không nhớ rõ ngày), BN có ăn uống tại <ENAMEX TYPE="LOCATION">cơ cở sửa chữa điện thoại</ENAMEX> cùng với <ENAMEX TYPE="CONTACT_PERSON">gia đình chủ cơ sở</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">1 đồng nghiệp</ENAMEX> và 2 người khác là <ENAMEX TYPE="CONTACT_PERSON">ct1365</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">ct1366</ENAMEX> cùng trú tại Tiên Đỏa, Bình Sa.
+BN có vài lần đến mua nước uống tại <ENAMEX TYPE="LOCATION">tiệm tạp hóa của người đàn ông ở phía sau cơ sở sửa chữa điện thoại mình làm việc</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="ISOLATION_DATE">29/07/2020</ENAMEX> đến nay: BN nghỉ làm, ở nhà tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và không đi đâu, BN thường xuyên đeo khẩu trang.
+- Tối <ENAMEX TYPE="HOSPITALIZE_DATE">05/8/2020</ENAMEX>: BN được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">KCL tập trung trường Trần Quý Cáp, Bình Quý</ENAMEX>;
+- Ngày 06/8/2020: chuyển điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Trung ương Quảng Nam</ENAMEX>.
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 721</ENAMEX> (BN721)                   Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1994</ENAMEX>;
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Nam Hà, xã Điện Trung,Thị xã Điện Bàn, Quảng Nam</ENAMEX>;
+- Ngày 21/7/2020 – 25/7/2020: bệnh nhân làm việc tại <ENAMEX TYPE="LOCATION">công ty thực phẩm Sáng Ngọc, lô C2 – 11 đường Trần Nhân Tông, quận Sơn Trà, thành phố Đà Nẵng</ENAMEX>;
+- Chiều ngày 25/7/2020: bệnh nhân về <ENAMEX TYPE="LOCATION">nhà tại thôn Nam Hà, xã Điện Trung, Thị xã Điện Bàn, tỉnh Quảng Nam</ENAMEX>. Sau khi nghe thông tin BV Đa Khoa Đà Nẵng có nhiều người mắc bệnh Covid - 19 và mẹ ruột BN (BN 562) có ra chăm người thân (BN 436, BN443 – công bố tại Đà Nẵng) ở BV Đà Nẵng từ ngày 22/07 -24/07/2020 tại khoa Hồi sức tích cực – Chống độc Bệnh viện Đa khoa Đà Nẵng. Bệnh nhân xin công ty cho tự cách ly và làm việc tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>;
+-  Từ ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="ISOLATION_DATE">25/7</ENAMEX> – 28/7/2020</ENAMEX>: bệnh nhân tự cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>. Chỉ làm việc tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">người trong nhà</ENAMEX>. Hiện những người nhà đã được đưa đi cách ly tập trung;
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE">01/08/2020</ENAMEX>: mẹ bệnh nhân được công bố là bệnh nhân Covid – 19 số 562. Bệnh nhân là F1 được đưa đi cách ly tập trung tại <ENAMEX TYPE="LOCATION">KCL Đại học Nội Vụ</ENAMEX>;
+- Ngày 05/8/2020: Chuyển cách ly điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Khu vực Quảng Nam</ENAMEX>. 
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 722</ENAMEX> (BN722)             Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1952</ENAMEX>;
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Tổ 5, thôn Trung Đông, Duy Trung, Duy Xuyên</ENAMEX>;
+- Trước ngày <ENAMEX TYPE="CONTACT_DATE">18/7/2020</ENAMEX>: sống ở <ENAMEX TYPE="LOCATION">địa phương</ENAMEX> và có đi <ENAMEX TYPE="LOCATION">chợ tại thôn Trung Đông, Duy Trung, Duy Xuyên</ENAMEX>. Có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">ct1367</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">ct1368</ENAMEX> (hàng xóm);
+- 18h00 ngày 18/7/2020: ra dự đám tang tại <ENAMEX TYPE="LOCATION">thôn Lệ Sơn Nam, xã Hòa Tiến, huyện Hòa Vang</ENAMEX>;
+- Khoảng 16h00 chiều ngày <ENAMEX TYPE="CONTACT_DATE">19/7/2020</ENAMEX>: có tiếp xúc trực tiếp với <ENAMEX TYPE="CONTACT_PERSON">BN456</ENAMEX> trong đám tang;
+- 6 giờ sáng ngày <ENAMEX TYPE="CONTACT_DATE">20/7/2020</ENAMEX>: đưa đám tang về quê tại <ENAMEX TYPE="LOCATION">thị trấn Nam Phước</ENAMEX> để chôn cất. Đến 10h20 cùng ngày về <ENAMEX TYPE="LOCATION">nhà riêng</ENAMEX> (xe máy gia đình cháu <ENAMEX TYPE="CONTACT_PERSON">ct1369</ENAMEX> chở);
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">21-30/7/2020</ENAMEX>: sống ở địa phương và có đi <ENAMEX TYPE="LOCATION">chợ tại thôn Trung Đông, Duy Trung, Duy Xuyên</ENAMEX>. Có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">ct1367</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">ct1368</ENAMEX> (hàng xóm);
+- 7h30 ngày <ENAMEX TYPE="CONTACT_DATE">31/7/2020</ENAMEX>: đi khai báo y tế tại <ENAMEX TYPE="LOCATION">TTYT Duy Trung</ENAMEX> bằng phương tiện xe máy <ENAMEX TYPE="CONTACT_PERSON">ct1372</ENAMEX> (con gái) chở;
+- Ngày <ENAMEX TYPE="ISOLATION_DATE">01/8/2020</ENAMEX>: cách ly tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX> không tiếp xúc với ai;
+- 16h35 ngày <ENAMEX TYPE="HOSPITALIZE_DATE">2/8/2020</ENAMEX>: cách ly <ENAMEX TYPE="LOCATION">TTYT Duy Xuyên</ENAMEX>;
+- 8h00 ngày 5/8/2020: cách ly tại <ENAMEX TYPE="LOCATION">khu cách ly trường tiểu học Duy Trung</ENAMEX> và ở đây được lấy mẫu xét nghiệm;
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 723</ENAMEX> (BN723)                Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1964</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Tổ 2, thôn Nam Thành, Duy Trung, Duy Xuyên</ENAMEX>
+- Ngày 24/7/2020 trở về trước: ở tại <ENAMEX TYPE="LOCATION">địa phương</ENAMEX> và không đi đâu;
+- 07h00, ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>: xuống <ENAMEX TYPE="LOCATION">P505 - khoa Nội - Bệnh viện Bình An - Duy Xuyên</ENAMEX> để nuôi mẹ là <ENAMEX TYPE="CONTACT_PERSON">BN592</ENAMEX> (con gái <ENAMEX TYPE="CONTACT_PERSON">ct1373</ENAMEX> chở xuống);
+- Ngày 26/7/2020: ở tại <ENAMEX TYPE="LOCATION">bệnh phòng</ENAMEX> và không đi đâu (không rõ tiếp xúc);
+- Ngày 27/7/2020: về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> (phương tiện xe taxi Grab) và không đi đâu;
+- 6h00 ngày <ENAMEX TYPE="CONTACT_DATE">28/7/2020</ENAMEX>: chồng <ENAMEX TYPE="CONTACT_PERSON">ct1374</ENAMEX>, chở xuống <ENAMEX TYPE="LOCATION">Phòng khám Trung tâm Y tế Duy xuyên</ENAMEX> để xin thuốc tiểu đường. 10h00 cùng ngày về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và không đi đâu (phương tiện xe máy gia đình);
+- Ngày 29/7/2020: ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và không đi đâu;
+- 10h00 ngày <ENAMEX TYPE="CONTACT_DATE">30/7/2020</ENAMEX>: đưa <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> xuống <ENAMEX TYPE="LOCATION">Khoa cấp cứu - Trung tâm Y tế Duy Xuyên</ENAMEX> (cùng em trai là <ENAMEX TYPE="CONTACT_PERSON">ct1375</ENAMEX>) đến 11h00 về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> bằng phương tiện xe taxi Grab;
+- Ngày 31/7/2020: ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và không đi đâu;
+- 12h00 ngày <ENAMEX TYPE="CONTACT_DATE">02/8/2020</ENAMEX>: đi khai báo y tế tại <ENAMEX TYPE="LOCATION">TTYT Duy Trung</ENAMEX> cùng chồng là ông <ENAMEX TYPE="CONTACT_PERSON">ct1376</ENAMEX> (phương tiện xe máy gia đình). 14h30 ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">2/8/2020</ENAMEX></ENAMEX>: được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">khu cách ly Trường TH Duy Trung</ENAMEX>;
+- 16h30 ngày 3/8/2020: Tại <ENAMEX TYPE="LOCATION">khu cách ly</ENAMEX> được lấy mẫu xét nghiệm.
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 729</ENAMEX> (BN729)	            Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1969</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">tổ 9, thôn Nam Hà, Bình Dương, Thăng Bình, Quảng Nam</ENAMEX>
+BN sống cùng chồng <ENAMEX TYPE="CONTACT_PERSON">ct1377</ENAMEX>, 2 người con trai <ENAMEX TYPE="CONTACT_PERSON">ct1378</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ct1379</ENAMEX>, con dâu <ENAMEX TYPE="CONTACT_PERSON">ct1380</ENAMEX> và cháu nội <ENAMEX TYPE="CONTACT_PERSON">ct1381</ENAMEX>.
+- Ngày 20/7/2020: BN nhập viện <ENAMEX TYPE="LOCATION">khoa Nhiệt đới - BVĐK ĐN</ENAMEX>, được chẩn đoán và điều trị SXH Dengue;
+- Khoảng 01h sáng ngày <ENAMEX TYPE="CONTACT_DATE">23/07/2020</ENAMEX>: bệnh nhân được chuyển sang <ENAMEX TYPE="LOCATION">phòng 500, tầng 5, Khoa Nội</ENAMEX>;
+Trong thời gian nằm viện, bệnh nhân được con trai <ENAMEX TYPE="CONTACT_PERSON">ct1378</ENAMEX> chăm sóc;
+- Chiều <ENAMEX TYPE="CONTACT_DATE">24/7/2020</ENAMEX>: bệnh nhân xuất viện, cùng <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> về <ENAMEX TYPE="LOCATION">nhà tại tổ 9, thôn Nam Hà, Bình Dương, Thăng Bình, Quảng Nam</ENAMEX> bằng xe máy;
+- Trong thời gian từ  ngày <ENAMEX TYPE="CONTACT_DATE">25/07 đến nay</ENAMEX>: bệnh nhân chủ yếu ở trong <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi ra ngoài, BN khai báo có đi <ENAMEX TYPE="LOCATION">chợ Lạc Câu, Bình Dương</ENAMEX> 2 lần, có ghé quầy trái cây <ENAMEX TYPE="CONTACT_PERSON">bà N</ENAMEX> để mua trái cây;
+	Trong thời gian này, Có ông hàng xóm <ENAMEX TYPE="CONTACT_PERSON">ct1383</ENAMEX> đến nhà thăm 2 lần và ông <ENAMEX TYPE="CONTACT_PERSON">ct1384</ENAMEX> qua nhà thăm 1 lần.	
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">03/8/2020</ENAMEX></ENAMEX>: đến TYT khai báo y tế, được cách ly và lấy mẫu xét nghiệm;
+- Ngày 06/8/2020: chuyển điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Đa khoa Trung ương Quảng Nam</ENAMEX>.

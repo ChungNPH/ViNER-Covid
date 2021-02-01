@@ -1,0 +1,13 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 633</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1977</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc102, phường Tam Thuận, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">cha mẹ</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">chồng ct62</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">02 người con</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc102, phường Tam Thuận, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>. Cha bệnh nhân là bệnh nhân 488.
+- Từ <ENAMEX TYPE="CONTACT_DATE">ngày 17/7/2020 đến 25/7/2020</ENAMEX> bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> ruột thay phiên nhau chăm sóc <ENAMEX TYPE="CONTACT_PERSON">cha ruột</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khoa phục hồi chức năng, bệnh viện Đà Nẵng</ENAMEX> (Thời gian này bệnh nhân nghỉ bán Shop quần áo).
++ Từ 10h00 – 11h00 bệnh nhân đến <ENAMEX TYPE="LOCATION">Trung tâm hành chính quận Cẩm Lệ, đường Ông Ích Đường, phường Khuê trung, quận Cẩm lệ, TP Đà Nẵng</ENAMEX>
++ Từ 13h00 – 13h30 bệnh nhân đến để liên hệ công việc tại <ENAMEX TYPE="LOCATION">phòng số 5 Chi cục thuế quận Cẩm Lệ số 8 Nguyễn Nhàn, phường Hòa Thọ Đông, quận Cẩm Lệ, TP Đà Nẵng</ENAMEX>.
+- Ngày 26/7/2020 bệnh nhân có mua đồ tại <ENAMEX TYPE="LOCATION">siêu thị Vinmart số 148 Ông Ích Khiêm, phường Thanh Bình, quận Hải Châu, TP Đà Nẵng</ENAMEX>
+- 11h00 ngày 28/7/2020 bệnh nhân có đi mua đồ tại <ENAMEX TYPE="LOCATION">tiệm tạp hóa Mai Phương, đường Ông Ích Khiêm, phường Thanh Bình, quận Hải Châu, TP Đà Nẵng</ENAMEX>. Tại đây bệnh nhân đứng tại khu vực giãn cách của tiệm tạp hóa để nhận đồ.
++ Mua đồ tại <ENAMEX TYPE="LOCATION">tiệm tạp hóa Quyên, số 66 Trần Cao Vân, phường Tam Thuận, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
++ Mua thuốc tại <ENAMEX TYPE="LOCATION">tiệm thuốc tây Phước Thiện 3 số 170 Ông Ích Khiêm, phường Thạch Thang, quận Hải Châu, TP Đà Nẵng</ENAMEX>.
++ Đến giao dịch tại <ENAMEX TYPE="LOCATION">ngân hàng PVCombank số 492 Hoàng Diệu, phường Bình Thuận, quận Hải Châu, Thành phố Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">01/8/2020</ENAMEX></ENAMEX> bệnh được được chuyển lên cách li tại <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Thanh Khê</ENAMEX> và được xét nghiệm dịch hầu họng. Ngày <ENAMEX TYPE="POSITIVE_DATE">03/8/2020</ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đi cách ly và điều trị .

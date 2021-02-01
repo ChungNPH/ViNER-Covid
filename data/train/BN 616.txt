@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 616</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1986</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">phường Điện Ngọc, thị xã Điện Bàn, tỉnh Quảng Nam</ENAMEX> 
+- Bệnh nhân ở nhà với <ENAMEX TYPE="CONTACT_PERSON">mẹ chồng</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">3 người con</ENAMEX> tại <ENAMEX TYPE="LOCATION">phường Điện Ngọc, thị xã Điện Bàn, tỉnh Quảng Nam</ENAMEX>.
+- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">20/7/2020</ENAMEX> bệnh nhân xuất hiện triệu chứng sốt nhẹ.
+- Ngày 28/07/2020 bệnh nhân đi khám tại <ENAMEX TYPE="LOCATION">bệnh viện Bình An, tỉnh Quảng Nam</ENAMEX>.
+- Sáng ngày 30/07/2020 bệnh nhân đi khám tại <ENAMEX TYPE="LOCATION">bệnh viện Gia đình, Tp. Đà Nẵng</ENAMEX> để xin xét nghiệm covid 19, sau đó buổi chiều cùng ngày bệnh nhân về nhà bằng xe ô tô riêng của gia đình.
+	- Ngày 31/7/2020 Trung tâm Kiểm soát bệnh tật TP Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">01/8/2020</ENAMEX></ENAMEX></ENAMEX> bệnh nhân cho kết quả (+) với vi rút SARS-CoV-2.

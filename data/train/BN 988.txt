@@ -1,0 +1,15 @@
+Tên: <ENAMEX TYPE="PERSON">BN 988</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">Địa chỉ nhà trọ: <ENAMEX TYPE="LOCATION">tổ 3 thôn Yến Nê 2, xã Hòa Tiến, huyện Hòa Vang, Tp. Đà Nẵng</ENAMEX> </ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">tổ 3 thôn Yến Nê 2, xã Hòa Tiến</ENAMEX></ENAMEX>.
+- Tối ngày 02/8/2020, bệnh nhân đến <ENAMEX TYPE="LOCATION">tiệm cắt tóc tại quận Ngũ Hành Sơn</ENAMEX> (không nhớ rõ địa chỉ) sau đó bệnh nhân đến đổ xăng ở <ENAMEX TYPE="LOCATION">cây xăng tại cầu Đỏ</ENAMEX> và tiếp xúc với 01 nhân viên.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">04/8/2020</ENAMEX>, bệnh nhân đến <ENAMEX TYPE="LOCATION">chợ Yến Nê 1, xã Hòa Tiến, huyện Hòa Vang</ENAMEX> để mua chuối tại <ENAMEX TYPE="LOCATION">quán <ENAMEX TYPE="CONTACT_PERSON">bà ct280</ENAMEX></ENAMEX> và mua mỳ ăn liền tại <ENAMEX TYPE="LOCATION">quán <ENAMEX TYPE="CONTACT_PERSON">bà ct281</ENAMEX></ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">05/8</ENAMEX> đến 10/8/2020, bệnh nhân đến làm đậu khuôn tại <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">ông ct282</ENAMEX></ENAMEX>, tại đây, bệnh nhân tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bà chủ ct281</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">chị ct284 (con gái bà chủ)</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">11/8</ENAMEX>, 12/8 và 13/8/2020, bệnh nhân đến làm đậu khuôn tại <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">ông ct285</ENAMEX></ENAMEX> sau đó trở về nhà, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày 14/8/2020, tại <ENAMEX TYPE="LOCATION">thôn Yến Nê 2</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 1) và có kết quả xét nghiệm mẫu gộp (cùng với 3 bệnh nhân khác) nghi ngờ với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">15/8/2020</ENAMEX>, bệnh nhân ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày 16/8/2020, tại <ENAMEX TYPE="LOCATION">thôn Yến Nê 2</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 2) để làm xét nghiệm khẳng định, tuy nhiên cả 4 bệnh nhân trong mẫu xét nghiệm gộp ngày 14/8/2020 đều có kết quả (-) với vi rút SARS-CoV-2. Sau đó bệnh nhân trở về nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+- Ngày 17/8/2020 tại <ENAMEX TYPE="LOCATION">thôn Yến Nê 2</ENAMEX>, bệnh nhân tiếp tục được lấy mẫu dịch hầu họng (lần 3) để xét nghiệm khẳng định với vi rút SARS-CoV-2.
+- Sáng ngày <ENAMEX TYPE="CONTACT_DATE">18/8/2020</ENAMEX>, bệnh nhân có gặp <ENAMEX TYPE="CONTACT_PERSON">ct286</ENAMEX></ENAMEX> sau đó trở về nhà.
+- Trưa ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">18/8/2020</ENAMEX></ENAMEX></ENAMEX>, bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2. Sau đó, bệnh nhân được chuyển cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1990</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

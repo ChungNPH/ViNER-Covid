@@ -1,0 +1,6 @@
+Tên: <ENAMEX TYPE="PERSON">BN 476</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Trường Chinh, phường HoàPhát, quận Cẩm Lệ, TP Đà Nẵng.</ENAMEX>
+ - Bệnh nhân đang điều trị bệnh suy thận giai đoạn cuối tại <ENAMEX TYPE="LOCATION">phòng số 602, Bệnh viện Đà Nẵng</ENAMEX> từ tháng 5/2020 đến nay.
+ - Trong suốt thời gian điều trị tại bệnh viện, bệnh nhân điều trị chạy thận nhân tạo tại bệnh viện vào ban ngày, buổi tối bệnh nhân về <ENAMEX TYPE="LOCATION">nhà tại đường Trường Chinh, phường Hoà Phát, quận Cẩm Lệ</ENAMEX>. Bệnh nhân tiếp xúc với thành viên trong gia đình, bệnh nhân không đi đâu ra khỏi nhà.
+Năm sinh: <ENAMEX TYPE="AGE">1993</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

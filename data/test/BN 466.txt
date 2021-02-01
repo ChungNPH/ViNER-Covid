@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 466</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1966</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc123, tổ 137, Đà Sơn, Hoà Khánh Nam, quận Liên Chiểu, Tp. Đà Nẵng</ENAMEX>
+- Trong khoảng 7,8 năm nay, bệnh nhân ở tại <ENAMEX TYPE="LOCATION">loc124, Đà Sơn, Hoà Khánh Nam, quận Liên Chiểu, Tp. Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">01/7/2020</ENAMEX> bệnh nhân là người chăm sóc cho <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân ct69</ENAMEX> (cũng ở loc124, Đà Sơn, Hoà Khánh Nam, quận Liên Chiểu, Tp. Đà Nẵng) tại <ENAMEX TYPE="LOCATION">khoa Thận - Nội tiết, bệnh viện Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">01/7/2020 đến nay</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">Trung tâm Bảo trợ xã hội Đà Nẵng, tổ 137, Đà Sơn, Hoà Khánh Nam, quận Liên Chiểu, Tp. Đà Nẵng</ENAMEX> và  được xe của Trung tâm đưa đến <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> để chăm sóc cho <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân Nguyễn Hùng Phước</ENAMEX>. Không đi đến nơi nào khác.
+- Ngày 28/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của Trung tâm Y tế huyện Hòa Vang</ENAMEX>.

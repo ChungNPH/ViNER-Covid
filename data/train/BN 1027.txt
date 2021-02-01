@@ -1,0 +1,14 @@
+Tên: <ENAMEX TYPE="PERSON">BN 1027</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Hồ Huân Nghiệp,Mỹ An, Ngũ Hành Sơn, Đà Nẵng</ENAMEX>
+ - Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">đường Hồ Huân Nghiệp, phường Mỹ An, quận Ngũ Hành Sơn, Tp. Đà Nẵng</ENAMEX></ENAMEX>, trong đó có mẹ là bệnh nhân số 1017.
+ - Từ ngày <ENAMEX TYPE="CONTACT_DATE">10/8</ENAMEX> đến 21/8/2020, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>. Ngoài ra:
+ + Ngày <ENAMEX TYPE="CONTACT_DATE">15/8/2020</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">bạn của con gái là ct906</ENAMEX> đến nhà chơi và tiếp xúc với bệnh nhân, đến khoảng 16 giờ thì trở về nhà.
+ + Ngày <ENAMEX TYPE="CONTACT_DATE">20/8/2020</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ông ct907</ENAMEX> đến nhà chơi và tiếp xúc với bệnh nhân.
+ + <ENAMEX TYPE="CONTACT_PERSON">Gia đình con trai ct908</ENAMEX> đến nhà chơi và tiếp xúc với bệnh nhân, sau đó những người này trở về nhà tại đường Lê Văn Hiến, phường Khuê Mỹ, quận Ngũ Hành Sơn.
+ - Khoảng từ 16 giờ đến 17 giờ ngày <ENAMEX TYPE="CONTACT_DATE">21/8/2020</ENAMEX>, bệnh nhân đi tập thể dục một mình quanh nơi cư trú, đến uống nước phía ngoài sân tại <ENAMEX TYPE="LOCATION">tiệm tạp hóa <ENAMEX TYPE="CONTACT_PERSON">ông ct909</ENAMEX></ENAMEX>, sau đó trở về nhà.
+ + Khoảng 7 giờ 30, bệnh nhân đến làm việc tại <ENAMEX TYPE="LOCATION">Công ty cổ phần Kỹ Thuật Biển S.Tech, lô D7-D8 Khu công nghiệp dịch vụ thủy sản Đà Nẵng, phường Nại Hiên Đông, quận Sơn Trà</ENAMEX>, tại đây bệnh nhân có mang khẩu trang và tiếp xúc với chị gái ct910, ông ct911 và anh ct912.
+ - Ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">23/8/2020</ENAMEX></ENAMEX></ENAMEX>: bệnh nhân đến mua nước tại <ENAMEX TYPE="LOCATION">tiệm tạp hóa <ENAMEX TYPE="CONTACT_PERSON">ông ct909</ENAMEX></ENAMEX> sau đó trở về nhà sau khi bệnh nhân số 1017 có kết quả xét nghiệm (+) với vi rút SARS-CoV-2, bệnh nhân cùng những người trong gia đình được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX>.
+ - Ngày 24/8/2020, tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng. Sáng ngày <ENAMEX TYPE="POSITIVE_DATE">25/8/2020</ENAMEX>, bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+ - Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện dã chiến Hòa Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1977</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

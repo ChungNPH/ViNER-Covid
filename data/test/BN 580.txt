@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 580</ENAMEX>  Giới tính:<ENAMEX TYPE="SEX">Nữ</ENAMEX> 
+- Năm sinh: <ENAMEX TYPE="AGE">1974</ENAMEX> 
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc45, phường Hải Châu, Đà Nẵng</ENAMEX> 
+- Nghề nghiệp: Nhân viên Y tế <ENAMEX TYPE="LOCATION">phòng Siêu âm - Xquang TTYT quận Cẩm Lệ</ENAMEX> 
+Cách đây hai tháng, mẹ bệnh nhân mất, bệnh nhân không đi đâu ngoài đi làm (kể cả đi chợ), thỉnh thoảng mua hàng <ENAMEX TYPE="LOCATION">quán ven đường gần TTYT quận Cẩm Lệ</ENAMEX>. 
+Ngày <ENAMEX TYPE="SYMPTOMS_DATE">26/7/2020</ENAMEX>: Bệnh nhân đau mỏi người, sốt cao, cảm giác cúm nhưng vẫn đi làm bình thường. 
+Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">29/7/2020</ENAMEX></ENAMEX>: Cách ly và lẫy mẫu tại <ENAMEX TYPE="LOCATION">TTYT quận Cẩm Lệ</ENAMEX>.

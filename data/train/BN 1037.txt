@@ -1,0 +1,13 @@
+Tên: <ENAMEX TYPE="PERSON">BN 1037</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Chính Hữu, tổ 90, phường An Hải Bắc, quận Sơn Trà</ENAMEX>.
+ - Ngày <ENAMEX TYPE="POSITIVE_DATE">27/8/2020</ENAMEX>, bệnh nhân được Trung tâm Y tế quận Sơn Trà lấy mẫu dịch hầu họng, đến sáng ngày 28/8/2020, bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+ - Bệnh nhân là F1 của <ENAMEX TYPE="CONTACT_PERSON">bệnh nhân số 1036</ENAMEX> (được Bộ Y tế công bố ngày 27/8/2020).
+ - Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình chồng tại <ENAMEX TYPE="LOCATION">tổ 90, phường An Hải Bắc, quận Sơn Trà</ENAMEX></ENAMEX>.
+ - Từ ngày <ENAMEX TYPE="CONTACT_DATE">13/8</ENAMEX> đến 21/8/2020, bệnh nhân tạm nghỉ việc tại Chi nhánh Công ty cổ phần tập đoàn Mai Linh - Đà Nẵng, chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+ - Tối ngày <ENAMEX TYPE="CONTACT_DATE">22/8/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">chồng ct712</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con gái ct713</ENAMEX> đến chơi và ở lại nhà bố, mẹ Tại đây, bệnh nhân tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX> (là bệnh nhân số 1036) và <ENAMEX TYPE="CONTACT_PERSON">mẹ ct714</ENAMEX>, đến tối ngày 23/8/2020, bệnh nhân cùng chồng và con gái trở về lại nơi cư trú.
+ - Ngày <ENAMEX TYPE="CONTACT_DATE">24/8</ENAMEX>, 25/8 và 26/8/2020, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+ - Sáng ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/8/2020</ENAMEX></ENAMEX>, sau khi nhận được thông tin bố bệnh nhân có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2, bệnh nhân cùng chồng và con gái được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Học viện chính trị Khu vực III (215 Nguyễn Công Trứ, quận Sơn Trà)</ENAMEX>. Tại đây, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con gái</ENAMEX> được cách ly ở 01 phòng riêng. 
+ - Sáng ngày <ENAMEX TYPE="POSITIVE_DATE">28/8/2020</ENAMEX>, bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+ - Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện dã chiến Hòa Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1991</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

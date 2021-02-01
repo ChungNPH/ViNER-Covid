@@ -1,0 +1,8 @@
+- Bệnh nhân:   <ENAMEX TYPE="PERSON">BN 749</ENAMEX>	          Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>     	Sinh: <ENAMEX TYPE="AGE">1993</ENAMEX>
+- Địa chỉ : <ENAMEX TYPE="ADDRESS">Thôn Đơn Duệ, xã Vĩnh Hòa, Vĩnh Linh – Quảng Trị</ENAMEX>
+Bệnh nhân là <ENAMEX TYPE="CONTACT_PERSON">người nhà</ENAMEX> chăm sóc bệnh nhân tại <ENAMEX TYPE="LOCATION">khoa ngoại thần kinh – Bệnh viện Đà Nẵng</ENAMEX> <ENAMEX TYPE="CONTACT_DATE">từ sáng 17/7/2020</ENAMEX>.
+Đến 6h30 bệnh nhân đón xe ra <ENAMEX TYPE="LOCATION">Huế</ENAMEX> (không nhớ tên xe). Sau đó <ENAMEX TYPE="CONTACT_PERSON">bạn</ENAMEX> đến đón đi làm răng tại <ENAMEX TYPE="LOCATION">phòng răng Pháp Việt (Đường Hai Bà Trưng – TP Huế)</ENAMEX>.
+Bệnh nhân đi ăn cùng <ENAMEX TYPE="CONTACT_PERSON">bạn</ENAMEX> và được bạn chở xe máy ra <ENAMEX TYPE="LOCATION">nhà</ENAMEX> trong chiều <ENAMEX TYPE="CONTACT_DATE">18/7/2020</ENAMEX>.
+Ngày <ENAMEX TYPE="SYMPTOMS_DATE">21/7 – 24/7/2020</ENAMEX> bệnh nhân có sốt nhẹ, đau họng, mỏi người nhưng nghĩ là cảm cúm thông thường nên không điều trị gì.
+Bạn của Bệnh nhân là: <ENAMEX TYPE="CONTACT_PERSON">ct1529</ENAMEX>       		Nam		1992
+- Bệnh nhân ct1530 nằm trong danh sách cách ly tại <ENAMEX TYPE="LOCATION">bệnh viện Điều dưỡng và PHCN Cửa Tùng</ENAMEX> từ 18h ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">01/8/2020</ENAMEX></ENAMEX> và được chuyển vào <ENAMEX TYPE="LOCATION">BV chuyên khoa lao và bệnh phổi tỉnh Quảng Trị</ENAMEX> lúc 23h ngày <ENAMEX TYPE="POSITIVE_DATE">01/8/2020</ENAMEX> khi nhận kết quả dương tính lần 1.

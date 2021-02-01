@@ -1,0 +1,15 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 804</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1955</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc442, phường Hải Châu 2, quận Hải Châu, Tp. Đà Nẵng</ENAMEX> 
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">địa chỉ loc443, phường Hải Châu 2, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>.
+- Những người trong gia đình tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">chồng (ct1540, bệnh nhân số 742)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con trai (ct1541)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con gái (ct1542, bệnh nhân số 724).</ENAMEX>
+- <ENAMEX TYPE="CONTACT_DATE">Ngày 25/7/2020</ENAMEX>, bệnh nhân có đi ăn cùng <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX> tại <ENAMEX TYPE="LOCATION">nhà hàng Quê Hương ở xã Hoà Sơn, huyện Hoà Vang, Tp. Đà Nẵng</ENAMEX>.
+- Hằng ngày bệnh nhân có đến <ENAMEX TYPE="LOCATION">bãi biển Mỹ Khê</ENAMEX> nhưng sau ngày cách ly xã hội thì không đến trong vòng 2 ngày. Sau đó có đi đến lại vào lúc sáng sớm (khoảng từ 3 giờ 30 đến 4 giờ) và trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- Ngày 31/7/2020, bệnh nhân đến <ENAMEX TYPE="LOCATION">chợ Cồn, Đà Nẵng</ENAMEX> để mua hoa quả.
+- Bệnh nhân đến mua thuốc ở <ENAMEX TYPE="LOCATION">đường Đoàn Thị Điểm</ENAMEX> nhưng không nhớ rõ địa chỉ và thời gian.
+- <ENAMEX TYPE="CONTACT_DATE">Ngày 04/8 đến 05/8/2020</ENAMEX>, bệnh nhân tiếp xúc <ENAMEX TYPE="CONTACT_PERSON">con trai (ct1543)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con dâu (ct1544)</ENAMEX> tại <ENAMEX TYPE="LOCATION">nhà</ENAMEX>.
+- <ENAMEX TYPE="CONTACT_DATE">Khoảng 07 giờ 30 ngày 05/8/2020</ENAMEX>, bệnh nhân đưa <ENAMEX TYPE="CONTACT_PERSON">chồng (ct1545)</ENAMEX> đến khám tại <ENAMEX TYPE="LOCATION">khoa Cấp cứu, bệnh viện Đa khoa Quốc tế Vinmec Đà Nẵng</ENAMEX> bằng xe ô tô của gia đình.
+- Tối ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">05/8</ENAMEX></ENAMEX> đến 07/8/2020, sau khi có thông tin chồng (ct1546) có kết quả (+) với vi rút SARS-CoV-2 thì bệnh nhân được đưa đi cách ly tập trung tại <ENAMEX TYPE="LOCATION">trường Cao đẳng Công nghệ số 2, Thanh Sơn, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>.
+- Sáng 08/8/2020, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">Trung tâm y tế Hải Châu</ENAMEX>.
+- Ngày 07/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">08/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Hải Châu</ENAMEX>.

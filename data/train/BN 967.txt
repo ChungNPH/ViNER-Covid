@@ -1,0 +1,13 @@
+Tên: <ENAMEX TYPE="PERSON">BN 967</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc253, phường Thạch Thang, quận Hải Châu, TP Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc253, phường Thạch Thang</ENAMEX></ENAMEX>.
+- Khoảng 13 giờ 00 ngày <ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX>, bệnh nhân đến chăm sóc <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> (bệnh nhân số 575 được Bộ Y tế công bố ngày 01/8/2020), điều trị tại <ENAMEX TYPE="LOCATION">Khoa Nội thần kinh, Bệnh viện Đà Nẵng</ENAMEX>. Đến chiều cùng ngày, khi Bệnh viện Đà Nẵng được phong tỏa, bệnh nhân chỉ ở tại phòng bệnh, không đi đến nơi khác. 
+- Từ ngày 27/7 - 29/7/2020 (không nhớ rõ ngày), tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 1) và có kết quả (-) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">30/7</ENAMEX> và 31/7/2020, bệnh nhân tiếp tục ở tại <ENAMEX TYPE="LOCATION">Khoa Nội thần kinh, Bệnh viện Đà Nẵng</ENAMEX> để chăm sóc <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX>.
+- Khoảng 18 giờ 00 ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">01/8/2020</ENAMEX></ENAMEX>, bệnh nhân cùng mẹ được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
+- Khoảng 05 giờ 00 ngày 02/8/2020, mẹ bệnh nhân được chuyển đến khu Cấp cứu, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">tầng 3 sau đó đến tầng 4 của khu cách ly tại Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
+- Từ ngày 03/8 - 09/8/2020, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly tại Trường tiểu học Hòa Nhơn, xã Hòa Vang</ENAMEX>. Tại đây, bệnh nhân ở cùng phòng với khoảng 10 người.
+- Ngày 10/8, 11/8 và 12/8/2020, bệnh nhân tiếp tục được cách ly tại <ENAMEX TYPE="LOCATION">Trường tiểu học Hòa Nhơn</ENAMEX>.
+- Ngày 16/8/2020, tại khu cách ly, bệnh nhân tiếp tục được lấy mẫu xét nghiệm dịch hầu họng (lần 4) và ngày <ENAMEX TYPE="POSITIVE_DATE">17/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2. Sau đó, bệnh nhân được chuyển cách ly tại <ENAMEX TYPE="LOCATION">Bệnh viện dã chiến Hòa Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1964</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

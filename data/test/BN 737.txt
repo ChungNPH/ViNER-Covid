@@ -1,0 +1,10 @@
+Tên: <ENAMEX TYPE="PERSON">BN 737</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Nguyễn Sáng, phường MânThái, quận Sơn Trà, TP Đà Nẵng.</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">đường Nguyễn Sáng, phường Mân Thái</ENAMEX>.
+ - Trước tháng 7/2020, bệnh nhân nhập viện điều trị tại <ENAMEX TYPE="LOCATION">Khoa Nôi thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>.
+ - Khoảng từ 01/7 đến 17/7/2020, bệnh nhân vẫn nằm điều trị tại <ENAMEX TYPE="LOCATION">Khoa Nôi thận - Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>. Trong thời gian này, chỉ có <ENAMEX TYPE="CONTACT_PERSON">con gái là chị V.T.P</ENAMEX> chăm sóc và không có ai đến thăm.
+ - Khoảng từ ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">18/7</ENAMEX></ENAMEX> đến 04/8/2020, bệnh nhân chỉ ở một mình được các nhân viên y tế bệnh viện chăm sóc và cách ly tại đây. Trong thời gian này, không tiếp xúc với ai trong gia đình.
+ - Ngày <ENAMEX TYPE="POSITIVE_DATE">05/8/2020</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng xét nghiệm vi rút SARS-CoV-2 và có kết quả (+) với vi rút SARS-CoV-2.
+ - Hiện tại bệnh nhân đang được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1973</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 475</ENAMEX> (ca số  ). Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1937</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc68, phường Tân Chính, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>
+- Bệnh nhân đang ở nhà cùng <ENAMEX TYPE="CONTACT_PERSON">con gái</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">cháu ngoại</ENAMEX> tại địa chỉ loc68, phường Tân Chính, quận Thanh Khê, Tp. Đà Nẵng.
+	- Ngày 12/7/2020 bệnh nhân đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">khoa Nội tổng hợp (phòng 315), bệnh viện Đà Nẵng</ENAMEX>, và điều trị cho đến nay.
+	- Trong thời gian nằm viện, gia đình có thuê <ENAMEX TYPE="CONTACT_PERSON">chị ct45 làm người chăm sóc cho bệnh nhân.
+	- Ngày 29/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30/7/2020</ENAMEX></ENAMEX></ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của khoa Y học nhiệt đới, bệnh viện Đà Nẵng</ENAMEX>.
+- Trong vòng 14 ngày qua, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> điều trị. Không đi đến nơi nào khác.

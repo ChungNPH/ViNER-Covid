@@ -1,0 +1,8 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 615</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1993</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc276, quận Hải Châu, Tp. Đà Nẵng</ENAMEX> 
+- Lúc 7 giờ ngày 26/07/2020 bệnh nhân đi học lớp thực hành tại <ENAMEX TYPE="LOCATION">trường đại học Duy Tân Đà Nẵng</ENAMEX> (từ 7 giờ đến 11 giờ) về nhà không đi đến nơi khác.
+- Chiều ngày <ENAMEX TYPE="SYMPTOMS_DATE">26/07/2020</ENAMEX> bệnh nhân xuất hiện triệu chứng mệt mỏi, ớn lạnh nên ở nhà và sốt liên tục 5 ngày.
+- Lúc 19 giờ 45 phút ngày <ENAMEX TYPE="CONTACT_DATE">30/07/2020</ENAMEX> bệnh nhân được <ENAMEX TYPE="CONTACT_PERSON">bố (ct715</ENAMEX> chở đi khám và xét nghiệm covid.
+- Từ lúc đi khám về bệnh nhân không đi ra ngoài, chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">2 con</ENAMEX>.
+- Ngày 31/7/2020 bệnh nhân được xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">01/8/2020</ENAMEX></ENAMEX></ENAMEX>cho kết quả (+) với vi rút SARS-CoV-2.

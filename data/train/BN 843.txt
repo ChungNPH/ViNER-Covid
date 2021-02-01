@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 843</ENAMEX>		Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1955</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc427, phường Tân Chính, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX> 
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">chồng (ct1493, là bệnh nhân số 800)</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc427, phường Tân Chính, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>.
+- <ENAMEX TYPE="CONTACT_DATE">Từ ngày 22/7 đến 24/7/2020</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> bệnh nhân tham dự <ENAMEX TYPE="LOCATION">Đại hội Đảng Bộ quận Hải Châu</ENAMEX> sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX> và có tiếp xúc với bệnh nhân.
+- <ENAMEX TYPE="CONTACT_DATE">Từ ngày 25/7 đến 05/8/2020</ENAMEX>, bệnh nhân ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX>, không đi đến nơi khác.
+- <ENAMEX TYPE="CONTACT_DATE">Ngày 06/8/2020</ENAMEX>, chồng bệnh nhân xuất hiện triệu chứng sốt nên bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> đến khám tại <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Thanh Khê</ENAMEX>. Tại đây, chồng bệnh nhân được lấy mẫu dịch hầu họng xét nghiệm với vi rút SARS-CoV-2, sau đó bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX> đến <ENAMEX TYPE="LOCATION">trạm y tế phường Tân Chính, quận Thanh Khê</ENAMEX> khai báo y tế.
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">08/8/2020</ENAMEX></ENAMEX>, chồng bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2 nên bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Thanh Khê</ENAMEX> và được lấy mẫu xét nghiệm vi rút SARS-CoV-2.
+- Ngày 08/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">10/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Thanh Khê</ENAMEX>.

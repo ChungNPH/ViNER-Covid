@@ -1,0 +1,17 @@
+Tên: <ENAMEX TYPE="PERSON">BN 1019</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc284, phường Hòa Khánh Bắc, quận Liên Chiểu, TP Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc284, phường Hòa Khánh Bắc, quận Liên Chiểu</ENAMEX></ENAMEX>.
+- Ngày 25/7 và 26/7/2020, bệnh nhân đến làm việc tại <ENAMEX TYPE="LOCATION">Khoa Hồi sức tích cực - Chống độc Bệnh viện Đà Nẵng</ENAMEX>, không trở về nơi cư trú. Trong ngày 26/7/2020, tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 1) và có kết quả xét nghiệm (-) với vi rút SARS-CoV-2.
+- Từ ngày 27/7 đến 31/7/2020, Bệnh viện Đà Nẵng được phong tỏa, bệnh nhân tiếp tục được cách ly và làm việc tại <ENAMEX TYPE="LOCATION">Khoa Hồi sức tích cực - Chống độc</ENAMEX>.
+- Từ ngày 01/8 đến 05/8/2020, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">khách sạn Diamond Sea ở 232 Võ Nguyên Giáp, phường Phước Mỹ, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX> cùng với các nhân viên y tế của Bệnh viện Đà Nẵng.
+- Từ ngày 06/8 đến 19/8/2020, bệnh nhân được tăng cường đến làm việc tại <ENAMEX TYPE="LOCATION">Khoa Hồi sức cấp cứu, Bệnh viện Phổi Đà Nẵng</ENAMEX>. Tại đây, bệnh nhân trực tiếp chăm sóc cho các bệnh nhân nhiễm vi rút SARS-CoV-2. Trong quá trình làm việc, bệnh nhân luôn mang trang phục phòng chống dịch, khẩu trang… đầy đủ. Sau giờ làm việc, bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly tập trung dành cho nhân viên y tế tại quận Liên Chiểu</ENAMEX>. Trong thời gian này, bệnh nhân được lấy mẫu xét nghiệm vào các ngày cụ thể như sau: 
++ Ngày 07/8/2020, tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 2) và có kết quả xét nghiệm (-) với vi rút SARS-CoV-2.
++ Ngày 09/8/2020, tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 3) và cho kết quả xét nghiệm (-) với vi rút SARS-CoV-2.
++ Ngày 15/8/2020, tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 4) và cho kết quả xét nghiệm (-) với vi rút SARS-CoV-2.
+- Ngày 20/8, 21/8 và 22/8/2020, bệnh nhân tiếp tục đến làm việc tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX> và sau giờ làm việc về khu cách ly tập trung dành cho nhân viên y tế, không đi đến nơi khác.
++ Khoảng 9 giờ 30, tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 5).
++ Khoảng từ 14 giờ đến 22 giờ, bệnh nhân tiếp tục làm việc tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX> và sau giờ làm việc về khu cách ly tập trung dành cho nhân viên y tế, không đi đến nơi khác.
+ - Sáng ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">24/8/2020</ENAMEX></ENAMEX></ENAMEX>, sau khi được thông báo có kết quả xét nghiệm nghi ngờ với vi rút SARS-CoV-2, bệnh nhân tạm dừng công việc tại Bệnh viện Phổi Đà Nẵng, chỉ ở tại phòng cách ly của khu cách ly tập trung không tiếp xúc với người khác Đồng thời, có kết quả xét nghiệm khẳng định (+) với vi rút SARS-CoV-2.
+- Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1983</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

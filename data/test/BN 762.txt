@@ -1,0 +1,10 @@
+Tên: <ENAMEX TYPE="PERSON">BN 762</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">Thôn Phước Lâm, Xã Đại Hồng, huyện Đại Lộc, tỉnh Quảng Nam</ENAMEX>
+- Bệnh nhân ở tại địa chỉ <ENAMEX TYPE="LOCATION">thôn Phước Lâm, xã Đại Hồng, huyện Đại Lộc, tỉnh Quảng Nam</ENAMEX>.
+ - Bệnh nhân thường xuyên tiếp xúc gần với <ENAMEX TYPE="CONTACT_PERSON">bố L.H</ENAMEX>
+ - Khoảng ngày <ENAMEX TYPE="CONTACT_DATE">01/7 đến 02/7/2020</ENAMEX>, bệnh nhân được <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX> đưa đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">Khoa Nội thận Nội tiết, Bệnh viện Đà Nẵng</ENAMEX>. Trong quá trình điều trị, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">Bệnh viện</ENAMEX>, không đi đến nơi khác, không về nhà.
+ - Trong quá trình điều trị tại Bệnh viện, bệnh nhân đi ăn tại <ENAMEX TYPE="LOCATION">cổng Bệnh viện Đà Nẵng (đường Quang Trung, quận Hải Châu)</ENAMEX> và <ENAMEX TYPE="LOCATION">căn-tin của Bệnh viện</ENAMEX>. Sau đó bệnh nhân trở về Khoa, không tiếp xúc với ai, không đi đến nơi khác.
+ - Sáng ngày <ENAMEX TYPE="CONTACT_DATE">18/7/2020</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> bệnh nhân đến thăm và chăm sóc bệnh nhân.
+ - Ngày <ENAMEX TYPE="CONTACT_DATE">26 - 27/7/2020</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX> bệnh nhân đến thăm và chăm sóc bệnh nhân. Ngày 06/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">07/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2
+Năm sinh: <ENAMEX TYPE="AGE">1997</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

@@ -1,0 +1,12 @@
+Tên: <ENAMEX TYPE="PERSON">BN 770</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc152, phường Phước Mỹ, quận Sơn Trà, TP Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">loc152, phường Phước Mỹ, quận Sơn Trà, TP Đà Nẵng</ENAMEX>.
+ - Những người trong gia đình tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">chồng P.M.T</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con P.T.A.D (Bệnh nhân số 771)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con P.T.M.X</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">mẹ chồng Đ.T.T</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">bố chồng P.A</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">anh chồng P.M.T</ENAMEX>.
+ - Từ ngày 01/8 đến 03/8/2020, bệnh nhân tự cách ly ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
+ - Khoảng 08 giờ 00 ngày <ENAMEX TYPE="CONTACT_DATE">04/8/2020</ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">con (Bệnh nhân số 771)</ENAMEX> đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">cô (P.T.B - Bệnh nhân số 755)</ENAMEX> tại K211 Nguyễn Văn Thoại, phường Phước Mỹ, quận Sơn Trà, TP Đà Nẵng</ENAMEX> và mua mỳ <ENAMEX TYPE="LOCATION">góc ngã tư đường Châu Thị Vĩnh Tế, quận Ngũ Hành Sơn</ENAMEX>, sau đó trở về <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác.
+ - Ngày 05/08/2020, bệnh nhân tự cách ly ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX>, không đi đến nơi khác. Ngày 06/8/2020, Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">07/8/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2. Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế huyện Hòa Vang</ENAMEX>.
+Nguồn lây: <ENAMEX TYPE="CONTACT_PERSON">BN755 (cô)</ENAMEX>, 
+<ENAMEX TYPE="CONTACT_PERSON">BN771 (con)</ENAMEX>
+Lây cho người khác: <ENAMEX TYPE="CONTACT_PERSON">BN771 (con)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1972</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

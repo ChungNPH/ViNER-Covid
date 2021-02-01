@@ -1,0 +1,7 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 622</ENAMEX>         Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Năm sinh: <ENAMEX TYPE="AGE">1981</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">Tổ dân phố Lãnh Thượng 2, thị trấn Đông Phú, huyện Quế Sơn</ENAMEX>
+- Ngày <ENAMEX TYPE="CONTACT_DATE">24/7/2020</ENAMEX>: trường hợp  đến <ENAMEX TYPE="LOCATION">phòng 612 Khoa Thận Nội Tiết</ENAMEX> thăm <ENAMEX TYPE="CONTACT_PERSON">chị ct231</ENAMEX>. Ở lại một đêm trong bệnh viện cùng với <ENAMEX TYPE="CONTACT_PERSON">con của chị ct232 là ct233</ENAMEX>, trường hợp ở trong bệnh viện không đi đâu.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">25/7/2020</ENAMEX>: lúc 16h45, đi bộ ra <ENAMEX TYPE="LOCATION">cổng Bệnh viên Đà Nẵng</ENAMEX> đón xe buýt Quế Sơn – Đà Nẵng (ko rõ biển số xe), trên xe đông người (có đeo khẩu trang), về đến <ENAMEX TYPE="LOCATION">bùng binh ngã ba thị trấn Đông Phú</ENAMEX> được <ENAMEX TYPE="CONTACT_PERSON">chồng là ct234</ENAMEX> chở về thẳng nhà bằng xe máy, về nhà chị tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">con là ct235</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">ct236</ENAMEX>.
+- Ngày <ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX>: trường hợp khai báo y tế và được cách ly tại nhà.
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE">31/7/2020</ENAMEX>: 18h30 phút được đưa đến <ENAMEX TYPE="LOCATION">khu cách ly tập trung Thao trường 3 trong 1 xã quế Mỹ</ENAMEX>.

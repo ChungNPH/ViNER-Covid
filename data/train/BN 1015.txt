@@ -1,0 +1,10 @@
+Tên: <ENAMEX TYPE="PERSON">BN 1015</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">Thị trấn Nam Phước, huyện Duy Xuyên, tỉnh Quảng Nam</ENAMEX>
+- Bệnh nhân sống tại <ENAMEX TYPE="LOCATION">thị trấn Nam Phước, huyện Duy Xuyên, tỉnh Quảng Nam</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">06/8</ENAMEX></ENAMEX></ENAMEX> đến 18/8/2020, bệnh nhân đến Bệnh viện Ung bướu Đà Nẵng để chăm sóc <ENAMEX TYPE="CONTACT_PERSON">ông ct308</ENAMEX> Tại đây, bệnh nhân được cách ly cùng phòng với <ENAMEX TYPE="CONTACT_PERSON">ông ct309</ENAMEX> và một số người trong đó có các bệnh nhân chuyển đến từ Bệnh viện Đà Nẵng.
+- Ngày 18/8/2020, tại <ENAMEX TYPE="LOCATION">Bệnh viện Ung bướu Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng (lần 1) và cho kết quả xét nghiệm (-) với vi rút SARS-CoV-2.
+- Ngày <ENAMEX TYPE="SYMPTOMS_DATE">21/8/2020</ENAMEX>, tại <ENAMEX TYPE="LOCATION">Bệnh viện Ung bướu Đà Nẵng</ENAMEX>, bệnh nhân xuất hiện triệu chứng sốt nên được lấy mẫu dịch hầu họng (lần 2) gửi đến bệnh viện Phổi Đà Nẵng xét nghiệm. Trong ngày, bệnh nhân được chuyển đến phòng cách ly riêng để chăm sóc <ENAMEX TYPE="CONTACT_PERSON">ông ct308</ENAMEX>.
+- Ngày <ENAMEX TYPE="POSITIVE_DATE">22/8/2020</ENAMEX>, Bệnh viện Phổi Đà Nẵng gửi mẫu xét nghiệm của bệnh nhân đến Trung tâm Kiểm soát bệnh tật TP Đà Nẵng sau khi kết quả xét nghiệm lần 2 nghi ngờ với vi rút SARS-CoV-2, để xét nghiệm khẳng định và tối cùng ngày có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+- Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1976</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

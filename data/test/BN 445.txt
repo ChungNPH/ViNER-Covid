@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 445</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>. 
+- Sinh năm: <ENAMEX TYPE="AGE">1959</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc132, phường Hòa Thuận Đông, quận Hải Châu, Tp. Đà Nẵng</ENAMEX>
+- Hiện tại bệnh nhân đang ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> với <ENAMEX TYPE="CONTACT_PERSON">chồng</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX>, và <ENAMEX TYPE="CONTACT_PERSON">con dâu</ENAMEX> tại địa chỉ loc132, phường Hòa Thuận Đông, quận Hải Châu, Tp. Đà Nẵng.
+- Ngày 17/7/2020 bệnh nhân đến khám tại <ENAMEX TYPE="LOCATION">khoa Mắt và khoa Cơ, xương, khớp của bệnh viện C Đà Nẵng</ENAMEX> và được lên lịch mổ đục thủy tinh thể vào ngày 24/7/2020.
+- Ngày 18/7/2020 bệnh nhân có đến mua sắm tại <ENAMEX TYPE="LOCATION">siêu thị Big C Đà Nẵng ở địa chỉ 257 Hùng Vương, phường Vĩnh Trung, quận Thanh Khê, Tp. Đà Nẵng</ENAMEX>.
+- Ngày 19/7/2020 đến tham dự tiệc nhà mới tại <ENAMEX TYPE="LOCATION">địa chỉ loc134, phường Khuê Mỹ, quận Ngũ Hành Sơn, Tp. Đà Nẵng</ENAMEX>.
+	- Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX></ENAMEX></ENAMEX> bệnh nhân được xét nghiệm dịch hầu họng và cho kết quả  (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của bệnh viện C Đà Nẵng</ENAMEX>.
+	- Trung bình từ 1 đến 2 ngày, bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ Mới tại địa chỉ 212 Hoàng Diệu, phường Nam Dương, quận Hải Châu, Tp Đà Nẵng</ENAMEX>.
+1. Ngày 27/7/2020, Bệnh viện Phổi Đà Nẵng lấy mẫu xét nghiệm gửi Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE">28/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

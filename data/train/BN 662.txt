@@ -1,0 +1,12 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 662</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1968</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc231, phường Thọ Quang, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">mẹ (ct415)</ENAMEX> là bệnh nhân có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2 tại địa chỉ <ENAMEX TYPE="LOCATION">loc231, phường Thọ Quang, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">19/7</ENAMEX> đến 21/7/2020, bệnh nhân chăm sóc <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX> tại <ENAMEX TYPE="LOCATION">khoa Hồi sức tích cực, bệnh viện Đà Nẵng</ENAMEX> (chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX>, không tiếp xúc với người khác).
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">22/7</ENAMEX> đến 25/7/2020, bố bệnh nhân chuyển đến khoa Thận - nội tiết và bệnh nhân tiếp tục đến <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX> chăm sóc <ENAMEX TYPE="CONTACT_PERSON">bố</ENAMEX>.
+- Buổi sáng các ngày từ <ENAMEX TYPE="CONTACT_DATE">19/7</ENAMEX> đến 25/7/2020, bệnh nhân đi <ENAMEX TYPE="LOCATION">chợ Mai ở phường Thọ Quang, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX> và tập thể dục tại <ENAMEX TYPE="LOCATION">đường Lê Văn Lương, phường Thọ Quang, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX> cùng <ENAMEX TYPE="CONTACT_PERSON">ba người bạn là ct416, ct417 và ct418</ENAMEX>.
+- Từ ngày 26/7 đến 31/7/2020, bệnh nhân tiếp tục tập thể dục tại <ENAMEX TYPE="LOCATION">đường Lê Văn Lương , phường Thọ Quang, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX> rồi về nhà, không đi đến nơi khác.
+- Chiều ngày 01/8/2020 cả gia đình bệnh nhân gồm 20 người được lấy mẫu xét nghiệm dịch hầu họng với vi rút SARS-CoV-2 tại <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Sơn Trà</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="ISOLATION_DATE">02/8</ENAMEX> đến 03/8/2020, bệnh nhân tự cách ly tại nhà.
+- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">03/8/2020</ENAMEX></ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

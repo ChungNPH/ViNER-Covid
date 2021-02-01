@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 688</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1969</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc211, phường Hòa Khê, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">vợ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">02 con trai tại địa chỉ <ENAMEX TYPE="LOCATION">loc212, phường Hòa Khê, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX></ENAMEX>. Con trai bệnh nhân là bệnh nhân số 619.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">30/6/2020 đến 25/7/2020</ENAMEX> bệnh nhân chở <ENAMEX TYPE="CONTACT_PERSON">con là bệnh nhân 619</ENAMEX> đi điều trị ngoại trú tại <ENAMEX TYPE="LOCATION">khoa Y học cổ truyền, bệnh viện Đà Nẵng</ENAMEX>.
+-  Hàng ngày từ 6h30 đến 7h30 bệnh nhân uống cà phê  tại <ENAMEX TYPE="LOCATION">quán cà phê Đào Thu số 91 Trần Xuân Lê, phường Hòa Khê, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX> (Từ 26/7/2020 đến ngày đi cách ly bệnh nhân không uống cà phê tại đây nữa)
+-  Từ 10h00 đến 10h30 ngày <ENAMEX TYPE="CONTACT_DATE">26/7/2020</ENAMEX> bệnh nhân có đi khám cùng <ENAMEX TYPE="CONTACT_PERSON">02 con trai (có bệnh nhân số 691)</ENAMEX> tại <ENAMEX TYPE="LOCATION">phòng khám <ENAMEX TYPE="CONTACT_PERSON">bác sĩ ct287</ENAMEX></ENAMEX>.
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">02/8/2020</ENAMEX></ENAMEX> sau khi có thông tin con trai (bệnh nhân 619) bị nhiễm SARS-CoV-2, bệnh nhân được chuyển đi cách ly và lấy mẫu xét nghiệm dịch hầu họng.
+- Ngày <ENAMEX TYPE="POSITIVE_DATE">04/8/2020</ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2. Ngày 05/8/2020 bệnh nhân được chuyển đi điều trị, cách ly tại <ENAMEX TYPE="LOCATION">trung tâm y tế huyện Hòa Vang</ENAMEX> .

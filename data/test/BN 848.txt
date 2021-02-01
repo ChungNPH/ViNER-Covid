@@ -1,0 +1,13 @@
+Tên: <ENAMEX TYPE="PERSON">BN 848</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Nguyễn Thiện Kế, phường An Hải Đông, quận Sơn Trà, Tp. Đà Nẵng.</ENAMEX>
+ - Bệnh nhân là F1 và sống cùng nhà với <ENAMEX TYPE="CONTACT_PERSON">BN473 (con dâu, xác định mắc COVID-19 ngày 30/7/2020)</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">BN655 (cháu nội, xác định mắc COVID-19 ngày 03/8/2020)</ENAMEX>.
+ - Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình</ENAMEX> tại <ENAMEX TYPE="LOCATION">đường Nguyễn Thiện Kế</ENAMEX>.
+ - Trước 26/7/2020, bệnh nhân hay đi <ENAMEX TYPE="LOCATION">chợ An Hải Đông</ENAMEX> vào buổi sáng.
+ - Từ ngày <ENAMEX TYPE="CONTACT_DATE">26/7 đến 30/7/2020</ENAMEX>, bệnh nhân chỉ ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> giữ <ENAMEX TYPE="CONTACT_PERSON">cháu là bệnh nhân số 655</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">các cháu ngoại ở cạnh nhà</ENAMEX>. Trong thời gian này bệnh nhân khai có gặp <ENAMEX TYPE="CONTACT_PERSON">con gái</ENAMEX> ở cạnh nhà, thời gian còn lại bệnh nhân không đi đâu hay tiếp xúc với ai ngoài gia đình.
+ - Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">31/7/2020</ENAMEX></ENAMEX>, bệnh nhân cùng gia đình được đưa đến <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Sơn Trà</ENAMEX> để cách ly (vì sống cùng nhà với BN473). Sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly tập trung</ENAMEX>. Từ lúc vào khu cách ly, bệnh nhân không ho, không sốt, không khó thở, có tiền sử bệnh tim mạch không điều trị, tăng huyết áp đang điều trị.
+ - Ngày 01/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 1) cho kết quả âm tính (-) với vi rút SARS-CoV-2. Trong thời gian ở tại khu cách ly, bệnh nhân ở cùng phòng với <ENAMEX TYPE="CONTACT_PERSON">con trai L.T.N</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">cháu nội L.Q.A.L và cháu là bệnh nhân số 655</ENAMEX>.
+ - Ngày 09/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 2). Ngày <ENAMEX TYPE="POSITIVE_DATE">10/8/2020</ENAMEX>, bệnh nhân có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2.
+Nguồn lây: <ENAMEX TYPE="CONTACT_PERSON">BN473 (con dâu)</ENAMEX>
+<ENAMEX TYPE="CONTACT_PERSON">BN655 (cháu)</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1942</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

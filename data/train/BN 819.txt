@@ -1,0 +1,6 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 819</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1936</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">thôn Thanh Chiêm 1, xã Điện Phương, huyện Điện Bàn, tỉnh Quảng Nam</ENAMEX> 
+- <ENAMEX TYPE="CONTACT_DATE">Từ ngày 12/7 đến 04/8/2020</ENAMEX>, bệnh nhân đến khám, nhập viện và điều trị tại <ENAMEX TYPE="LOCATION">khoa Lão, bệnh viện Đà Nẵng</ENAMEX>. Trong suốt thời gian này, bệnh nhân chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">bác sĩ điều trị</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">vợ (ct1153)</ENAMEX> vào ngày 22/7/2020, không tiếp xúc với người khác.
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">05/8/2020</ENAMEX></ENAMEX>, bệnh nhân được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hoà Vang</ENAMEX>.
+- Ngày 08/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">08/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.

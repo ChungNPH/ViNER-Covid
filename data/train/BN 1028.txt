@@ -1,0 +1,12 @@
+Tên: <ENAMEX TYPE="PERSON">BN 1028</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">đường Hồ Huân Nghiệp,Mỹ An, Ngũ Hành Sơn, Đà Nẵng</ENAMEX>
+ - Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">đường Hồ Huân Nghiệp, phường Mỹ An, quận Ngũ Hành Sơn, Tp. Đà Nẵng</ENAMEX></ENAMEX>, trong đó có bà ngoại là bệnh nhân số 1017.
+ - Từ ngày <ENAMEX TYPE="CONTACT_DATE">04/8</ENAMEX> đến 14/8/2020, bệnh nhân chỉ ở nhà, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>.
+ - Ngoài ra từ ngày <ENAMEX TYPE="CONTACT_DATE">10/8</ENAMEX> đến 21/8/2020, có <ENAMEX TYPE="CONTACT_PERSON">gia đình 2 em họ</ENAMEX> đến nhà chơi và tiếp xúc với bệnh nhân, sau đó những người này trở về nhà tại đường Lê Văn Hiến, phường Khuê Mỹ, quận Ngũ Hành Sơn.
+ - Ngày <ENAMEX TYPE="CONTACT_DATE">15/8</ENAMEX>, 16/8 và 17/8/2020, bệnh nhân chỉ ở nhà và tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>. Sáng ngày <ENAMEX TYPE="CONTACT_DATE">15/8/2020</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">bạn của em họ là ct142</ENAMEX> đến nhà chơi và tiếp xúc với bệnh nhân, đến khoảng 16 giờ thì trở về nhà.
+ - Ngày <ENAMEX TYPE="SYMPTOMS_DATE">18/8/2020</ENAMEX>, bệnh nhân xuất hiện triệu chứng sốt, ho và khó thở.
+ - Tối ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">23/8/2020</ENAMEX></ENAMEX>, sau khi bệnh nhân số 1017 có kết quả xét nghiệm (+) với vi rút SARS-CoV-2, bệnh nhân cùng những người trong gia đình được chuyển đến cách ly tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX>.
+ - Ngày 24/8/2020, tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế quận Ngũ Hành Sơn</ENAMEX>, bệnh nhân được lấy mẫu dịch hầu họng. Sáng ngày <ENAMEX TYPE="POSITIVE_DATE">25/8/2020</ENAMEX>, bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+ - Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện dã chiến Hòa Vang</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">2000</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

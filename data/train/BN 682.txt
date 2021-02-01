@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 682</ENAMEX>	Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1954</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc269, phường Nại Hiên Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc269, phường Nại Hiên Đông, quận Sơn Trà, Tp. Đà Nẵng</ENAMEX></ENAMEX>. 
+- Trong thời gian từ ngày <ENAMEX TYPE="CONTACT_DATE">20/7/2020</ENAMEX> đến nay những người tiếp xúc gần với bệnh nhân: <ENAMEX TYPE="CONTACT_PERSON">con trai (ct662)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">con trai (ct663)</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">20/7</ENAMEX> đến 25/7/2020, bệnh nhân đến chăm sóc <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> tại <ENAMEX TYPE="LOCATION">phòng 305 khu tổng hợp, bệnh viện Đà Nẵng</ENAMEX>, sau đó về nhà, chỉ tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX>, mẹ bệnh nhân mất, bệnh nhân tổ chức đám tang tại địa chỉ <ENAMEX TYPE="LOCATION">loc271, phường Nại Hiên Đông, quận Sơn Trà, Tp. Đà Nẵng (nhà chị ct664)</ENAMEX> và tiếp xúc với những người gia đình (trong đó có <ENAMEX TYPE="CONTACT_PERSON">chị ct664</ENAMEX> là bệnh nhân có kết quả xét nghiệm dịch hầu họng (+) với vi rút SARS-CoV-2).
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">30/7/2020</ENAMEX></ENAMEX>, bệnh nhân được đưa đi cách ly.
+- Ngày 02/8/2020, Trung tâm kiểm soát bệnh tật thành phố Đà Nẵng nhận được mẫu xét nghiệm dịch hầu họng của bệnh nhân và ngày <ENAMEX TYPE="POSITIVE_DATE">04/8/2020</ENAMEX> có kết quả (+) với vi rút SARS-CoV-2.
+- Hiện tại bệnh nhân đang được cách ly, điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm y tế huyện Hòa Vang</ENAMEX>.

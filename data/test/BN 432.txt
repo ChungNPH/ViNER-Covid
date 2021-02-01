@@ -1,0 +1,13 @@
+Viện Pasteur Nha Trang đã tiến hành xét nghiệm khẳng định đến 21:00 giờ ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX></ENAMEX></ENAMEX> có kết quả 01 mẫu bệnh phẩm được khẳng định dương tính với vi rút SARS-CoV-2, cụ thể như sau:
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 432</ENAMEX>    Tuổi: <ENAMEX TYPE="AGE">63</ENAMEX> Giới: <ENAMEX TYPE="SEX">Nữ</ENAMEX>  
+- Ngày tháng năm sinh: <ENAMEX TYPE="AGE">1957</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc32 - Thị trấn Ái Nghĩa - huyện Đại Lộc, tỉnh Quảng Nam</ENAMEX>.
+Viện Pasteur Nha Trang đã tiến hành xét nghiệm mẫu bệnh phẩm của bệnh nhân, đến 21:00 giờ ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX></ENAMEX></ENAMEX> mẫu bệnh phẩm được xác định là dương tính với vi rút SARS-CoV-2.
+Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX>. Hằng ngày, Bệnh nhân nhận giữ <ENAMEX TYPE="CONTACT_PERSON">01 bé gái 30 tháng tuổi</ENAMEX>, có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">hàng xóm xung quanh</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE">18/7/2020</ENAMEX>: Đến tham dự tiệc cưới tại <ENAMEX TYPE="LOCATION">Trung tâm Tiệc cưới và Hội nghị For You Place (Đường 2/9, Phường Hòa Cường Bắc, Quận Hải Châu, TP Đà Nẵng)</ENAMEX> bằng xe 7 chỗ có tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">6 người trên x</ENAMEX>e.
+- Ngày 22/7/2020: Đi <ENAMEX TYPE="LOCATION">chợ ngã 4 Ái Nghĩa - TT Ái Nghĩa - huyện Đại Lộc</ENAMEX>;
+- Ngày <ENAMEX TYPE="CONTACT_DATE">23/7/2020</ENAMEX>: <ENAMEX TYPE="CONTACT_PERSON">Cháu ruột cùng bé gái</ENAMEX> (trú tại quận Cẩm Lệ - TP Đà Nẵng) về thăm;
+- Ngày <ENAMEX TYPE="CONTACT_DATE">24/7/2020</ENAMEX>: 
++ Tối ngày 24/7/2020: Đi <ENAMEX TYPE="LOCATION">chùa Giác Nguyên - khu 2 - thị trấn Ái Nghĩa - huyện Đại Lộc - Quảng Nam</ENAMEX>;
++ 20h00 sau khi đi chùa, <ENAMEX TYPE="CONTACT_PERSON">con trai</ENAMEX> chở về <ENAMEX TYPE="CONTACT_PERSON"><ENAMEX TYPE="LOCATION">nhà cậu T.V.C</ENAMEX> tại loc33 - thị trấn Ái Nghĩa, Đại Lộc</ENAMEX>.
+- Ngày 25/7/2020: 7h30-12h00: Đi <ENAMEX TYPE="LOCATION">chùa Giác Nguyên - khu 2 - Thị trấn Ái Nghĩa - huyện Đại Lộc - Quảng Nam</ENAMEX>.

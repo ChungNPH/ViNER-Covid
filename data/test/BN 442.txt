@@ -1,0 +1,10 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 442</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>. 
+- Sinh năm: <ENAMEX TYPE="AGE">1965</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc58, phường Hòa Hải, quận Ngũ Hành Sơn, thành phố Đà Nẵng</ENAMEX> 
+	- Ngày <ENAMEX TYPE="CONTACT_DATE">15/7/2020 đến ngày 28/7/2020</ENAMEX>: Bệnh nhân chăm <ENAMEX TYPE="CONTACT_PERSON">con</ENAMEX> tại <ENAMEX TYPE="LOCATION">tầng 4 Khoa Hồi sức tích cực – chống độc, Bệnh viện Đà Nẵng</ENAMEX>, cụ thể như sau:
+	+ Vào các buổi sáng, bệnh nhân vào <ENAMEX TYPE="LOCATION">căn tin Bệnh viện</ENAMEX> ăn sáng với tần suất 2 – 3 lần/tuần.
+	+ Buổi trưa, bệnh nhân ăn cơm từ thiện tại <ENAMEX TYPE="LOCATION">Khoa Hồi sức tích cực – chống độc, Bệnh viện Đà Nẵng</ENAMEX>.
+	+ Khoảng 17 giờ hàng ngày, bệnh nhân về <ENAMEX TYPE="LOCATION">nhà tại loc58, phường Hòa Hải, quận Ngũ Hành Sơn</ENAMEX>.
+	+ Khoảng 20 giờ hàng ngày, bệnh nhân quay trở lại bệnh viện để chăm con, và nghỉ tối tại <ENAMEX TYPE="LOCATION">nhà chờ tầng 3 Khoa Hồi sức tích cực – chống độc, Bệnh viện Đà Nẵng</ENAMEX>.
+	- Ngày 27/7/2020: Bệnh nhân được xét nghiệm SARS – CoV – 2 và có kết quả (+) ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">28/7/2020</ENAMEX></ENAMEX></ENAMEX>.
+1. Ngày 27/7/2020, Bệnh viện Đà Nẵng lấy mẫu xét nghiệm gửi Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE">28/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

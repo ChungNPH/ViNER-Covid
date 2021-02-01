@@ -1,0 +1,11 @@
+Tên: <ENAMEX TYPE="PERSON">BN 965</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">Tổ 4, thôn Giáng Đông, xã Hòa Châu, huyện Hòa Vang, TP Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">tổ 4 thôn Giáng Đông, xã Hòa Châu</ENAMEX></ENAMEX>.
+- Từ ngày 26/7 đến 01/8/2020, bệnh nhân chỉ tiếp xúc với đồng nghiệp, bệnh nhân và người nhà bệnh nhân, không về lại nơi cư trú. Khi Bệnh viện Đà Nẵng được phong tỏa, bệnh nhân tự cách ly tại Khoa, ở cùng phòng với <ENAMEX TYPE="CONTACT_PERSON">điều dưỡng ct578</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">điều dưỡng ct579</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">02/8/2020</ENAMEX></ENAMEX></ENAMEX>, tại <ENAMEX TYPE="LOCATION">Bệnh viện Đà Nẵng</ENAMEX>, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 1) và có kết quả (-) với vi rút SARS-CoV-2 Sau đó bệnh nhân được chuyển cách ly tại <ENAMEX TYPE="LOCATION">khu cách ly tập trung dành cho nhân viên y tế</ENAMEX>, tại đây, bệnh nhân ở cùng phòng với <ENAMEX TYPE="CONTACT_PERSON">bác sĩ ct580 và điều dưỡng ct579</ENAMEX>.
+- Từ ngày 03/8 đến 06/8/2020, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">phòng tại khu cách ly</ENAMEX>.
+- Ngày 12/8, 13/8 và 14/8/2020, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">phòng thuộc khu cách ly tập trung dành cho nhân viên y tế</ENAMEX>.
+- Ngày 15/8/2020, bệnh nhân được lấy mẫu xét nghiệm dịch hầu họng (lần 3), ngày <ENAMEX TYPE="POSITIVE_DATE">16/8/2020</ENAMEX> bệnh nhân có kết quả (+) với vi rút SARS-CoV-2.
+- Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Bệnh viện Phổi Đà Nẵng</ENAMEX>.
+Năm sinh: <ENAMEX TYPE="AGE">1985</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nữ</ENAMEX>

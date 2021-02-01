@@ -1,0 +1,9 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 441</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>. 
+- Sinh năm: <ENAMEX TYPE="AGE">1978</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc14 xã Ba Tô, thôn Làng Mạ, huyện Ba Tơ, tỉnh Quảng Ngãi</ENAMEX>
+- Bệnh nhân là người nhà đang chăm sóc <ENAMEX TYPE="CONTACT_PERSON">ca bệnh Nguyễn Ngọc Loan</ENAMEX> đang điều trị tại <ENAMEX TYPE="LOCATION">khoa Hồi sức tích cực - Chống độc, bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày <ENAMEX TYPE="CONTACT_DATE"><ENAMEX TYPE="HOSPITALIZE_DATE">24/7/2020</ENAMEX></ENAMEX>, bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">con là ct2</ENAMEX> đến khám và nhập viện tại <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>, sau đó được chuyển đến <ENAMEX TYPE="LOCATION">khoa Hồi sức tích cực - Chống độc</ENAMEX>.
+- Từ lúc vào Đà Nẵng đến nay, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">bệnh viện Đà Nẵng</ENAMEX>, không đi ra ngoài cũng như không về quê.
+	- Ngày <ENAMEX TYPE="POSITIVE_DATE"><ENAMEX TYPE="ISOLATION_DATE">27/7/2020</ENAMEX></ENAMEX> bệnh nhân được xét nghiệm dịch hầu họng và cho kết quả  (+) với vi rút SARS-CoV-2, sau đó bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly của bệnh viện Phổi Đà Nẵng</ENAMEX>.
+- Trong vòng 14 ngày trước khi vào Đà Nẵng, bệnh nhân ở <ENAMEX TYPE="LOCATION">nhà tại địa chỉ loc14 xã Ba Tô, thôn Làng Mạ, huyện Ba Tơ, tỉnh Quảng Ngãi</ENAMEX>.
+1. Ngày 27/7/2020, Bệnh viện Đà Nẵng đã thực hiện lấy mẫu gửi đến Trung tâm Kiểm soát bệnh tật thành phố Đà Nẵng. Kết quả xét nghiệm ngày <ENAMEX TYPE="POSITIVE_DATE">28/7/2020</ENAMEX> của Trung tâm Kiểm soát bệnh tật thành phố bằng phương pháp Real time RT-PCR cho thấy (+) với vi rút SARS-CoV-2. Trung tâm đã lập tức báo cáo Sở Y tế thành phố Đà Nẵng.

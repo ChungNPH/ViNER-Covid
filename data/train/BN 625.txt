@@ -1,0 +1,12 @@
+    • Họ tên: <ENAMEX TYPE="PERSON">BN 625</ENAMEX> (vợ BN 547)		
+    • Năm sinh: <ENAMEX TYPE="AGE">1969</ENAMEX>                  	- Giới tính: <ENAMEX TYPE="SEX">Nữ</ENAMEX>
+    • Nơi lưu trú tại Quảng Nam: <ENAMEX TYPE="ADDRESS">khối Thịnh Mỹ - phường Cẩm An - TP Hội An</ENAMEX>
+- <ENAMEX TYPE="CONTACT_DATE">Đầu tháng 7/2020</ENAMEX>: Trường hợp được <ENAMEX TYPE="CONTACT_PERSON">người em dâu (bà L.T.N)</ENAMEX> đưa ra thăm <ENAMEX TYPE="CONTACT_PERSON">mẹ chồng</ENAMEX> tại <ENAMEX TYPE="LOCATION">phòng 607 khoa Nội - Thận - Nội tiết, Bệnh viện Đa khoa Đà Nẵng</ENAMEX> sau đó được <ENAMEX TYPE="CONTACT_PERSON">em dâu</ENAMEX> đưa về nhà bằng xe máy;
+- Ngày 22/7/2020: đi <ENAMEX TYPE="LOCATION">chợ Cửa Đại (chợ Cẩm An cũ)</ENAMEX> từ 6h30-7h, ghé hàng cá, hàng rau; 
+- <ENAMEX TYPE="CONTACT_DATE">Chiều 22/7/2020</ENAMEX>: có đến <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">cô M (ven sông)</ENAMEX></ENAMEX>, <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">anh H</ENAMEX></ENAMEX>, <ENAMEX TYPE="LOCATION">nhà <ENAMEX TYPE="CONTACT_PERSON">vợ chồng chú G, cô N</ENAMEX></ENAMEX>; 
+- <ENAMEX TYPE="CONTACT_DATE">Ngày 23-25/7/2020</ENAMEX>: ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> chăm sóc <ENAMEX TYPE="CONTACT_PERSON">mẹ chồng</ENAMEX>;
+- <ENAMEX TYPE="CONTACT_DATE">Từ 26/7- 28/7/2020</ENAMEX>: ở <ENAMEX TYPE="LOCATION">nhà</ENAMEX> lo đám tang, trong đó bệnh nhân có tiếp xúc <ENAMEX TYPE="CONTACT_PERSON">ông C (Tân Hiệp)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ông C (Cẩm Thanh-52 tuổi)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">ông C (nhỏ) (Cẩm Thanh)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">bà T</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">cô N (trước nhà)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">vợ chồng ông Đ (Cửa Đại)</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">vợ chồng bà Y (Bình Tú-Thăng Bình)</ENAMEX>, mua đồ ở tạp hóa <ENAMEX TYPE="CONTACT_PERSON">cô Đ</ENAMEX>, <ENAMEX TYPE="CONTACT_PERSON">cô P (đối diện trường TH Cẩm An 1)</ENAMEX>, tạp hóa <ENAMEX TYPE="CONTACT_PERSON">cô H (Cẩm Châu)</ENAMEX>
+- Ngày 29/7/2020: đi <ENAMEX TYPE="LOCATION">chợ Cẩm Châu (chợ Bà Lê)</ENAMEX>
+- Ngày 30/7/2020: đi <ENAMEX TYPE="LOCATION">chợ Cẩm Châu</ENAMEX>, sau đó có ghé <ENAMEX TYPE="LOCATION">quầy thuốc bên tay phải chợ</ENAMEX> (có đeo khẩu trang).
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">31/7/2020</ENAMEX></ENAMEX>: bệnh nhân được đưa đi cách ly tại <ENAMEX TYPE="LOCATION">trường Thủy Lợi</ENAMEX>.
+(Chiều nay, sẽ chuyển <ENAMEX TYPE="LOCATION">BV Đa khoa Trung ương Quảng Nam</ENAMEX> để điều trị)

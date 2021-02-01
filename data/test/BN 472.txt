@@ -1,0 +1,6 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 472</ENAMEX>   . Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>
+- Sinh năm: <ENAMEX TYPE="AGE">1969</ENAMEX>
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">P. Cẩm Nam, thành phố Hội An, tỉnh Quảng Nam</ENAMEX>.
+- Trong thời gian từ <ENAMEX TYPE="CONTACT_DATE">09/7 đến 27/7/2020</ENAMEX>, bệnh nhân có ra thay 02 anh em là <ENAMEX TYPE="CONTACT_PERSON">ct97</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">ct98</ENAMEX> chăm sóc <ENAMEX TYPE="CONTACT_PERSON">bố ct99 (BN số 428)</ENAMEX> tại <ENAMEX TYPE="LOCATION">Khoa Nội thận – Nội tiết, Bệnh viện Đà Nẵng</ENAMEX> (03 lần), lần cuối ra là <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">25/7/2020</ENAMEX></ENAMEX> rồi sau đó được Bệnh viện Đà Nẵng cách ly luôn.
+- Ngày <ENAMEX TYPE="POSITIVE_DATE">30/7/2020</ENAMEX>: Bệnh nhân được thông báo kết quả (+) với vi rút SARS-CoV-2 và được đưa vào <ENAMEX TYPE="LOCATION">khu cách ly và điều trị tại Bệnh viện Đà Nẵng</ENAMEX>.
+- Ngày 31/7/2020: Bệnh nhân được chuyển đến <ENAMEX TYPE="LOCATION">khu cách ly và điều trị tại Bệnh viện Phổi Đà Nẵng</ENAMEX> đến nay.

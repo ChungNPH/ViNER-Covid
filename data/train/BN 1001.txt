@@ -1,0 +1,19 @@
+Tên: <ENAMEX TYPE="PERSON">BN 1001</ENAMEX>
+Địa chỉ: <ENAMEX TYPE="ADDRESS">loc204, phường Hòa Phát, quận Cẩm Lệ, TP Đà Nẵng</ENAMEX>
+- Bệnh nhân sống cùng <ENAMEX TYPE="CONTACT_PERSON">gia đình tại <ENAMEX TYPE="LOCATION">loc204</ENAMEX></ENAMEX>.
+- Từ ngày <ENAMEX TYPE="CONTACT_DATE">01/8</ENAMEX> đến 10/8/2020, bệnh nhân chỉ ở nhà, tiếp xúc với <ENAMEX TYPE="CONTACT_PERSON">những người trong gia đình</ENAMEX>, không đi đến nơi khác.
+- Khoảng 15 giờ ngày 11/8/2020, bệnh nhân đến mua hàng tại <ENAMEX TYPE="LOCATION">cửa hàng Vinmart trên đường Lê Trọng Tấn</ENAMEX> (không nhớ rõ địa chỉ), tiếp xúc với 01 nhân viên thu ngân và khoảng 2 - 3 khách hàng sau đó trở về nhà.
+- Tối ngày <ENAMEX TYPE="CONTACT_PERSON">12/8/2020</ENAMEX>: <ENAMEX TYPE="CONTACT_PERSON">dì bệnh nhân</ENAMEX> (là Bệnh nhân số 953 được Bộ Y tế công bố ngày 16/8/2020) đến nhà chơi và tiếp xúc với bệnh nhân. 
+- Khoảng 11 giờ ngày <ENAMEX TYPE="CONTACT_DATE">13/8/2020</ENAMEX>, bệnh nhân mang đồ ăn đến cho <ENAMEX TYPE="CONTACT_PERSON">em trai là ct237</ENAMEX> sau đó trở về nhà.
+- Khoảng 17 giờ 30 ngày <ENAMEX TYPE="CONTACT_DATE">13/8/2020</ENAMEX>, khi mang đồ ăn đến cho <ENAMEX TYPE="CONTACT_PERSON">em trai là ct238</ENAMEX>, tại đây bệnh nhân tiếp xúc với bạn của em ct239 đến chơi là <ENAMEX TYPE="CONTACT_PERSON">ct240</ENAMEX> sau đó trở về nhà.
+- Khoảng 11 giờ ngày <ENAMEX TYPE="CONTACT_DATE">14/8/2020</ENAMEX>, bệnh nhân mang đồ ăn đến cho <ENAMEX TYPE="CONTACT_PERSON">em trai là ct238</ENAMEX> sau đó trở về nhà.
+- Khoảng 15 giờ ngày 14/8/2020, tại <ENAMEX TYPE="LOCATION">khu dân cư số 9, phường Hòa Phát, quận Cẩm Lệ</ENAMEX>, bệnh nhân cùng những người trong gia đình được lấy mẫu dịch hầu họng (lần 1, lấy mẫu cộng đồng) và có kết quả xét nghiệm (-) với vi rút SARS-CoV-2. 
+- Khoảng 16 giờ 30 ngày 14/8/2020, bệnh nhân đến mua hàng tại <ENAMEX TYPE="LOCATION">cửa hàng Vinmart trên đường Lê Trọng Tấn (không nhớ rõ địa chỉ)</ENAMEX>, tiếp xúc với 02 nhân viên và khoảng 6 - 7 khách hàng. Sau đó, bệnh nhân đến mua bánh mỳ tại <ENAMEX TYPE="LOCATION">tiệm bánh Đồng Thuận trên đường Lê Đình Tứ</ENAMEX> (không nhớ rõ địa chỉ), tiếp xúc với 01 nhân viên và trở về nhà.
+- Khoảng 17 giờ 30 ngày <ENAMEX TYPE="CONTACT_DATE">14/8/2020</ENAMEX>, khi mang đồ ăn đến cho <ENAMEX TYPE="CONTACT_PERSON">em là ct238</ENAMEX>, tại đây bệnh nhân tiếp xúc với bạn của em ct239 đến chơi là <ENAMEX TYPE="CONTACT_PERSON">ct240</ENAMEX> sau đó trở về nhà.
+- Khoảng 11 giờ và 17 giờ 30, ngày <ENAMEX TYPE="CONTACT_DATE">15/8/2020</ENAMEX>, bệnh nhân mang đồ ăn đến cho <ENAMEX TYPE="CONTACT_PERSON">em là ct238</ENAMEX> sau đó trở về nhà.
+- Ngày <ENAMEX TYPE="HOSPITALIZE_DATE"><ENAMEX TYPE="ISOLATION_DATE">16/8/2020</ENAMEX></ENAMEX>, khi Bệnh nhân số 953 có kết quả xét nghiệm (+) với vi rút SARS-CoV-2, bệnh nhân được đưa đến cách ly tại <ENAMEX TYPE="LOCATION">Khu nhà ở công nhân thuộc khu Công nghiệp Hòa Cầm, quận Cẩm Lệ</ENAMEX>. 
+- Ngày 18/8/2020, bệnh nhân chỉ ở trong <ENAMEX TYPE="LOCATION">phòng thuộc khu cách ly tại Khu nhà ở công nhân - khu Công nghiệp Hòa Cầm, quận Cẩm Lệ</ENAMEX>.
+- Ngày <ENAMEX TYPE="POSITIVE_DATE">20/8/2020</ENAMEX>, bệnh nhân có kết quả xét nghiệm (+) với vi rút SARS-CoV-2.
+- Hiện tại, bệnh nhân được cách ly và điều trị tại <ENAMEX TYPE="LOCATION">Trung tâm Y tế Hòa Vang</ENAMEX>
+Năm sinh: <ENAMEX TYPE="AGE">1996</ENAMEX>
+Gender: <ENAMEX TYPE="SEX">Nam</ENAMEX>

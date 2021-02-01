@@ -1,0 +1,11 @@
+- Họ và tên: <ENAMEX TYPE="PERSON">BN 619</ENAMEX>. Giới tính: <ENAMEX TYPE="SEX">Nam</ENAMEX>.
+- Sinh năm: <ENAMEX TYPE="AGE">1994</ENAMEX>.
+- Địa chỉ: <ENAMEX TYPE="ADDRESS">loc171, phường Hòa Khê, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX>.
+- Hiện tại, bệnh nhân đang sống cùng với <ENAMEX TYPE="CONTACT_PERSON">cha mẹ</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">em trai tại <ENAMEX TYPE="LOCATION">địa chỉ loc172, phường Hòa Khê, quận Thanh Khê, thành phố Đà Nẵng</ENAMEX></ENAMEX>.
+- Bệnh nhân đang làm việc tại <ENAMEX TYPE="LOCATION">văn phòng đại diện công ty TNHH thiết bị y tế IMED – 167 Phan Châu Trinh, phường Phước Ninh, quận Hải Châu, TP Đà Nẵng</ENAMEX>.
+- Từ ngày 30/6/2020 đến 25/7/2020 bệnh nhân điều trị ngoại trú tại <ENAMEX TYPE="LOCATION">khoa Y học cổ truyền, bệnh viện Đà Nẵng</ENAMEX>. (Thời gian này bệnh nhân nghỉ làm ở công ty).
+- Trưa ngày <ENAMEX TYPE="CONTACT_DATE">20/7/2020</ENAMEX> bệnh nhân có đi ăn với 02 đồng nghiệp (<ENAMEX TYPE="CONTACT_PERSON">ct155</ENAMEX> và <ENAMEX TYPE="CONTACT_PERSON">ct156</ENAMEX>).
+- Tối ngày <ENAMEX TYPE="CONTACT_DATE">22/7/2020</ENAMEX> bệnh nhân được <ENAMEX TYPE="CONTACT_PERSON">bạn gái (ct157)</ENAMEX> chở đi khám tại <ENAMEX TYPE="LOCATION">phòng khám Tai Mũi Họng - <ENAMEX TYPE="CONTACT_PERSON">Bác sỹ Huỳnh Anh, đường Hải Phòng, phường Thạch Thang, quận Hải Châu, TP Đà Nẵng</ENAMEX></ENAMEX>.
+- 18h00 ngày <ENAMEX TYPE="CONTACT_DATE">27/7/2020</ENAMEX> bệnh nhân cùng <ENAMEX TYPE="CONTACT_PERSON">mẹ</ENAMEX> đi mua thuốc tại <ENAMEX TYPE="LOCATION">nhà thuốc Huy Hoàng số 62 Trần Cao Vân, phường Tam Thuận, quận Thanh Khê, TP Đà Nẵng</ENAMEX>.
+- Ngày 30/7/2020 bệnh nhân đến <ENAMEX TYPE="LOCATION">Trung tâm y tế quận Thanh Khê</ENAMEX>, khai báo y tế và được lấy mẫu xét nghiệm dịch hầu họng và ngày <ENAMEX TYPE="POSITIVE_DATE">01/8/2020</ENAMEX> cho kết quả (+) với vi rút SARS-CoV-2. Ngày <ENAMEX TYPE="HOSPITALIZE_DATE">02/8/2020</ENAMEX> bệnh nhân được chuyển đến điều trị, cách ly tại <ENAMEX TYPE="LOCATION">bệnh viện Phổi</ENAMEX>.
+- Từ ngày <ENAMEX TYPE="ISOLATION_DATE">30/7/2020</ENAMEX> đến nay bệnh nhân tự cách ly tại nhà, không tiếp xúc với ai.
