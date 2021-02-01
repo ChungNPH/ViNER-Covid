@@ -93,4 +93,6 @@
   </tr>
 </table>
 
+# License
+
 The annotations are free to use and released under the [MIT license](LICENSE).
