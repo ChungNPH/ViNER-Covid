@@ -1,4 +1,4 @@
-# Vietnamese-Covid-19-Dataset
+# ViNER-Covid
 
  COVID-19 dataset with named entity recognition (NER) task for Vietnamese
  
